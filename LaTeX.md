@@ -4,11 +4,6 @@ $$\pi{\sum_{i=0}^n{\frac{a_{i}}{(n!)^2}}}$$
 $$
 \frac{a}{b} 
 $$
-`//`→`\frac{}{}``
-X/`→`\frac{X}{}
-
-
-
 ## Replacements
 
 ```
@@ -28,6 +23,7 @@ X/`→`\frac{X}{}
 		{trigger: "variint", replacement: "\\iint\\limits_$0 d$0", options: "mA"},
 		{trigger: "infsum", replacement: "\\sum_{n=1}^{\\infty}", options: "mA"},
 		{trigger: "nsum", replacement: "\\sum_{n=1}^{n}$0", options: "mA"},
+		{trigger: "*", replacement: "\\cdot", options: "mA"},
 
 
     // Insert space after greek letters and symbols, etc

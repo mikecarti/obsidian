@@ -12,27 +12,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c690af180edfd67f",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
-              {
-                "id": "0089fd1a726762cd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Deep Neural Network.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "f6207799a124c1b6",
                 "type": "leaf",
                 "state": {
@@ -44,8 +23,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "f1acc288841b4e6e",
@@ -57,7 +35,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Deep Neural Network.md",
+                    "file": "Neural Network.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -152,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Neural Network.md",
+                "file": "Vector Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Neural Network.md",
+                "file": "Vector Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Neural Network.md"
+                "file": "Vector Databases.md"
               }
             }
           },
@@ -223,13 +201,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "03bff7bbf16f23ac",
+  "active": "f6207799a124c1b6",
   "lastOpenFiles": [
+    "Classic Deep Neural Network.md",
+    "Neural Network.md",
+    "Vector Databases.md",
+    "Linux commands.md",
     "Obsidian Shortcuts.md",
-    "Deep Neural Network.md",
+    "LaTeX Training.md",
+    "LaTeX.md",
     "Untitled.md",
     "Obsidian.md",
-    "Vector Databases.md",
     "Machine Learning/Machine Learning.md",
     "d.md",
     "Distance Metrics.md",
@@ -237,9 +219,7 @@
     "K Nearest Neighbours.md",
     "statistical.md",
     "Untitled 1.md",
-    "LaTeX.md",
     "photos/Pasted image 20230726131943.png",
-    "LaTeX Training.md",
     "(BAFE) Business Analytics and Fin. Engineering/Business Analytics & Financial Engineering.md",
     "Databases/Databases.md",
     "Untitled",
@@ -257,8 +237,6 @@
     "General Adversarial Network.md",
     "RELU.md",
     "API.md",
-    "Git commands.md",
-    "Linux commands.md",
     "photos/Pasted image 20230811125555.png",
     "photos/Pasted image 20230811122542.png",
     "photos/Pasted image 20230811115858.png",
