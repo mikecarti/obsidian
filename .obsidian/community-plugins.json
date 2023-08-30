@@ -2,5 +2,9 @@
   "find-unlinked-files",
   "obsidian-plugin-toc",
   "obsidian-latex-suite",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "obsidian-hover-editor",
+  "omnisearch",
+  "execute-code"
 ]

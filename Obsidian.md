@@ -1,1 +1,1 @@
-# [[Obsidian Shortcuts]]
+## [[Obsidian Shortcuts]]
