@@ -1,0 +1,1 @@
+Vector databases use different [[Distance Metrics|distance metrics]] for searching [[Embeddings]] 

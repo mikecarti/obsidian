@@ -1,0 +1,1 @@
+Econometrics is a branch of [[Economics]] that combines [[Statistics | statistical]] methods, economic theory, and mathematical modeling to analyze economic data.
