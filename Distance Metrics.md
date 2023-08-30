@@ -8,6 +8,7 @@ $A, B - \text{are vectors}$
 $A_{i}, B_{i} - \text{vector elements}$
 
 	### Euclidian
+	
 ![[Pasted image 20230726131943.png]]
 $$
 \text{distance} = \sqrt{ (x_{2}-x_{1})^2+(y_{2}-y_{1})^2  }
