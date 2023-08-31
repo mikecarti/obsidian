@@ -13,28 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supervised Learning.md",
-                "mode": "source",
+                "file": "XGBoost.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1d45dd582a8ef49a",
+        "type": "tabs",
+        "children": [
           {
-            "id": "97e1338a8cc9800c",
+            "id": "62400388257ffb97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX Training.md",
+                "file": "Obsidian Shortcuts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX Training.md",
+                "file": "XGBoost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX Training.md",
+                "file": "XGBoost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX Training.md"
+                "file": "XGBoost.md"
               }
             }
           },
@@ -171,36 +176,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "97e1338a8cc9800c",
+  "active": "03c7a777f2e0fce2",
   "lastOpenFiles": [
+    "Supervised Learning.md",
+    "Attention Mechanism.md",
+    "Obsidian Shortcuts.md",
+    "Obsidian.md",
     "LaTeX.md",
+    "LaTeX Training.md",
+    "Approximate Nearest Neighbor.md",
+    "API.md",
+    "Activation  functions.md",
     "Neural Network.md",
     "Classic Deep Neural Network.md",
     "XGBoost.md",
-    "Supervised Learning.md",
     "Untitled 1.canvas",
     "Linear Regression.md",
     "Clusters.md",
     "Image Generation with AI.md",
-    "Obsidian Shortcuts.md",
     "Bias.md",
-    "API.md",
     "FastAPI.md",
-    "Activation  functions.md",
     "Vector Databases.md",
     "Linux commands.md",
-    "LaTeX Training.md",
     "Untitled.md",
-    "Obsidian.md",
     "Machine Learning/Machine Learning.md",
     "d.md",
     "Distance Metrics.md",
-    "Approximate Nearest Neighbor.md",
     "K Nearest Neighbours.md",
     "statistical.md",
     "Untitled 1.md",
     "photos/Pasted image 20230726131943.png",
-    "(BAFE) Business Analytics and Fin. Engineering/Business Analytics & Financial Engineering.md",
     "Untitled",
     "Databases",
     "Machine Learning",
