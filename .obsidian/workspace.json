@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XGBoost.md",
+                "file": "Diffusion Model.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49674e4900b744fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diffusion Model.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d252c2d2393f95a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XGBoost.md",
+                "file": "Diffusion Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XGBoost.md",
+                "file": "Diffusion Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XGBoost.md"
+                "file": "Diffusion Model.md"
               }
             }
           },
@@ -157,18 +185,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0808e3cca7f689eb",
+  "active": "49674e4900b744fc",
   "lastOpenFiles": [
+    "Pasted image 20230831230505.png",
+    "Latent Variable.md",
+    "Diffusion Model.md",
+    "LaTeX.md",
+    "LaTeX Training.md",
+    "Pasted image 20230831224711.png",
+    "XGBoost.md",
     "diary",
     "Pasted image 20230831125924.png",
-    "XGBoost.md",
     "Pasted image 20230831125924.png{width=200%}.md",
     "Obsidian Shortcuts.md",
     "Supervised Learning.md",
     "Attention Mechanism.md",
     "Obsidian.md",
-    "LaTeX.md",
-    "LaTeX Training.md",
     "Approximate Nearest Neighbor.md",
     "API.md",
     "Activation  functions.md",
@@ -185,8 +217,6 @@
     "Untitled.md",
     "Machine Learning/Machine Learning.md",
     "d.md",
-    "Distance Metrics.md",
-    "K Nearest Neighbours.md",
     "photos/Pasted image 20230726131943.png",
     "Databases",
     "Machine Learning",
@@ -201,7 +231,6 @@
     "photos/Pasted image 20230726132346.png",
     "photos/Pasted image 20230725123553.png",
     "photos/Pasted image 20230723235028.png",
-    "Pasted image 20230725165435.png",
     "photos"
   ]
 }

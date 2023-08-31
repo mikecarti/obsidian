@@ -24,6 +24,7 @@ $$
 		{trigger: "infsum", replacement: "\\sum_{n=1}^{\\infty}", options: "mA"},
 		{trigger: "nsum", replacement: "\\sum_{n=1}^{n}$0", options: "mA"},
 		{trigger: "*", replacement: "\\cdot", options: "mA"},
+		{trigger: "\n", replacement: "\\cdot", options: "mA"},
 
 
     // Insert space after greek letters and symbols, etc

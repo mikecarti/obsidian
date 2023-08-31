@@ -1,16 +1,15 @@
 mjx-math[display="true"] {
-    
-}
-
-/* reading mode */
-.markdown-preview-view {
-  font-family: 'CMU Serif Bold' !important;
-}
-
-/* source view and live preview */
-.markdown-source-view.mod-cm6 .cm-scroller {
-    font-family: 'CMU Serif Bold' !important; 
     font-size: 200% !important; 
+}
+
+img {
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+}
+    
+.markdown-source-view.mod-cm6 .cm-content > * {
+        margin: auto auto !important;
 }
 
 /*.math-block > mjx-container[jax="CHTML"]  {
