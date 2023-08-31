@@ -1,4 +1,4 @@
-
+  
 Ctrl W – Close current tab
 Ctrl P – Open command pallette
 Ctrl N – Create new note
