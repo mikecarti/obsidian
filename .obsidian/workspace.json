@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e08ef5ed751c1bbb",
+        "id": "61d000fd8ecda7a0",
         "type": "tabs",
         "children": [
           {
-            "id": "ca1e4f7464de0420",
+            "id": "f3682fd893404b24",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Attention Mechanism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attention Mechanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Attention Mechanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Attention Mechanism.md"
+              }
             }
           },
           {
@@ -149,8 +158,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca1e4f7464de0420",
+  "active": "f3682fd893404b24",
   "lastOpenFiles": [
+    "Word embeddings.md",
     "Fin. Engineering/Stock Market.md",
     "Hse 3rd Year Structure.md",
     "Model Training.md",
@@ -184,7 +194,6 @@
     "Classic Deep Neural Network.md",
     "Untitled 1.canvas",
     "Linear Regression.md",
-    "Clusters.md",
     "photos/Pasted image 20230726131943.png",
     "Databases",
     "Machine Learning",
