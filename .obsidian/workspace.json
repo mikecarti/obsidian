@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "XGBoost.md",
+                "file": "Diffusion Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#tree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "XGBoost.md",
+                "file": "Diffusion Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "XGBoost.md",
+                "file": "Diffusion Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "XGBoost.md"
+                "file": "Diffusion Model.md"
               }
             }
           },
@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +158,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8bdf61c85e303884",
+  "active": "8104f3d48534c6b7",
   "lastOpenFiles": [
-    "Pasted image 20230831125924.png{width=200%}.md",
+    "Markov chain.md",
+    "Pasted image 20230901013513.png",
     "Diffusion Model.md",
+    "XGBoost.md",
+    "Pasted image 20230831125924.png{width=200%}.md",
     "Embeddings.md",
     "clusterise.md",
     "Latent Space.md",
@@ -173,7 +175,6 @@
     "Latent Variable.md",
     "LaTeX Training.md",
     "Pasted image 20230831224711.png",
-    "XGBoost.md",
     "diary",
     "Pasted image 20230831125924.png",
     "Supervised Learning.md",
@@ -190,8 +191,6 @@
     "Image Generation with AI.md",
     "Bias.md",
     "FastAPI.md",
-    "Vector Databases.md",
-    "Linux commands.md",
     "photos/Pasted image 20230726131943.png",
     "Databases",
     "Machine Learning",
@@ -204,7 +203,6 @@
     "Untitled.canvas",
     "photos/Pasted image 20230726132433.png",
     "photos/Pasted image 20230726132346.png",
-    "photos/Pasted image 20230725123553.png",
     "photos"
   ]
 }
