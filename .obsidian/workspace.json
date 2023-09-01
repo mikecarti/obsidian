@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention Mechanism.md",
+                "file": "diary/2023-09-01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attention Mechanism.md",
+                "file": "diary/2023-09-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attention Mechanism.md",
+                "file": "diary/2023-09-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attention Mechanism.md"
+                "file": "diary/2023-09-01.md"
               }
             }
           },
@@ -138,8 +137,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "4acf21e22e8b4603",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -158,8 +166,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f3682fd893404b24",
+  "active": "4acf21e22e8b4603",
   "lastOpenFiles": [
+    "diary/2023-09-01.md",
+    "diary.md",
+    "Untitled.canvas",
+    "Attention Mechanism.md",
     "Word embeddings.md",
     "Fin. Engineering/Stock Market.md",
     "Hse 3rd Year Structure.md",
@@ -185,15 +197,12 @@
     "diary",
     "Pasted image 20230831125924.png",
     "Supervised Learning.md",
-    "Attention Mechanism.md",
     "Obsidian.md",
     "Approximate Nearest Neighbor.md",
     "API.md",
     "Activation  functions.md",
     "Neural Network.md",
-    "Classic Deep Neural Network.md",
     "Untitled 1.canvas",
-    "Linear Regression.md",
     "photos/Pasted image 20230726131943.png",
     "Databases",
     "Machine Learning",
@@ -203,7 +212,6 @@
     "photos/Pasted image 20230811125555.png",
     "photos/Pasted image 20230811122542.png",
     "photos/Pasted image 20230811115858.png",
-    "Untitled.canvas",
     "photos/Pasted image 20230726132433.png",
     "photos"
   ]
