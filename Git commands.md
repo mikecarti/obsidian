@@ -35,4 +35,6 @@ git push origin --delete branch_name
 #add #remote #url:
 
 #revert #commit #back:
-git reset --hard HEAD~1
+git reset --hard <commit_hash> # reset to some commit
+git commit -am "reset"
+git push --force
