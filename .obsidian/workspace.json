@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diffusion Model.md",
+                "file": "Fin. Engineering/Financial Engineering.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7391b80212933429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hse 3rd Year Structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tree",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,13 +80,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -88,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diffusion Model.md",
+                "file": "Hse 3rd Year Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diffusion Model.md",
+                "file": "Hse 3rd Year Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diffusion Model.md"
+                "file": "Hse 3rd Year Structure.md"
               }
             }
           },
@@ -144,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,11 +171,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8104f3d48534c6b7",
+  "active": "7391b80212933429",
   "lastOpenFiles": [
+    "Pasted image 20230901111737.png",
+    "Fin. Engineering/Financial Engineering.md",
+    "Hse 3rd Year Structure.md",
+    "Diffusion Model.md",
+    "Fin. Engineering",
     "Markov chain.md",
     "Pasted image 20230901013513.png",
-    "Diffusion Model.md",
     "XGBoost.md",
     "Pasted image 20230831125924.png{width=200%}.md",
     "Embeddings.md",
@@ -189,8 +206,6 @@
     "Linear Regression.md",
     "Clusters.md",
     "Image Generation with AI.md",
-    "Bias.md",
-    "FastAPI.md",
     "photos/Pasted image 20230726131943.png",
     "Databases",
     "Machine Learning",

@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:\"Fin. Engineering\"",
+      "color": {
+        "a": 1,
+        "rgb": 4551533
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10.8041481481481,
   "linkStrength": 0.908482301830354,
   "linkDistance": 170,
-  "scale": 0.9243364795595542,
-  "close": false
+  "scale": 0.6059010404263677,
+  "close": true
 }
