@@ -34,3 +34,5 @@ git push origin --delete branch_name
 
 #add #remote #url:
 
+#revert #commit #back:
+git reset --hard HEAD~1
