@@ -5,10 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"(TSSP) Time Series and Stochastics\"",
+      "query": "path:\"Stochastic Processes\"",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -61,5 +61,5 @@
   "linkStrength": 0.908482301830354,
   "linkDistance": 170,
   "scale": 0.7570574017248,
-  "close": true
+  "close": false
 }
