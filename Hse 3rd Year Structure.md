@@ -17,7 +17,7 @@ Lecturer Email: avasriev@hse.ru
 # Stochastic Processes and Time Series
 ![[Pasted image 20230902094635.png]]
 #### Challenges: 
-1) Don't read study guide before April 4.
+1) Don't read study guide before April 4. Courses differ a lot.
 
 plukyachenko@hse.ru - Petr Lukiachenko
 bdemeshev@hse.ru - Boris Demeshev
