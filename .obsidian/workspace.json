@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hse 3rd Year Structure.md",
+                "file": "Markov chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hse 3rd Year Structure.md",
+                "file": "Markov chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hse 3rd Year Structure.md"
+                "file": "Markov chain.md"
               }
             }
           },
@@ -200,13 +200,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "85329de9e1f91c80",
+  "active": "f3682fd893404b24",
   "lastOpenFiles": [
-    "Markov chain.md",
-    "Pasted image 20230902103722.png",
-    "Hse 3rd Year Structure.md",
-    "Affine Transformation.md",
     "Stochastic Processes/Student distribution.md",
+    "Markov chain.md",
+    "Pasted image 20230902104541.png",
+    "Pasted image 20230902104514.png",
+    "Hse 3rd Year Structure.md",
+    "Pasted image 20230902103722.png",
+    "Affine Transformation.md",
     "Stochastic Processes/MGF.md",
     "Pasted image 20230902100100.png",
     "Pasted image 20230902094635.png",
@@ -240,13 +242,11 @@
     "diary",
     "Pasted image 20230831125924.png",
     "Untitled 1.canvas",
-    "photos/Pasted image 20230726131943.png",
     "Databases",
     "Machine Learning",
     "(BAFE) Business Analytics and Fin. Engineering",
     "Stochastic Processes",
     "Econometrics",
-    "photos/Pasted image 20230811125555.png",
     "photos"
   ]
 }
