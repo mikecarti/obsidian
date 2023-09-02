@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Affine Transformation.md",
+                "file": "Stochastic Processes/MGF.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Affine Transformation.md",
+                "file": "Stochastic Processes/MGF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Affine Transformation.md",
+                "file": "Stochastic Processes/MGF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Affine Transformation.md"
+                "file": "Stochastic Processes/MGF.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "85329de9e1f91c80",
   "lastOpenFiles": [
-    "Stochastic Processes/MGF.md",
     "Stochastic Processes/Markov chain.md",
+    "Stochastic Processes/MGF.md",
     "Hse 3rd Year Structure.md",
     "Fin. Engineering/Financial Engineering.md",
     "Fin. Engineering/Stock Market.md",
