@@ -4,38 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "61d000fd8ecda7a0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3682fd893404b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markov chain.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b33b2cd8a3bfd83e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes/Student distribution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "2f7fea3a23495072",
         "type": "tabs",
         "children": [
@@ -81,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HSE",
+                "query": "hse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -120,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markov chain.md",
+                "file": "Hse 3rd Year Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markov chain.md",
+                "file": "Hse 3rd Year Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markov chain.md"
+                "file": "Hse 3rd Year Structure.md"
               }
             }
           },
@@ -200,13 +167,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f3682fd893404b24",
+  "active": "85329de9e1f91c80",
   "lastOpenFiles": [
+    "Databases/Databases.md",
+    "Hse 3rd Year Structure.md",
+    "Stochastic Processes/Markov chain.md",
     "Stochastic Processes/Student distribution.md",
-    "Markov chain.md",
     "Pasted image 20230902104541.png",
     "Pasted image 20230902104514.png",
-    "Hse 3rd Year Structure.md",
     "Pasted image 20230902103722.png",
     "Affine Transformation.md",
     "Stochastic Processes/MGF.md",

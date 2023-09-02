@@ -22,3 +22,6 @@ Lecturer Email: avasriev@hse.ru
 plukyachenko@hse.ru - Petr Lukiachenko
 bdemeshev@hse.ru - Boris Demeshev
 
+
+# Databases
+накоп = 40% (HW) + 
