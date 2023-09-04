@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Loss Function.md",
+                "file": "Machine Learning/Loss Function.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multicollinearity.md",
+                "file": "Machine Learning/Multicollinearity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DImensionality.md",
+                "file": "Transformers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,7 +74,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DImensionality.md",
+                "file": "Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DImensionality.md",
+                "file": "Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DImensionality.md"
+                "file": "Transformers.md"
               }
             }
           },
@@ -202,22 +201,26 @@
   },
   "active": "929dd98f0d55a48f",
   "lastOpenFiles": [
-    "Model.md",
-    "DImensionality.md",
-    "Loss Function.md",
+    "photos/Pasted image 20230831230505.png",
+    "Machine Learning/Model.md",
+    "photos/Pasted image 20230904210409.png",
+    "photos/Pasted image 20230904210246.png",
+    "Stochastic Processes/Time Series.md",
+    "Machine Learning/DImensionality.md",
+    "Machine Learning/Loss Function.md",
     "Model Training.md",
     "Distributions.md",
     "Approximate Nearest Neighbor.md",
-    "K Nearest Neighbors (KNN).md",
-    "Linear Regression.md",
-    "Multicollinearity.md",
-    "Supervised Learning.md",
+    "Machine Learning/K Nearest Neighbors (KNN).md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Multicollinearity.md",
+    "Machine Learning/Supervised Learning.md",
     "Hse 3rd Year Structure.md",
-    "Pasted image 20230904163503.png",
+    "photos/Pasted image 20230904163503.png",
     "Stochastic Processes/Moment Generating Function.md",
-    "Pasted image 20230902100100.png",
+    "photos/Pasted image 20230902100100.png",
     "LaTeX Training.md",
-    "Pasted image 20230902100100.png.annotations.md",
+    "photos/Pasted image 20230902100100.png.annotations.md",
     "Untitled.md",
     "LaTeX.md",
     "Stochastic Processes/Moment Generating Function.md.annotations.md",
@@ -228,19 +231,15 @@
     "Fin. Engineering/Financial Engineering.md",
     "Fin. Engineering/Stock Market.md",
     "Stochastic Processes/Student distribution.md",
-    "Stochastic Processes/Time Series.md",
-    "Databases/Databases.md",
-    "Pasted image 20230902104541.png",
-    "Pasted image 20230902104514.png",
-    "Pasted image 20230902103722.png",
-    "Pasted image 20230902094635.png",
+    "photos/Pasted image 20230902104541.png",
+    "photos/Pasted image 20230902104514.png",
+    "photos/Pasted image 20230902103722.png",
+    "photos/Pasted image 20230902094635.png",
     "Time Series",
     "Untitled.canvas",
-    "Pasted image 20230901111737.png",
+    "photos/Pasted image 20230901111737.png",
     "Fin. Engineering",
-    "Pasted image 20230901013513.png",
-    "Pasted image 20230831230505.png",
-    "Pasted image 20230831224711.png",
+    "photos/Pasted image 20230901013513.png",
     "diary",
     "Untitled 1.canvas",
     "Databases",

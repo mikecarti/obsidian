@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -11,7 +11,7 @@
       "query": "path:\"Stochastic Processes\"",
       "color": {
         "a": 1,
-        "rgb": 7426784
+        "rgb": 3604735
       }
     },
     {
@@ -25,21 +25,21 @@
       "query": "path:Databases",
       "color": {
         "a": 1,
-        "rgb": 10018062
+        "rgb": 65322
       }
     },
     {
       "query": "path:Econometrics",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 65531
       }
     },
     {
       "query": "path:\"Machine Learning\"",
       "color": {
         "a": 1,
-        "rgb": 579987
+        "rgb": 14223368
       }
     },
     {
@@ -50,16 +50,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.589511111111111,
   "repelStrength": 10.8041481481481,
   "linkStrength": 0.908482301830354,
   "linkDistance": 170,
-  "scale": 0.6399627313140128,
+  "scale": 0.5576099370943532,
   "close": true
 }
