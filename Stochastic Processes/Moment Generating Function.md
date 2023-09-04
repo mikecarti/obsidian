@@ -7,7 +7,7 @@ M_{X(t)} = E(e^{tX}) =
 \end{cases}
 $$
 ### Definition
-For many [[distributions]], all the moments $E(X), E(X^2) \dots$ Can be encapsulated in a single function, which is called [[Moment Generating Function|moment generation function]]. It exists for many commonly used distributions and often provides 
+For many [[Distributions]], all the moments $E(X), E(X^2) \dots$ Can be encapsulated in a single function, which is called [[Moment Generating Function|moment generation function]]. It exists for many commonly used distributions and often provides 
 the most efficient way to calculate moments.
 
 

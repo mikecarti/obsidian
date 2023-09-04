@@ -1,0 +1,5 @@
+- Quantitative Response, $Y \in R$
+	- For example RSS, Absolute Error
+- Qualitative Response, $Y \in G$ of a finite set of target classes, G
+	- For example Zero-one loss
+	- 
