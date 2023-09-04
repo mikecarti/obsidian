@@ -5,6 +5,7 @@ $$
 \frac{a}{b} 
 $$
 ## Replacements
+(more on [[LaTeX Training]])
 
 ```
 [    

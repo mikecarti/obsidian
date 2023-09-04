@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/MGF.md",
+                "file": "LaTeX Training.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/MGF.md",
+                "file": "LaTeX Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/MGF.md",
+                "file": "LaTeX Training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/MGF.md"
+                "file": "LaTeX Training.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "85329de9e1f91c80",
   "lastOpenFiles": [
+    "LaTeX.md",
+    "Stochastic Processes/Moment Generating Function.md",
+    "Affine Transformation.md",
     "Stochastic Processes/Markov chain.md",
-    "Stochastic Processes/MGF.md",
     "Hse 3rd Year Structure.md",
     "Fin. Engineering/Financial Engineering.md",
     "Fin. Engineering/Stock Market.md",
@@ -179,7 +181,6 @@
     "Pasted image 20230902104541.png",
     "Pasted image 20230902104514.png",
     "Pasted image 20230902103722.png",
-    "Affine Transformation.md",
     "Pasted image 20230902100100.png",
     "Pasted image 20230902094635.png",
     "Autoregressive Models.md",
@@ -201,7 +202,6 @@
     "clusterise.md",
     "Latent Space.md",
     "Deep Learning.md",
-    "LaTeX.md",
     "Obsidian Shortcuts.md",
     "Pasted image 20230831230505.png",
     "Latent Variable.md",

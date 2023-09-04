@@ -1,3 +1,4 @@
+[[Latex]]
 ## Math Expressions
 $$x^n + y^n + z^n $$
 $$
