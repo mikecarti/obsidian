@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85329de9e1f91c80",
+            "id": "17d11a67867cb845",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX Training.md",
+                "file": "Stochastic Processes/Moment Generating Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff48b824dbea044f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTeX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mgf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX Training.md",
+                "file": "Stochastic Processes/Moment Generating Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX Training.md",
+                "file": "Stochastic Processes/Moment Generating Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX Training.md"
+                "file": "Stochastic Processes/Moment Generating Function.md"
               }
             }
           },
@@ -166,10 +180,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "85329de9e1f91c80",
+  "active": "17d11a67867cb845",
   "lastOpenFiles": [
     "LaTeX.md",
     "Stochastic Processes/Moment Generating Function.md",
+    "LaTeX Training.md",
+    "USE.md",
+    "Studying.md",
+    "Untitled.md",
     "Affine Transformation.md",
     "Stochastic Processes/Markov chain.md",
     "Hse 3rd Year Structure.md",
@@ -200,11 +218,7 @@
     "Pasted image 20230831125924.png{width=200%}.md",
     "Embeddings.md",
     "clusterise.md",
-    "Latent Space.md",
-    "Deep Learning.md",
-    "Obsidian Shortcuts.md",
     "Pasted image 20230831230505.png",
-    "Latent Variable.md",
     "Pasted image 20230831224711.png",
     "diary",
     "Pasted image 20230831125924.png",
