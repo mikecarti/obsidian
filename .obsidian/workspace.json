@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformers.md",
+                "file": "Machine Learning/Supervised Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transformers.md",
+                "file": "Machine Learning/Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transformers.md",
+                "file": "Machine Learning/Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transformers.md"
+                "file": "Machine Learning/Supervised Learning.md"
               }
             }
           },
@@ -201,6 +201,8 @@
   },
   "active": "929dd98f0d55a48f",
   "lastOpenFiles": [
+    "Machine Learning/Machine Learning.md",
+    "Transformers.md",
     "photos/Pasted image 20230831230505.png",
     "Machine Learning/Model.md",
     "photos/Pasted image 20230904210409.png",
@@ -230,7 +232,6 @@
     "Stochastic Processes/Markov chain.md",
     "Fin. Engineering/Financial Engineering.md",
     "Fin. Engineering/Stock Market.md",
-    "Stochastic Processes/Student distribution.md",
     "photos/Pasted image 20230902104541.png",
     "photos/Pasted image 20230902104514.png",
     "photos/Pasted image 20230902103722.png",
@@ -239,7 +240,6 @@
     "Untitled.canvas",
     "photos/Pasted image 20230901111737.png",
     "Fin. Engineering",
-    "photos/Pasted image 20230901013513.png",
     "diary",
     "Untitled 1.canvas",
     "Databases",
