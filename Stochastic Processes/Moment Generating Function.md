@@ -11,6 +11,7 @@ $$
 $$
 ![[Pasted image 20230902100100.png]]
 
+
 ### The best properties of MGF:
 
 $$

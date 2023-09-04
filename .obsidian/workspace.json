@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md",
+                "file": "Pasted image 20230902100100.png.annotations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md",
+                "file": "Pasted image 20230902100100.png.annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md",
+                "file": "Pasted image 20230902100100.png.annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md"
+                "file": "Pasted image 20230902100100.png.annotations.md"
               }
             }
           },
@@ -160,13 +160,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +180,11 @@
   },
   "active": "17d11a67867cb845",
   "lastOpenFiles": [
-    "LaTeX.md",
+    "Pasted image 20230902100100.png",
+    "Pasted image 20230902100100.png.annotations.md",
     "Stochastic Processes/Moment Generating Function.md",
+    "Stochastic Processes/Moment Generating Function.md.annotations.md",
+    "LaTeX.md",
     "LaTeX Training.md",
     "USE.md",
     "Studying.md",
@@ -199,7 +200,6 @@
     "Pasted image 20230902104541.png",
     "Pasted image 20230902104514.png",
     "Pasted image 20230902103722.png",
-    "Pasted image 20230902100100.png",
     "Pasted image 20230902094635.png",
     "Autoregressive Models.md",
     "Time Series",
@@ -215,9 +215,6 @@
     "Fin. Engineering",
     "Pasted image 20230901013513.png",
     "XGBoost.md",
-    "Pasted image 20230831125924.png{width=200%}.md",
-    "Embeddings.md",
-    "clusterise.md",
     "Pasted image 20230831230505.png",
     "Pasted image 20230831224711.png",
     "diary",
