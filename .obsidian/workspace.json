@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md",
+                "file": "Supervised Learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mgf",
+                "query": "SUper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md",
+                "file": "Supervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md",
+                "file": "Supervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md"
+                "file": "Supervised Learning.md"
               }
             }
           },
@@ -167,8 +167,10 @@
   },
   "active": "e93bfe5753204533",
   "lastOpenFiles": [
-    "Pasted image 20230902100100.png",
+    "Hse 3rd Year Structure.md",
+    "Pasted image 20230904163503.png",
     "Stochastic Processes/Moment Generating Function.md",
+    "Pasted image 20230902100100.png",
     "LaTeX Training.md",
     "Pasted image 20230902100100.png.annotations.md",
     "Untitled.md",
@@ -178,7 +180,6 @@
     "Studying.md",
     "Affine Transformation.md",
     "Stochastic Processes/Markov chain.md",
-    "Hse 3rd Year Structure.md",
     "Fin. Engineering/Financial Engineering.md",
     "Fin. Engineering/Stock Market.md",
     "Stochastic Processes/Student distribution.md",
@@ -205,7 +206,6 @@
     "Pasted image 20230831230505.png",
     "Pasted image 20230831224711.png",
     "diary",
-    "Pasted image 20230831125924.png",
     "Untitled 1.canvas",
     "Databases",
     "Machine Learning",
