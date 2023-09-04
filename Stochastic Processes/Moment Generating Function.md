@@ -6,10 +6,10 @@ M_{X(t)} = E(e^{tX}) =
 \int_{-\infty}^{\infty}e^{tX}  \, dx & \text{if X continuous}
 \end{cases}
 $$
-$$
-\sum_{i=1}^n i^2 = \frac{n(n+1)(2n+1)}{6}
-$$
-![[Pasted image 20230902100100.png]]
+### Definition
+For many [[distributions]], all the moments $E(X), E(X^2) \dots$ Can be encapsulated in a single function, which is called [[Moment Generating Function|moment generation function]]. It exists for many commonly used distributions and often provides 
+the most efficient way to calculate moments.
+
 
 
 ### The best properties of MGF:
