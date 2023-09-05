@@ -22,3 +22,6 @@ Econometrics is about estimating models to explain how the real world works.
 - Cross-sectional Data (N objects at the same time period)
 - Time series
 - Panel Data (N objects all observed at T different time periods)
+
+### Topics:
+- [[Linear Regression]]

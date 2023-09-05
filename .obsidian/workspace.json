@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Econometrics.md",
+                "file": "Machine Learning/Linear Regression.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/Econometrics.md",
+                "file": "Machine Learning/Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/Econometrics.md",
+                "file": "Machine Learning/Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/Econometrics.md"
+                "file": "Machine Learning/Linear Regression.md"
               }
             }
           },
@@ -166,10 +166,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0808e3cca7f689eb",
+  "active": "dca1e7aac21e5954",
   "lastOpenFiles": [
-    "Hse 3rd Year Structure.md",
+    "Data Generating Process (DGP).md",
+    "Machine Learning/Linear Regression.md",
+    "LaTeX.md",
     "Econometrics/Econometrics.md",
+    "Student's Distribution.md",
+    "Chi Squared.md",
+    "Statistics Basic Properties.md",
+    "P-value.md",
+    "Hse 3rd Year Structure.md",
     "Stochastic Processes/Moment Generating Function.md.annotations.md",
     "Stochastic Processes/Markov chain.md",
     "photos/Markov chain 2023-09-05 15.52.27.excalidraw.md",
@@ -192,15 +199,8 @@
     "Machine Learning/Decision Tree.md",
     "Machine Learning/Polynomial Regression.md",
     "Machine Learning/K Nearest Neighbors (KNN).md",
-    "Machine Learning/Linear Regression.md",
-    "Machine Learning/Train-Test Split.md",
-    "Machine Learning/Seminar Collabs.md",
     "Machine Learning/Seminar Collabs",
-    "Machine Learning/Supervised Learning.md",
-    "Machine Learning/Machine Learning.md",
-    "Transformers.md",
     "photos/Pasted image 20230831230505.png",
-    "Machine Learning/Model.md",
     "photos/Pasted image 20230904210409.png",
     "photos/Pasted image 20230904210246.png",
     "photos/Pasted image 20230904163503.png",
