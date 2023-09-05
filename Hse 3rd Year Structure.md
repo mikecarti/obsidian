@@ -39,3 +39,10 @@ https://drive.google.com/drive/folders/1s6_va0NahztyxobG3g-1IVGhAec3f0x4
 
 
 GRADE = 0.3* HW + 0.1 * Participation + 0.2 * Exam + 0.2 * Quizzes + 0.2 * Test
+
+### Econometrics
+
+GRADE = 0.1 * HW + 0.2 * Quiz + 0.25 * Midterm + 0.15 * Project + 0.3 * Exam
+
+Projects are not about demonstration of your technical skills
+Projects are about interpreting the results (economic sense, etc).
