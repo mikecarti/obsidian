@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1231234.md",
+                "file": "Econometrics/Statistics Basic Properties.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1231234.md",
+                "file": "Econometrics/Statistics Basic Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1231234.md",
+                "file": "Econometrics/Statistics Basic Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1231234.md"
+                "file": "Econometrics/Statistics Basic Properties.md"
               }
             }
           },
@@ -168,16 +167,16 @@
   },
   "active": "dca1e7aac21e5954",
   "lastOpenFiles": [
+    "Econometrics/Chi Squared.md",
+    "Econometrics/Data Generating Process (DGP).md",
+    "Econometrics/Econometrics.md",
     "Machine Learning/Linear Regression.md",
     "1231234.md",
     "Approximate Nearest Neighbor.md",
-    "Data Generating Process (DGP).md",
     "LaTeX.md",
-    "Econometrics/Econometrics.md",
-    "Student's Distribution.md",
-    "Chi Squared.md",
-    "Statistics Basic Properties.md",
-    "P-value.md",
+    "Econometrics/Student's Distribution.md",
+    "Econometrics/Statistics Basic Properties.md",
+    "Econometrics/P-value.md",
     "Hse 3rd Year Structure.md",
     "Stochastic Processes/Moment Generating Function.md.annotations.md",
     "Stochastic Processes/Markov chain.md",
