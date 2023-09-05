@@ -32,6 +32,8 @@ bdemeshev@hse.ru - Boris Demeshev
 
 ### Attendance:
 https://edu.hse.ru/mod/attendance/view.php?id=921893
+### Drive:
+https://drive.google.com/drive/folders/1s6_va0NahztyxobG3g-1IVGhAec3f0x4
 
 ![[Pasted image 20230904163503.png]]
 
