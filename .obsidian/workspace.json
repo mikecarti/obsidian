@@ -4,58 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "61a95a77ebd2cf22",
+        "id": "ec6fb342793c848d",
         "type": "tabs",
         "children": [
           {
-            "id": "e93bfe5753204533",
+            "id": "dca1e7aac21e5954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Loss Function.md",
+                "file": "Stochastic Processes/Markov chain.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "57f3f8bdb830555d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Multicollinearity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e9dfded5ac726ab",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "929dd98f0d55a48f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diffusion Model.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -101,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diffusion Model.md",
+                "file": "Stochastic Processes/Markov chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diffusion Model.md",
+                "file": "Stochastic Processes/Markov chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diffusion Model.md"
+                "file": "Stochastic Processes/Markov chain.md"
               }
             }
           },
@@ -202,21 +166,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "929dd98f0d55a48f",
+  "active": "dca1e7aac21e5954",
   "lastOpenFiles": [
+    "photos/Pasted image 20230905150123.png",
+    "Diffusion Model.md",
+    "Machine Learning/Multicollinearity.md",
+    "Machine Learning/Loss Function.md",
     "Latent Space.md",
     "General Adversarial Network.md",
-    "Kernel Methods.md",
-    "Curse Of Dimensionality.md",
+    "Machine Learning/Kernel Methods.md",
+    "Machine Learning/Curse Of Dimensionality.md",
     "photos/Pasted image 20230905140628.png",
     "XGBoost.md",
-    "Entropy.md",
+    "Machine Learning/Entropy.md",
     "pruning.md",
-    "Decision Tree.md",
-    "Polynomial Regression.md",
+    "Machine Learning/Decision Tree.md",
+    "Machine Learning/Polynomial Regression.md",
     "Machine Learning/K Nearest Neighbors (KNN).md",
     "Machine Learning/Linear Regression.md",
-    "Train-Test Split.md",
+    "Machine Learning/Train-Test Split.md",
     "Machine Learning/Seminar Collabs.md",
     "Hse 3rd Year Structure.md",
     "Machine Learning/Seminar Collabs",
@@ -229,13 +197,9 @@
     "photos/Pasted image 20230904210246.png",
     "Stochastic Processes/Time Series.md",
     "Machine Learning/DImensionality.md",
-    "Machine Learning/Loss Function.md",
     "Model Training.md",
     "Distributions.md",
-    "Approximate Nearest Neighbor.md",
-    "Machine Learning/Multicollinearity.md",
     "photos/Pasted image 20230904163503.png",
-    "Stochastic Processes/Moment Generating Function.md",
     "photos/Pasted image 20230902100100.png",
     "photos/Pasted image 20230902104541.png",
     "photos/Pasted image 20230902104514.png",
