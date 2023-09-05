@@ -1,7 +1,7 @@
 Fundamentally, Diffusion Models work by **destroying training data** through the successive addition of Gaussian noise, and then **learning to recover** the data by _reversing_ this noising process. After training, we can use the Diffusion Model to generate data by simply **passing randomly sampled noise through the learned denoising process**.
 ![[Pasted image 20230831224711.png| 500]]
 
-More specifically, a Diffusion Model is a [[Latent Variable]]model which maps to the [[Latent Space]] using a fixed [[Markov chain]]. This chain gradually adds noise to the data in order to obtain the approximate posterior
+More specifically, a Diffusion Model is a [[Latent Variable]] model which maps to the [[Latent Space]] using a fixed [[Markov chain]]. This chain gradually adds noise to the data in order to obtain the approximate posterior
 
 $$
 q(x_{1}:T|x_{0}) 

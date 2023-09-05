@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel Methods.md",
+                "file": "Diffusion Model.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kernel Methods.md",
+                "file": "Diffusion Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kernel Methods.md",
+                "file": "Diffusion Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kernel Methods.md"
+                "file": "Diffusion Model.md"
               }
             }
           },
@@ -204,10 +204,11 @@
   },
   "active": "929dd98f0d55a48f",
   "lastOpenFiles": [
-    "Curse Of Dimensionality.md",
-    "Kernel Methods.md",
-    "photos/Pasted image 20230905140628.png",
     "Latent Space.md",
+    "General Adversarial Network.md",
+    "Kernel Methods.md",
+    "Curse Of Dimensionality.md",
+    "photos/Pasted image 20230905140628.png",
     "XGBoost.md",
     "Entropy.md",
     "pruning.md",
@@ -236,7 +237,6 @@
     "photos/Pasted image 20230904163503.png",
     "Stochastic Processes/Moment Generating Function.md",
     "photos/Pasted image 20230902100100.png",
-    "LaTeX Training.md",
     "photos/Pasted image 20230902104541.png",
     "photos/Pasted image 20230902104514.png",
     "photos/Pasted image 20230902103722.png",
