@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Linear Regression.md",
+                "file": "1231234.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Linear Regression.md",
+                "file": "1231234.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Linear Regression.md",
+                "file": "1231234.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Linear Regression.md"
+                "file": "1231234.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "dca1e7aac21e5954",
   "lastOpenFiles": [
-    "Data Generating Process (DGP).md",
     "Machine Learning/Linear Regression.md",
+    "1231234.md",
+    "Approximate Nearest Neighbor.md",
+    "Data Generating Process (DGP).md",
     "LaTeX.md",
     "Econometrics/Econometrics.md",
     "Student's Distribution.md",
@@ -197,8 +199,6 @@
     "Machine Learning/Entropy.md",
     "pruning.md",
     "Machine Learning/Decision Tree.md",
-    "Machine Learning/Polynomial Regression.md",
-    "Machine Learning/K Nearest Neighbors (KNN).md",
     "Machine Learning/Seminar Collabs",
     "photos/Pasted image 20230831230505.png",
     "photos/Pasted image 20230904210409.png",
