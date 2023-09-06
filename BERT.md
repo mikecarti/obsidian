@@ -1,1 +1,1 @@
-Transformer-based model, 
+Transformer-based model, similar to GPT-3.
