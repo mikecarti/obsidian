@@ -1,1 +1,1 @@
-Uses [[Siamese Neural Network (SNN)]]
+Sentence-BERT (SBERT), a modification of the pretrained [[BERT]] network that use [[Siamese Neural Network (SNN)]] and triplet network structures to derive semantically meaningful sentence embeddings that can be compared using [[Distance Metrics#Cosine Similarity | Cosine similarity]].

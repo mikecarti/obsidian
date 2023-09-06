@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dca1e7aac21e5954",
+            "id": "81e39e63b90718a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attention Mechanism.md",
+                "file": "BERT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb2bf41ea0b9ec11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distance Metrics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +34,19 @@
             }
           },
           {
-            "id": "81e39e63b90718a0",
+            "id": "94177ca15c70b7ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Siamese Neural Network (SNN).md",
+                "file": "Distance Metrics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Siamese Neural Network (SNN).md",
+                "file": "BERT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Siamese Neural Network (SNN).md",
+                "file": "BERT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Siamese Neural Network (SNN).md"
+                "file": "BERT.md"
               }
             }
           },
@@ -164,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,9 +193,15 @@
   "active": "81e39e63b90718a0",
   "lastOpenFiles": [
     "SBERT.md",
+    "BERT.md",
+    "Distance Metrics.md",
+    "Attention Mechanism.md",
     "Siamese Neural Network (SNN).md",
     "Transformers.md",
-    "Attention Mechanism.md",
+    "Self-Supervised Learning.md",
+    "Pretraining.md",
+    "photos/Pasted image 20230906144655.png",
+    "Pooling Layers.md",
     "Sentence embeddings.md",
     "positional encoding.md",
     "Econometrics/Statistics Basic Properties.md",
@@ -206,11 +223,6 @@
     "photos/Markov chain 2023-09-05 15.22.37.excalidraw.md",
     "Excalidraw",
     "photos/Pasted image 20230905150123.png",
-    "Diffusion Model.md",
-    "Machine Learning/Multicollinearity.md",
-    "Machine Learning/Loss Function.md",
-    "Latent Space.md",
-    "General Adversarial Network.md",
     "photos/Pasted image 20230905140628.png",
     "Machine Learning/Seminar Collabs",
     "photos/Pasted image 20230831230505.png",
@@ -218,7 +230,6 @@
     "photos/Pasted image 20230904210246.png",
     "photos/Pasted image 20230904163503.png",
     "photos/Pasted image 20230902100100.png",
-    "photos/Pasted image 20230902104541.png",
     "Time Series",
     "Untitled.canvas",
     "Fin. Engineering",

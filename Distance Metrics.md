@@ -1,4 +1,4 @@
-### Cosine
+### Cosine Similarity
 ![[Pasted image 20230726132433.png | 500]]
 
 $$
