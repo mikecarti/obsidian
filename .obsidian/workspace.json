@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Statistics Basic Properties.md",
+                "file": "Attention Mechanism.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81e39e63b90718a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Siamese Neural Network (SNN).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/Statistics Basic Properties.md",
+                "file": "Siamese Neural Network (SNN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/Statistics Basic Properties.md",
+                "file": "Siamese Neural Network (SNN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/Statistics Basic Properties.md"
+                "file": "Siamese Neural Network (SNN).md"
               }
             }
           },
@@ -165,8 +179,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dca1e7aac21e5954",
+  "active": "81e39e63b90718a0",
   "lastOpenFiles": [
+    "SBERT.md",
+    "Siamese Neural Network (SNN).md",
+    "Transformers.md",
+    "Attention Mechanism.md",
+    "Sentence embeddings.md",
+    "positional encoding.md",
+    "Econometrics/Statistics Basic Properties.md",
     "Econometrics/Chi Squared.md",
     "Econometrics/Data Generating Process (DGP).md",
     "Econometrics/Econometrics.md",
@@ -175,7 +196,6 @@
     "Approximate Nearest Neighbor.md",
     "LaTeX.md",
     "Econometrics/Student's Distribution.md",
-    "Econometrics/Statistics Basic Properties.md",
     "Econometrics/P-value.md",
     "Hse 3rd Year Structure.md",
     "Stochastic Processes/Moment Generating Function.md.annotations.md",
@@ -191,13 +211,7 @@
     "Machine Learning/Loss Function.md",
     "Latent Space.md",
     "General Adversarial Network.md",
-    "Machine Learning/Kernel Methods.md",
-    "Machine Learning/Curse Of Dimensionality.md",
     "photos/Pasted image 20230905140628.png",
-    "XGBoost.md",
-    "Machine Learning/Entropy.md",
-    "pruning.md",
-    "Machine Learning/Decision Tree.md",
     "Machine Learning/Seminar Collabs",
     "photos/Pasted image 20230831230505.png",
     "photos/Pasted image 20230904210409.png",

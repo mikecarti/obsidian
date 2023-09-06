@@ -1,4 +1,4 @@
-
+Used in [[Transformers]] model.
 ## Self-Attention
 > ”The animal didn't cross the street because it was too tired”
 
