@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BERT.md",
+                "file": "Linux commands.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BERT.md",
+                "file": "Linux commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BERT.md",
+                "file": "Linux commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BERT.md"
+                "file": "Linux commands.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "81e39e63b90718a0",
   "lastOpenFiles": [
-    "SBERT.md",
     "BERT.md",
+    "SBERT.md",
     "Distance Metrics.md",
     "Attention Mechanism.md",
     "Siamese Neural Network (SNN).md",
