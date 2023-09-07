@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec6fb342793c848d",
+        "id": "d789223df0de0c36",
         "type": "tabs",
         "children": [
           {
-            "id": "81e39e63b90718a0",
+            "id": "fa0b60347b1a29b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux commands.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb2bf41ea0b9ec11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distance Metrics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94177ca15c70b7ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distance Metrics.md",
+                "file": "Expected Value.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Expected Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Expected Value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux commands.md"
+                "file": "Expected Value.md"
               }
             }
           },
@@ -190,11 +164,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "81e39e63b90718a0",
+  "active": "fa0b60347b1a29b5",
   "lastOpenFiles": [
+    "Expected Value.md",
+    "Linux commands.md",
+    "Distance Metrics.md",
     "BERT.md",
     "SBERT.md",
-    "Distance Metrics.md",
     "Attention Mechanism.md",
     "Siamese Neural Network (SNN).md",
     "Transformers.md",
@@ -217,10 +193,8 @@
     "Hse 3rd Year Structure.md",
     "Stochastic Processes/Moment Generating Function.md.annotations.md",
     "Stochastic Processes/Markov chain.md",
-    "photos/Markov chain 2023-09-05 15.52.27.excalidraw.md",
     "photos/Pasted image 20230905155207.png",
     "photos/Pasted image 20230905152521.png",
-    "photos/Markov chain 2023-09-05 15.22.37.excalidraw.md",
     "Excalidraw",
     "photos/Pasted image 20230905150123.png",
     "photos/Pasted image 20230905140628.png",
