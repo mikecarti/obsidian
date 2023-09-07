@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Expected Value.md",
+                "file": "Econometrics/3rd Course Classes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expected Value.md",
+                "file": "Econometrics/3rd Course Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expected Value.md",
+                "file": "Econometrics/3rd Course Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Expected Value.md"
+                "file": "Econometrics/3rd Course Classes.md"
               }
             }
           },
@@ -166,6 +167,10 @@
   },
   "active": "fa0b60347b1a29b5",
   "lastOpenFiles": [
+    "Estimators.md",
+    "Econometrics/3rd Course Classes.md",
+    "photos/Pasted image 20230907154543.png",
+    "Expected Value.md",
     "Econometrics/Econometrics.md",
     "Econometrics/Data Generating Process (DGP).md",
     "Econometrics/P-value.md",
@@ -173,7 +178,6 @@
     "Stochastic Processes/Student distribution.md",
     "Stochastic Processes/Time Series.md",
     "Stochastic Processes/Markov chain.md",
-    "Expected Value.md",
     "Linux commands.md",
     "Distance Metrics.md",
     "BERT.md",
@@ -191,8 +195,6 @@
     "Econometrics/Chi Squared.md",
     "Machine Learning/Linear Regression.md",
     "1231234.md",
-    "Approximate Nearest Neighbor.md",
-    "LaTeX.md",
     "photos/Pasted image 20230905155207.png",
     "photos/Pasted image 20230905152521.png",
     "Excalidraw",
@@ -203,7 +205,6 @@
     "photos/Pasted image 20230904210409.png",
     "photos/Pasted image 20230904210246.png",
     "photos/Pasted image 20230904163503.png",
-    "photos/Pasted image 20230902100100.png",
     "Time Series",
     "Untitled.canvas",
     "Fin. Engineering",

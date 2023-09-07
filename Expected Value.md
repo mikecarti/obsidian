@@ -1,6 +1,6 @@
 #### Conditional Expectation / Probability
 $$
-E[X |Y] = \frac{E[ X \cap Y]}{E[Y]}
+E[X |Y] = \frac{E[ X  \cdot  Y]}{E[Y]}
 $$
 
 #### Bayes Theorem
