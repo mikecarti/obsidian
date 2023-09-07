@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/3rd Course Classes.md",
+                "file": "Databases/Entities.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/3rd Course Classes.md",
+                "file": "Databases/Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/3rd Course Classes.md",
+                "file": "Databases/Entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/3rd Course Classes.md"
+                "file": "Databases/Entities.md"
               }
             }
           },
@@ -167,8 +166,9 @@
   },
   "active": "fa0b60347b1a29b5",
   "lastOpenFiles": [
-    "Estimators.md",
     "Econometrics/3rd Course Classes.md",
+    "Databases/Entities.md",
+    "Estimators.md",
     "photos/Pasted image 20230907154543.png",
     "Expected Value.md",
     "Econometrics/Econometrics.md",
@@ -194,7 +194,6 @@
     "Econometrics/Statistics Basic Properties.md",
     "Econometrics/Chi Squared.md",
     "Machine Learning/Linear Regression.md",
-    "1231234.md",
     "photos/Pasted image 20230905155207.png",
     "photos/Pasted image 20230905152521.png",
     "Excalidraw",
