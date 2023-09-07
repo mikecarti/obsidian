@@ -1,6 +1,6 @@
 
 ## Weak entities
-are linked to something (for example R205 where?? On Pokrovka)
+are linked to something (for example R205 where?? On Street Покровский Бульвар д. 11)
 
 
 ## Strong entities

@@ -4,7 +4,7 @@
 ![[Pasted image 20230901111737.png]]
 
 Lecturer Email: avasriev@hse.ru
-
+Seminarian Telegram: @SofiaSivakova
 #### Challenges: 
 1) No HandBook. Just classes.
 2) WikiPedia and externet resources provide completely different knowledge
@@ -13,6 +13,11 @@ Lecturer Email: avasriev@hse.ru
 - Understanding about the stock market
 - Quantitative Finance (Applied Math for financial sector)
 - Academical vs Industrial science Difference
+
+#### Contents
+- Paper portfolio
+- Quantitative research
+- Exam
 
 # Stochastic Processes and Time Series
 ![[Pasted image 20230902094635.png]]
