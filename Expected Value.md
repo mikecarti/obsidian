@@ -8,6 +8,7 @@ $$
 E[X|Y] = \frac{{E[Y|X] \cdot E[X]}}{E[Y]}
 $$
 
+## Independency -> Unpredictability -> Uncorrelatedness
 #### Independency
 $$
 P(X \cdot Y)=P(X) \cdot P(Y)
@@ -21,5 +22,14 @@ $$
 #### Uncorrelatedness
 
 $$
-cor(X,Y) = 
+cov(X,Y) = E[X \cdot Y] - E[X] E[Y] = 0
 $$
+
+## Other properties
+
+### Tower Property (because Expected value is based on Y)
+$$\begin{align}
+E[\;E[XY|Y]\;]=E[XY]
+\end{align}
+$$
+
