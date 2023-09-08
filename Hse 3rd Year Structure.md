@@ -51,3 +51,7 @@ GRADE = 0.1 * HW + 0.2 * Quiz + 0.25 * Midterm + 0.15 * Project + 0.3 * Exam
 
 Projects are not about demonstration of your technical skills
 Projects are about interpreting the results (economic sense, etc).
+
+
+# Optimization Methods
+![[Pasted image 20230908104125.png]]
