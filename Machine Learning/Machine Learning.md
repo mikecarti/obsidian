@@ -5,11 +5,11 @@ Space of targets $\mathbf{Y}$
 
 Training sample
 $$
-\begin{split}
+\begin{align}
 X = \{(x_{i}, y_{i})\}_{i=1}^\ell \\
 \ell - \text{training sample size} \\
 x_{i} = (x_{i_{1}}, x_{i_{2}}, \dots, x_{i_{n}})
-\end{split}
+\end{align}
 $$
 ### Which features exist?
 1) Numerical $x_{j} \in \mathbf{R}$ 
@@ -40,24 +40,24 @@ $$
 \mathbf{A} = \{ a(x,w)|w \} 
 $$
 
+#### Loss function
 $$
-\begin{split}
-L: \mathbf{Y} \times \mathbf{Y} \to \mathbf{R} \\
-L(y, t) \\
-\end{split}
+\begin{align}
+& L: \mathbf{Y} \times \mathbf{Y} \to \mathbf{R} \\
+& L(y, t),  & \text{y - correct, t - predicted}
+\end{align}
 $$
-$y$ - correct answer, $t$ - predicted answer
 
 #### Функционал ошибки / loss function
 $$
 \mathbf{Q}(a,X) 
 $$
 
-In majority of cases:
+##### In majority of cases:
 $$
 Q(a, X) = \frac{1}{\ell}\sum_{i=1}^{\ell}L(y_{i}, a(x_{i}))
 $$
-Model training:
+#### Model training:
 $$
 \mathbf{Q}(a,X) \to \min\limits_{a \in \mathbf{A}}
 $$
