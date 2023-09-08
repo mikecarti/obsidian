@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hse 3rd Year Structure.md",
+                "file": "Econometrics/Estimators.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hse 3rd Year Structure.md",
+                "file": "Econometrics/Estimators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hse 3rd Year Structure.md",
+                "file": "Econometrics/Estimators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hse 3rd Year Structure.md"
+                "file": "Econometrics/Estimators.md"
               }
             }
           },
@@ -166,11 +166,12 @@
   },
   "active": "fa0b60347b1a29b5",
   "lastOpenFiles": [
+    "Econometrics/Expected Value.md",
+    "Hse 3rd Year Structure.md",
     "Databases/Entities.md",
     "Econometrics/3rd Course Classes.md",
     "Econometrics/Estimators.md",
     "photos/Pasted image 20230907154543.png",
-    "Econometrics/Expected Value.md",
     "Econometrics/Econometrics.md",
     "Econometrics/Data Generating Process (DGP).md",
     "Econometrics/P-value.md",
@@ -193,7 +194,6 @@
     "positional encoding.md",
     "Econometrics/Statistics Basic Properties.md",
     "Econometrics/Chi Squared.md",
-    "Machine Learning/Linear Regression.md",
     "photos/Pasted image 20230905155207.png",
     "photos/Pasted image 20230905152521.png",
     "Excalidraw",
