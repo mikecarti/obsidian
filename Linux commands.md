@@ -15,6 +15,11 @@ du -h filename
 #cd #back:
 cd -
 
+#docker #eat #space #nospace #disk:
+```
+docker system prune -a
+```
+
 # [[Git commands]]
 
 # [[Virtual Environment]]

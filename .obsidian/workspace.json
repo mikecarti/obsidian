@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Markov chain.md",
+                "file": "Linux commands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Markov chain.md",
+                "file": "Linux commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Markov chain.md",
+                "file": "Linux commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Markov chain.md"
+                "file": "Linux commands.md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0808e3cca7f689eb",
+  "active": "ba9d52cca32ce732",
   "lastOpenFiles": [
-    "Stochastic Processes/Markov Processes.md",
     "Stochastic Processes/Markov chain.md",
+    "Stochastic Processes/Markov Processes.md",
     "Stochastic Processes/Classwork.md",
     "photos/Pasted image 20230909104128.png",
     "Stationary Distribution.md",
