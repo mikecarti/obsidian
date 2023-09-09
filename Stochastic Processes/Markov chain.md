@@ -1,10 +1,12 @@
-
+A type of [[Markov Processes]]
 The simplest type of processes. Used in [[General Adversarial Network]]s for analyzing artifacts.
 
 ## Definition
 
 A Markov chain or Markov process is a [[stochastic model]] describing a sequence of possible events in which the [[probability]] of each event depends only on the state in the previous event.
 
+
+## Transition Matrix
 ![[Pasted image 20230902104541.png]]
 
 $$
@@ -37,71 +39,4 @@ $$
 ## Recurrent / Terminal State
 If we can get back to state that we are now in. In some number of n, such state is called Recurrent (Persistent).
 
-If we can not get back to state that we are now in, it is called a terminal state.
-
-
-
-
-
-## Tasks:
-![[Pasted image 20230905150123.png]]
-
-$$
-{1} - \text{sleeping} \;\;\;\;\;\
-{2} - \text{studying}
-$$
-a)
-$$
-\begin{bmatrix}
-p_{1,1} & p_{1,2} \\
-p_{2,1} & p_{2,2}
-\end{bmatrix} = \begin{bmatrix}
-0.25 & 0.75 \\
-0.5 & 0.5
-\end{bmatrix}
-$$
-$P^n - \text{got to some state in n steps}$
-
-c) 
-$P^1[p_{1} \to p_{2}] = P^1[p_{1,2}] = 0.75$
-$P^2[p_{1,2}] = p_{1,1,2} \lor p_{1,2,2} = 0.25  \cdot 0.75  + 0.75  \cdot 0.5 = 0.5625$
-
-d)
-P(sleeps) = P(1) = 2/3
-$$
-[P[p_{1}], P[p_{2}]] =  \left( \frac{2}{3}, \frac{1}{3} \right) \cdot  \begin{bmatrix}
-0.25 & 0.75 \\
-0.5 & 0.5
-\end{bmatrix}
-$$
-
-
-
-
-![[Pasted image 20230905152521.png]]
-
-a)
-![[Markov chain 2023-09-05 15.22.37.excalidraw| 200]]
-
-b) 
-china - 1
-russia - 2
-UAE - 3
-$$
-\begin{bmatrix}
-p_{11} & p_{12} & p_{13} \\
-p_{21} & p_{22} & p_{23} \\
-p_{31} & p_{32} & p_{33} 
-\end{bmatrix} = 
-\begin{bmatrix}
-0 & 0.75 & 0.25  \\
-0 & 0.75 & 0.25 \\
-0 & 0.25 & 0.75
-\end{bmatrix}
-$$
-с) $P^1[{p_2}], P^2[{p_2}]\;-\;?$
-
-
-![[Pasted image 20230905155207.png]]
-
-a) ![[Markov chain 2023-09-05 15.52.27.excalidraw]]
+If we have to stay in the same state, that is called terminal state (sometimes terminal state may be recurrent if state has a self-connection and no other connections).
