@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d789223df0de0c36",
+        "id": "c40a14991e2a7290",
         "type": "tabs",
         "children": [
           {
-            "id": "fa0b60347b1a29b5",
+            "id": "cde32e5d0fde8d06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Stochastic Processes and Time Series.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "4f65c7f4a5c8f826",
+            "id": "253ac23b2960e078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Econometrics.md",
+                "file": "Stochastic Processes/Markov chain.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Stochastic Processes/Markov chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Stochastic Processes/Markov chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning.md"
+                "file": "Stochastic Processes/Markov chain.md"
               }
             }
           },
@@ -180,8 +182,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fa0b60347b1a29b5",
+  "active": "253ac23b2960e078",
   "lastOpenFiles": [
+    "Stochastic Processes and Time Series.md",
+    "Stochastic Processes/Markov chain.md",
+    "Econometrics/Estimators.md",
+    "Linearity.md",
+    "diary/2023-09-01.md",
+    "Machine Learning/Decision Tree.md",
+    "Mathematical Optimization/Optimization Math Notations.md",
+    "Econometrics/Student's Distribution.md",
+    "Machine Learning/Seminar Collabs.md",
+    "Econometrics/Econometrics.md",
+    "Econometrics/Data Generating Process (DGP).md",
+    "Machine Learning/Machine Learning.md",
     "photos/Pasted image 20230908121251.png",
     "photos/Pasted image 20230908121249.png",
     "photos/Pasted image 20230908120516.png",
@@ -189,36 +203,24 @@
     "Machine Learning/Multicollinearity.md",
     "Machine Learning/Loss Function.md",
     "Machine Learning/Entropy.md",
-    "Machine Learning/Decision Tree.md",
     "Machine Learning/Polynomial Regression.md",
     "Machine Learning/K Nearest Neighbors (KNN).md",
     "Hse 3rd Year Structure.md",
-    "Machine Learning/Machine Learning.md",
-    "Econometrics/Econometrics.md",
     "photos/Pasted image 20230908104125.png",
-    "Mathematical Optimization/Optimization Math Notations.md",
     "photos/Pasted image 20230908103701.png",
     "Mathematical Optimization/Flow Model.md",
     "photos/Pasted image 20230908103314.png",
     "photos/Pasted image 20230908102412.png",
     "photos/Pasted image 20230908094834.png",
-    "Econometrics/Estimators.md",
     "Mathematical Optimization",
     "Econometrics/Expected Value.md",
     "Databases/Entities.md",
     "Econometrics/3rd Course Classes.md",
     "photos/Pasted image 20230907154543.png",
-    "Econometrics/Data Generating Process (DGP).md",
     "Econometrics/P-value.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Student distribution.md",
-    "Stochastic Processes/Time Series.md",
-    "Stochastic Processes/Markov chain.md",
-    "Linux commands.md",
-    "Distance Metrics.md",
-    "BERT.md",
     "photos/Pasted image 20230906144655.png",
-    "photos/Pasted image 20230905155207.png",
     "Excalidraw",
     "Machine Learning/Seminar Collabs",
     "Time Series",
