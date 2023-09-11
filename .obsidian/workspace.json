@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c40a14991e2a7290",
+        "id": "f649b7e5c65efe19",
         "type": "tabs",
         "children": [
           {
-            "id": "ba9d52cca32ce732",
+            "id": "cf80c66afb7295d5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -157,8 +157,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ba9d52cca32ce732",
+  "active": "cf80c66afb7295d5",
   "lastOpenFiles": [
+    "Machine Learning/Train-Test Split.md",
+    "Var.md",
+    "Econometrics/Statistics Basic Properties.md",
+    "(BAFE) Business Analytics and Fin. Engineering/Business Analytics & Financial Engineering.md",
+    "Machine Learning/Model.md",
+    "diary/2023-09-01.md",
+    "photos/Pasted image 20230902100100.png.annotations.md",
+    "Machine Learning/Decision Tree.md",
+    "clusterise.md",
     "Linux commands.md",
     "Virtual Environment.md",
     "Vector Databases.md",
@@ -174,19 +183,10 @@
     "Mathematical Optimization/Flow Model.md",
     "Financial Economics/Financial Economics.md",
     "Untitled.md",
-    "diary/2023-09-01.md",
     "Stochastic Processes/Markov Processes.md",
     "Machine Learning/Machine Learning.md",
-    "Machine Learning/Loss Function.md",
-    "Financial Economics/Competitive Equilibrium.md",
     "Financial Economics",
-    "Stochastic Processes/Markov chain.md",
-    "Stochastic Processes/Classwork.md",
     "photos/Pasted image 20230909104128.png",
-    "Econometrics/Estimators.md",
-    "Linearity.md",
-    "Machine Learning/Decision Tree.md",
-    "Mathematical Optimization/Optimization Math Notations.md",
     "photos/Pasted image 20230908121251.png",
     "photos/Pasted image 20230908121249.png",
     "photos/Pasted image 20230908120516.png",

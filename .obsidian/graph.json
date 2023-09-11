@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -62,9 +62,16 @@
         "a": 1,
         "rgb": 19780
       }
+    },
+    {
+      "query": "path:diary  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -75,5 +82,5 @@
   "linkStrength": 0.908482301830354,
   "linkDistance": 170,
   "scale": 0.4677199458451193,
-  "close": true
+  "close": false
 }
