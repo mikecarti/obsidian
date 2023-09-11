@@ -1,1 +1,1 @@
-
+- [[Competitive Equilibrium]]

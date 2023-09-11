@@ -18,7 +18,7 @@ $$
 
 
 ### Type of ML task is defined by $\mathbf{Y}$
-1) Supervised learning
+1) [[Supervised Learning]]
 	1) $\mathbf{Y} \in{R}$ (Regression)
 	2) $\mid \mathbf{Y}\mid \;< \;\infty$ (Classification)
 		- $\mathbf{Y} = \{ 0,1 \}$ - Binary Classification
@@ -40,7 +40,7 @@ $$
 \mathbf{A} = \{ a(x,w)|w \} 
 $$
 
-#### Loss function
+#### [[Loss function]]
 $$
 \begin{align}
 & L: \mathbf{Y} \times \mathbf{Y} \to \mathbf{R} \\
@@ -48,7 +48,7 @@ $$
 \end{align}
 $$
 
-#### Функционал ошибки / loss function
+#### Функционал ошибки / [[Loss Function | loss function]]
 $$
 \mathbf{Q}(a,X) 
 $$
@@ -65,7 +65,7 @@ $$
 1) Task formulation
 2) Collect data
 3) Feature engineering
-4) Choice of loss function
+4) Choice of [[Loss Function]]
 5) Choice of models class
 6) Model training
 7) Model Validation

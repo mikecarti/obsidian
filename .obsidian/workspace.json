@@ -8,33 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "253ac23b2960e078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes/Markov Processes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ba9d52cca32ce732",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Economics/Competitive Equilibrium.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Financial Economics/Competitive Equilibrium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Financial Economics/Competitive Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Financial Economics/Competitive Equilibrium.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,39 +159,39 @@
   },
   "active": "ba9d52cca32ce732",
   "lastOpenFiles": [
-    "Financial Economics/Financial Economics.md",
-    "Financial Economics/Competitive Equilibrium.md",
     "Linux commands.md",
+    "Virtual Environment.md",
+    "Vector Databases.md",
+    "Sentence embeddings.md",
+    "Liquid Neural Networks.md",
+    "Activation  functions.md",
+    "Image Generation with AI.md",
+    "Stochastic Processes/Stochastic Processes and Time Series.md",
+    "Stochastic Processes/Stationary Distribution.md",
+    "Mathematical Optimization/Mathematical Optimization.md",
+    "Optimization Methods.md",
+    "Machine Learning/Supervised Learning.md",
+    "Mathematical Optimization/Flow Model.md",
+    "Financial Economics/Financial Economics.md",
+    "Untitled.md",
+    "diary/2023-09-01.md",
+    "Stochastic Processes/Markov Processes.md",
+    "Machine Learning/Machine Learning.md",
+    "Machine Learning/Loss Function.md",
+    "Financial Economics/Competitive Equilibrium.md",
     "Financial Economics",
     "Stochastic Processes/Markov chain.md",
-    "Stochastic Processes/Markov Processes.md",
     "Stochastic Processes/Classwork.md",
     "photos/Pasted image 20230909104128.png",
-    "Stationary Distribution.md",
     "Econometrics/Estimators.md",
-    "Stochastic Processes and Time Series.md",
     "Linearity.md",
-    "diary/2023-09-01.md",
     "Machine Learning/Decision Tree.md",
     "Mathematical Optimization/Optimization Math Notations.md",
-    "Econometrics/Student's Distribution.md",
-    "Machine Learning/Seminar Collabs.md",
-    "Econometrics/Econometrics.md",
-    "Econometrics/Data Generating Process (DGP).md",
-    "Machine Learning/Machine Learning.md",
     "photos/Pasted image 20230908121251.png",
     "photos/Pasted image 20230908121249.png",
     "photos/Pasted image 20230908120516.png",
-    "Machine Learning/Supervised Learning.md",
-    "Machine Learning/Multicollinearity.md",
-    "Machine Learning/Loss Function.md",
-    "Machine Learning/Entropy.md",
-    "Machine Learning/Polynomial Regression.md",
-    "Machine Learning/K Nearest Neighbors (KNN).md",
-    "Hse 3rd Year Structure.md",
     "photos/Pasted image 20230908104125.png",
     "photos/Pasted image 20230908103701.png",
-    "Mathematical Optimization/Flow Model.md",
     "photos/Pasted image 20230908103314.png",
     "photos/Pasted image 20230908102412.png",
     "photos/Pasted image 20230908094834.png",
