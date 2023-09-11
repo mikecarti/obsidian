@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Financial Economics/Competitive Equilibrium.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Financial Economics/Competitive Equilibrium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Financial Economics/Competitive Equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux commands.md"
+                "file": "Financial Economics/Competitive Equilibrium.md"
               }
             }
           },
@@ -182,6 +182,10 @@
   },
   "active": "ba9d52cca32ce732",
   "lastOpenFiles": [
+    "Financial Economics/Financial Economics.md",
+    "Financial Economics/Competitive Equilibrium.md",
+    "Linux commands.md",
+    "Financial Economics",
     "Stochastic Processes/Markov chain.md",
     "Stochastic Processes/Markov Processes.md",
     "Stochastic Processes/Classwork.md",
@@ -215,9 +219,6 @@
     "photos/Pasted image 20230908102412.png",
     "photos/Pasted image 20230908094834.png",
     "Mathematical Optimization",
-    "Econometrics/Expected Value.md",
-    "Databases/Entities.md",
-    "Econometrics/3rd Course Classes.md",
     "photos/Pasted image 20230907154543.png",
     "Excalidraw",
     "Machine Learning/Seminar Collabs",
@@ -228,7 +229,6 @@
     "Untitled 1.canvas",
     "Databases",
     "Machine Learning",
-    "(BAFE) Business Analytics and Fin. Engineering",
-    "Stochastic Processes"
+    "(BAFE) Business Analytics and Fin. Engineering"
   ]
 }
