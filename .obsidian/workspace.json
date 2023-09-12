@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numerical linear algebra.md",
+                "file": "Shrinkage Methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numerical linear algebra.md",
+                "file": "Shrinkage Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Numerical linear algebra.md",
+                "file": "Shrinkage Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numerical linear algebra.md"
+                "file": "Shrinkage Methods.md"
               }
             }
           },
@@ -222,8 +222,9 @@
   },
   "active": "40dd3182423df61b",
   "lastOpenFiles": [
-    "Matrix.md",
     "Numerical linear algebra.md",
+    "Shrinkage Methods.md",
+    "Matrix.md",
     "Triangular Matrix.md",
     "Orthogonal Matrix.md",
     "Machine Learning/Machine Learning.md",
@@ -251,7 +252,6 @@
     "Virtual Environment.md",
     "Vector Databases.md",
     "Sentence embeddings.md",
-    "Liquid Neural Networks.md",
     "Financial Economics",
     "photos/Pasted image 20230909104128.png",
     "photos/Pasted image 20230908121251.png",
