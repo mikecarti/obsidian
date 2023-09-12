@@ -70,3 +70,8 @@ $$
 6) Model training
 7) Model Validation
 9) Production (MLops)
+
+
+## Datasets
+- https://archive.ics.uci.edu/
+- 

@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigmoid.md",
+                "file": "Machine Learning/Machine Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40dd3182423df61b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Numerical linear algebra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sigmoid.md",
+                "file": "Numerical linear algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sigmoid.md",
+                "file": "Numerical linear algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sigmoid.md"
+                "file": "Numerical linear algebra.md"
               }
             }
           },
@@ -206,10 +220,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f35dcb3f869205c1",
+  "active": "40dd3182423df61b",
   "lastOpenFiles": [
-    "RELU.md",
+    "Matrix.md",
+    "Numerical linear algebra.md",
+    "Triangular Matrix.md",
+    "Orthogonal Matrix.md",
+    "Machine Learning/Machine Learning.md",
+    "photos/decompositions 1.pdf",
+    "photos/Pasted image 20230912130754.png",
+    "Singular Value Decompositon.md",
+    "photos/decompositions.pdf",
+    "photos/Pasted image 20230912130625.png",
+    "Econometrics/Data Generating Process (DGP).md",
+    "Hse 3rd Year Structure.md",
     "Sigmoid.md",
+    "RELU.md",
     "Activation  functions.md",
     "Neural Network.md",
     "Machine Learning/Train-Test Split.md",
@@ -226,14 +252,6 @@
     "Vector Databases.md",
     "Sentence embeddings.md",
     "Liquid Neural Networks.md",
-    "Image Generation with AI.md",
-    "Stochastic Processes/Stochastic Processes and Time Series.md",
-    "Stochastic Processes/Stationary Distribution.md",
-    "Mathematical Optimization/Mathematical Optimization.md",
-    "Optimization Methods.md",
-    "Machine Learning/Supervised Learning.md",
-    "Mathematical Optimization/Flow Model.md",
-    "Financial Economics/Financial Economics.md",
     "Financial Economics",
     "photos/Pasted image 20230909104128.png",
     "photos/Pasted image 20230908121251.png",
@@ -243,9 +261,7 @@
     "photos/Pasted image 20230908103701.png",
     "photos/Pasted image 20230908103314.png",
     "photos/Pasted image 20230908102412.png",
-    "photos/Pasted image 20230908094834.png",
     "Mathematical Optimization",
-    "photos/Pasted image 20230907154543.png",
     "Excalidraw",
     "Machine Learning/Seminar Collabs",
     "Time Series",
@@ -253,8 +269,6 @@
     "Fin. Engineering",
     "diary",
     "Untitled 1.canvas",
-    "Databases",
-    "Machine Learning",
-    "(BAFE) Business Analytics and Fin. Engineering"
+    "Databases"
   ]
 }
