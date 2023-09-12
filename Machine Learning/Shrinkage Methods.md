@@ -13,9 +13,8 @@ $\hat{\beta}^{ridge} = argmin_\beta \{\sum_{i=1}^N(y_i - \beta_0 - \sum_{j=1}^p 
 
   
 
-Writing the criterion before in matrix form
+Writing the criterion before in [[Matrix]] form
 
-  
 
 $\mathrm{RSS}(\alpha) = (\boldsymbol{y} - \boldsymbol{X}\beta)^T (\boldsymbol{y} - \boldsymbol{X}\beta) + \alpha\beta^T\beta = \mathrm{RSS}(\beta) + \alpha\beta^T\beta$
 

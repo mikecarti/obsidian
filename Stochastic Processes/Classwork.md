@@ -82,3 +82,7 @@ Calculations ...
 
 d) 
 $P_{\\text{fin. in 4}} = \frac{\text{N finish in 4}}{\text{N toss = 5 combinations}}$
+![[Pasted image 20230912155522.png | 500]]
+
+
+$\text{N("finish in 4")} = 3$

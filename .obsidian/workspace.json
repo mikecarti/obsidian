@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Machine Learning/Shrinkage Methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Machine Learning/Shrinkage Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Machine Learning/Shrinkage Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "Machine Learning/Shrinkage Methods.md"
               }
             }
           },
@@ -222,25 +221,27 @@
   },
   "active": "40dd3182423df61b",
   "lastOpenFiles": [
+    "Machine Learning/Seminar Collabs.md",
+    "Linearity.md",
+    "Stochastic Processes/Classwork.md",
+    "photos/Pasted image 20230912155522.png",
     "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md",
     "Machine Learning/Machine Learning.md",
-    "Stochastic Processes/Classwork.md",
     "Excalidraw",
     "photos/Pasted image 20230912151955.png",
-    "First Step Analysis.md",
+    "Stochastic Processes/First Step Analysis.md",
     "Stochastic Processes/Markov chain.md",
-    "Machine Learning/Seminar Collabs.md",
-    "Numerical linear algebra.md",
+    "Machine Learning/Numerical linear algebra.md",
     "photos/Pasted image 20230912150256.png",
     "photos/Pasted image 20230912150017.png",
-    "Shrinkage Methods.md",
+    "Machine Learning/Shrinkage Methods.md",
     "OLS.md",
-    "Matrix.md",
-    "Triangular Matrix.md",
-    "Orthogonal Matrix.md",
+    "Machine Learning/Matrix.md",
+    "Machine Learning/Triangular Matrix.md",
+    "Machine Learning/Orthogonal Matrix.md",
     "photos/decompositions 1.pdf",
     "photos/Pasted image 20230912130754.png",
-    "Singular Value Decompositon.md",
+    "Machine Learning/Singular Value Decompositon.md",
     "photos/decompositions.pdf",
     "photos/Pasted image 20230912130625.png",
     "Econometrics/Data Generating Process (DGP).md",
@@ -255,13 +256,11 @@
     "(BAFE) Business Analytics and Fin. Engineering/Business Analytics & Financial Engineering.md",
     "Machine Learning/Model.md",
     "diary/2023-09-01.md",
-    "photos/Pasted image 20230902100100.png.annotations.md",
     "Financial Economics",
     "photos/Pasted image 20230909104128.png",
     "photos/Pasted image 20230908121251.png",
     "photos/Pasted image 20230908121249.png",
     "photos/Pasted image 20230908120516.png",
-    "photos/Pasted image 20230908104125.png",
     "Mathematical Optimization",
     "Excalidraw",
     "Machine Learning/Seminar Collabs",
