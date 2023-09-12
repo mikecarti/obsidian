@@ -63,9 +63,12 @@
             "id": "40dd3182423df61b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md"
+                "file": "Stochastic Processes/Classwork.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -137,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md"
+                "file": "Stochastic Processes/Classwork.md"
               }
             }
           },
@@ -219,8 +222,9 @@
   },
   "active": "40dd3182423df61b",
   "lastOpenFiles": [
-    "Stochastic Processes/Classwork.md",
     "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md",
+    "Machine Learning/Machine Learning.md",
+    "Stochastic Processes/Classwork.md",
     "Excalidraw",
     "photos/Pasted image 20230912151955.png",
     "First Step Analysis.md",
@@ -230,7 +234,6 @@
     "photos/Pasted image 20230912150256.png",
     "photos/Pasted image 20230912150017.png",
     "Shrinkage Methods.md",
-    "Machine Learning/Machine Learning.md",
     "OLS.md",
     "Matrix.md",
     "Triangular Matrix.md",

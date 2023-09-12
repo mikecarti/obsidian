@@ -68,3 +68,17 @@ a) ![[Markov chain 2023-09-05 15.52.27.excalidraw]]
 Task 5
 ![[Pasted image 20230912151955.png]]
 
+
+b) Bob is more probable
+![[Drawing 2023-09-12 15.20.49.excalidraw]]
+
+c) 
+$P_{17} = 0.5P_{27} + 0.5P_{37}$
+$P_{37} = 0.5 \cdot P_{57} + 0.5 \cdot P_{27}$
+$P_{57}= 0.5 + 0.5 \cdot P_{77}$
+$P_{27} = 0$
+
+Calculations ...
+
+d) 
+$P_{\\text{fin. in 4}} = \frac{\text{N finish in 4}}{\text{N toss = 5 combinations}}$
