@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shrinkage Methods.md",
+                "file": "Numerical linear algebra.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrinkage Methods.md",
+                "file": "Numerical linear algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrinkage Methods.md",
+                "file": "Numerical linear algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shrinkage Methods.md"
+                "file": "Numerical linear algebra.md"
               }
             }
           },
@@ -222,12 +222,13 @@
   },
   "active": "40dd3182423df61b",
   "lastOpenFiles": [
-    "Numerical linear algebra.md",
     "Shrinkage Methods.md",
+    "Machine Learning/Machine Learning.md",
+    "OLS.md",
+    "Numerical linear algebra.md",
     "Matrix.md",
     "Triangular Matrix.md",
     "Orthogonal Matrix.md",
-    "Machine Learning/Machine Learning.md",
     "photos/decompositions 1.pdf",
     "photos/Pasted image 20230912130754.png",
     "Singular Value Decompositon.md",
@@ -251,7 +252,6 @@
     "Linux commands.md",
     "Virtual Environment.md",
     "Vector Databases.md",
-    "Sentence embeddings.md",
     "Financial Economics",
     "photos/Pasted image 20230909104128.png",
     "photos/Pasted image 20230908121251.png",
