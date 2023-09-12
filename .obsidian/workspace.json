@@ -63,12 +63,9 @@
             "id": "40dd3182423df61b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Numerical linear algebra.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md"
               }
             }
           }
@@ -140,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numerical linear algebra.md",
+                "file": "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Numerical linear algebra.md",
+                "file": "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numerical linear algebra.md"
+                "file": "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md"
               }
             }
           },
@@ -222,10 +219,19 @@
   },
   "active": "40dd3182423df61b",
   "lastOpenFiles": [
+    "Stochastic Processes/Classwork.md",
+    "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md",
+    "Excalidraw",
+    "photos/Pasted image 20230912151955.png",
+    "First Step Analysis.md",
+    "Stochastic Processes/Markov chain.md",
+    "Machine Learning/Seminar Collabs.md",
+    "Numerical linear algebra.md",
+    "photos/Pasted image 20230912150256.png",
+    "photos/Pasted image 20230912150017.png",
     "Shrinkage Methods.md",
     "Machine Learning/Machine Learning.md",
     "OLS.md",
-    "Numerical linear algebra.md",
     "Matrix.md",
     "Triangular Matrix.md",
     "Orthogonal Matrix.md",
@@ -247,20 +253,12 @@
     "Machine Learning/Model.md",
     "diary/2023-09-01.md",
     "photos/Pasted image 20230902100100.png.annotations.md",
-    "Machine Learning/Decision Tree.md",
-    "clusterise.md",
-    "Linux commands.md",
-    "Virtual Environment.md",
-    "Vector Databases.md",
     "Financial Economics",
     "photos/Pasted image 20230909104128.png",
     "photos/Pasted image 20230908121251.png",
     "photos/Pasted image 20230908121249.png",
     "photos/Pasted image 20230908120516.png",
     "photos/Pasted image 20230908104125.png",
-    "photos/Pasted image 20230908103701.png",
-    "photos/Pasted image 20230908103314.png",
-    "photos/Pasted image 20230908102412.png",
     "Mathematical Optimization",
     "Excalidraw",
     "Machine Learning/Seminar Collabs",
@@ -268,7 +266,6 @@
     "Untitled.canvas",
     "Fin. Engineering",
     "diary",
-    "Untitled 1.canvas",
-    "Databases"
+    "Untitled 1.canvas"
   ]
 }

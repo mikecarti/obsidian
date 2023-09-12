@@ -58,7 +58,13 @@ p_{31} & p_{32} & p_{33}
 $$
 с) $P^1[{p_2}], P^2[{p_2}]\;-\;?$
 
-
+[[First Step Analysis]]
 ![[Pasted image 20230905155207.png]]
 
 a) ![[Markov chain 2023-09-05 15.52.27.excalidraw]]
+# 12.09
+[[First Step Analysis#Example]]
+
+Task 5
+![[Pasted image 20230912151955.png]]
+
