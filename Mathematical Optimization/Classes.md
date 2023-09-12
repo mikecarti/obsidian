@@ -1,3 +1,4 @@
+[[Mathematical Optimization]]
 # 12.09
 №1
 $$
@@ -83,6 +84,17 @@ x_{4}+2x_{5}\leq 9 \\
 2x_{4}+3x_{5} -11
 \end{cases}
 $$
+
+
 $$
-max \; A
+\begin{align}
+max \; A(0;4.5)  \\
+L(A)=86.5 \\
+min  \; B\left( \frac{59}{11} =x_{4};\frac{20}{10} =x_{5}\right) \\
+L(B) = -\frac{199}{11} \\
+x_{1} \; min \\
+x_{2} \;min \;\; max \\
+x_{3} \; min \;\; max
+\end{align}
 $$
+A, B - points on coordinate plane.
