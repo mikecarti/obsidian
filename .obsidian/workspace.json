@@ -29,9 +29,22 @@
                 "currentVersion": "1.4.11"
               }
             }
+          },
+          {
+            "id": "a684534eecacc45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/2023-09-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathematical Optimization/Classes.md",
+                "file": "diary/2023-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathematical Optimization/Classes.md",
+                "file": "diary/2023-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathematical Optimization/Classes.md"
+                "file": "diary/2023-09-13.md"
               }
             }
           },
@@ -187,8 +201,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "043eaf037c05a5b6",
+  "active": "a684534eecacc45c",
   "lastOpenFiles": [
+    "diary/2023-09-13.md",
     "Stochastic Processes/Classwork.md",
     "Mathematical Optimization/Mathematical Optimization.md",
     "Mathematical Optimization/Classes.md",
@@ -224,7 +239,6 @@
     "Machine Learning/Train-Test Split.md",
     "Var.md",
     "Econometrics/Statistics Basic Properties.md",
-    "(BAFE) Business Analytics and Fin. Engineering/Business Analytics & Financial Engineering.md",
     "Financial Economics",
     "photos/Pasted image 20230909104128.png",
     "photos/Pasted image 20230908121251.png",
