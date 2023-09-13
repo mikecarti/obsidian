@@ -11,11 +11,27 @@
             "id": "22b36ff2168ac376",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathematical Optimization/Classes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "043eaf037c05a5b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.11"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mathematical Optimization/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Mathematical Optimization/Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mathematical Optimization/Classes.md"
+              }
             }
           },
           {
@@ -135,6 +155,16 @@
             "state": {
               "type": "code-execute-manage-executors",
               "state": {}
+            }
+          },
+          {
+            "id": "9d96ac1f99bbc50e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -157,8 +187,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "22b36ff2168ac376",
+  "active": "043eaf037c05a5b6",
   "lastOpenFiles": [
+    "Stochastic Processes/Classwork.md",
     "Mathematical Optimization/Mathematical Optimization.md",
     "Mathematical Optimization/Classes.md",
     "photos/Pasted image 20230912165700.png",
@@ -169,7 +200,6 @@
     "Neural Network.md",
     "Machine Learning/Seminar Collabs.md",
     "Linearity.md",
-    "Stochastic Processes/Classwork.md",
     "photos/Pasted image 20230912155522.png",
     "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md",
     "Excalidraw",
