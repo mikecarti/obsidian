@@ -15,3 +15,4 @@ $a_{i}^{[n]}=R(X)=R(x_{1} \cdot w_{1} + \dots + x_{m} \cdot w_{m}+b)$
 R = [[Activation  functions|Activation function]]
 S = [[Sigmoid]] Function
 
+

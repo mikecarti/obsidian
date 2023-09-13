@@ -34,8 +34,13 @@
             "id": "a684534eecacc45c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Processes/Moment Generating Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -89,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stochastic Processes/Moment Generating Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stochastic Processes/Moment Generating Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stochastic Processes/Moment Generating Function.md"
+              }
             }
           },
           {
@@ -194,42 +202,42 @@
   },
   "active": "a684534eecacc45c",
   "lastOpenFiles": [
-    "diary/2023-09-13.md",
+    "Stochastic Processes/Stochastic Processes and Time Series.md",
+    "Machine Learning/Linear Regression.md",
+    "Excalidraw/Drawing 2023-09-13 20.07.21.excalidraw.md",
+    "Machine Learning/Multicollinearity.md",
+    "XGBoost.md",
+    "Machine Learning/Supervised Learning.md",
+    "Word embeddings.md",
+    "Attention Mechanism.md",
+    "Model Training.md",
+    "Stochastic Processes/First Step Analysis.md",
+    "Stochastic Processes/Markov chain.md",
+    "Stochastic Processes/Markov Processes.md",
+    "General Adversarial Network.md",
     "Stochastic Processes/Classwork.md",
+    "Mathematical Optimization/Flow Model.md",
+    "Mathematical Optimization/Optimization Math Notations.md",
     "Mathematical Optimization/Mathematical Optimization.md",
     "Mathematical Optimization/Classes.md",
+    "Neural Network.md",
+    "diary/2023-09-13.md",
     "photos/Pasted image 20230912165700.png",
     "Machine Learning/Shrinkage Methods.md",
     "Machine Learning/Machine Learning.md",
     "RELU.md",
     "Activation  functions.md",
-    "Neural Network.md",
     "Machine Learning/Seminar Collabs.md",
     "Linearity.md",
     "photos/Pasted image 20230912155522.png",
-    "Excalidraw/Drawing 2023-09-12 15.20.49.excalidraw.md",
     "Excalidraw",
     "photos/Pasted image 20230912151955.png",
-    "Stochastic Processes/First Step Analysis.md",
-    "Stochastic Processes/Markov chain.md",
-    "Machine Learning/Numerical linear algebra.md",
     "photos/Pasted image 20230912150256.png",
     "photos/Pasted image 20230912150017.png",
-    "OLS.md",
-    "Machine Learning/Matrix.md",
-    "Machine Learning/Triangular Matrix.md",
-    "Machine Learning/Orthogonal Matrix.md",
     "photos/decompositions 1.pdf",
     "photos/Pasted image 20230912130754.png",
-    "Machine Learning/Singular Value Decompositon.md",
     "photos/decompositions.pdf",
     "photos/Pasted image 20230912130625.png",
-    "Econometrics/Data Generating Process (DGP).md",
-    "Hse 3rd Year Structure.md",
-    "Sigmoid.md",
-    "Machine Learning/Train-Test Split.md",
-    "Var.md",
-    "Econometrics/Statistics Basic Properties.md",
     "Financial Economics",
     "photos/Pasted image 20230909104128.png",
     "photos/Pasted image 20230908121251.png",
