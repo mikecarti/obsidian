@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Linear Regression.md",
+                "file": "Econometrics/R Squared.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Linear Regression.md",
+                "file": "Econometrics/R Squared.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Linear Regression.md",
+                "file": "Econometrics/R Squared.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Linear Regression.md"
+                "file": "Econometrics/R Squared.md"
               }
             }
           },
@@ -179,11 +179,13 @@
   },
   "active": "d0618e340c670ed7",
   "lastOpenFiles": [
+    "Machine Learning/Linear Regression.md",
+    "Econometrics/R Squared.md",
+    "Econometrics/classes.md",
     "photos/Pasted image 20230915123010.png",
     "diary/2023-09-15.md",
     "Excalidraw/Drawing 2023-09-15 12.25.46.excalidraw.md",
     "Untitled 1.canvas",
-    "Machine Learning/Linear Regression.md",
     "photos/Pasted image 20230915122502.png",
     "photos/Pasted image 20230915122152.png",
     "photos/Pasted image 20230915122118.png",
@@ -191,14 +193,13 @@
     "photos/Pasted image 20230915121057.png",
     "photos/Pasted image 20230915120915.png",
     "Stochastic Processes/Moment Generating Function.md",
-    "Feature Discretization.md",
+    "Machine Learning/Feature Discretization.md",
     "photos/Pasted image 20230915120045.png",
     "photos/Pasted image 20230915115837.png",
     "photos/Pasted image 20230915115033.png",
     "photos/Pasted image 20230915114953.png",
-    "photos/Pasted image 20230915113431.png",
-    "Feature Binarization.md",
-    "Categorical features.md",
+    "Machine Learning/Feature Binarization.md",
+    "Machine Learning/Categorical features.md",
     "Mathematical Optimization/Classes.md",
     "Econometrics/Statistics Basic Properties.md",
     "SBERT.md",
@@ -215,7 +216,6 @@
     "Word embeddings.md",
     "Attention Mechanism.md",
     "Model Training.md",
-    "Stochastic Processes/First Step Analysis.md",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
