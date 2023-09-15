@@ -1,5 +1,5 @@
 
-# Definition
+## Definition
 $$
 E(Y|\bar{X}) = f(\bar{X}) 
 $$
@@ -110,7 +110,7 @@ Then, why we do not use [[Linear Regression#MAE|MAE]] all the time?
 2) On [[Linear Regression#Mean Squared Error |MSE]], we can get [[Gradient]] and understand how CLOSE we are to extremum. So using [[Linear Regression#MAE|MAE]] we can not understand how far we from the minimum
 
 #### Huber's loss
-Let us take the best from both worlds
+Let us take the best from both worlds (MAE, MSE)
 $$
 L_{\beta}(y,z) = \begin{cases} \\
 \frac{1}{2}(y-z)^2&, |y-z| <\beta \\
@@ -120,12 +120,55 @@ $$
 $\beta$ - гипер-параметер
 В точках перехода проблемы с производной
 
-![[Pasted image 20230915120915.png]]
-
-
 ![[Pasted image 20230915121057.png]]
 
-as $\beta$ gets bigger, then bigger errors we do not count as [[outliers]]. We move point of transition from MSE-like graph to MAE-like graph.
+As $\beta$ gets bigger, then bigger errors we do not count as [[outliers]]. We move the point of transition from MSE-like graph to MAE-like graph.
+
+There is a problem with second derivative, BUT we can FIX THAT ALSO.
+
+#### Log-Cosh
+$$
+L(y,z) = \log \cosh(y-z)
+$$
+(where $\cosh (x)$ is a [[Hyperbolic Functions|Hyperbolic Cosinus]])
+- second derivative is Continuous
+- very similar to Huber's Loss
+
+#### MSLE
+- Mean Squared Logarithmic Error
+- $$
+L(y,z)= (\log(z+1)-\log(y+1))^2
+$$
+
+Assumptions:
+- $y \geq 0$
+- $z \geq 0$
+
+#### Относительные Функции Потерь
+$$
+L(y,z)=\frac{|{y-z}|}{y}
+$$
+##### MAPE
+$$
+\frac{1}{\ell}\sum_{i=1}^{\ell}\mid \frac{{y_{i}-a(x_{i})/}}{y_{}}\mid \;\;: MAPE
+$$
+- L = 2 $\implies$ ошибка в 2 раза.
+- Good for different масштабы of target variable
+- MAE с весами
+  ![[Pasted image 20230915122118.png]]
+will tell these errors apart (1, 0 is a significant error).
+![[Pasted image 20230915122152.png | 400]]
+##### SMAPE
+$$
+L(y,z) = \frac{{|y-z|}}{\frac{|y|+|z|}{2}}
+$$
+#### Quantile Loss Function
+$$
+L(y,z)=(t-1)[y-z < 0](y-z) + t[y-z\geq 0](y-z)
+$$
+![[Pasted image 20230915122502.png]]
+
+
 ### Minimization of errors (OLS)
 $$
 e_{i} = Y_{i} - (\hat{\beta}_{0}+\hat{\beta}_{1}x_{i})
@@ -145,6 +188,11 @@ $$
 $$
 \text{ESS} = \sum_{i=1}^{n}(\hat{y}_{i}-\bar{y})
 $$
+
+
+
+## Over-fitting
+![[Pasted image 20230915123010.png]]
 
 
 
