@@ -86,3 +86,44 @@ $P_{\\text{fin. in 4}} = \frac{\text{N finish in 4}}{\text{N toss = 5 combinatio
 
 
 $\text{N("finish in 4")} = 3$
+
+
+# 15.09 Lecture
+
+№ 1.6
+![[Pasted image 20230915162525.png]]
+
+
+![[Pasted image 20230915162634.png]]
+
+$T$ - first moment of time when $X_{T} = 0$
+Start: $X_{0} = 1$
+
+Problem: Calculate P(T=k) $\forall k$
+$$
+\begin{align}
+P(T=0)=0 \\
+P(T=1)=\frac{1}{2} \\
+P(T=2)=0 \\
+P(T=3)= \frac{1}{2} \cdot \frac{1}{2} = \frac{1}{8} \\
+P(T=123) = \text{hard :)}
+\end{align}
+$$
+$$
+\begin{align}
+g(u)&=p_{0} \cdot 1 + p_{1} \cdot u+p_{2} \cdot u^2+p_{3} \cdot u^3+\dots \\
+\text{if  } g(u) &= 0 + \frac{1}{2}u^1 + 0 \cdot u^2 + \frac{1}{8} \cdot u^3
+\end{align}
+$$
+![[Pasted image 20230915163912.png|500]]
+
+$$
+E(u^T)=p_{0} \cdot u^0+p_{1} \cdot u^1 + p_{2} \cdot u^2
+$$
+Calculate only one function $E(u^T) \implies$ 
+$\implies$Extract all probabilities.
+$$
+\begin{align}
+g(u)&=E(u^T) =\frac{1}{2}
+\end{align}
+$$

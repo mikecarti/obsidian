@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/classes.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/classes.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/classes.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/classes.md"
+                "file": "Stochastic Processes/Classwork.md"
               }
             }
           },
@@ -179,8 +179,13 @@
   },
   "active": "d0618e340c670ed7",
   "lastOpenFiles": [
-    "Machine Learning/Linear Regression.md",
+    "photos/Pasted image 20230915163912.png",
+    "photos/Pasted image 20230915162634.png",
+    "photos/Pasted image 20230915162525.png",
+    "Competitive Equilibrium.md",
+    "Financial Economics/Financial Economics.md",
     "Econometrics/classes.md",
+    "Machine Learning/Linear Regression.md",
     "Econometrics/R Squared.md",
     "photos/Pasted image 20230915123010.png",
     "diary/2023-09-15.md",
@@ -196,8 +201,6 @@
     "Machine Learning/Feature Discretization.md",
     "photos/Pasted image 20230915120045.png",
     "photos/Pasted image 20230915115837.png",
-    "photos/Pasted image 20230915115033.png",
-    "photos/Pasted image 20230915114953.png",
     "Machine Learning/Feature Binarization.md",
     "Machine Learning/Categorical features.md",
     "Mathematical Optimization/Classes.md",
@@ -213,9 +216,6 @@
     "Machine Learning/Multicollinearity.md",
     "XGBoost.md",
     "Machine Learning/Supervised Learning.md",
-    "Word embeddings.md",
-    "Attention Mechanism.md",
-    "Model Training.md",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
