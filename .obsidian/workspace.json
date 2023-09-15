@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c675f0501f5115df",
+        "id": "e055ba714771a459",
         "type": "tabs",
         "children": [
           {
-            "id": "22b36ff2168ac376",
+            "id": "8ed8f13b31a7c941",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematical Optimization/Classes.md",
+                "file": "Machine Learning/Linear Regression.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,43 +21,19 @@
             }
           },
           {
-            "id": "043eaf037c05a5b6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.11"
-              }
-            }
-          },
-          {
-            "id": "a684534eecacc45c",
+            "id": "41ee4d75225c3582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Statistics Basic Properties.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bed652e2e867b1bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SBERT.md",
+                "file": "Feature Discretization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SBERT.md",
+                "file": "Machine Learning/Linear Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SBERT.md",
+                "file": "Machine Learning/Linear Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SBERT.md"
+                "file": "Machine Learning/Linear Regression.md"
               }
             }
           },
@@ -214,8 +190,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bed652e2e867b1bb",
+  "active": "8ed8f13b31a7c941",
   "lastOpenFiles": [
+    "Feature Discretization.md",
+    "Machine Learning/Linear Regression.md",
+    "photos/Pasted image 20230915113431.png",
+    "Feature Binarization.md",
+    "Categorical features.md",
+    "Mathematical Optimization/Classes.md",
+    "Econometrics/Statistics Basic Properties.md",
+    "SBERT.md",
     "diary/2023-09-14.md",
     "BERT.md",
     "Econometrics/Estimators.md",
@@ -223,7 +207,6 @@
     "Stochastic Processes/Student distribution.md",
     "Stochastic Processes/Time Series.md",
     "Stochastic Processes/Stochastic Processes and Time Series.md",
-    "Machine Learning/Linear Regression.md",
     "Excalidraw/Drawing 2023-09-13 20.07.21.excalidraw.md",
     "Machine Learning/Multicollinearity.md",
     "XGBoost.md",
@@ -235,13 +218,6 @@
     "Stochastic Processes/Markov chain.md",
     "Stochastic Processes/Markov Processes.md",
     "General Adversarial Network.md",
-    "Stochastic Processes/Classwork.md",
-    "Mathematical Optimization/Flow Model.md",
-    "Mathematical Optimization/Optimization Math Notations.md",
-    "Mathematical Optimization/Mathematical Optimization.md",
-    "Mathematical Optimization/Classes.md",
-    "Neural Network.md",
-    "diary/2023-09-13.md",
     "photos/Pasted image 20230912165700.png",
     "photos/Pasted image 20230912155522.png",
     "Excalidraw",
@@ -255,7 +231,6 @@
     "Financial Economics",
     "photos/Pasted image 20230909104128.png",
     "photos/Pasted image 20230908121251.png",
-    "photos/Pasted image 20230908121249.png",
     "Mathematical Optimization",
     "Excalidraw",
     "Machine Learning/Seminar Collabs",
