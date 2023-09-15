@@ -133,7 +133,9 @@ $T_{1},T_{2},T$ identically distributed**
 ![[Pasted image 20230915165416.png]]
 *Replacing $T$ with $1 +T_{1}+T_{2}$*
 
-
+Powerful ideas for this task:
+- [[Probability Generating Function]]
+- [[First Step Analysis]]
 $$
 \begin{align}
 E(u^T) &=\frac{1}{2}u^1+\frac{1}{2}E(u^{1+T_{1}+T_{2}}) \\
@@ -143,12 +145,45 @@ u^2g^2&-2gu+1-1+u=0 \\
 (ug-1)^2&=1-u^2 \\
 ug-1&=\pm \sqrt{ 1-u^2 } \\
 g(u)&={ \frac{1\pm\sqrt{ 1-u^2 }}{u}} \\
-(t+1)^{\alpha} &= 1 + C^1_{n}+C^2_{n}+C^3_{n} \cdot t^3 +\dots\\
+(t+1)^{\alpha} &= 1 + C^1_{n}+C^2_{n}+C^3_{n} \cdot t^3 +\dots \;\;\;\ t = -u^2 \\ \\
 g(u)&=\frac{{1\pm(1-u^2)^{1/2}}}{u} \;\;\;\; \text{choosing}  \; - \\
-g(u)&=0+\frac{1}{2}u+0 \cdot u^2+\frac{1}{8} \cdot u^3 + \dots \\
-g(u)&=C^1_{0.5}u - C^2_{0.5}u^3 + C^3_{0.5}u^5 \\
-C^3_{5} = \frac{5!}{3!2!} &\equiv C^k_{\alpha}= \frac{\alpha(\alpha-1)\dots(\alpha-l+1)}{k!} \\
-C^3_{0.5} = {0.5 \cdot (0.5-1) \cdot (0.5-2)}
+g(u)&=0+\frac{1}{2}u+0 \cdot u^2+\frac{1}{8} \cdot u^3 + 0 \cdot u^4 + \dots \\  \\
+\text{by having   } t &= -u^2 \text{ and having this taylor expansion} \\
+&\text{we can transform this to binomial form} \\
+g(u)&=C^1_{0.5}u - C^2_{0.5}u^3 + C^3_{0.5}u^5 + \dots\\ 
+C^3_{5} = \frac{5!}{3!2!} &\equiv C^k_{\alpha}= \frac{\alpha(\alpha-1)\dots(\alpha-l+1)}{k!} \implies\\
+C^3_{0.5} &= \frac{{0.5 \cdot (0.5-1) \cdot (0.5-2)}}{3!} \\ \\
 
+P(T=7) = -C^4_{0.5} &= \frac{{-0.5(-0.5-1) \cdot (0.5-2)(0.5-3)}}{4!} \\
+P(T=2n-1) &= \begin{cases}
+0 & \text{if k is even} \\
+\frac{(2n-2) \cdot (2n-4) \cdot \dots 1}{2^n \cdot n!} & \text{if k is odd}
+\end{cases}
 \end{align}
+$$
+
+
+№ 2.4
+$x \in \{ 0,1,2,3,4,\dots \}$
+$g(u) = E(u^x)=0.1+0.2u+0.15 \cdot u^2 + \dots$
+$P(X=0)=0.1$
+$P(X=1)=0.2$
+$P(X=2)=0.15$
+$P(X=3) \in [0; 0.55]$
+
+
+№ 2.3
+$$
+MGF = E(\exp(tu))= 1+2t+7t^2+20t^3 + \dots
+$$
+$E(u)=M'(0) = [2+7 \cdot_{2} \cdot t + 20 \cdot_{3} \cdot t^2]_{t=0}=2$ 
+$E(u^2) =M''(0) = 7 \cdot 2=14$
+$E(u^3) =M'''(0) = 20 \cdot 2 \cdot 3 \cdot 1 = 120$
+$Var(u)=14-2^2=10$
+
+$$
+MGF(t)=1+k_{1} \cdot t+k_{2} \cdot t^2 + \dots
+$$
+$$
+E(u^n)=k_{n} \cdot n!
 $$
