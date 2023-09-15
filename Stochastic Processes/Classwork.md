@@ -90,7 +90,7 @@ $\text{N("finish in 4")} = 3$
 
 # 15.09 Lecture
 
-№ 1.6
+#### № 1.6
 ![[Pasted image 20230915162525.png]]
 
 
@@ -112,9 +112,10 @@ $$
 $$
 \begin{align}
 g(u)&=p_{0} \cdot 1 + p_{1} \cdot u+p_{2} \cdot u^2+p_{3} \cdot u^3+\dots \\
-\text{if  } g(u) &= 0 + \frac{1}{2}u^1 + 0 \cdot u^2 + \frac{1}{8} \cdot u^3
+\text{if  } g(u) &= 0 + \frac{1}{2}u^1 + 0 \cdot u^2 + \frac{1}{8} \cdot u^3 + \dots
 \end{align}
 $$
+where $u$ - argument of a function (way to pack all probabilities in 1 func.)
 ![[Pasted image 20230915163912.png|500]]
 
 $$
@@ -122,8 +123,32 @@ E(u^T)=p_{0} \cdot u^0+p_{1} \cdot u^1 + p_{2} \cdot u^2
 $$
 Calculate only one function $E(u^T) \implies$ 
 $\implies$Extract all probabilities.
+
+Divide paths into segments:
+![[Pasted image 20230915164551.png |400]]
+
+**$T_{1}, T_{2}$ are independent
+$T_{1},T_{2},T$ identically distributed**
+
+![[Pasted image 20230915165416.png]]
+*Replacing $T$ with $1 +T_{1}+T_{2}$*
+
+
 $$
 \begin{align}
-g(u)&=E(u^T) =\frac{1}{2}
+E(u^T) &=\frac{1}{2}u^1+\frac{1}{2}E(u^{1+T_{1}+T_{2}}) \\
+E(u^T) &=\frac{1}{2}u^1+\frac{1}{2}E(u) \cdot E(u^{T_{1}}) \cdot E(u^{T_{2}})  \\
+g(u)&=\frac{1}{2} \cdot u+ \frac{1}{2} \cdot u \cdot g(u)  \cdot g(u) \\
+u^2g^2&-2gu+1-1+u=0 \\
+(ug-1)^2&=1-u^2 \\
+ug-1&=\pm \sqrt{ 1-u^2 } \\
+g(u)&={ \frac{1\pm\sqrt{ 1-u^2 }}{u}} \\
+(t+1)^{\alpha} &= 1 + C^1_{n}+C^2_{n}+C^3_{n} \cdot t^3 +\dots\\
+g(u)&=\frac{{1\pm(1-u^2)^{1/2}}}{u} \;\;\;\; \text{choosing}  \; - \\
+g(u)&=0+\frac{1}{2}u+0 \cdot u^2+\frac{1}{8} \cdot u^3 + \dots \\
+g(u)&=C^1_{0.5}u - C^2_{0.5}u^3 + C^3_{0.5}u^5 \\
+C^3_{5} = \frac{5!}{3!2!} &\equiv C^k_{\alpha}= \frac{\alpha(\alpha-1)\dots(\alpha-l+1)}{k!} \\
+C^3_{0.5} = {0.5 \cdot (0.5-1) \cdot (0.5-2)}
+
 \end{align}
 $$
