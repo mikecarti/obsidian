@@ -11,13 +11,8 @@
             "id": "d0618e340c670ed7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes/Classwork.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stochastic Processes/Classwork.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,6 +169,8 @@
   },
   "active": "d0618e340c670ed7",
   "lastOpenFiles": [
+    "Stochastic Processes/First Step Analysis.md",
+    "Stochastic Processes/Classwork.md",
     "photos/Pasted image 20230915165416.png",
     "photos/Pasted image 20230915164551.png",
     "photos/Pasted image 20230915163912.png",
@@ -198,7 +190,6 @@
     "photos/Pasted image 20230915122118.png",
     "Hyperbolic Functions.md",
     "photos/Pasted image 20230915121057.png",
-    "photos/Pasted image 20230915120915.png",
     "Stochastic Processes/Moment Generating Function.md",
     "Machine Learning/Feature Discretization.md",
     "Machine Learning/Feature Binarization.md",
@@ -215,7 +206,6 @@
     "Excalidraw/Drawing 2023-09-13 20.07.21.excalidraw.md",
     "Machine Learning/Multicollinearity.md",
     "XGBoost.md",
-    "Machine Learning/Supervised Learning.md",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",

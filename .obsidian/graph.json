@@ -57,13 +57,6 @@
       }
     },
     {
-      "query": "path:\"Financial Economics\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 19780
-      }
-    },
-    {
       "query": "path:diary  ",
       "color": {
         "a": 1,
@@ -73,14 +66,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 0.905363321799308,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.589511111111111,
-  "repelStrength": 10.8041481481481,
-  "linkStrength": 0.908482301830354,
-  "linkDistance": 170,
-  "scale": 0.7281224407090344,
-  "close": true
+  "collapse-forces": false,
+  "centerStrength": 0.475778546712803,
+  "repelStrength": 10.5536332179931,
+  "linkStrength": 0.790657439446367,
+  "linkDistance": 171,
+  "scale": 0.3128582606543073,
+  "close": false
 }

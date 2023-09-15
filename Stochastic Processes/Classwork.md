@@ -145,9 +145,8 @@ u^2g^2&-2gu+1-1+u=0 \\
 (ug-1)^2&=1-u^2 \\
 ug-1&=\pm \sqrt{ 1-u^2 } \\
 g(u)&={ \frac{1\pm\sqrt{ 1-u^2 }}{u}} \\
-(t+1)^{\alpha} &= 1 + C^1_{n}+C^2_{n}+C^3_{n} \cdot t^3 +\dots \;\;\;\ t = -u^2 \\ \\
-g(u)&=\frac{{1\pm(1-u^2)^{1/2}}}{u} \;\;\;\; \text{choosing}  \; - \\
-g(u)&=0+\frac{1}{2}u+0 \cdot u^2+\frac{1}{8} \cdot u^3 + 0 \cdot u^4 + \dots \\  \\
+(t+1)^{\alpha} &= 1 + C^1_{n}+C^2_{n}+C^3_{n} \cdot t^3 +\dots \;\;\;\ t = -u^2 \\ 
+g(u)&=\frac{{1\pm(1-u^2)^{1/2}}}{u} \;\;\;\; \text{choosing}  \; - \\ 
 \text{by having   } t &= -u^2 \text{ and having this taylor expansion} \\
 &\text{we can transform this to binomial form} \\
 g(u)&=C^1_{0.5}u - C^2_{0.5}u^3 + C^3_{0.5}u^5 + \dots\\ 
@@ -180,7 +179,6 @@ $E(u)=M'(0) = [2+7 \cdot_{2} \cdot t + 20 \cdot_{3} \cdot t^2]_{t=0}=2$
 $E(u^2) =M''(0) = 7 \cdot 2=14$
 $E(u^3) =M'''(0) = 20 \cdot 2 \cdot 3 \cdot 1 = 120$
 $Var(u)=14-2^2=10$
-
 $$
 MGF(t)=1+k_{1} \cdot t+k_{2} \cdot t^2 + \dots
 $$
