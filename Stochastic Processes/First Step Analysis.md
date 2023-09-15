@@ -1,8 +1,14 @@
 (Average number of steps, time, etc)
 Discuss only 1st step of the game.
 
+Related:
+- [[Moment Generating Function]]
+- [[Markov Processes]]
 
-## Example:
+## Examples:
+1) [[Classwork#№ 1.6]]
+2) Below
+
 ![[Pasted image 20230912150256.png]]
 $\mu - \text{Expected number of steps}$
 $1$ - in the beginning is like a super-position state

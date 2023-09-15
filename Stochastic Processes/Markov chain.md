@@ -31,7 +31,7 @@ If Apple's share worth 100$, You should make a decision solely based on that it 
 - Markov Chain may not have unconnected nodes.
 
 
-## Homogeneous Markov Chain
+## [[Homogeneous]] Markov Chain
 The chain $X_N$ is homogeneous if its transition probabilities do not depend on the time (value of n)
 $$
 P(X_{n+1}=j|X_{n} = i) = P(X_{1}=j|X_{0} = i)  

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1e95d04e8562d3cc",
+        "id": "483442f0aa0d9a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "d0618e340c670ed7",
+            "id": "b33460093e416fb5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hyperbolic Functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hyperbolic Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hyperbolic Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hyperbolic Functions.md"
+              }
             }
           },
           {
@@ -167,16 +176,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d0618e340c670ed7",
+  "active": "b33460093e416fb5",
   "lastOpenFiles": [
     "Stochastic Processes/First Step Analysis.md",
+    "Stochastic Processes/Markov chain.md",
     "Stochastic Processes/Classwork.md",
+    "Competitive Equilibrium.md",
     "photos/Pasted image 20230915165416.png",
     "photos/Pasted image 20230915164551.png",
     "photos/Pasted image 20230915163912.png",
     "photos/Pasted image 20230915162634.png",
     "photos/Pasted image 20230915162525.png",
-    "Competitive Equilibrium.md",
     "Financial Economics/Financial Economics.md",
     "Econometrics/classes.md",
     "Machine Learning/Linear Regression.md",
@@ -205,7 +215,6 @@
     "Stochastic Processes/Stochastic Processes and Time Series.md",
     "Excalidraw/Drawing 2023-09-13 20.07.21.excalidraw.md",
     "Machine Learning/Multicollinearity.md",
-    "XGBoost.md",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
