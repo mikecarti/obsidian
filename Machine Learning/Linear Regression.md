@@ -63,86 +63,11 @@ $y$ - ground truth
 $z$ - prediction
 
 $Q(a,X) = \frac{1}{l}\\sum_{i=1}^{l}L(y_{i}, a(x_{i}))$
-### Mean Squared Error
-$$
-L(y,z) = (y-z)^2
-$$
-$$
-Q(a, X)=\frac{1}{\ell}\sum_{i=1}^{\ell}(a(x_{i})-y_{i})^2 : \text{MSE}
-$$
-![[Pasted image 20230915114953.png|400]]
-(*квадратные рубли*)
 
-#### RMSE
-$$
-RMSE = \sqrt{ \frac{1}{\ell}\sum_{i=1}^{\ell}(a(x_{i})-y_{i})^2 } = \text{Real values (not)}^2
-$$
-#### $R^2$ ([[R Squared]])
-$$
-R^2 = 1 - \frac{\sum_{i=1}^{\ell}(a(x_{i})-y_{i})^2}{\sum_{i=1}^{\ell}(y_{i}-\bar{y})^2}
-$$
-(coefficient of determination)
+Related:
+1) [[Errors for ML Algorithms]]
 
-$$
-\begin{align}
-a(x_{i})=y_{i} \implies R^2=1 \\
-a(x_{i})=\bar{y} \implies R^2=0
-\end{align}
-$$
-For reasonable models $0< R^2 \leq 1$
 
-#### MAE
-$$
-L(y,z)=\mid y-z\mid
-$$
-$$
-MAE=\frac{1}{\ell}\sum_{i=1}^{\ell}\mid a(x_{i}-y_{i})\mid
-$$
-![[Pasted image 20230915115837.png]]
-
-![[Pasted image 20230915120045.png]]
-
-[[Linear Regression#Mean Squared Error |MSE]] стимулирует подгонку под выбросы (сильнее парится по поводу объектов, на которых вы сильно ошибаетесь)
-[[Linear Regression#MAE|MAE]] лучше игнорирует выбросы
-
-Then, why we do not use [[Linear Regression#MAE|MAE]] all the time?
-1) It may be good to штрафовать for big errors
-2) On [[Linear Regression#Mean Squared Error |MSE]], we can get [[Gradient]] and understand how CLOSE we are to extremum. So using [[Linear Regression#MAE|MAE]] we can not understand how far we from the minimum
-
-#### Huber's loss
-Let us take the best from both worlds (MAE, MSE)
-$$
-L_{\beta}(y,z) = \begin{cases} \\
-\frac{1}{2}(y-z)^2&, |y-z| <\beta \\
-\beta\left( |y-z|-\frac{1}{2}\beta \right)& , |y-z| >\ \beta
-\end{cases}
-$$
-$\beta$ - гипер-параметер
-В точках перехода проблемы с производной
-
-![[Pasted image 20230915121057.png]]
-
-As $\beta$ gets bigger, then bigger errors we do not count as [[outliers]]. We move the point of transition from MSE-like graph to MAE-like graph.
-
-There is a problem with second derivative, BUT we can FIX THAT ALSO.
-
-#### Log-Cosh
-$$
-L(y,z) = \log \cosh(y-z)
-$$
-(where $\cosh (x)$ is a [[Hyperbolic Functions|Hyperbolic Cosinus]])
-- second derivative is Continuous
-- very similar to Huber's Loss
-
-#### MSLE
-- Mean Squared Logarithmic Error
-- $$
-L(y,z)= (\log(z+1)-\log(y+1))^2
-$$
-
-Assumptions:
-- $y \geq 0$
-- $z \geq 0$
 
 #### Относительные Функции Потерь
 $$
