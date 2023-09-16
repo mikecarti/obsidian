@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyperbolic Functions.md",
+                "file": "Atomic Idea X.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyperbolic Functions.md",
+                "file": "Atomic Idea X.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hyperbolic Functions.md",
+                "file": "Atomic Idea X.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hyperbolic Functions.md"
+                "file": "Atomic Idea X.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "b33460093e416fb5",
   "lastOpenFiles": [
+    "Hyperbolic Functions.md",
+    "Atomic Idea X.md",
     "Stochastic Processes/First Step Analysis.md",
     "Stochastic Processes/Markov chain.md",
     "Stochastic Processes/Classwork.md",
@@ -198,7 +200,6 @@
     "photos/Pasted image 20230915122502.png",
     "photos/Pasted image 20230915122152.png",
     "photos/Pasted image 20230915122118.png",
-    "Hyperbolic Functions.md",
     "photos/Pasted image 20230915121057.png",
     "Stochastic Processes/Moment Generating Function.md",
     "Machine Learning/Feature Discretization.md",
@@ -214,7 +215,6 @@
     "Stochastic Processes/Time Series.md",
     "Stochastic Processes/Stochastic Processes and Time Series.md",
     "Excalidraw/Drawing 2023-09-13 20.07.21.excalidraw.md",
-    "Machine Learning/Multicollinearity.md",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
