@@ -8,3 +8,5 @@
 - [[MAPE]]
 - [[SMAPE]]
 - [[Quantile Loss Function]]
+- [[Relative Loss Function]]
+

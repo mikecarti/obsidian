@@ -1,5 +1,5 @@
 
-## Definition
+## Definition:
 $$
 E(Y|\bar{X}) = f(\bar{X}) 
 $$
@@ -34,9 +34,9 @@ $a(x) = w_{0}+w_{1} \cdot \text{area} + w_{2} \cdot \text{floor}+w_{3} \cdot \te
 - Features influence target linearly. 
 $\implies$ **For linear models data must be PREPARED**
 
+## Examples:
 ### [[Categorical features]]
 $a(x)= w_{0}+w_{1} \cdot \text{[хамовники]}+w_{2} \cdot \text{[басманная]}+\dots$
-### [[Feature Discretization]]
 ### [[Polynomial features]]
 area - $x_{1}$
 floor - $x_{2}$
@@ -66,73 +66,11 @@ $Q(a,X) = \frac{1}{l}\\sum_{i=1}^{l}L(y_{i}, a(x_{i}))$
 
 Related:
 1) [[Errors for ML Algorithms]]
+2) [[Multicollinearity]]
+3) [[Expected Probability Error (EPE)]]
+4) [[Ordinary Least Squares (OLS)]]
+5) [[Feature Discretization]]
 
 
-
-#### Относительные Функции Потерь
-$$
-L(y,z)=\frac{|{y-z}|}{y}
-$$
-##### MAPE
-$$
-\frac{1}{\ell}\sum_{i=1}^{\ell}\mid \frac{{y_{i}-a(x_{i})/}}{y_{}}\mid \;\;: MAPE
-$$
-- L = 2 $\implies$ ошибка в 2 раза.
-- Good for different масштабы of target variable
-- MAE с весами
-  ![[Pasted image 20230915122118.png]]
-will tell these errors apart (1, 0 is a significant error).
-![[Pasted image 20230915122152.png | 400]]
-##### SMAPE
-$$
-L(y,z) = \frac{{|y-z|}}{\frac{|y|+|z|}{2}}
-$$
-#### Quantile Loss Function
-$$
-L(y,z)=(t-1)[y-z < 0](y-z) + t[y-z\geq 0](y-z)
-$$
-![[Pasted image 20230915122502.png]]
-
-
-### Minimization of errors (OLS)
-$$
-e_{i} = Y_{i} - (\hat{\beta}_{0}+\hat{\beta}_{1}x_{i})
-$$
-$$
-\sum_{i=1}^{n}{e_{i}^2}\to \min\limits_{\beta_{0}, \beta_{1}}
-$$
-*Note*: Residuals are not errors. Errors are R.V. Residuals are just numbers. Do not confuse them. 
-
-
-### Residual sum of squares 
-$$
-\text{RSS} = \sum_{i=1}^{n}e^2_{i}
-$$
-
-### Error sum of squares
-$$
-\text{ESS} = \sum_{i=1}^{n}(\hat{y}_{i}-\bar{y})
-$$
-
-
-
-## Over-fitting
-![[Pasted image 20230915123010.png]]
-
-
-
-## [[Multicollinearity]] 
-If features are colinear, if you can exchange time for quality, dont take away colinear features.
-Theoretical weights ($beta$) solving
-$$
-\beta = (E[XX^T])^{-1}Xy
-$$
-In case if matrix is singular, then we may use
-"Moore-Pemrose inverse"
-"Pseudoinverse"
-
-### EPE(f) (Expected loss to be minimized by choosing the right model $f$)
- $$EPE(f) = E \left[ L(y,f(X)) \right] = E\left[ (y − f(X))^2\right] \to \min_{f}.$$
- 
 
 
