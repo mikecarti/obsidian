@@ -14,32 +14,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "30bfce53e68e6d10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Errors for ML Algorithms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bda2e0c28bbecae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/RMSE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -195,8 +169,17 @@
   },
   "active": "b33460093e416fb5",
   "lastOpenFiles": [
-    "Machine Learning/Linear Regression.md",
+    "diary/2023-09-13.md",
+    "diary/2023-09-15.md",
+    "Machine Learning/DImensionality.md",
+    "Untitled.md",
+    "Machine Learning/Feature Binarization.md",
+    "Machine Learning/Train-Test Split.md",
+    "Distribution.md",
     "Machine Learning/Errors for ML Algorithms.md",
+    "Stochastic Processes/Student distribution.md",
+    "Econometrics/Student's Distribution.md",
+    "Machine Learning/Linear Regression.md",
     "Machine Learning/Ordinary Least Squares (OLS).md",
     "Machine Learning/Expected Probability Error (EPE).md",
     "Machine Learning/Multicollinearity.md",
@@ -212,20 +195,11 @@
     "Machine Learning/MAE.md",
     "Machine Learning/RMSE.md",
     "Machine Learning/MSE.md",
-    "diary/2023-09-16.md",
-    "Machine Learning/Entropy.md",
-    "Hyperbolic Functions.md",
-    "Stochastic Processes/First Step Analysis.md",
-    "Stochastic Processes/Markov chain.md",
-    "Stochastic Processes/Classwork.md",
-    "Competitive Equilibrium.md",
     "photos/Pasted image 20230915165416.png",
     "photos/Pasted image 20230915164551.png",
     "photos/Pasted image 20230915163912.png",
     "photos/Pasted image 20230915162634.png",
     "photos/Pasted image 20230915162525.png",
-    "Financial Economics/Financial Economics.md",
-    "Econometrics/classes.md",
     "photos/Pasted image 20230915123010.png",
     "Untitled 1.canvas",
     "photos/Pasted image 20230915122502.png",

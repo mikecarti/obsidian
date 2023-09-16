@@ -1,3 +1,4 @@
 {
-  "folder": "diary/"
+  "folder": "diary/",
+  "autorun": true
 }
