@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Potential.md",
+                "file": "Discriminant.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Potential.md",
+                "file": "Discriminant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Potential.md",
+                "file": "Discriminant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Potential.md"
+                "file": "Discriminant.md"
               }
             }
           },
@@ -179,8 +179,10 @@
   },
   "active": "b33460093e416fb5",
   "lastOpenFiles": [
-    "Cusp Catastrophe.md",
     "Potential.md",
+    "Discriminant.md",
+    "Catastrophe Theory.md",
+    "Cusp Catastrophe.md",
     "photos/Pasted image 20230917132331.png",
     "Universal Unfolding.md",
     "Degenerate Singularity.md",
@@ -205,8 +207,6 @@
     "Machine Learning/Expected Probability Error (EPE).md",
     "Machine Learning/Multicollinearity.md",
     "Machine Learning/Relative Loss Function.md",
-    "Machine Learning/R^2.md",
-    "Machine Learning/Quantile Loss Function.md",
     "photos/Pasted image 20230915165416.png",
     "photos/Pasted image 20230915164551.png",
     "photos/Pasted image 20230915163912.png",
