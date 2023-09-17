@@ -7,7 +7,7 @@ $$
 Y - true response.
 $\alpha$ - normal control factor (asymmetry)
 $\beta$ - splitting control factor (bifurcation, разветвление)
-$V$ - potential function defined:
+$V$ - [[Potential]] function of the system defined:
 $$
 V(x;u,v)=v x + u x^2 + x^4
 $$

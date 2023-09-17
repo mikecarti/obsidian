@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Potential.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Potential.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cusp Catastrophe.md"
+                "file": "Potential.md"
               }
             }
           },
@@ -179,9 +179,10 @@
   },
   "active": "b33460093e416fb5",
   "lastOpenFiles": [
+    "Cusp Catastrophe.md",
+    "Potential.md",
     "photos/Pasted image 20230917132331.png",
     "Universal Unfolding.md",
-    "Cusp Catastrophe.md",
     "Degenerate Singularity.md",
     "Degeneracy.md",
     "Singularity.md",
@@ -215,7 +216,6 @@
     "Untitled 1.canvas",
     "photos/Pasted image 20230915122502.png",
     "photos/Pasted image 20230915122152.png",
-    "photos/Pasted image 20230915122118.png",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
