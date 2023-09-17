@@ -16,7 +16,7 @@ giving us:
 $$
 \frac{dY}{dt} = \frac{d\left( \alpha Y + \frac{1}{2}\beta Y^2 - \frac{1}{4}Y^4 \right)}{dY}
 $$
-
+if change in function $V$ w.r.t. $Y$ go to 0, then changes in $Y$ happening through time $t$ will also go to 0. (stable state)
 
 
 ### Notes:
