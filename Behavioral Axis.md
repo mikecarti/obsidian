@@ -1,0 +1,1 @@
+Behavioral Axis in [[Catastrophe]] Theory resembles a state of a system. For example, density of biomass cells in a $cm^3$ of water. 
