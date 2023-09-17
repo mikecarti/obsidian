@@ -18,7 +18,7 @@ $$
 $$
 if change in function $V$ w.r.t. $x$ go to 0, then changes in $x$ happening through time $t$ will also go to 0. (stable state)
 
-
+![[Pasted image 20230917132331.png]]
 ### Notes:
 - highly relevant for researchers as both a guidance and methodology to investigate phenomena with bimodal distribution and sudden jumps
 
