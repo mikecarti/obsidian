@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principal Component Analysis (PCA).md",
+                "file": "Cusp Catastrophe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principal Component Analysis (PCA).md",
+                "file": "Cusp Catastrophe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principal Component Analysis (PCA).md",
+                "file": "Cusp Catastrophe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principal Component Analysis (PCA).md"
+                "file": "Cusp Catastrophe.md"
               }
             }
           },
@@ -194,6 +194,8 @@
   "lastOpenFiles": [
     "Control Factors.md",
     "Principal Component Analysis (PCA).md",
+    "photos/Pasted image 20230917194426 1.png",
+    "photos/Pasted image 20230917194426.png",
     "Cusp Catastrophe.md",
     "Behavioral Axis.md",
     "diary/2023-09-17.md",
@@ -219,7 +221,6 @@
     "Stochastic Processes/Student distribution.md",
     "Econometrics/Student's Distribution.md",
     "Machine Learning/Linear Regression.md",
-    "Machine Learning/Ordinary Least Squares (OLS).md",
     "photos/Pasted image 20230915165416.png",
     "photos/Pasted image 20230915164551.png",
     "photos/Pasted image 20230915163912.png",
@@ -227,8 +228,6 @@
     "photos/Pasted image 20230915162525.png",
     "photos/Pasted image 20230915123010.png",
     "Untitled 1.canvas",
-    "photos/Pasted image 20230915122502.png",
-    "photos/Pasted image 20230915122152.png",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
