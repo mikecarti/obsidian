@@ -1,0 +1,4 @@
+- K Means
+	- specify k number of clusters
+- DBSCAN (Density-based spatial clustering of applications with noise)
+	 - specify what is a cluster

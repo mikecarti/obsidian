@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Unsupervised Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Unsupervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Unsupervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cusp Catastrophe.md"
+                "file": "Unsupervised Learning.md"
               }
             }
           },
@@ -192,11 +192,15 @@
   },
   "active": "b33460093e416fb5",
   "lastOpenFiles": [
+    "Anomaly Detection.md",
+    "Unsupervised Learning.md",
+    "Clustering Models.md",
+    "diary/2023-09-18.md",
+    "Cusp Catastrophe.md",
     "Control Factors.md",
     "Principal Component Analysis (PCA).md",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
-    "Cusp Catastrophe.md",
     "Behavioral Axis.md",
     "diary/2023-09-17.md",
     "diary/Cusp Catastrophe Research.md",
@@ -218,9 +222,6 @@
     "Machine Learning/Train-Test Split.md",
     "Distribution.md",
     "Machine Learning/Errors for ML Algorithms.md",
-    "Stochastic Processes/Student distribution.md",
-    "Econometrics/Student's Distribution.md",
-    "Machine Learning/Linear Regression.md",
     "photos/Pasted image 20230915165416.png",
     "photos/Pasted image 20230915164551.png",
     "photos/Pasted image 20230915163912.png",
