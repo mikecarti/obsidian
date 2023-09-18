@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "diary/2023-09-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "diary/2023-09-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "diary/2023-09-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cusp Catastrophe.md"
+                "file": "diary/2023-09-18.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "b33460093e416fb5",
   "lastOpenFiles": [
-    "Universal Unfolding.md",
     "Cusp Catastrophe.md",
+    "Universal Unfolding.md",
     "diary/2023-09-18.md",
     "Unsupervised Learning.md",
     "Anomaly Detection.md",
