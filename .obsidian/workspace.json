@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
+                "file": "diary/2023-09-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
+                "file": "diary/2023-09-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
+                "file": "diary/2023-09-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md"
+                "file": "diary/2023-09-19.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "e573c445e0cc12ab",
   "lastOpenFiles": [
-    "Machine Learning/Errors for ML Algorithms.md",
     "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
+    "Machine Learning/Errors for ML Algorithms.md",
     "diary/2023-09-19.md",
     "Machine Learning/Huber's Loss.md",
     "Econometrics/classes.md",
