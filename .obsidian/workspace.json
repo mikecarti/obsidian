@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Over-fitting.md",
+                "file": "Cusp Catastrophe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Over-fitting.md",
+                "file": "Cusp Catastrophe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Over-fitting.md",
+                "file": "Cusp Catastrophe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Over-fitting.md"
+                "file": "Cusp Catastrophe.md"
               }
             }
           },
@@ -192,8 +192,13 @@
   },
   "active": "518f0181d4bc427d",
   "lastOpenFiles": [
-    "Few Data (Small Datasets).md",
     "Over-fitting.md",
+    "Cusp Catastrophe.md",
+    "Universal Unfolding.md",
+    "Degenerate Singularity.md",
+    "Singularity.md",
+    "photos/Pasted image 20230919232912.png",
+    "Few Data (Small Datasets).md",
     "Deep Learning.md",
     "diary/2023-09-19.md",
     "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
@@ -214,11 +219,7 @@
     "photos/Markov chain 2023-09-05 15.52.27.excalidraw.md",
     "Behavioral Axis.md",
     "photos/Pasted image 20230919152104.png",
-    "Cusp Catastrophe.md",
     "diary/2023-09-18.md",
-    "Universal Unfolding.md",
-    "Control Factors.md",
-    "Principal Component Analysis (PCA).md",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
     "photos/Pasted image 20230917132331.png",
@@ -227,7 +228,6 @@
     "photos/Pasted image 20230915164551.png",
     "photos/Pasted image 20230915163912.png",
     "photos/Pasted image 20230915162634.png",
-    "photos/Pasted image 20230915162525.png",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
