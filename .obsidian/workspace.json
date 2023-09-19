@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Errors for ML Algorithms.md",
+                "file": "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Errors for ML Algorithms.md",
+                "file": "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Errors for ML Algorithms.md",
+                "file": "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Errors for ML Algorithms.md"
+                "file": "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md"
               }
             }
           },
@@ -178,9 +178,10 @@
   },
   "active": "e573c445e0cc12ab",
   "lastOpenFiles": [
+    "Machine Learning/Errors for ML Algorithms.md",
+    "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "diary/2023-09-19.md",
     "Machine Learning/Huber's Loss.md",
-    "Machine Learning/Errors for ML Algorithms.md",
     "Econometrics/classes.md",
     "Databases/Databases.md",
     "probability.md",
@@ -206,7 +207,6 @@
     "diary/2023-09-17.md",
     "diary/Cusp Catastrophe Research.md",
     "Potential.md",
-    "Catastrophe Theory.md",
     "photos/Pasted image 20230917132331.png",
     "photos/Pasted image 20230917091718.png",
     "photos/Pasted image 20230915165416.png",
