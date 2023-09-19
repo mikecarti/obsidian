@@ -185,3 +185,43 @@ $$
 $$
 E(u^n)=k_{n} \cdot n!
 $$
+
+# 19.09 Seminar
+![[Pasted image 20230919152104.png|600]]
+$\pi_{1}$ is a stationary [[Markov chain]]
+
+$N$ - number of times we visit points
+$N_{i}$ - number of times we've been in point $i$
+$$
+\begin{bmatrix}
+\pi_{1} \\
+\pi_{2} \\
+\pi_{3} \\
+\end{bmatrix} - \text{stationary distribution}
+$$
+China: $\pi_{1}=\frac{2}{3}\pi_{2}$ 
+Russia: $\pi_{2}=\frac{3}{4}\pi_{1} +\frac{1}{2}\pi_{2} + \frac{1}{2}\pi_{3}$
+UAE: $\pi_{3}=\frac{1}{4}\pi_{1}+\frac{1}{2}\pi_{3}$
+
+Solutions:
+$$
+\begin{bmatrix}
+\pi_{1} \\
+\pi_{2} \\
+\pi_{3}
+\end{bmatrix} = \begin{bmatrix}
+\frac{1}{3} \\
+\frac{1}{2} \\
+\frac{1}{6}
+\end{bmatrix}
+$$
+
+if $\lim_{ n \to \infty }\mathbb{P}^N$
+$$
+\mathbb{R}_{stationary}=\begin{bmatrix}
+\frac{1}{3} & \frac{1}{2} & \frac{1}{6} \\
+\frac{1}{3} & \frac{1}{2} & \frac{1}{6} \\
+\frac{1}{3} & \frac{1}{2} & \frac{1}{6}
+\end{bmatrix}
+$$
+
