@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-09-19.md",
+                "file": "Few Data (Small Datasets).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-09-19.md",
+                "file": "Few Data (Small Datasets).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-09-19.md",
+                "file": "Few Data (Small Datasets).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-09-19.md"
+                "file": "Few Data (Small Datasets).md"
               }
             }
           },
@@ -178,9 +178,12 @@
   },
   "active": "e573c445e0cc12ab",
   "lastOpenFiles": [
+    "over-fitting.md",
+    "Few Data (Small Datasets).md",
+    "Deep Learning.md",
+    "diary/2023-09-19.md",
     "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "Machine Learning/Errors for ML Algorithms.md",
-    "diary/2023-09-19.md",
     "Machine Learning/Huber's Loss.md",
     "Econometrics/classes.md",
     "Databases/Databases.md",
@@ -204,9 +207,6 @@
     "Principal Component Analysis (PCA).md",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
-    "diary/2023-09-17.md",
-    "diary/Cusp Catastrophe Research.md",
-    "Potential.md",
     "photos/Pasted image 20230917132331.png",
     "photos/Pasted image 20230917091718.png",
     "photos/Pasted image 20230915165416.png",
