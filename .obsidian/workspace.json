@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "483442f0aa0d9a7b",
+        "id": "58b2120cc10f7749",
         "type": "tabs",
         "children": [
           {
-            "id": "e573c445e0cc12ab",
+            "id": "4cfbeb7db4eaf947",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Few Data (Small Datasets).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "518f0181d4bc427d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manifold Hypothesis.md",
+                "file": "Over-fitting.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -101,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manifold Hypothesis.md",
+                "file": "Over-fitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manifold Hypothesis.md",
+                "file": "Over-fitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manifold Hypothesis.md"
+                "file": "Over-fitting.md"
               }
             }
           },
@@ -191,18 +176,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "518f0181d4bc427d",
+  "active": "4cfbeb7db4eaf947",
   "lastOpenFiles": [
-    "Manifold.md",
-    "Manifold Hypothesis.md",
     "Cusp Catastrophe.md",
+    "Cusp Catastrophe Research.md",
+    "diary/2023-09-17.md",
+    "Few Data (Small Datasets).md",
+    "Interpolation.md",
+    "Deep Learning.md",
+    "Neural Network.md",
+    "Classic Deep Neural Network.md",
+    "Manifold Hypothesis.md",
+    "Manifold.md",
     "Over-fitting.md",
     "Universal Unfolding.md",
     "Degenerate Singularity.md",
     "Singularity.md",
     "photos/Pasted image 20230919232912.png",
-    "Few Data (Small Datasets).md",
-    "Deep Learning.md",
     "diary/2023-09-19.md",
     "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "Machine Learning/Errors for ML Algorithms.md",
@@ -215,11 +205,6 @@
     "Embeddings.md",
     "Word embeddings.md",
     "Anomaly Detection.md",
-    "Stochastic Processes/Finite closed classes are recurrent.md",
-    "Stochastic Processes/Infinite Markov Chains.md",
-    "Stochastic Processes/Classwork.md",
-    "Excalidraw/Drawing 2023-09-19 15.48.15.excalidraw.md",
-    "photos/Markov chain 2023-09-05 15.52.27.excalidraw.md",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",

@@ -3,4 +3,4 @@ Solution: [[K-Fold Cross Validation]]
 
 ### [[Deep Learning]] 
 When little training data is available, it’s preferable to use a small model with few
-intermediate layers (typically only one or two), in order to avoid severe [[Over-fitting]]. 
+intermediate layers (typically only one or two), in order to avoid severe [[Over-fitting]]
