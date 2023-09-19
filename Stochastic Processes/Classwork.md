@@ -187,6 +187,8 @@ E(u^n)=k_{n} \cdot n!
 $$
 
 # 19.09 Seminar
+
+
 ![[Pasted image 20230919152104.png|600]]
 $\pi_{1}$ is a stationary [[Markov chain]]
 

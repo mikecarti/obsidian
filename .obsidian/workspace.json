@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infinite Markov Chains.md",
+                "file": "Machine Learning/Errors for ML Algorithms.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infinite Markov Chains.md",
+                "file": "Machine Learning/Errors for ML Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infinite Markov Chains.md",
+                "file": "Machine Learning/Errors for ML Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infinite Markov Chains.md"
+                "file": "Machine Learning/Errors for ML Algorithms.md"
               }
             }
           },
@@ -179,20 +178,27 @@
   },
   "active": "e573c445e0cc12ab",
   "lastOpenFiles": [
+    "Machine Learning/Huber's Loss.md",
+    "Machine Learning/Errors for ML Algorithms.md",
+    "diary/2023-09-19.md",
+    "Econometrics/classes.md",
+    "Databases/Databases.md",
+    "probability.md",
+    "Unsupervised Learning.md",
+    "Clustering Models.md",
+    "Embeddings.md",
+    "Word embeddings.md",
+    "Anomaly Detection.md",
+    "Stochastic Processes/Finite closed classes are recurrent.md",
+    "Stochastic Processes/Infinite Markov Chains.md",
     "Stochastic Processes/Classwork.md",
     "Excalidraw/Drawing 2023-09-19 15.48.15.excalidraw.md",
     "photos/Markov chain 2023-09-05 15.52.27.excalidraw.md",
     "Behavioral Axis.md",
-    "Infinite Markov Chains.md",
-    "Finite closed classes are recurrent.md",
     "photos/Pasted image 20230919152104.png",
-    "diary/2023-09-19.md",
     "Cusp Catastrophe.md",
     "diary/2023-09-18.md",
     "Universal Unfolding.md",
-    "Unsupervised Learning.md",
-    "Anomaly Detection.md",
-    "Clustering Models.md",
     "Control Factors.md",
     "Principal Component Analysis (PCA).md",
     "photos/Pasted image 20230917194426 1.png",
@@ -201,15 +207,8 @@
     "diary/Cusp Catastrophe Research.md",
     "Potential.md",
     "Catastrophe Theory.md",
-    "Singularity.md",
-    "Catastrophe.md",
-    "Discriminant.md",
     "photos/Pasted image 20230917132331.png",
-    "Degenerate Singularity.md",
-    "Degeneracy.md",
     "photos/Pasted image 20230917091718.png",
-    "diary/2023-09-13.md",
-    "diary/2023-09-15.md",
     "photos/Pasted image 20230915165416.png",
     "photos/Pasted image 20230915164551.png",
     "photos/Pasted image 20230915163912.png",

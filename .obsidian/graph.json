@@ -3,9 +3,9 @@
   "search": "path:-\"photos\" OR -\"diary\"",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Stochastic Processes\"",
@@ -66,14 +66,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.6,
-  "nodeSizeMultiplier": 0.583217993079585,
-  "lineSizeMultiplier": 1.51574394463668,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.465397923875433,
-  "repelStrength": 6.88581314878893,
-  "linkStrength": 0.288927335640138,
-  "linkDistance": 150,
-  "scale": 0.5369465498151014,
-  "close": false
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7963621338461753,
+  "close": true
 }
