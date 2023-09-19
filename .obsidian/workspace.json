@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "518f0181d4bc427d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Over-fitting.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Few Data (Small Datasets).md",
+                "file": "Over-fitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Few Data (Small Datasets).md",
+                "file": "Over-fitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Few Data (Small Datasets).md"
+                "file": "Over-fitting.md"
               }
             }
           },
@@ -176,10 +190,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e573c445e0cc12ab",
+  "active": "518f0181d4bc427d",
   "lastOpenFiles": [
-    "over-fitting.md",
     "Few Data (Small Datasets).md",
+    "Over-fitting.md",
     "Deep Learning.md",
     "diary/2023-09-19.md",
     "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
