@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Manifold.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Manifold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Manifold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cusp Catastrophe.md"
+                "file": "Manifold.md"
               }
             }
           },
@@ -192,8 +192,9 @@
   },
   "active": "518f0181d4bc427d",
   "lastOpenFiles": [
-    "Over-fitting.md",
     "Cusp Catastrophe.md",
+    "Manifold.md",
+    "Over-fitting.md",
     "Universal Unfolding.md",
     "Degenerate Singularity.md",
     "Singularity.md",
@@ -219,7 +220,6 @@
     "photos/Markov chain 2023-09-05 15.52.27.excalidraw.md",
     "Behavioral Axis.md",
     "photos/Pasted image 20230919152104.png",
-    "diary/2023-09-18.md",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
     "photos/Pasted image 20230917132331.png",

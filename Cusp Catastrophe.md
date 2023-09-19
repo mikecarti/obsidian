@@ -1,3 +1,4 @@
+Cusp [[Manifold]]
 ![[Pasted image 20230917091718.png]]
 Given 2 [[Control Factors]] and 1 [[Behavioral Axis]]. Cusp [[Catastrophe]] resemble the [[Universal Unfolding]] of [[Singularity|Singularity]] $f(x)=x^4$ and has the equation $F(x, u,v)= x^4+ux^2+vx$. 
 
