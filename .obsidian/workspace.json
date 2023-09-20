@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Word embeddings.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Word embeddings.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Word embeddings.md",
+                "file": "Machine Learning/Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Word embeddings.md"
+                "file": "Machine Learning/Machine Learning.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "4cfbeb7db4eaf947",
   "lastOpenFiles": [
+    "Word embeddings.md",
     "Clustering Models.md",
     "Unsupervised Learning.md",
     "Anomaly Detection.md",
@@ -204,7 +205,6 @@
     "Machine Learning/Errors for ML Algorithms.md",
     "Machine Learning/Huber's Loss.md",
     "Econometrics/classes.md",
-    "Databases/Databases.md",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
