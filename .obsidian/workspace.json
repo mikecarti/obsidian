@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cusp Catastrophe Research.md",
+                "file": "diary/2023-09-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cusp Catastrophe Research.md",
+                "file": "diary/2023-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cusp Catastrophe Research.md",
+                "file": "diary/2023-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cusp Catastrophe Research.md"
+                "file": "diary/2023-09-20.md"
               }
             }
           },
@@ -178,9 +178,10 @@
   },
   "active": "4cfbeb7db4eaf947",
   "lastOpenFiles": [
+    "Cusp Catastrophe Research.md",
+    "diary/2023-09-20.md",
     "Over-fitting.md",
     "Cusp Catastrophe.md",
-    "Cusp Catastrophe Research.md",
     "diary/2023-09-17.md",
     "Few Data (Small Datasets).md",
     "Interpolation.md",
@@ -204,7 +205,6 @@
     "Clustering Models.md",
     "Embeddings.md",
     "Word embeddings.md",
-    "Anomaly Detection.md",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
