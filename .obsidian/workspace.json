@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Over-fitting.md",
+                "file": "Cusp Catastrophe Research.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Over-fitting.md",
+                "file": "Cusp Catastrophe Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Over-fitting.md",
+                "file": "Cusp Catastrophe Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Over-fitting.md"
+                "file": "Cusp Catastrophe Research.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "4cfbeb7db4eaf947",
   "lastOpenFiles": [
+    "Over-fitting.md",
     "Cusp Catastrophe.md",
     "Cusp Catastrophe Research.md",
     "diary/2023-09-17.md",
@@ -188,7 +189,6 @@
     "Classic Deep Neural Network.md",
     "Manifold Hypothesis.md",
     "Manifold.md",
-    "Over-fitting.md",
     "Universal Unfolding.md",
     "Degenerate Singularity.md",
     "Singularity.md",
