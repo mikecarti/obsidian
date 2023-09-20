@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Cusp Catastrophe Research.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Cusp Catastrophe Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Machine Learning.md",
+                "file": "Cusp Catastrophe Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Machine Learning.md"
+                "file": "Cusp Catastrophe Research.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "4cfbeb7db4eaf947",
   "lastOpenFiles": [
+    "Cusp Catastrophe.md",
+    "Machine Learning/Machine Learning.md",
     "Word embeddings.md",
     "Clustering Models.md",
     "Unsupervised Learning.md",
@@ -186,7 +188,6 @@
     "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "XGBoost.md",
     "Over-fitting.md",
-    "Cusp Catastrophe.md",
     "Manifold.md",
     "Manifold Hypothesis.md",
     "Deep Learning.md",
@@ -204,7 +205,6 @@
     "diary/2023-09-19.md",
     "Machine Learning/Errors for ML Algorithms.md",
     "Machine Learning/Huber's Loss.md",
-    "Econometrics/classes.md",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
