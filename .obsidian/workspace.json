@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cusp Catastrophe Research.md",
+                "file": "diary/2023-09-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cusp Catastrophe Research.md",
+                "file": "diary/2023-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cusp Catastrophe Research.md",
+                "file": "diary/2023-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cusp Catastrophe Research.md"
+                "file": "diary/2023-09-20.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "4cfbeb7db4eaf947",
   "lastOpenFiles": [
+    "Cusp Catastrophe Research.md",
     "Cusp Catastrophe.md",
     "Machine Learning/Machine Learning.md",
     "Word embeddings.md",
@@ -194,7 +195,6 @@
     "Interpolation.md",
     "Few Data (Small Datasets).md",
     "diary/2023-09-20.md",
-    "Cusp Catastrophe Research.md",
     "diary/2023-09-17.md",
     "Neural Network.md",
     "Classic Deep Neural Network.md",
