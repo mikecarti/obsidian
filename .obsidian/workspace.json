@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-09-20.md",
+                "file": "Word embeddings.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-09-20.md",
+                "file": "Word embeddings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-09-20.md",
+                "file": "Word embeddings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-09-20.md"
+                "file": "Word embeddings.md"
               }
             }
           },
@@ -178,33 +178,33 @@
   },
   "active": "4cfbeb7db4eaf947",
   "lastOpenFiles": [
-    "Cusp Catastrophe Research.md",
-    "diary/2023-09-20.md",
+    "Clustering Models.md",
+    "Unsupervised Learning.md",
+    "Anomaly Detection.md",
+    "probability.md",
+    "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
+    "XGBoost.md",
     "Over-fitting.md",
     "Cusp Catastrophe.md",
-    "diary/2023-09-17.md",
-    "Few Data (Small Datasets).md",
-    "Interpolation.md",
+    "Manifold.md",
+    "Manifold Hypothesis.md",
     "Deep Learning.md",
+    "Interpolation.md",
+    "Few Data (Small Datasets).md",
+    "diary/2023-09-20.md",
+    "Cusp Catastrophe Research.md",
+    "diary/2023-09-17.md",
     "Neural Network.md",
     "Classic Deep Neural Network.md",
-    "Manifold Hypothesis.md",
-    "Manifold.md",
     "Universal Unfolding.md",
     "Degenerate Singularity.md",
     "Singularity.md",
     "photos/Pasted image 20230919232912.png",
     "diary/2023-09-19.md",
-    "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "Machine Learning/Errors for ML Algorithms.md",
     "Machine Learning/Huber's Loss.md",
     "Econometrics/classes.md",
     "Databases/Databases.md",
-    "probability.md",
-    "Unsupervised Learning.md",
-    "Clustering Models.md",
-    "Embeddings.md",
-    "Word embeddings.md",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
