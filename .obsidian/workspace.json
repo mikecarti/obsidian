@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Universal Unfolding.md",
+                "file": "Econometrics/Estimators.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Universal Unfolding.md",
+                "file": "Econometrics/Estimators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Universal Unfolding.md",
+                "file": "Econometrics/Estimators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Universal Unfolding.md"
+                "file": "Econometrics/Estimators.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "4cfbeb7db4eaf947",
   "lastOpenFiles": [
-    "Cusp Catastrophe.md",
     "Universal Unfolding.md",
+    "Cusp Catastrophe.md",
     "Cusp Catastrophe Research.md",
     "diary/2023-09-20.md",
     "Machine Learning/Machine Learning.md",

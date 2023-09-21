@@ -18,3 +18,18 @@ $\theta - \text{Estimated Value (Real Number)}$
 ###  $\lim_{ n \to \infty }$ where n - number of observations.
 
 ![[Pasted image 20230907154543.png | 300]]
+
+## Specification
+Inefficiency - Variance of error
+Biasness - Mean error
+
+ Omitted Variable Bias → biased → inconsistency
+ Excessiveness → Inefficiency
+ Non-Linearity → biased → inconsistency 
+
+### Confidence interval for estimator
+$$
+\hat{\beta} \pm t_{n-k}  \cdot  se(\hat{\beta})
+$$
+$n$ - num of observations
+$k$  - num of degrees of freedom (parameters to estimate)
