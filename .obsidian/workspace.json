@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Estimators.md",
+                "file": "Gauss Markov Theorem For Best Unbiased Estimator.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/Estimators.md",
+                "file": "Gauss Markov Theorem For Best Unbiased Estimator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/Estimators.md",
+                "file": "Gauss Markov Theorem For Best Unbiased Estimator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/Estimators.md"
+                "file": "Gauss Markov Theorem For Best Unbiased Estimator.md"
               }
             }
           },
@@ -178,7 +178,9 @@
   },
   "active": "4cfbeb7db4eaf947",
   "lastOpenFiles": [
+    "Econometrics/Estimators.md",
     "Universal Unfolding.md",
+    "Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Cusp Catastrophe.md",
     "Cusp Catastrophe Research.md",
     "diary/2023-09-20.md",
@@ -203,8 +205,6 @@
     "Singularity.md",
     "photos/Pasted image 20230919232912.png",
     "diary/2023-09-19.md",
-    "Machine Learning/Errors for ML Algorithms.md",
-    "Machine Learning/Huber's Loss.md",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
