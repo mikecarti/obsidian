@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "fb843740546cacd9",
+        "id": "8615444a92fd1140",
         "type": "tabs",
         "children": [
           {
-            "id": "a974b710aebc6e8c",
+            "id": "55fc311b08e96ada",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fin. Engineering/Stock Return.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fin. Engineering/Stock Return.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fin. Engineering/Stock Return.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fin. Engineering/Stock Return.md"
+              }
             }
           },
           {
@@ -167,9 +176,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a974b710aebc6e8c",
+  "active": "55fc311b08e96ada",
   "lastOpenFiles": [
     "Manifold Hypothesis.md",
+    "diary/2023-09-21.md",
     "Manifold.md",
     "Deep Learning.md",
     "Interpolation.md",
@@ -194,7 +204,6 @@
     "Neural Network.md",
     "Classic Deep Neural Network.md",
     "Degenerate Singularity.md",
-    "Singularity.md",
     "photos/Pasted image 20230919232912.png",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
