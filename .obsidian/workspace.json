@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "58b2120cc10f7749",
+        "id": "fb843740546cacd9",
         "type": "tabs",
         "children": [
           {
-            "id": "4cfbeb7db4eaf947",
+            "id": "a974b710aebc6e8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gauss Markov Theorem For Best Unbiased Estimator.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gauss Markov Theorem For Best Unbiased Estimator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gauss Markov Theorem For Best Unbiased Estimator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gauss Markov Theorem For Best Unbiased Estimator.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,11 +167,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4cfbeb7db4eaf947",
+  "active": "a974b710aebc6e8c",
   "lastOpenFiles": [
+    "Manifold Hypothesis.md",
+    "Manifold.md",
+    "Deep Learning.md",
+    "Interpolation.md",
+    "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
+    "Fin. Engineering/Stock Return.md",
     "Econometrics/Estimators.md",
     "Universal Unfolding.md",
-    "Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Cusp Catastrophe.md",
     "Cusp Catastrophe Research.md",
     "diary/2023-09-20.md",
@@ -193,10 +189,6 @@
     "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "XGBoost.md",
     "Over-fitting.md",
-    "Manifold.md",
-    "Manifold Hypothesis.md",
-    "Deep Learning.md",
-    "Interpolation.md",
     "Few Data (Small Datasets).md",
     "diary/2023-09-17.md",
     "Neural Network.md",
@@ -204,7 +196,6 @@
     "Degenerate Singularity.md",
     "Singularity.md",
     "photos/Pasted image 20230919232912.png",
-    "diary/2023-09-19.md",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
