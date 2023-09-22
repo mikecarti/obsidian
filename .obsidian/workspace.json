@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K-Fold Cross Validation.md",
+                "file": "Gradient Learning Methods.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K-Fold Cross Validation.md",
+                "file": "Gradient Learning Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K-Fold Cross Validation.md",
+                "file": "Gradient Learning Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K-Fold Cross Validation.md"
+                "file": "Gradient Learning Methods.md"
               }
             }
           },
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,8 +179,11 @@
   },
   "active": "55fc311b08e96ada",
   "lastOpenFiles": [
-    "Machine Learning/Train-Test Split.md",
+    "Linear Model Training.md",
+    "Gradient Learning Methods.md",
+    "Model Training.md",
     "K-Fold Cross Validation.md",
+    "Machine Learning/Train-Test Split.md",
     "Over-fitting.md",
     "Fin. Engineering/Stock Return.md",
     "Manifold Hypothesis.md",
@@ -202,9 +205,6 @@
     "probability.md",
     "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "XGBoost.md",
-    "Few Data (Small Datasets).md",
-    "diary/2023-09-17.md",
-    "Neural Network.md",
     "photos/Pasted image 20230919232912.png",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
