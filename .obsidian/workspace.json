@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Inspection Paradox.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Inspection Paradox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Inspection Paradox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "Inspection Paradox.md"
               }
             }
           },
@@ -179,9 +179,11 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "photos/Pasted image 20230922171530.png",
     "Poisson Distribution.md",
+    "Inspection Paradox.md",
     "Stochastic Processes/Classwork.md",
+    "photos/Pasted image 20230922172810.png",
+    "photos/Pasted image 20230922171530.png",
     "photos/Pasted image 20230922162748.png",
     "photos/Pasted image 20230922162547.png",
     "Machine Learning/Pretraining.md",
@@ -212,9 +214,6 @@
     "Manifold.md",
     "Machine Learning/Deep Learning.md",
     "Machine Learning/Interpolation.md",
-    "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
-    "photos/Pasted image 20230919232912.png",
-    "photos/Pasted image 20230919152104.png",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",

@@ -240,8 +240,10 @@ $$
 \begin{align}
 \mathbb{E}(X_{t+10})-X_{t} = 2 \\
 X_{t+10}-X_{t}\sim Poiss(\lambda \cdot 10) \\
-\mathbb{E}(X_{t+10})-X_{t}=10\lambda =2 \\
+\mathbb{E}(X_{t+10}-X_{t})=10\lambda =2  \\
+N_{k} \sim Exp(\lambda), T_{n+1} \sim Exp(\lambda) \\
 P(T_{n+1}>7)=\exp(-\lambda \cdot 7)=  \\
 = \exp\left( -\frac{1}{5} \cdot 7 \right) \approx 0.24
 \end{align}
 $$
+
