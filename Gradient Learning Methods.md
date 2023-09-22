@@ -37,4 +37,28 @@ stop:
 ![[Pasted image 20230922115751.png]]
 
 - Multi-Start
-- Lots of convergence conditions
+- These convergence conditions:
+	a) $Q(w)$ - convex (выпуклая), дифференцируемая
+	b) $\nabla Q(w)$ - [[Lipschitz Function]]
+		$$
+||\nabla Q(w_{1})-\nabla Q(w_{2})|| \leq L \cdot | | w_{1}-w_{2}| |
+$$
+	c) $\eta$ Not very large ($\eta \leq \frac{1}{L}$)
+- With linear models and reasonable [[Loss Function]] $Q(w)$ is *almost* always convex (Выпуклые)
+- $Q(w^{k}) - Q(w_{*})=\underline{O}\left( \frac{1}{k} \right)$ 
+	k - index of iteration
+
+
+### Gradient Evaluation
+$$
+\begin{align}
+Q(w)&=\frac{1}{\ell}\sum_{i=1}^{\ell}L(y_{i},a(x_{i},w)) \\
+Q(w)&=\frac{1}{\ell}\sum_{i=1}^{\ell}q_{i}(w) \\
+\nabla Q(w)&=\frac{1}{\ell}\sum_{i=1}^{n}\nabla q_{i}(w) \\
+\ell &= 10^6 \implies 10^6\text{ gradients}  \\
+&\implies \text{GD is slow}
+\end{align}
+$$
+
+Methods:
+- [[Stochastic Gradient Descent]]

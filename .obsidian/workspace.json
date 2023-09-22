@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gradient Learning Methods.md",
+                "file": "Stochastic Gradient Descent.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gradient Learning Methods.md",
+                "file": "Stochastic Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gradient Learning Methods.md",
+                "file": "Stochastic Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gradient Learning Methods.md"
+                "file": "Stochastic Gradient Descent.md"
               }
             }
           },
@@ -179,11 +179,12 @@
   },
   "active": "55fc311b08e96ada",
   "lastOpenFiles": [
+    "Gradient Learning Methods.md",
+    "Stochastic Gradient Descent.md",
     "photos/Pasted image 20230922115751.png",
     "photos/Pasted image 20230922115033.png",
     "photos/Pasted image 20230922114910.png",
     "Linear Model Training.md",
-    "Gradient Learning Methods.md",
     "Model Training.md",
     "K-Fold Cross Validation.md",
     "Machine Learning/Train-Test Split.md",
@@ -214,7 +215,6 @@
     "photos/Pasted image 20230917132331.png",
     "photos/Pasted image 20230917091718.png",
     "photos/Pasted image 20230915165416.png",
-    "photos/Pasted image 20230915164551.png",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
