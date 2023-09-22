@@ -1,3 +1,11 @@
+$$
+\begin{align}
+X_{t+h}-X_{t} \sim Poisson(rate=h\lambda) \\
+P(X_{t+h}-X_{t}=0)=e^{-\lambda h}
+\end{align}
+$$
+where $X_{t}$ - number of events happened in $t$ time.
+
 ![[Pasted image 20230922162547.png]]
 ## Counting Process
 ![[Pasted image 20230922162748.png]]
@@ -17,12 +25,18 @@ The distribution of $N_{k}$ depends only on the length of the time interval.
 $(X_{t+h} - X_{t}) \sim Law(h)$
 
 -  1 Arrival
- $P(X_{t+h}-X_{t}=1)$ is approximately proportional to the $h$ (1 arrival)
+$P(X_{t+h}-X_{t}=1)$ is approximately proportional to the $h$ (1 arrival)
 $P(X_{t+h}-X_{t}=1)=\lambda h + o(h)$ for small $h$
 - 2 Arrivals
--  $P(X_{t+h}-Xt\geq 2)$ is negligible (unsignificant) compared to $h$
-$P(X_{t+h}-X_{t})=o(h)$
+$P(X_{t+h}-Xt\geq 2)$ is negligible (insignificant) compared to $h$
+$P(X_{t+h}-X_{t})=o(h)$ for small $h$
 
-##### Based on this assumptions:
+##### Based on this assumptions we get powerful result:
 $T_{k} \sim Exp(rank=\lambda)$
-$X_{t+h}-X_{t}\sim Poiss(rate=\lambda h)$
+$\underbrace{ X_{t+h}-X_{t}\ }_{ \text{number of arrivals in [t+h]} } \sim Poiss(rate=\lambda h)$
+
+$T_{k}$ - interarrivals (time between arrival of person k-1 to k)
+
+
+
+
