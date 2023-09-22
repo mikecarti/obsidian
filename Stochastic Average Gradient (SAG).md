@@ -5,7 +5,8 @@ $$
 $$
 z_{i}^{0}=\nabla q(w^{0})
 $$
-SAG Iteration:
+
+SAG step:
 $i_{k}~{1,\dots,\ell}$
 $$
 z_{i^{k}}= \begin{cases}
@@ -20,4 +21,3 @@ $$
 $$
 \mathbb{E}(Q(w^{(k)})-Q(w_{*})) = \underline{O}\left( \frac{1}{k} \right)
 $$
-![[Pasted image 20230922123142.png]]
