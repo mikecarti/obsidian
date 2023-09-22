@@ -280,3 +280,4 @@ b)$P(\text{"I will observe at least 2 taxis before bus"})=?$
 
 $P(\text{"Observe taxi before a bus"})=\frac{5}{7}$
 a) P = $\frac{5}{2+5} \cdot \frac{5}{2+5}  \cdot \frac{2}{2+5}$
+b) P = $\frac{5}{2+5} \cdot \frac{5}{2+5}$
