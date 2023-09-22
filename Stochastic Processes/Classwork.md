@@ -247,3 +247,15 @@ P(T_{n+1}>7)=\exp(-\lambda \cdot 7)=  \\
 \end{align}
 $$
 
+Ex.![[Pasted image 20230922184610.png]]
+Lena send messages to Masha according to [[Poisson Distribution| P.P (Poisson Process)]] ($\lambda_{L}=10 \frac{msg}{hour}$)
+Alex send messages to Masha according to [[Poisson Distribution| P.P (Poisson Process)]] ($\lambda_{A}=2 \frac{msg}{hour}$)
+
+$P(\text{"Masha will recieve exactly 15 msgs in next 40 minutes"})=?$
+
+$\lambda_{total}=10+2=12 \text{ msg/hour}$
+$$
+\begin{align}
+P(Z_{40}-Z_{0}=15)=P(Z_{40}=15)=\exp\left( -\frac{12}{60} \right)
+\end{align}
+$$

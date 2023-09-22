@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Inspection Paradox.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Inspection Paradox.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Inspection Paradox.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Inspection Paradox.md"
+                "file": "Stochastic Processes/Classwork.md"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "photos/Pasted image 20230922184610.png",
+    "photos/Pasted image 20230922184609.png",
     "Stochastic Processes/Inspection Paradox.md",
     "(BAFE) Business Analytics and Fin. Engineering/Business Analytics & Financial Engineering.md",
     "Mathematical Optimization/Classes.md",
@@ -204,7 +206,6 @@
     "Machine Learning/Epoch.md",
     "photos/Pasted image 20230922122354.png",
     "photos/Pasted image 20230922122259.png",
-    "photos/Pasted image 20230922115751.png",
     "Machine Learning/Linear Model Training.md",
     "Machine Learning/Model Training.md",
     "Machine Learning/K-Fold Cross Validation.md",
@@ -214,7 +215,6 @@
     "Machine Learning/Manifold Hypothesis.md",
     "diary/2023-09-21.md",
     "Manifold.md",
-    "Machine Learning/Deep Learning.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
