@@ -270,9 +270,13 @@ $\lambda_{B} = 2$ per minute
 $P(T^{A}_{1} < T^{B}_{1}) = ?$
 guess: $\frac{\lambda_{A}}{\lambda_{A}+\lambda_{B}}$
 
-First way of solving:
-$$
-\begin{align}
-T_{1}^{A}\sim~ Exp(\lambda_{A}) \qquad , T_{1}^{B}\sim Exp(\lambda_{B})
-\end{align}
-$$
+![[Pasted image 20230922190819.png]]
+
+
+Ex. ![[Pasted image 20230922191313.png]]
+
+a) $P(\text{"I will see exactly 2 taxis before bus"})=?$
+b)$P(\text{"I will observe at least 2 taxis before bus"})=?$
+
+$P(\text{"Observe taxi before a bus"})=\frac{5}{7}$
+a) P = $\frac{5}{2+5} \cdot \frac{5}{2+5}  \cdot \frac{2}{2+5}$
