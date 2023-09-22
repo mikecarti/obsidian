@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Average Gradient (SAG).md",
+                "file": "Machine Learning/Pretraining.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0bf9283ec64beb5b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Average Gradient (SAG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Average Gradient (SAG).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stochastic Average Gradient (SAG).md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,44 +181,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "55fc311b08e96ada",
+  "active": "0bf9283ec64beb5b",
   "lastOpenFiles": [
+    "Machine Learning/Pretraining.md",
+    "Machine Learning/Affine Transformation.md",
+    "Machine Learning/Transformers.md",
+    "Machine Learning/Distance Metrics.md",
+    "Linearity.md",
+    "Machine Learning/Neural Network.md",
+    "Machine Learning/Stochastic Gradient Descent.md",
+    "Machine Learning/Stochastic Average Gradient (SAG).md",
     "photos/Pasted image 20230922123142.png",
-    "Gradient Learning Methods.md",
-    "Stochastic Average Gradient (SAG).md",
-    "Gradient Descent.md",
-    "Stochastic Gradient Descent.md",
-    "Epoch.md",
+    "Machine Learning/Gradient Learning Methods.md",
+    "Machine Learning/Gradient Descent.md",
+    "Machine Learning/Epoch.md",
     "photos/Pasted image 20230922122354.png",
     "photos/Pasted image 20230922122259.png",
     "photos/Pasted image 20230922115751.png",
     "photos/Pasted image 20230922115033.png",
     "photos/Pasted image 20230922114910.png",
-    "Linear Model Training.md",
-    "Model Training.md",
-    "K-Fold Cross Validation.md",
+    "Machine Learning/Linear Model Training.md",
+    "Machine Learning/Model Training.md",
+    "Machine Learning/K-Fold Cross Validation.md",
     "Machine Learning/Train-Test Split.md",
-    "Over-fitting.md",
+    "Machine Learning/Over-fitting.md",
     "Fin. Engineering/Stock Return.md",
-    "Manifold Hypothesis.md",
+    "Machine Learning/Manifold Hypothesis.md",
     "diary/2023-09-21.md",
     "Manifold.md",
-    "Deep Learning.md",
-    "Interpolation.md",
+    "Machine Learning/Deep Learning.md",
+    "Machine Learning/Interpolation.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Econometrics/Estimators.md",
     "Universal Unfolding.md",
     "Cusp Catastrophe.md",
-    "Cusp Catastrophe Research.md",
-    "diary/2023-09-20.md",
-    "Machine Learning/Machine Learning.md",
-    "Word embeddings.md",
-    "Clustering Models.md",
     "photos/Pasted image 20230919232912.png",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
-    "photos/Pasted image 20230917132331.png",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
