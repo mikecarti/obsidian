@@ -15,7 +15,7 @@ Number of people in a bus ($T_{i}$) is ~ proportional to wait between buses.
 $$
 E(T_{R}) \qquad\qquad E(T_{R+1})
 $$
-$R$ - random!
+$R$ - random number of the first bus you will see
 $\mathbb{E}(T_{1})=\mathbb{E}(T_{2})=\dots=\mathbb{E}(T_{R})$ (by the [[Poisson Distribution#Assumptions|theorem]])
 
 ![[Pasted image 20230922173443.png]]
