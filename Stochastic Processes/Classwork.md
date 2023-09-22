@@ -229,10 +229,19 @@ $$
 
 
 
-## 22.09 Lecture
+# 22.09 Lecture
 Ex. 
 $P(X_{1.002}-X_{1}=1)=0.01$
 $P(X_{1.006}-X_{1}=1) \approx 0.03$
 
+![[Pasted image 20230922171530.png]]
 
-
+$$
+\begin{align}
+\mathbb{E}(X_{t+10})-X_{t} = 2 \\
+X_{t+10}-X_{t}\sim Poiss(\lambda \cdot 10) \\
+\mathbb{E}(X_{t+10})-X_{t}=10\lambda =2 \\
+P(T_{n+1}>7)=\exp(-\lambda \cdot 7)=  \\
+= \exp\left( -\frac{1}{5} \cdot 7 \right) \approx 0.24
+\end{align}
+$$

@@ -31,12 +31,11 @@ $P(X_{t+h}-X_{t}=1)=\lambda h + o(h)$ for small $h$
 $P(X_{t+h}-Xt\geq 2)$ is negligible (insignificant) compared to $h$
 $P(X_{t+h}-X_{t})=o(h)$ for small $h$
 
-##### Based on this assumptions we get powerful result:
+##### Based on these assumptions, we get powerful result:
 $T_{k} \sim Exp(rank=\lambda)$
 $\underbrace{ X_{t+h}-X_{t}\ }_{ \text{number of arrivals in [t+h]} } \sim Poiss(rate=\lambda h)$
 
 $T_{k}$ - interarrivals (time between arrival of person k-1 to k)
-
 
 
 
