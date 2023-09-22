@@ -1,0 +1,1 @@
+$\ell$ iterations (one go through выборку)

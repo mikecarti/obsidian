@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Gradient Descent.md",
+                "file": "Stochastic Average Gradient (SAG).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Gradient Descent.md",
+                "file": "Stochastic Average Gradient (SAG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Gradient Descent.md",
+                "file": "Stochastic Average Gradient (SAG).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Gradient Descent.md"
+                "file": "Stochastic Average Gradient (SAG).md"
               }
             }
           },
@@ -180,7 +180,12 @@
   "active": "55fc311b08e96ada",
   "lastOpenFiles": [
     "Gradient Learning Methods.md",
+    "Stochastic Average Gradient (SAG).md",
+    "Gradient Descent.md",
     "Stochastic Gradient Descent.md",
+    "Epoch.md",
+    "photos/Pasted image 20230922122354.png",
+    "photos/Pasted image 20230922122259.png",
     "photos/Pasted image 20230922115751.png",
     "photos/Pasted image 20230922115033.png",
     "photos/Pasted image 20230922114910.png",
@@ -205,16 +210,11 @@
     "Word embeddings.md",
     "Clustering Models.md",
     "Unsupervised Learning.md",
-    "Anomaly Detection.md",
-    "probability.md",
-    "Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "photos/Pasted image 20230919232912.png",
     "photos/Pasted image 20230919152104.png",
     "photos/Pasted image 20230917194426 1.png",
     "photos/Pasted image 20230917194426.png",
     "photos/Pasted image 20230917132331.png",
-    "photos/Pasted image 20230917091718.png",
-    "photos/Pasted image 20230915165416.png",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
