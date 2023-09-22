@@ -1,9 +1,16 @@
+### No occurrences in an interval
 $$
 \begin{align}
 X_{t+h}-X_{t} \sim Poisson(rate=h\lambda) \\
 P(X_{t+h}-X_{t}=0)=e^{-\lambda h}
 \end{align}
 $$
+### K occurrences in an interval
+$$
+P(X_{t+h}-X_{t}=k)=P(X_{h}-X_{0}=k)= \exp(-\lambda h) \cdot \frac{(\lambda h)^{k}}{k!}
+$$
+
+
 where $X_{t}$ - number of events happened in $t$ time.
 
 ![[Pasted image 20230922162547.png]]

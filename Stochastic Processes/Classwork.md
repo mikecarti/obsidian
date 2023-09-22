@@ -256,6 +256,23 @@ $P(\text{"Masha will recieve exactly 15 msgs in next 40 minutes"})=?$
 $\lambda_{total}=10+2=12 \text{ msg/hour}$
 $$
 \begin{align}
-P(Z_{40}-Z_{0}=15)=P(Z_{40}=15)=\exp\left( -\frac{12}{60} \right)
+P(Z_{40}-Z_{0}=15)=P(Z_{40}=15)=\frac{\exp\left( -\frac{12}{60}40 \right)\left( \frac{12}{60}40 \right)^{15}}{15!}
+\end{align}
+$$
+using [[Poisson Distribution#K occurrences in an interval]]
+
+Ex.
+![[Pasted image 20230922185706.png]]
+
+$\lambda_{A}=5$ per minute
+$\lambda_{B} = 2$ per minute
+
+$P(T^{A}_{1} < T^{B}_{1}) = ?$
+guess: $\frac{\lambda_{A}}{\lambda_{A}+\lambda_{B}}$
+
+First way of solving:
+$$
+\begin{align}
+T_{1}^{A}\sim~ Exp(\lambda_{A}) \qquad , T_{1}^{B}\sim Exp(\lambda_{B})
 \end{align}
 $$
