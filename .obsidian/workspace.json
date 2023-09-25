@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
+                "file": "SVD (Singular Value Decomposition).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
+                "file": "SVD (Singular Value Decomposition).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
+                "file": "SVD (Singular Value Decomposition).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md"
+                "file": "SVD (Singular Value Decomposition).md"
               }
             }
           },
@@ -178,6 +179,8 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Machine Learning/K-Fold Cross Validation.md",
+    "SVD (Singular Value Decomposition).md",
     "Stochastic Processes/Poisson Distribution.md",
     "Stochastic Processes/Classwork.md",
     "photos/Pasted image 20230922191313.png",
@@ -206,7 +209,6 @@
     "Machine Learning/Epoch.md",
     "Machine Learning/Linear Model Training.md",
     "Machine Learning/Model Training.md",
-    "Machine Learning/K-Fold Cross Validation.md",
     "Machine Learning/Train-Test Split.md",
     "Machine Learning/Over-fitting.md",
     "Fin. Engineering/Stock Return.md",
