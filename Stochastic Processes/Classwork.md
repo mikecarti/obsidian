@@ -310,3 +310,24 @@ $$
 
 ## Task 0
 [[Weak Law of Large Numbers]]
+
+## Task 4
+![[Pasted image 20230926154646.png]]
+
+$X_{n}\sim Exp(n)$
+
+a) 
+$$
+\begin{align}
+
+f_{n}(X) &= \begin{cases}
+ne^{-nx} & x\geq 0 \\
+0 & x<0
+\end{cases}  \\
+F_{X}(x) &= \begin{cases}
+1 - e^{-nx} & x\geq 0 \\
+0 & x<0
+\end{cases} \\
+
+\end{align}
+$$

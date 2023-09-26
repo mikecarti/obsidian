@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weak Law of Large Numbers.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weak Law of Large Numbers.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weak Law of Large Numbers.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weak Law of Large Numbers.md"
+                "file": "Stochastic Processes/Classwork.md"
               }
             }
           },
@@ -179,11 +179,12 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "photos/Pasted image 20230926154646.png",
+    "Weak Law of Large Numbers.md",
     "Stochastic Processes/Classwork.md",
+    "Chebyshev's Inequality.md",
     "Markov's inequality.md",
     "Triangle Inequality.md",
-    "Weak Law of Large Numbers.md",
-    "Chebyshev's Inequality.md",
     "Stochastic Processes/Stationary Distribution.md",
     "photos/Pasted image 20230926145639.png",
     "photos/Pasted image 20230926145631.png",
@@ -214,7 +215,6 @@
     "Machine Learning/Gradient Descent.md",
     "Machine Learning/Epoch.md",
     "Machine Learning/Linear Model Training.md",
-    "Machine Learning/Model Training.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
