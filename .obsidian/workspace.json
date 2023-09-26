@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -179,14 +178,14 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "photos/Pasted image 20230926155607.png",
-    "photos/Pasted image 20230926154646.png",
-    "Weak Law of Large Numbers.md",
+    "Stochastic Processes/Weak Law of Large Numbers.md",
     "Stochastic Processes/Classwork.md",
     "Chebyshev's Inequality.md",
-    "Markov's inequality.md",
-    "Triangle Inequality.md",
     "Stochastic Processes/Stationary Distribution.md",
+    "photos/Pasted image 20230926155607.png",
+    "photos/Pasted image 20230926154646.png",
+    "Stochastic Processes/Markov's inequality.md",
+    "Triangle Inequality.md",
     "photos/Pasted image 20230926145639.png",
     "photos/Pasted image 20230926145631.png",
     "photos/Pasted image 20230926145414.png",
@@ -199,7 +198,6 @@
     "photos/Pasted image 20230922190819.png",
     "photos/Pasted image 20230922185706.png",
     "photos/Pasted image 20230922185649.png",
-    "photos/Pasted image 20230922184610.png",
     "Stochastic Processes/Inspection Paradox.md",
     "(BAFE) Business Analytics and Fin. Engineering/Business Analytics & Financial Engineering.md",
     "Mathematical Optimization/Classes.md",

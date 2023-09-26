@@ -309,7 +309,8 @@ $$
 
 
 ## Task 0
-[[Weak Law of Large Numbers]]
+[[Weak Law of Large Numbers#Proof]]
+
 
 ## Task 4
 ![[Pasted image 20230926154646.png]]
