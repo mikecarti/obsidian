@@ -81,7 +81,35 @@ f(x)=xx^{T}x \\
 \nabla_{x}f(x)=? \\
 d(xx^{T}x)=(dx)x^{T}x + xd(x^{T}x) =  \\
 (dx)x^{T}x+2x \cdot x^Tdx= \\
-(x^Tx)dx + 2xx^Tdx
+(x^Tx)dx + 2xx^Tdx= \\
+(Ix^Tx+2x \cdot x^T)dx
 \end{align}
 $$
+### 5) 
+Gradient Of Matrix Determinant
+$$
+\begin{gather}
+\nabla_{X}\det X = ? \\
+\text{Decomposition for i-th row} \\
+\det X=\sum_{k=1}^{n}(-1)^{i+k}X_{ik}M_{ik} \\
+\text{Where } M_{ik} \text{ is a minor of row i, column k} \\
+\frac{\delta}{\delta x_{ij}}\det X=\frac{\delta}{\delta X_{ij}}\sum_{k=1}^{n}(-1)^{i+n}X_{ik}M_{ik} \\
+M_{ik}\text{ is not dependent on } X_{ij} \\
+= (-1)^{i+j}M_{ij} \\
+\left( \frac{{\delta \det X}}{\delta X_{ij}} \right)^n_{i, j=1} \\
+(X^{-1})_{ij}=\frac{1}{\det X}(-1)^{i+j}M_{ij} \\
+\text{Combining the formulas we get: } \\
+\nabla \det X=(\det X)X^{-T} \\
+\dots \text{Further solution}
+\end{gather}
+$$
 
+### 6) 
+$$
+\begin{align}
+\nabla_{A}\mathrm{Tr}(AB)  \\
+d\mathrm{Tr}(AB)=\mathrm{Tr}((dA)B+AdB)=\mathrm{Tr}(B \cdot dA) \\
+\mathrm{Tr}(\nabla f(A^T))
+
+\end{align}
+$$
