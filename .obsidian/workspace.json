@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SVD (Singular Value Decomposition).md",
+                "file": "diary/2023-09-26.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SVD (Singular Value Decomposition).md",
+                "file": "diary/2023-09-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SVD (Singular Value Decomposition).md",
+                "file": "diary/2023-09-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SVD (Singular Value Decomposition).md"
+                "file": "diary/2023-09-26.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Machine Learning/K-Fold Cross Validation.md",
     "SVD (Singular Value Decomposition).md",
+    "diary/2023-09-26.md",
+    "Machine Learning/K-Fold Cross Validation.md",
     "Stochastic Processes/Poisson Distribution.md",
     "Stochastic Processes/Classwork.md",
     "photos/Pasted image 20230922191313.png",
@@ -214,7 +215,6 @@
     "Fin. Engineering/Stock Return.md",
     "Machine Learning/Manifold Hypothesis.md",
     "diary/2023-09-21.md",
-    "Manifold.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
