@@ -331,3 +331,15 @@ F_{X}(x) &= \begin{cases}
 
 \end{align}
 $$
+![[Pasted image 20230926155607.png | 450]]
+
+b)
+$$
+\begin{align}
+\lim_{ n \to \infty } \mathbb{P}(| X_{n}- 0| > \epsilon) &= 0 \\
+\text{Proof:} \\
+\lim_{ n \to \infty } \mathbb{P}(| X_{n}- 0| > \epsilon) &= \lim_{ n \to \infty } (X_{n}>\epsilon)  = \\
+= 1 - \lim_{ n \to \infty } \mathbb{P}(X_{n}\leq\epsilon)&=1 - \lim_{ n \to \infty } F_{X}(x) =  \\
+= 1 - \lim_{ n \to \infty } ( 1-e^{-n\epsilon}) &= \lim_{ n \to \infty } e^{-n\epsilon} = 0
+\end{align}
+$$
