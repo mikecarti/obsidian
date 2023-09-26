@@ -109,7 +109,11 @@ $$
 \begin{align}
 \nabla_{A}\mathrm{Tr}(AB)  \\
 d\mathrm{Tr}(AB)=\mathrm{Tr}((dA)B+AdB)=\mathrm{Tr}(B \cdot dA) \\
-\mathrm{Tr}(\nabla f(A^T))
-
 \end{align}
+$$
+
+### 7) 
+Composite function
+$$
+\nabla_{X}g(f(x)) = g'(f(x)) \nabla_{X}f(x)
 $$
