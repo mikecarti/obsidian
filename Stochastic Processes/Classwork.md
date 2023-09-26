@@ -281,3 +281,25 @@ b)$P(\text{"I will observe at least 2 taxis before bus"})=?$
 $P(\text{"Observe taxi before a bus"})=\frac{5}{7}$
 a) P = $\frac{5}{2+5} \cdot \frac{5}{2+5}  \cdot \frac{2}{2+5}$
 b) P = $\frac{5}{2+5} \cdot \frac{5}{2+5}$
+
+# 26.09 Seminar
+![[Pasted image 20230926145631.png]]
+![[Pasted image 20230926145639.png]]
+
+![[Pasted image 20230926145414.png | 250]]
+$105 \to 98$
+#### Hint
+- decomposition
+- 1st step analysis
+
+b)
+$$
+\begin{align}
+T_{105, 98} &= T_{105, 100} + T_{100, 98} \\
+T_{105, 104} &= T_{104, 103} \\
+T_{105, 100} &= 5  \cdot  T_{105, 104} \\
+T_{105, 104} &= 1 + \frac{2}{3} \cdot 0 + \frac{1}{3}T_{102, 100}  = 1+ 0 + \frac{1}{3}  \cdot  2  \cdot  T_{105, 104} \implies\\
+T_{101, 100} &= 1 + \frac{2}{3} \cdot  T_{101, 100} \implies \\
+T_{101, 100} &= 3
+\end{align}
+$$

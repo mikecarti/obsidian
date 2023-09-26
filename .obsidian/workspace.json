@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-09-26.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-09-26.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-09-26.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-09-26.md"
+                "file": "Stochastic Processes/Classwork.md"
               }
             }
           },
@@ -179,8 +179,12 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "SVD (Singular Value Decomposition).md",
+    "photos/Pasted image 20230926145639.png",
+    "photos/Pasted image 20230926145631.png",
+    "photos/Pasted image 20230926145414.png",
+    "photos/Pasted image 20230926145336.png",
     "diary/2023-09-26.md",
+    "SVD (Singular Value Decomposition).md",
     "Machine Learning/K-Fold Cross Validation.md",
     "Stochastic Processes/Poisson Distribution.md",
     "Stochastic Processes/Classwork.md",
@@ -194,9 +198,6 @@
     "(BAFE) Business Analytics and Fin. Engineering/Business Analytics & Financial Engineering.md",
     "Mathematical Optimization/Classes.md",
     "photos/Pasted image 20230922173740.png",
-    "photos/Pasted image 20230922173443.png",
-    "photos/Pasted image 20230922172810.png",
-    "photos/Pasted image 20230922171530.png",
     "Machine Learning/Pretraining.md",
     "Machine Learning/Affine Transformation.md",
     "Machine Learning/Transformers.md",
@@ -214,7 +215,6 @@
     "Machine Learning/Over-fitting.md",
     "Fin. Engineering/Stock Return.md",
     "Machine Learning/Manifold Hypothesis.md",
-    "diary/2023-09-21.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
