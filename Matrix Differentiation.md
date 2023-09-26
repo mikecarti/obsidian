@@ -45,9 +45,43 @@ $$
 
 ### 3)
 $$
-
+f(X) = a^{T}XAXa
+$$
+a - $n \times 1$
+X - $n \times n$
+A - $n \times n$
 
 $$
+\begin{align}
+df(x)= da^{T}(XAXa)+a^{T}d(XAXa)= \\
+ a^{T} (dXAX \cdot a + XAXda)=  \\
+a^{T}(dX \cdot AX+ X \cdot dAX)a =  \\
+a^{T}dXAXa + a^{T}XAdXa =  \\
+\end{align}
 $$
+Note:
+$$
+tr(\nabla f(x)dx)
+$$
+$$
+\begin{align}
+=\mathrm{Tr}(a^{T}dxAXa + a^{T}XAdXa) = \\
+\mathrm{Tr}(dXAXaa^{T} + dXaa^{T}XA)= \\
+\mathrm{Tr}(dx \cdot (AXaa^{T}+aa^{T}XA)) = \\
+\mathrm{Tr}(g^{T} \cdot dx^{T}) \\
+\nabla F(x)=g
+\end{align}
+$$
+### 4) 
+Note: $d(x^{T}dx) = (A+A^{T})x^{T}dx = 2x^{T}dx$
 
 $$
+\begin{align}
+f(x)=xx^{T}x \\
+\nabla_{x}f(x)=? \\
+d(xx^{T}x)=(dx)x^{T}x + xd(x^{T}x) =  \\
+(dx)x^{T}x+2x \cdot x^Tdx= \\
+(x^Tx)dx + 2xx^Tdx
+\end{align}
+$$
+
