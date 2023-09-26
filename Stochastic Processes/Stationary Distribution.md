@@ -1,5 +1,5 @@
-The vector pi is called a [[Stationary Distribution]] of the chain of it has entries {pi_j \in S} such that:
-a) $\pi_{j} \geq 0 \text{for all j, and} \sum_{j \in S} \pi_{j}=1$
+The vector pi is called a [[Stationary Distribution]] of the chain of it has entries {$p_{ij} \in S$} such that:
+a) $\pi_{j} \geq 0 \text{ for all j, and } \sum_{j \in S} \pi_{j}=1$
 b) it satisfies $\pi = \pi  P$, that is $\pi_{j} = \sum_{i}\pi_{i}p_{i,j}$ for all $j \in S$
 
 

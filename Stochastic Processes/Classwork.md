@@ -290,9 +290,12 @@ b) P = $\frac{5}{2+5} \cdot \frac{5}{2+5}$
 $105 \to 98$
 #### Hint
 - decomposition
-- 1st step analysis
+- [[First Step Analysis]]
 
 b)
+
+c)
+#### Decomposition
 $$
 \begin{align}
 T_{105, 98} &= T_{105, 100} + T_{100, 98} \\
@@ -303,3 +306,7 @@ T_{101, 100} &= 1 + \frac{2}{3} \cdot  T_{101, 100} \implies \\
 T_{101, 100} &= 3
 \end{align}
 $$
+
+
+## Task 0
+[[Weak Law of Large Numbers]]
