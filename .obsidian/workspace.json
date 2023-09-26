@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Matrix Differentiation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Matrix Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Matrix Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "Matrix Differentiation.md"
               }
             }
           },
@@ -178,20 +178,25 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Stochastic Processes/Weak Law of Large Numbers.md",
-    "Stochastic Processes/Classwork.md",
+    "Cusp Catastrophe Research.md",
+    "Matrix Differentiation.md",
+    "SVD (Singular Value Decomposition).md",
+    "Potential.md",
+    "Triangle Inequality.md",
     "Chebyshev's Inequality.md",
+    "Few Data (Small Datasets).md",
+    "Manifold.md",
+    "Stochastic Processes/Classwork.md",
+    "Stochastic Processes/Weak Law of Large Numbers.md",
     "Stochastic Processes/Stationary Distribution.md",
     "photos/Pasted image 20230926155607.png",
     "photos/Pasted image 20230926154646.png",
     "Stochastic Processes/Markov's inequality.md",
-    "Triangle Inequality.md",
     "photos/Pasted image 20230926145639.png",
     "photos/Pasted image 20230926145631.png",
     "photos/Pasted image 20230926145414.png",
     "photos/Pasted image 20230926145336.png",
     "diary/2023-09-26.md",
-    "SVD (Singular Value Decomposition).md",
     "Machine Learning/K-Fold Cross Validation.md",
     "Stochastic Processes/Poisson Distribution.md",
     "photos/Pasted image 20230922191313.png",
@@ -209,10 +214,6 @@
     "Machine Learning/Neural Network.md",
     "Machine Learning/Stochastic Gradient Descent.md",
     "Machine Learning/Stochastic Average Gradient (SAG).md",
-    "Machine Learning/Gradient Learning Methods.md",
-    "Machine Learning/Gradient Descent.md",
-    "Machine Learning/Epoch.md",
-    "Machine Learning/Linear Model Training.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",

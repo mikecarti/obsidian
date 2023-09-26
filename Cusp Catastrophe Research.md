@@ -51,3 +51,5 @@ In simpler terms, universal unfolding describes the dynamic of a system when it 
 
 # Potential function
 In [[Catastrophe Theory]] a system's potential $V$ is a tendency towards some specific unexpected outcome. 
+
+# Problem Statement For HAB Paper
