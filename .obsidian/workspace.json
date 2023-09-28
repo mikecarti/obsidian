@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Potential Function.md",
+                "file": "Catastrophe Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Potential Function.md",
+                "file": "Catastrophe Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Potential Function.md",
+                "file": "Catastrophe Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Potential Function.md"
+                "file": "Catastrophe Theory.md"
               }
             }
           },
@@ -193,8 +193,10 @@
   },
   "active": "46927d728918c178",
   "lastOpenFiles": [
+    "Выпрямление Theory.md",
     "Catastrophe Theory.md",
     "Potential Function.md",
+    "Качественная Теория Уравнений В Частных Производных.md",
     "Pair Events.md",
     "diary/2023-09-27.md",
     "Cusp Catastrophe Research.md",
@@ -227,8 +229,6 @@
     "Mathematical Optimization/Classes.md",
     "Machine Learning/Pretraining.md",
     "Machine Learning/Affine Transformation.md",
-    "Machine Learning/Transformers.md",
-    "Machine Learning/Distance Metrics.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
