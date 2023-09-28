@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-09-27.md",
+                "file": "Catastrophe Theory.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-09-27.md",
+                "file": "Catastrophe Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-09-27.md",
+                "file": "Catastrophe Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-09-27.md"
+                "file": "Catastrophe Theory.md"
               }
             }
           },
@@ -193,6 +193,8 @@
   },
   "active": "46927d728918c178",
   "lastOpenFiles": [
+    "Pair Events.md",
+    "Catastrophe Theory.md",
     "diary/2023-09-27.md",
     "Cusp Catastrophe Research.md",
     "Matrix Differentiation.md",
@@ -227,8 +229,6 @@
     "Machine Learning/Transformers.md",
     "Machine Learning/Distance Metrics.md",
     "Linearity.md",
-    "Machine Learning/Neural Network.md",
-    "Machine Learning/Stochastic Gradient Descent.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
