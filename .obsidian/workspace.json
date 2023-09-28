@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Potential Function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46927d728918c178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Potential Function.md",
+                "file": "diary/2023-09-27.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Potential Function.md",
+                "file": "diary/2023-09-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Potential Function.md",
+                "file": "diary/2023-09-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Potential Function.md"
+                "file": "diary/2023-09-27.md"
               }
             }
           },
@@ -191,16 +178,17 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Homeomorphism.md",
-    "Potential Function.md",
+    "diary/2023-09-26.md",
+    "Cusp Catastrophe Research.md",
     "Catastrophe Theory.md",
+    "Potential Function.md",
+    "Homeomorphism.md",
     "Matrix Differentiation.md",
     "Качественная Теория Уравнений В Частных Производных.md",
     "Теория Выпрямления.md",
     "Pair Events.md",
     "Выпрямление Theory.md",
     "diary/2023-09-27.md",
-    "Cusp Catastrophe Research.md",
     "SVD (Singular Value Decomposition).md",
     "Potential.md",
     "Triangle Inequality.md",
@@ -217,7 +205,6 @@
     "photos/Pasted image 20230926145631.png",
     "photos/Pasted image 20230926145414.png",
     "photos/Pasted image 20230926145336.png",
-    "diary/2023-09-26.md",
     "Machine Learning/K-Fold Cross Validation.md",
     "Stochastic Processes/Poisson Distribution.md",
     "photos/Pasted image 20230922191313.png",
