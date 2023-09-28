@@ -12,8 +12,6 @@ $$
 $$
 In any moment, function goes to its local minimum. 
 
-Сумма кинетической и потенциальной энергии будет интегралом этой системы *вроде*
-
 Многообразие катастрофы (Catastrophe [[Manifold]]):
 $$
 \begin{cases}

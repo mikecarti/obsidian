@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix Differentiation.md",
-                "mode": "source",
+                "file": "Catastrophe Theory.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catastrophe Theory.md",
+                "file": "Potential Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -191,16 +189,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "46927d728918c178",
+  "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Matrix Differentiation.md",
     "Potential Function.md",
-    "Catastrophe Theory.md",
-    "Выпрямление Theory.md",
     "Качественная Теория Уравнений В Частных Производных.md",
+    "Теория Выпрямления.md",
+    "Catastrophe Theory.md",
     "Pair Events.md",
+    "Выпрямление Theory.md",
     "diary/2023-09-27.md",
     "Cusp Catastrophe Research.md",
-    "Matrix Differentiation.md",
     "SVD (Singular Value Decomposition).md",
     "Potential.md",
     "Triangle Inequality.md",
@@ -228,7 +227,6 @@
     "(BAFE) Business Analytics and Fin. Engineering/Business Analytics & Financial Engineering.md",
     "Mathematical Optimization/Classes.md",
     "Machine Learning/Pretraining.md",
-    "Machine Learning/Affine Transformation.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",

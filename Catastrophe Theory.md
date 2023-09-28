@@ -16,19 +16,19 @@ IF
 $$
 \frac{\delta V}{\delta X} \neq 0
 $$
-Then in both cases there is a [[Выпрямление Theory]]. =>
+Then in both cases there is a [[Теория Выпрямления]]. $\to$
 1) $V(X) \implies V(X) = X_{1}$
 2) $V(X, \alpha) \implies V(X)=X_{1}$
 
 Therefore, potential functions (and catastrophes) differ only by critical points (their number and their types)
+1. 
 $$
 \begin{align}
 Let \qquad \frac{{\delta V}}{\delta x} = 0 \\
 \det H = \det \frac{{\delta^2V}}{\delta X^2} \neq 0
-
 \end{align}
 $$
-In that case, behavior of a system or a potential function can be сведена to [[Морсофская Форма]]
+In that case, behavior of a system or a potential function can be reduced to [[Морсофская Форма]]
 $$
 V(x_{1}, \dots, x_{n}) = \sum_{i=1}^{\ell}x_{i}^2 - \sum_{i=\ell +1}^{n}x_{i}^2
 $$
@@ -36,7 +36,7 @@ $$
 
 If $\ell = 0$ we get a local maximum
 if $\ell > 0$ we get a saddle point
-if $l = n$ we get a local minima
+if $l = n$ we get local minima
 
 $\ell$ - число собственных значений Хессиана, действительная часть которых больше нуля
 
@@ -54,8 +54,8 @@ $$
 \end{align}
 $$
 Теория катастроф в таком случае формулирует лемму расщепления (Splitting Theorem):
-В случае выражденной критической точки, мы можем расщепить потенциальную функцию на 2 составляющих: 
-1) Не морфовская часть
+В случае вырожденной критической точки, мы можем расщепить потенциальную функцию на 2 составляющих: 
+1) Не-морфовская часть
 2) Морфовская часть
 Причем неморфовская часть зависит только от переменных (не от параметров). И число этих переменных равно числу собственных значений Хессиана обращающихся в ноль в критической точке.
 $$
@@ -66,8 +66,8 @@ V(X_{1}, \dots, X_{n}) = V_{NM}(X_{1}, \dots, X_{s}) + \sum_{i=s}^{\ell}\lambda_
 $$
 
 В случае общего положения, а в реальности никто ничего другого не видал. В ноль обращается либо один айгенвэлью, либо два айгенвэлью, эти случаи дают названия двум семействам катастроф: 
-1) 1 eigenvalue = 0 - cusp (Каспоидные катастрофы)
-2) 2 eigenvalue = 0 - ambilicus (Амбилические катастрофы)
+1) one eigenvalue = 0 - cusp (Каспоидные катастрофы)
+2) two eigenvalues = 0 - ambilicus (Амбилические катастрофы)
 
 #### Оказывается, что если рассмотреть не-морфовские части, то 
 C помощью дифеоморфной замены координат, они могут быть сведены к конечному списку так называемых элементарных катастроф Тома (Reme Thom)
