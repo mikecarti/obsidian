@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/RELU (Rectified Linear Unit).md",
+                "file": "Deep Learning/Backpropagation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5051fba3449074ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning/Backpropagation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56d47922949159f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Networks.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,6 +53,26 @@
               "type": "markdown",
               "state": {
                 "file": "diary/2023-09-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4a0e10263b1e3634",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1588036913398cb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning/Neural Network.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/RELU (Rectified Linear Unit).md",
+                "file": "Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/RELU (Rectified Linear Unit).md",
+                "file": "Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/RELU (Rectified Linear Unit).md"
+                "file": "Neural Networks.md"
               }
             }
           },
@@ -189,28 +235,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0808e3cca7f689eb",
+  "active": "56d47922949159f6",
   "lastOpenFiles": [
-    "Machine Learning/Leaky RELU.md",
-    "Machine Learning/Activation  functions.md",
+    "Deep Learning/Backpropagation.md",
+    "Neural Networks.md",
+    "Deep Learning/Classic Deep Neural Network.md",
+    "Deep Learning/Fully-connected Neural Networks.md",
+    "Deep Learning/Classwork.md",
+    "Deep Learning/Neural Network.md",
+    "Deep Learning/Activation  functions.md",
+    "Computational Graph.md",
+    "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
+    "Machine Learning/Chain Rule.md",
+    "Machine Learning/Sigmoid.md",
+    "Deep Learning/RELU (Rectified Linear Unit).md",
+    "Deep Learning/Leaky RELU.md",
     "diary/2023-09-28.md",
     "Выпрямление Theory.md",
     "Deep Learning",
     "photos/Pasted image 20230929174713.png",
-    "Machine Learning/RELU (Rectified Linear Unit).md",
     "photos/Pasted image 20230929174357.png",
-    "Machine Learning/Sigmoid.md",
-    "Machine Learning/Neural Network.md",
     "photos/Pasted image 20230929173720.png",
     "photos/Pasted image 20230929173706.png",
-    "Machine Learning/Backpropagation.md",
     "photos/Pasted image 20230929173104.png",
     "photos/Pasted image 20230929172340.png",
     "photos/Pasted image 20230929172132.png",
     "photos/Pasted image 20230929170113.png",
-    "Machine Learning/Fully-connected Neural Networks.md",
-    "Machine Learning/Classification for Neural Networks.md",
-    "Machine Learning/Deep Learning.md",
+    "Deep Learning/Classification for Neural Networks.md",
+    "Deep Learning/Deep Learning.md",
     "Machine Learning/Gradient Descent.md",
     "Machine Learning/Gradient Learning Methods.md",
     "Machine Learning/Stochastic Gradient Descent.md",
@@ -218,16 +270,10 @@
     "Machine Learning/Modifications Of Gradient Descent.md",
     "photos/Pasted image 20230929122859.png",
     "photos/Pasted image 20230929122446.png",
-    "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "Machine Learning/Stochastic Average Gradient (SAG).md",
     "Catastrophe Theory.md",
     "Potential Function.md",
     "diary/2023-09-26.md",
-    "Cusp Catastrophe Research.md",
-    "diary/2023-09-27.md",
-    "Homeomorphism.md",
-    "Matrix Differentiation.md",
-    "Качественная Теория Уравнений В Частных Производных.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",

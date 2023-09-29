@@ -1,5 +1,5 @@
 Infinite [[Markov chain]] have infinite amount of states.
-This is a task from a [[Classwork#19.09 Seminar]]
+This is a task from a [[Stochastic Processes/Classwork#19.09 Seminar]]
 
 
 ![[Drawing 2023-09-19 15.48.15.excalidraw]]

@@ -9,6 +9,7 @@ $$
 
 ## Problem:
 Can not train very deep [[Neural Network|Neural Networks]]. 
+
 $$
 \begin{align}
 \frac{dy}{dx} &= y(x) \cdot (1-y(x)) \\
