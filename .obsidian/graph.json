@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:-\"photos\" OR -\"diary\"",
+  "collapse-filter": false,
+  "search": "path:-(\"photos\" OR \"diary\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2941488610339765,
+  "scale": 0.9047408540346358,
   "close": true
 }

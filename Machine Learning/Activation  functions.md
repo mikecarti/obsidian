@@ -1,3 +1,3 @@
 
-- [[RELU]]
+- [[RELU (Rectified Linear Unit)]]
 - [[Sigmoid]]

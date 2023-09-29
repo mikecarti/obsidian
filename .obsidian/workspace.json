@@ -11,9 +11,17 @@
             "id": "07bb314f286caba9",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e653b9ea529182fe",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigmoid.md",
+                "file": "diary/2023-09-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 361.50418853759766
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sigmoid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sigmoid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sigmoid.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,31 +182,35 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Machine Learning/Neural Network.md",
-    "Sigmoid.md",
     "Machine Learning/Activation  functions.md",
+    "diary/2023-09-28.md",
+    "Выпрямление Theory.md",
+    "Machine Learning/Leaky RELU.md",
+    "Deep Learning",
+    "photos/Pasted image 20230929174713.png",
+    "Machine Learning/RELU (Rectified Linear Unit).md",
+    "photos/Pasted image 20230929174357.png",
+    "Machine Learning/Sigmoid.md",
+    "Machine Learning/Neural Network.md",
     "photos/Pasted image 20230929173720.png",
     "photos/Pasted image 20230929173706.png",
-    "Backpropagation.md",
+    "Machine Learning/Backpropagation.md",
     "photos/Pasted image 20230929173104.png",
     "photos/Pasted image 20230929172340.png",
     "photos/Pasted image 20230929172132.png",
     "photos/Pasted image 20230929170113.png",
-    "Fully-connected Neural Networks.md",
-    "Classification for Neural Networks.md",
+    "Machine Learning/Fully-connected Neural Networks.md",
+    "Machine Learning/Classification for Neural Networks.md",
     "Machine Learning/Deep Learning.md",
     "Machine Learning/Gradient Descent.md",
     "Machine Learning/Gradient Learning Methods.md",
     "Machine Learning/Stochastic Gradient Descent.md",
-    "Regularization.md",
-    "Modifications Of Gradient Descent.md",
+    "Machine Learning/Regularization.md",
+    "Machine Learning/Modifications Of Gradient Descent.md",
     "photos/Pasted image 20230929122859.png",
     "photos/Pasted image 20230929122446.png",
-    "photos/Pasted image 20230929122150.png",
     "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
-    "photos/Pasted image 20230929113027.png",
     "Machine Learning/Stochastic Average Gradient (SAG).md",
-    "diary/2023-09-28.md",
     "Catastrophe Theory.md",
     "Potential Function.md",
     "diary/2023-09-26.md",
@@ -212,9 +219,6 @@
     "Homeomorphism.md",
     "Matrix Differentiation.md",
     "Качественная Теория Уравнений В Частных Производных.md",
-    "Теория Выпрямления.md",
-    "Pair Events.md",
-    "Выпрямление Theory.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
@@ -225,7 +229,6 @@
     "Machine Learning/Seminar Collabs",
     "Time Series",
     "Untitled.canvas",
-    "Fin. Engineering",
-    "diary"
+    "Fin. Engineering"
   ]
 }
