@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-09-28.md",
+                "file": "Modifications Of Gradient Descent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-09-28.md",
+                "file": "Modifications Of Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-09-28.md",
+                "file": "Modifications Of Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-09-28.md"
+                "file": "Modifications Of Gradient Descent.md"
               }
             }
           },
@@ -179,8 +179,11 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Catastrophe Theory.md",
+    "photos/Pasted image 20230929113027.png",
+    "Machine Learning/Stochastic Average Gradient (SAG).md",
+    "Modifications Of Gradient Descent.md",
     "diary/2023-09-28.md",
+    "Catastrophe Theory.md",
     "Potential Function.md",
     "diary/2023-09-26.md",
     "Cusp Catastrophe Research.md",
@@ -208,13 +211,10 @@
     "photos/Pasted image 20230926145414.png",
     "photos/Pasted image 20230926145336.png",
     "Machine Learning/K-Fold Cross Validation.md",
-    "Stochastic Processes/Poisson Distribution.md",
     "photos/Pasted image 20230922191313.png",
     "photos/Pasted image 20230922190819.png",
     "photos/Pasted image 20230922185706.png",
     "photos/Pasted image 20230922185649.png",
-    "Stochastic Processes/Inspection Paradox.md",
-    "(BAFE) Business Analytics and Fin. Engineering/Business Analytics & Financial Engineering.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
