@@ -38,8 +38,25 @@ Only on seventh step i will update $w_{5}$ and $\eta_{k}$ there is small.
 Let us have its own $\eta_{k}$ for every object 
 $$
 \begin{align}
-G_{0j}&= 0 \qquad \text{j - index of feature} \\
+G_{0j}&= 0 \qquad \text{j - index of feature} , k \text{ - index of step}\\
 G_{kj} &= G_{k-1,j}+ (\nabla Q(w^{(k-1)}))^{2}_{j}  \text{ - how much we already trained } w_{j} \\
-w^{k}_{j} = w_{j}^{(k-1)} - \frac{\eta_{k}}{\sqrt{ G_{kj}+\epsilon }}(\nabla Q(w^{(k-1)}))_{_j}
+w^{k}_{j} &= w_{j}^{(k-1)} - \frac{\eta_{k}}{\sqrt{ G_{kj}+\epsilon }}(\nabla Q(w^{(k-1)}))_{_j}
 \end{align}
 $$
+
+### Problem: 
+$G_{kj}$ only grows and may stop the optimization process
+
+Solution:
+## RMSProp
+$$
+\begin{align}
+G_{kj} &= \alpha G_{k-1,j}+ (1-\alpha)(\nabla Q(w^{(k-1)}))^{2}_{j} \\
+\end{align}
+$$
+
+
+## Adam
+Combines [[Momentum]] and [[AdaGrad]]
+
+
