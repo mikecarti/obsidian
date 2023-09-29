@@ -36,3 +36,29 @@ Never maximize $\alpha$ based on training data, always on test data - [[Hyperpar
 1. [[Grid Search]]
 2. Random Search
 3. AutoML
+
+## Naming:
+### Ridge:
+$$
+\frac{1}{l}\sum_{i=1}^{l}(<w,x_{i}>-y_{i})^{2} + \alpha \lvert \lvert w \rvert  \rvert^{2}_{2} \to min 
+$$
+![[Pasted image 20230929122150.png|450]]
+
+b) Регуляризация гарантирует, что точно есть решения
+$$
+\begin{align}
+w_{*} =  (X^{T}X+\alpha I)^{-1}X^{T}y \\
+aigen(X^{T}X) \geq 0 \\
+X^{T}X+\alpha I > 0 \implies invertible \\
+\end{align}
+$$
+![[Pasted image 20230929122446.png|300]]
+$\alpha\alpha\alpha\dots\alpha$ - Типа гребень
+
+### LASSO:
+Особенность: Lasso зануляет часть весов
+
+## Note
+![[Pasted image 20230929122859.png]]
+
+So NEVER include $w_{0}$ in regularizator. 
