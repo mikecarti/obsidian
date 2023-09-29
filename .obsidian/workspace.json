@@ -13,19 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Backpropagation.md",
+                "file": "Machine Learning/Modifications Of Gradient Descent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5051fba3449074ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -41,8 +33,26 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "3d839c08ce3a8cdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "633c7a82edaa7a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RMSProp.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RMSProp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RMSProp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RMSProp.md"
+              }
             }
           },
           {
@@ -194,12 +208,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5051fba3449074ed",
+  "active": "633c7a82edaa7a29",
   "lastOpenFiles": [
+    "Machine Learning/Modifications Of Gradient Descent.md",
+    "RMSProp.md",
+    "AdaGrad (Adaptive Gradient).md",
+    "Gradient Descent with Momentum.md",
+    "Bias.md",
+    "Neural Networks.md",
+    "Databases/Entities.md",
+    "Machine Learning/Few Data (Small Datasets).md",
+    "Studying.md",
+    "Untitled 1.canvas",
+    "Stochastic Processes/Markov Processes.md",
+    "Catastrophe Theory",
     "Deep Learning/Backpropagation.md",
+    "Excalidraw/Drawing 2023-09-19 15.48.15.excalidraw.md",
+    "probability.md",
+    "Выпрямление Theory.md",
+    "Deep Learning/Classification for Neural Networks.md",
+    "Momentum.md",
     "Mathematical Optimization/Classwork.md",
     "Deep Learning/SVD (Singular Value Decomposition).md",
-    "Neural Networks.md",
     "Deep Learning/Classic Deep Neural Network.md",
     "Deep Learning/Fully-connected Neural Networks.md",
     "Deep Learning/Classwork.md",
@@ -208,11 +238,6 @@
     "Computational Graph.md",
     "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "Machine Learning/Chain Rule.md",
-    "Machine Learning/Sigmoid.md",
-    "Deep Learning/RELU (Rectified Linear Unit).md",
-    "Deep Learning/Leaky RELU.md",
-    "diary/2023-09-28.md",
-    "Выпрямление Theory.md",
     "Deep Learning",
     "photos/Pasted image 20230929174713.png",
     "photos/Pasted image 20230929174357.png",
@@ -222,18 +247,8 @@
     "photos/Pasted image 20230929172340.png",
     "photos/Pasted image 20230929172132.png",
     "photos/Pasted image 20230929170113.png",
-    "Deep Learning/Classification for Neural Networks.md",
-    "Deep Learning/Deep Learning.md",
-    "Machine Learning/Gradient Descent.md",
-    "Machine Learning/Gradient Learning Methods.md",
-    "Machine Learning/Stochastic Gradient Descent.md",
-    "Machine Learning/Regularization.md",
-    "Machine Learning/Modifications Of Gradient Descent.md",
     "photos/Pasted image 20230929122859.png",
     "photos/Pasted image 20230929122446.png",
-    "Machine Learning/Stochastic Average Gradient (SAG).md",
-    "Catastrophe Theory.md",
-    "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
@@ -242,7 +257,6 @@
     "Excalidraw",
     "Machine Learning/Seminar Collabs",
     "Time Series",
-    "Untitled.canvas",
-    "Fin. Engineering"
+    "Untitled.canvas"
   ]
 }

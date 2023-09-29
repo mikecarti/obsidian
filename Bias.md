@@ -1,3 +1,2 @@
 - Bias in [[Linear Regression]]
-- Bias in [[Neural Networks| Neural Networks]]
-- 
+- Bias in [[Neural Network]]s

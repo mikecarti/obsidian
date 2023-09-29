@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "path:-(\"photos\" OR \"diary\")",
+  "collapse-filter": false,
+  "search": "path:-(\"photos\" OR \"diary\" OR \"Excalidraw\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -12,13 +12,6 @@
       "color": {
         "a": 1,
         "rgb": 3604735
-      }
-    },
-    {
-      "query": "path:Databases",
-      "color": {
-        "a": 1,
-        "rgb": 28691
       }
     },
     {
@@ -53,7 +46,7 @@
       "query": "path:diary  ",
       "color": {
         "a": 1,
-        "rgb": 5193792
+        "rgb": 0
       }
     },
     {
@@ -66,14 +59,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.02269781354604,
   "lineSizeMultiplier": 0.481487889273356,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.233886475322271,
+  "repelStrength": 11.9706573605869,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.34965970272166297,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.634628567693067,
+  "close": true
 }
