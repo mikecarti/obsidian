@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backpropagation.md",
+                "file": "Sigmoid.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backpropagation.md",
+                "file": "Sigmoid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backpropagation.md",
+                "file": "Sigmoid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backpropagation.md"
+                "file": "Sigmoid.md"
               }
             }
           },
@@ -179,12 +179,18 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Machine Learning/Neural Network.md",
+    "Sigmoid.md",
+    "Machine Learning/Activation  functions.md",
+    "photos/Pasted image 20230929173720.png",
+    "photos/Pasted image 20230929173706.png",
+    "Backpropagation.md",
+    "photos/Pasted image 20230929173104.png",
     "photos/Pasted image 20230929172340.png",
     "photos/Pasted image 20230929172132.png",
     "photos/Pasted image 20230929170113.png",
     "Fully-connected Neural Networks.md",
     "Classification for Neural Networks.md",
-    "Backpropagation.md",
     "Machine Learning/Deep Learning.md",
     "Machine Learning/Gradient Descent.md",
     "Machine Learning/Gradient Learning Methods.md",
@@ -209,12 +215,6 @@
     "Теория Выпрямления.md",
     "Pair Events.md",
     "Выпрямление Theory.md",
-    "SVD (Singular Value Decomposition).md",
-    "Potential.md",
-    "photos/Pasted image 20230926155607.png",
-    "photos/Pasted image 20230926154646.png",
-    "photos/Pasted image 20230926145639.png",
-    "photos/Pasted image 20230926145631.png",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
