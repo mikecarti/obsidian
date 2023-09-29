@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modifications Of Gradient Descent.md",
+                "file": "Machine Learning/Gradient Learning Methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modifications Of Gradient Descent.md",
+                "file": "Machine Learning/Gradient Learning Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modifications Of Gradient Descent.md",
+                "file": "Machine Learning/Gradient Learning Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modifications Of Gradient Descent.md"
+                "file": "Machine Learning/Gradient Learning Methods.md"
               }
             }
           },
@@ -178,12 +178,15 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Machine Learning/Gradient Descent.md",
+    "Machine Learning/Stochastic Gradient Descent.md",
+    "Machine Learning/Gradient Learning Methods.md",
     "Regularization.md",
+    "Modifications Of Gradient Descent.md",
     "photos/Pasted image 20230929122859.png",
     "photos/Pasted image 20230929122446.png",
     "photos/Pasted image 20230929122150.png",
     "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
-    "Modifications Of Gradient Descent.md",
     "photos/Pasted image 20230929113027.png",
     "Machine Learning/Stochastic Average Gradient (SAG).md",
     "diary/2023-09-28.md",
@@ -205,8 +208,6 @@
     "Few Data (Small Datasets).md",
     "Manifold.md",
     "Stochastic Processes/Classwork.md",
-    "Stochastic Processes/Weak Law of Large Numbers.md",
-    "Stochastic Processes/Stationary Distribution.md",
     "photos/Pasted image 20230926155607.png",
     "photos/Pasted image 20230926154646.png",
     "photos/Pasted image 20230926145639.png",

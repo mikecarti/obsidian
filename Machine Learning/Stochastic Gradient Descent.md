@@ -5,6 +5,9 @@ $$
 step SGD:
 	$i_{k}$ - random object index
 	$w^k= w^{k-1}- \eta \nabla q_{i_{k}}(w^{k-1})$
+	$\eta \text{ - learning rate}$
+	$w^{k} \text{ - weights at step k}$
+	$q_{i_{k}} \text{ - loss function of i-th object for k-th step}$
 
 ### Problem:
 If $||w^{(k)}-w_{*}|| \gg 0$,
