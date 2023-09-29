@@ -11,8 +11,13 @@
             "id": "07bb314f286caba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/RELU (Rectified Linear Unit).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -94,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/RELU (Rectified Linear Unit).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Machine Learning/RELU (Rectified Linear Unit).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Machine Learning/RELU (Rectified Linear Unit).md"
+              }
             }
           },
           {
@@ -180,12 +189,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07bb314f286caba9",
+  "active": "0808e3cca7f689eb",
   "lastOpenFiles": [
+    "Machine Learning/Leaky RELU.md",
     "Machine Learning/Activation  functions.md",
     "diary/2023-09-28.md",
     "Выпрямление Theory.md",
-    "Machine Learning/Leaky RELU.md",
     "Deep Learning",
     "photos/Pasted image 20230929174713.png",
     "Machine Learning/RELU (Rectified Linear Unit).md",
