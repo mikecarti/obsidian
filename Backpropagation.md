@@ -31,11 +31,11 @@ y = f(g_{1}(x), g_{2}(x), \dots, g_{n}(x)) \\
 $$
 ### Computational Graph
 $$
-\begin{align}
+\begin{gather}
 x_{1}^{2}+ 3(x_{2} \cdot x_{3}-x_{1}^{2}) = f(x_{1},x_{2},x_{3}) \\
 x_{1} = 1, x_{2}=2, x_{3}=3 \\
-\frac{\delta f}{\delta x_{i}}
-\end{align}
+\frac{\delta f}{\delta x_{i}} = ?
+\end{gather}
 $$
 ![[Pasted image 20230929170113.png|400]]
 $$
@@ -54,6 +54,36 @@ $$
 \frac{dy}{dz_{4}} = \frac{dy}{dy} \cdot \frac{dy}{dz_{4}}= 1 \cdot 1 = 1 \\
 \frac{dy}{dz_{3}} = \frac{dy}{dz_{4}} \cdot \frac{dz_{4}}{dz_{3}} = 1 \cdot  3 = 3  \\
 \frac{dy}{dz_{1}}= \frac{dy}{dy} \left(  \frac{dz_{1}}{dz_{4}} \right)  \cdot \frac{dy}{dz_{3}} \cdot \frac{dz_{3}}{dz_{1}} = -2 \\
-\frac{dy}{dz_{2}}=\frac{dy}{dz_{3}
+\frac{dy}{dz_{2}}=\frac{dy}{dz_{3}}=3 \\
+\frac{dy}{dx_{1}} = \frac{dy}{dz_{1}} \cdot \frac{dz_{1}}{dx_{1}}=-2  \cdot  2x_{1}=-4 \\
+\frac{dy}{dx_{2}}=\frac{dy}{dz_{2}} \cdot \frac{dz_{2}}{dx_{2}}=3 \cdot x_{3}=9 \\
+\frac{dy}{dx_{3}}=\frac{dy}{dz_{2}} \cdot \frac{dz_{2}}{dx_{3}}=3 \cdot x_{2}=6
 \end{align}
 $$
+$$
+\begin{align}
+x \qquad  \\
+z_{1} = f_{1}(x, w_{1}) \\
+z_{2} = f_{2}(z_{1}, w_{2}) \\
+\dots \\
+z_{n} = f_{n}(z_{n-1}, w_{n}) \\
+\hat{y}=g(z_{n})  \\
+\ell = L(\hat{y}, y)
+\end{align}
+$$
+![[Pasted image 20230929172340.png]]
+
+
+$$
+\begin{align}
+x \in \mathbb{R}^{d_{0}}  \\
+a(x) = <w,x> = w^Tx, w \in \mathbb{R}^{d_{0}} \\
+z_{1}=W_{1}x \qquad W_{1} \in \mathbb{R}^{d_{1} \times d_{0}} \\
+z_{2} = W_{2}z_{1} \qquad W_{2} \in \mathbb{R}^{d_{2} \times d_{1}} \\
+\dots \\
+z_{n} = W_{n}z_{n-1} \qquad W_{n}\in \mathbb{}
+\end{align}
+$$
+
+
+
