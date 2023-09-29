@@ -24,26 +24,8 @@
             "id": "5051fba3449074ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/Backpropagation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56d47922949159f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neural Networks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -60,26 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "4a0e10263b1e3634",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1588036913398cb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/Neural Network.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Neural Networks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -235,9 +194,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "56d47922949159f6",
+  "active": "5051fba3449074ed",
   "lastOpenFiles": [
     "Deep Learning/Backpropagation.md",
+    "Mathematical Optimization/Classwork.md",
+    "Deep Learning/SVD (Singular Value Decomposition).md",
     "Neural Networks.md",
     "Deep Learning/Classic Deep Neural Network.md",
     "Deep Learning/Fully-connected Neural Networks.md",
@@ -272,8 +233,6 @@
     "photos/Pasted image 20230929122446.png",
     "Machine Learning/Stochastic Average Gradient (SAG).md",
     "Catastrophe Theory.md",
-    "Potential Function.md",
-    "diary/2023-09-26.md",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
