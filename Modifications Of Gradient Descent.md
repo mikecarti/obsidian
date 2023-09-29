@@ -4,7 +4,7 @@ As gradient step is orthogonal to level curves, it may be sub-optimal
 
 We see that along y axis they are oscillating (stupid movement), and on x axis, it moves straightforward.
 
-h - затухающее среднее градиентов с прошлых шагов
+h - fading average of gradients from previous steps (затухающее среднее градиентов с прошлых шагов)
 $$
 \begin{align}
 w^{(0)} &\text{ - initialization of weights} \\
@@ -21,14 +21,14 @@ $$
 For sparse data.
 $$
 \begin{matrix}
-\dots  & 1 & 2 & 3 & 4 & 5 \\
-1  & 0 & 0 & 1 & 0 & 0\\
-2  & 1 & 0 & 0 & 0 & 0\\
-3  & 1 & 0 & 1 & 0 & 0\\
-4  & \dots & \dots & \dots & \dots & 0\\
-5  & \dots & \dots & \dots & \dots & 0\\
-6  & \dots & \dots & \dots & \dots & 1\\
-7 & \dots & \dots & \dots & \dots & 1 
+\dots  & 1 & 2 & 3 & 4 & 5  & \downarrow \\
+1  & 0 & 0 & 1 & 0 & 0 & \downarrow \\
+2  & 1 & 0 & 0 & 0 & 0  & \downarrow \\
+3  & 1 & 0 & 1 & 0 & 0  & \downarrow \\
+4  & \dots & \dots & \dots & \dots & 0 & \downarrow  \\
+5  & \dots & \dots & \dots & \dots & 0  & \downarrow \\
+6  & \dots & \dots & \dots & \dots & 1  & \downarrow \\
+7 & \dots & \dots & \dots & \dots & 1 & \downarrow 
 \end{matrix}
 $$
 

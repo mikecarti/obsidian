@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regularization.md",
+                "file": "Modifications Of Gradient Descent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regularization.md",
+                "file": "Modifications Of Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regularization.md",
+                "file": "Modifications Of Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regularization.md"
+                "file": "Modifications Of Gradient Descent.md"
               }
             }
           },
@@ -179,11 +178,11 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Regularization.md",
     "photos/Pasted image 20230929122859.png",
     "photos/Pasted image 20230929122446.png",
     "photos/Pasted image 20230929122150.png",
     "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
-    "Regularization.md",
     "Modifications Of Gradient Descent.md",
     "photos/Pasted image 20230929113027.png",
     "Machine Learning/Stochastic Average Gradient (SAG).md",
@@ -214,7 +213,6 @@
     "photos/Pasted image 20230926145631.png",
     "photos/Pasted image 20230926145414.png",
     "photos/Pasted image 20230926145336.png",
-    "photos/Pasted image 20230922191313.png",
     "Untitled 1.canvas",
     "Excalidraw",
     "photos/decompositions 1.pdf",
