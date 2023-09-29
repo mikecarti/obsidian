@@ -1,1 +1,1 @@
-$\ell$ iterations (one go through выборку)
+$\ell$ iterations (one go through sample)

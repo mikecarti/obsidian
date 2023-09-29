@@ -3,3 +3,6 @@ The standard way to extend linear regression to settings in which the relationsh
   
 
 Here we vary the degree of polynomial $d$
+
+## Related:
+[[Linear Regression]]

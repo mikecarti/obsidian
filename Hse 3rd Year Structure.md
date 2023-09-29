@@ -1,5 +1,5 @@
 
-# [[Financial Engineering]]
+# Financial Engineering
 
 ![[Pasted image 20230901111737.png]]
 
@@ -19,7 +19,7 @@ Seminarian Telegram: @SofiaSivakova
 - Quantitative research
 - Exam
 
-# [[Stochastic Processes and Time Series]]
+# Stochastic Processes and Time Series
 ![[Pasted image 20230902094635.png]]
 #### Challenges: 
 1) Don't read study guide before April 4. Courses differ a lot.
@@ -28,12 +28,12 @@ plukyachenko@hse.ru - Petr Lukiachenko
 bdemeshev@hse.ru - Boris Demeshev
 
 
-# [[Databases]]
+# Databases
 оценка = 70% накоп + 30% экз
 накоп = 40% (проект-HW) + 20% (эссе) +  20% (семинары) + 10% (экз в ноябре) + 10% (квизы)
 
 
-# [[Machine Learning|Machine / Statistical Learning]]
+# Machine / Statistical Learning
 
 ### Attendance:
 https://edu.hse.ru/mod/attendance/view.php?id=921893
@@ -45,7 +45,7 @@ https://drive.google.com/drive/folders/1s6_va0NahztyxobG3g-1IVGhAec3f0x4
 
 GRADE = 0.3* HW + 0.1 * Participation + 0.2 * Exam + 0.2 * Quizzes + 0.2 * Test
 
-### [[Econometrics]]
+### Econometrics
 
 GRADE = 0.1 * HW + 0.2 * Quiz + 0.25 * Midterm + 0.15 * Project + 0.3 * Exam
 
@@ -53,5 +53,5 @@ Projects are not about demonstration of your technical skills
 Projects are about interpreting the results (economic sense, etc).
 
 
-# [[Optimization Methods]]
+# Optimization Methods
 ![[Pasted image 20230908104125.png]]

@@ -2,12 +2,15 @@
 
 ### Global models
 - high bias, low variance
-- Assumes many of unrealistic assumpotions:
+- Assumes many of unrealistic assumptions:
 	- additive error
 	- Single error source
 	- Linear regression and linearity
 
 ### Local models
-- e.g. KNN
+- e.g. [[K Nearest Neighbors (KNN)]]
 - low bias, high variance
 - Few assumptions
+
+Related:
+[[Machine Learning]]

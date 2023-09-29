@@ -13,39 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Modifications Of Gradient Descent.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e653b9ea529182fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/2023-09-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3d839c08ce3a8cdf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "633c7a82edaa7a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RMSProp.md",
+                "file": "Stochastic Processes/Markov chain.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -118,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RMSProp.md",
+                "file": "Stochastic Processes/Markov chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RMSProp.md",
+                "file": "Stochastic Processes/Markov chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RMSProp.md"
+                "file": "Stochastic Processes/Markov chain.md"
               }
             }
           },
@@ -208,36 +176,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "633c7a82edaa7a29",
+  "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Machine Learning/Modifications Of Gradient Descent.md",
-    "RMSProp.md",
-    "AdaGrad (Adaptive Gradient).md",
-    "Gradient Descent with Momentum.md",
-    "Bias.md",
-    "Neural Networks.md",
-    "Databases/Entities.md",
-    "Machine Learning/Few Data (Small Datasets).md",
-    "Studying.md",
-    "Untitled 1.canvas",
+    "Homogeneous.md",
+    "Stochastic Processes/Markov chain.md",
+    "Stochastic Processes/Infinite Markov Chains.md",
     "Stochastic Processes/Markov Processes.md",
-    "Catastrophe Theory",
-    "Deep Learning/Backpropagation.md",
-    "Excalidraw/Drawing 2023-09-19 15.48.15.excalidraw.md",
-    "probability.md",
-    "Выпрямление Theory.md",
-    "Deep Learning/Classification for Neural Networks.md",
-    "Momentum.md",
-    "Mathematical Optimization/Classwork.md",
+    "Deep Learning/General Adversarial Network.md",
+    "Machine Learning/Shrinkage Methods.md",
+    "Bias.md",
+    "Machine Learning/MAE.md",
+    "Studying.md",
+    "Hse 3rd Year Structure.md",
+    "Machine Learning/Polynomial Regression.md",
+    "Machine Learning/DImensionality.md",
+    "Machine Learning/Curse Of Dimensionality.md",
     "Deep Learning/SVD (Singular Value Decomposition).md",
-    "Deep Learning/Classic Deep Neural Network.md",
-    "Deep Learning/Fully-connected Neural Networks.md",
-    "Deep Learning/Classwork.md",
-    "Deep Learning/Neural Network.md",
-    "Deep Learning/Activation  functions.md",
-    "Computational Graph.md",
-    "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
-    "Machine Learning/Chain Rule.md",
+    "Deep Learning/Singular Value Decompositon.md",
+    "Machine Learning/Model.md",
+    "Machine Learning/Machine Learning.md",
+    "Deep Learning/Epoch.md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Linear Model Training.md",
+    "Machine Learning/Modifications Of Gradient Descent.md",
+    "diary/2023-09-28.md",
+    "Gradient.md",
+    "Adam Optimizer.md",
+    "Momentum.md",
+    "AdaGrad (Adaptive Gradient).md",
+    "Untitled 1.canvas",
+    "Catastrophe Theory",
     "Deep Learning",
     "photos/Pasted image 20230929174713.png",
     "photos/Pasted image 20230929174357.png",

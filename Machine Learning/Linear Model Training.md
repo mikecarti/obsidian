@@ -27,7 +27,10 @@ $$
 ## Problems:
 1) Not invertible matrix (degenerate, singular, вырожденная)
 2) Matrix inversion $\underline{O}(d^3)$
-3) If $L(y,z)$ is a хитрая function, then to solve $\nabla Q(w)=0$ is not solvable
+3) If $L(y,z)$ is a tricky function, then $\nabla Q(w)=0$ is not solvable
 
 ## Solution:
 [[Gradient Learning Methods]]
+
+## Related:
+[[Linear Regression]]

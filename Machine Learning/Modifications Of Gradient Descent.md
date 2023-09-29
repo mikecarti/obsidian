@@ -1,7 +1,9 @@
 - [[Gradient Descent with Momentum]]
 - [[AdaGrad (Adaptive Gradient)]]
+- [[RMSProp]]
+- [[Adam Optimizer]] 
 
-## Adam
-Combines [[Momentum]] and [[AdaGrad (Adaptive Gradient)]]
+## Related:
+[[Gradient Descent]]
 
 
