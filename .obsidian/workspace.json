@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Gradient Learning Methods.md",
+                "file": "Machine Learning/Gradient Descent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Gradient Learning Methods.md",
+                "file": "Machine Learning/Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Gradient Learning Methods.md",
+                "file": "Machine Learning/Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Gradient Learning Methods.md"
+                "file": "Machine Learning/Gradient Descent.md"
               }
             }
           },
@@ -178,9 +178,9 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Machine Learning/Gradient Learning Methods.md",
     "Machine Learning/Gradient Descent.md",
     "Machine Learning/Stochastic Gradient Descent.md",
-    "Machine Learning/Gradient Learning Methods.md",
     "Regularization.md",
     "Modifications Of Gradient Descent.md",
     "photos/Pasted image 20230929122859.png",
