@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Markov chain.md",
-                "mode": "source",
+                "file": "Deep Learning/SVD (Singular Value Decomposition).md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.50418853759766
+    "width": 202.50418853759766
   },
   "right": {
     "id": "597630b082247d37",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Markov chain.md",
+                "file": "Deep Learning/SVD (Singular Value Decomposition).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Markov chain.md",
+                "file": "Deep Learning/SVD (Singular Value Decomposition).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Markov chain.md"
+                "file": "Deep Learning/SVD (Singular Value Decomposition).md"
               }
             }
           },
@@ -178,8 +178,15 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Homogeneous.md",
+    "Deep Learning/Backpropagation.md",
+    "Deep Learning/Epoch.md",
+    "Deep Learning/Fully-connected Neural Networks.md",
+    "Deep Learning/Activation  functions.md",
+    "Deep Learning/Classwork.md",
+    "Deep Learning/SVD (Singular Value Decomposition).md",
+    "Machine Learning/Polynomial Regression.md",
     "Stochastic Processes/Markov chain.md",
+    "Homogeneous.md",
     "Stochastic Processes/Infinite Markov Chains.md",
     "Stochastic Processes/Markov Processes.md",
     "Deep Learning/General Adversarial Network.md",
@@ -188,22 +195,15 @@
     "Machine Learning/MAE.md",
     "Studying.md",
     "Hse 3rd Year Structure.md",
-    "Machine Learning/Polynomial Regression.md",
     "Machine Learning/DImensionality.md",
     "Machine Learning/Curse Of Dimensionality.md",
-    "Deep Learning/SVD (Singular Value Decomposition).md",
     "Deep Learning/Singular Value Decompositon.md",
     "Machine Learning/Model.md",
     "Machine Learning/Machine Learning.md",
-    "Deep Learning/Epoch.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Model Training.md",
     "Machine Learning/Modifications Of Gradient Descent.md",
     "diary/2023-09-28.md",
-    "Gradient.md",
-    "Adam Optimizer.md",
-    "Momentum.md",
-    "AdaGrad (Adaptive Gradient).md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
