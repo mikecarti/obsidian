@@ -39,6 +39,9 @@ We can use this result to...
 
 ## How to test system of weights = 0
 
+$H_{0}: RB = q$
+$H_{A}: RB \neq q$
+
 $$
 F = \frac{{(RSS_{R}-RSS_{UR})/q}}{RSS_{UR}/(n-k-1)} \sim F_{q; n-k-1}
 $$
