@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiple Regression Hypothesis Testing (Inference).md",
+                "file": "Distribution Limit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiple Regression Hypothesis Testing (Inference).md",
+                "file": "Distribution Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiple Regression Hypothesis Testing (Inference).md",
+                "file": "Distribution Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiple Regression Hypothesis Testing (Inference).md"
+                "file": "Distribution Limit.md"
               }
             }
           },
@@ -178,17 +178,17 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Almost Surely Limit.md",
-    "Cochrane's Theorem.md",
-    "Douglas Production Function.md",
-    "Sometimes features are not significant one by one, but together are.md",
-    "Multiple Regression Hypothesis Testing (Inference).md",
-    "Econometrics/Classwork.md",
-    "photos/Pasted image 20231003153713.png",
-    "Convergence.md",
-    "Probability.md",
     "Probability Limit.md",
     "Distribution Limit.md",
+    "Probability.md",
+    "Convergence.md",
+    "Econometrics/Cochrane's Theorem.md",
+    "Econometrics/Douglas Production Function.md",
+    "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
+    "Stochastic Processes/Almost Surely Limit.md",
+    "Sometimes features are not significant one by one, but together are.md",
+    "Econometrics/Classwork.md",
+    "photos/Pasted image 20231003153713.png",
     "Deep Learning/Kernel Methods.md",
     "Machine Learning/Affine Transformation.md",
     "diary/2023-10-03.md",
