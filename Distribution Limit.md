@@ -1,3 +1,3 @@
 $$
-\mathbb{F_{n}}(x)  {n\to \infty} \quad F(x)
+{F}_{n}(x)  \xrightarrow{n\to \infty} F(x)
 $$
