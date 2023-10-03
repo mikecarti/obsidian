@@ -1,7 +1,7 @@
 ## 03.10
 
 [[Douglas Production Function]]
-[[Multiple Regression Inference]]
+[[Multiple Regression Hypothesis Testing (Inference)]]
 [[Cochrane's Theorem]]
 
 $$

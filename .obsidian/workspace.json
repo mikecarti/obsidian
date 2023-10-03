@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sometimes features are not significant one by one, but together are.md",
+                "file": "Multiple Regression Hypothesis Testing (Inference).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sometimes features are not significant one by one, but together are.md",
+                "file": "Multiple Regression Hypothesis Testing (Inference).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sometimes features are not significant one by one, but together are.md",
+                "file": "Multiple Regression Hypothesis Testing (Inference).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sometimes features are not significant one by one, but together are.md"
+                "file": "Multiple Regression Hypothesis Testing (Inference).md"
               }
             }
           },
@@ -178,12 +178,12 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Econometrics/Classwork.md",
-    "Douglas Production Function.md",
-    "Multiple Regression Inference.md",
-    "Sometimes features are not significant one by one, but together are.md",
-    "Cochrane's Theorem.md",
     "Almost Surely Limit.md",
+    "Cochrane's Theorem.md",
+    "Douglas Production Function.md",
+    "Sometimes features are not significant one by one, but together are.md",
+    "Multiple Regression Hypothesis Testing (Inference).md",
+    "Econometrics/Classwork.md",
     "photos/Pasted image 20231003153713.png",
     "Convergence.md",
     "Probability.md",
