@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Affine Transformation.md",
+                "file": "Probability Limit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.50418853759766
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Affine Transformation.md",
+                "file": "Probability Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Affine Transformation.md",
+                "file": "Probability Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Affine Transformation.md"
+                "file": "Probability Limit.md"
               }
             }
           },
@@ -178,6 +179,10 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Almost Surely Limit.md",
+    "Probability Limit.md",
+    "Deep Learning/Kernel Methods.md",
+    "Machine Learning/Affine Transformation.md",
     "diary/2023-10-03.md",
     "photos/Pasted image 20231003134156.png",
     "photos/Pasted image 20231003134112.png",
@@ -204,9 +209,6 @@
     "Machine Learning/Curse Of Dimensionality.md",
     "Deep Learning/Singular Value Decompositon.md",
     "Machine Learning/Model.md",
-    "Machine Learning/Machine Learning.md",
-    "Machine Learning/Linear Regression.md",
-    "Machine Learning/Linear Model Training.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
