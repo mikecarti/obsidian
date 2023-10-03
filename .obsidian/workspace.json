@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Almost Surely Limit.md",
+                "file": "Multiple Regression Inference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Almost Surely Limit.md",
+                "file": "Multiple Regression Inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Almost Surely Limit.md",
+                "file": "Multiple Regression Inference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Almost Surely Limit.md"
+                "file": "Multiple Regression Inference.md"
               }
             }
           },
@@ -179,10 +179,11 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Almost Surely Limit.md",
+    "Multiple Regression Inference.md",
     "photos/Pasted image 20231003153713.png",
     "Convergence.md",
     "Probability.md",
-    "Almost Surely Limit.md",
     "Probability Limit.md",
     "Distribution Limit.md",
     "Deep Learning/Kernel Methods.md",
@@ -217,7 +218,6 @@
     "photos/Pasted image 20230929173720.png",
     "photos/Pasted image 20230929173706.png",
     "photos/Pasted image 20230929173104.png",
-    "photos/Pasted image 20230929172340.png",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
