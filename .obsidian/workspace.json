@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-10-03.md",
+                "file": "Machine Learning/Affine Transformation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-03.md",
+                "file": "Machine Learning/Affine Transformation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-03.md",
+                "file": "Machine Learning/Affine Transformation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-03.md"
+                "file": "Machine Learning/Affine Transformation.md"
               }
             }
           },
@@ -178,12 +178,12 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "diary/2023-10-03.md",
     "photos/Pasted image 20231003134156.png",
     "photos/Pasted image 20231003134112.png",
     "photos/Pasted image 20231003134039.png",
     "photos/Pasted image 20231003134030.png",
     "Deep Learning/SVD (Singular Value Decomposition).md",
-    "diary/2023-10-03.md",
     "Deep Learning/Backpropagation.md",
     "Deep Learning/Epoch.md",
     "Deep Learning/Fully-connected Neural Networks.md",
@@ -216,7 +216,6 @@
     "photos/Pasted image 20230929173706.png",
     "photos/Pasted image 20230929173104.png",
     "photos/Pasted image 20230929172340.png",
-    "photos/Pasted image 20230929172132.png",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
