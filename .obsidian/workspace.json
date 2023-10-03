@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/SVD (Singular Value Decomposition).md",
-                "mode": "preview",
+                "file": "diary/2023-10-03.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/SVD (Singular Value Decomposition).md",
+                "file": "diary/2023-10-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/SVD (Singular Value Decomposition).md",
+                "file": "diary/2023-10-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/SVD (Singular Value Decomposition).md"
+                "file": "diary/2023-10-03.md"
               }
             }
           },
@@ -178,12 +178,17 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "photos/Pasted image 20231003134156.png",
+    "photos/Pasted image 20231003134112.png",
+    "photos/Pasted image 20231003134039.png",
+    "photos/Pasted image 20231003134030.png",
+    "Deep Learning/SVD (Singular Value Decomposition).md",
+    "diary/2023-10-03.md",
     "Deep Learning/Backpropagation.md",
     "Deep Learning/Epoch.md",
     "Deep Learning/Fully-connected Neural Networks.md",
     "Deep Learning/Activation  functions.md",
     "Deep Learning/Classwork.md",
-    "Deep Learning/SVD (Singular Value Decomposition).md",
     "Machine Learning/Polynomial Regression.md",
     "Stochastic Processes/Markov chain.md",
     "Homogeneous.md",
@@ -202,8 +207,6 @@
     "Machine Learning/Machine Learning.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Linear Model Training.md",
-    "Machine Learning/Modifications Of Gradient Descent.md",
-    "diary/2023-09-28.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
@@ -214,9 +217,6 @@
     "photos/Pasted image 20230929173104.png",
     "photos/Pasted image 20230929172340.png",
     "photos/Pasted image 20230929172132.png",
-    "photos/Pasted image 20230929170113.png",
-    "photos/Pasted image 20230929122859.png",
-    "photos/Pasted image 20230929122446.png",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
