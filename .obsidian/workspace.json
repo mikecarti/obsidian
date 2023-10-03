@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiple Regression Inference.md",
+                "file": "Douglas Production Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiple Regression Inference.md",
+                "file": "Douglas Production Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiple Regression Inference.md",
+                "file": "Douglas Production Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiple Regression Inference.md"
+                "file": "Douglas Production Function.md"
               }
             }
           },
@@ -179,8 +179,10 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Almost Surely Limit.md",
     "Multiple Regression Inference.md",
+    "Douglas Production Function.md",
+    "Cochrane's Theorem.md",
+    "Almost Surely Limit.md",
     "photos/Pasted image 20231003153713.png",
     "Convergence.md",
     "Probability.md",
@@ -208,8 +210,6 @@
     "Machine Learning/Shrinkage Methods.md",
     "Bias.md",
     "Machine Learning/MAE.md",
-    "Studying.md",
-    "Hse 3rd Year Structure.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
