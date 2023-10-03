@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Classwork.md",
+                "file": "Sometimes features are not significant one by one, but together are.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/Classwork.md",
+                "file": "Sometimes features are not significant one by one, but together are.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/Classwork.md",
+                "file": "Sometimes features are not significant one by one, but together are.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/Classwork.md"
+                "file": "Sometimes features are not significant one by one, but together are.md"
               }
             }
           },
@@ -178,9 +178,10 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Douglas Production Function.md",
     "Econometrics/Classwork.md",
+    "Douglas Production Function.md",
     "Multiple Regression Inference.md",
+    "Sometimes features are not significant one by one, but together are.md",
     "Cochrane's Theorem.md",
     "Almost Surely Limit.md",
     "photos/Pasted image 20231003153713.png",
@@ -208,7 +209,6 @@
     "Stochastic Processes/Markov Processes.md",
     "Deep Learning/General Adversarial Network.md",
     "Machine Learning/Shrinkage Methods.md",
-    "Bias.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
