@@ -3,7 +3,7 @@ The simplest type of processes. Used in [[General Adversarial Network]]s for ana
 
 ## Definition
 
-A Markov chain or Markov process is a [[stochastic model]] describing a sequence of possible events in which the [[probability]] of each event depends only on the state in the previous event.
+A Markov chain or Markov process is a [[stochastic model]] describing a sequence of possible events in which the [[Probability]] of each event depends only on the state in the previous event.
 
 
 ## Transition Matrix

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Limit.md",
+                "file": "Almost Surely Limit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability Limit.md",
+                "file": "Almost Surely Limit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability Limit.md",
+                "file": "Almost Surely Limit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability Limit.md"
+                "file": "Almost Surely Limit.md"
               }
             }
           },
@@ -179,8 +179,11 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Convergence.md",
+    "Probability.md",
     "Almost Surely Limit.md",
     "Probability Limit.md",
+    "Distribution Limit.md",
     "Deep Learning/Kernel Methods.md",
     "Machine Learning/Affine Transformation.md",
     "diary/2023-10-03.md",
@@ -206,9 +209,6 @@
     "Studying.md",
     "Hse 3rd Year Structure.md",
     "Machine Learning/DImensionality.md",
-    "Machine Learning/Curse Of Dimensionality.md",
-    "Deep Learning/Singular Value Decompositon.md",
-    "Machine Learning/Model.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
