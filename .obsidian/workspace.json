@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Douglas Production Function.md",
+                "file": "Econometrics/Classwork.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Douglas Production Function.md",
+                "file": "Econometrics/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Douglas Production Function.md",
+                "file": "Econometrics/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Douglas Production Function.md"
+                "file": "Econometrics/Classwork.md"
               }
             }
           },
@@ -179,8 +178,9 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Multiple Regression Inference.md",
     "Douglas Production Function.md",
+    "Econometrics/Classwork.md",
+    "Multiple Regression Inference.md",
     "Cochrane's Theorem.md",
     "Almost Surely Limit.md",
     "photos/Pasted image 20231003153713.png",
@@ -209,7 +209,6 @@
     "Deep Learning/General Adversarial Network.md",
     "Machine Learning/Shrinkage Methods.md",
     "Bias.md",
-    "Machine Learning/MAE.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
