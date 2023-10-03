@@ -8,9 +8,12 @@ $w$ - State of nature - random variable, that depends on other random process, o
 
 $$
 \begin{align}
-
+\text{Probability Limit:} \\
 \lim_{ n \to \infty } \mathbb{P}(X_{n}>\epsilon) &= \lim_{ n \to \infty } \mathbb{P}\left( X_{n}=\left[ n^3 \cdot \frac{1}{n^2}+0 \cdot \left( 1-\frac{1}{n^2} \right) \right] \right) =  \\
-\mathbb{P}\left( X_{n}=\frac{1}{n} \right)
+\mathbb{P}\left( X_{n} = \frac{1}{n} \right) \\
+\lim_{ n \to \infty } \mathbb{P}(X_{n}>\epsilon>0) &= \lim_{ n \to \infty } \frac{1}{n^2} = 0 \\ \\
+\text{Almost Sure Limit:} \\
+
 \end{align}
 
 $$
