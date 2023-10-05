@@ -11,8 +11,13 @@
             "id": "07bb314f286caba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "diary/2023-10-06.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "diary/2023-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "diary/2023-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "diary/2023-10-06.md"
+              }
             }
           },
           {
@@ -169,6 +179,7 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "diary/2023-10-06.md",
     "Deep Learning/Fully-connected Neural Networks.md",
     "Neural Networks.md",
     "Качественная Теория Уравнений В Частных Производных.md",
@@ -199,7 +210,6 @@
     "Stochastic Processes/Markov chain.md",
     "Homogeneous.md",
     "Stochastic Processes/Infinite Markov Chains.md",
-    "Stochastic Processes/Markov Processes.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
