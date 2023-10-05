@@ -6,3 +6,6 @@ $z_{i}=\underbrace{( z^{(1)}_{1}, \dots, z_{i}^{(d_{i})} )}_{ neurons }$
 ### Other names:
 1) Multi-layer perceptron (MLP)
 2) Fully-Connected network (FCN)
+
+### Related:
+[[Neural Network]]
