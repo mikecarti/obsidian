@@ -19,3 +19,6 @@ Eval mode / Inference mode:
 $$
 y = x
 $$
+
+## Related:
+[[Neural Network]]

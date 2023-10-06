@@ -28,3 +28,6 @@ $$
 &y_{i} = \hat{x}_{i} \odot w + \beta
 \end{align}
 $$
+
+## Related:
+[[Neural Network]]
