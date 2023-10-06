@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Classification.md",
+                "file": "Binary Classification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Classification.md",
+                "file": "Binary Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Classification.md",
+                "file": "Binary Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Classification.md"
+                "file": "Binary Classification.md"
               }
             }
           },
@@ -179,8 +179,10 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Sparse Models.md",
+    "photos/Pasted image 20231006121359.png",
     "Linear Classification.md",
+    "Sparse Models.md",
+    "Binary Classification.md",
     "Proximity Method.md",
     "photos/Pasted image 20231006114930.png",
     "Machine Learning/Regularization.md",
@@ -210,8 +212,6 @@
     "Deep Learning/SVD (Singular Value Decomposition).md",
     "Deep Learning/Backpropagation.md",
     "Deep Learning/Epoch.md",
-    "Deep Learning/Activation  functions.md",
-    "Deep Learning/Classwork.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
