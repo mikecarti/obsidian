@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Regularization.md",
+                "file": "Sparse Models.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Regularization.md",
+                "file": "Sparse Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Regularization.md",
+                "file": "Sparse Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Regularization.md"
+                "file": "Sparse Models.md"
               }
             }
           },
@@ -179,6 +179,10 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "photos/Pasted image 20231006114930.png",
+    "Machine Learning/Regularization.md",
+    "Sparse Models.md",
+    "photos/Pasted image 20231006113718.png",
     "diary/2023-10-06.md",
     "Deep Learning/Fully-connected Neural Networks.md",
     "Neural Networks.md",
@@ -207,9 +211,6 @@
     "Deep Learning/Activation  functions.md",
     "Deep Learning/Classwork.md",
     "Machine Learning/Polynomial Regression.md",
-    "Stochastic Processes/Markov chain.md",
-    "Homogeneous.md",
-    "Stochastic Processes/Infinite Markov Chains.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
@@ -217,7 +218,6 @@
     "photos/Pasted image 20230929174357.png",
     "photos/Pasted image 20230929173720.png",
     "photos/Pasted image 20230929173706.png",
-    "photos/Pasted image 20230929173104.png",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
