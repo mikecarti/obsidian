@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dropout.md",
+                "file": "Batch Normalization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dropout.md",
+                "file": "Batch Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dropout.md",
+                "file": "Batch Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dropout.md"
+                "file": "Batch Normalization.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Cross Entropy Loss.md",
     "Dropout.md",
+    "Batch Normalization.md",
+    "Cross Entropy Loss.md",
     "photos/Pasted image 20231006165553.png",
     "Stochastic Processes/Classwork.md",
     "photos/Pasted image 20231006164654.png",
@@ -214,7 +215,6 @@
     "Stochastic Processes/Almost Surely Limit.md",
     "Econometrics/Classwork.md",
     "Deep Learning/Kernel Methods.md",
-    "Machine Learning/Affine Transformation.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
