@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Dropout.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Dropout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Dropout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "Dropout.md"
               }
             }
           },
@@ -179,6 +179,10 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Cross Entropy Loss.md",
+    "Dropout.md",
+    "photos/Pasted image 20231006165553.png",
+    "Stochastic Processes/Classwork.md",
     "photos/Pasted image 20231006164654.png",
     "photos/Pasted image 20231006164530.png",
     "photos/Pasted image 20231006162703.png",
@@ -197,7 +201,6 @@
     "Machine Learning/Linear Classification.md",
     "Machine Learning/Sparse Models.md",
     "photos/Pasted image 20231006114930.png",
-    "photos/Pasted image 20231006113718.png",
     "diary/2023-10-06.md",
     "Deep Learning/Fully-connected Neural Networks.md",
     "Neural Networks.md",
@@ -210,11 +213,8 @@
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Stochastic Processes/Almost Surely Limit.md",
     "Econometrics/Classwork.md",
-    "photos/Pasted image 20231003153713.png",
     "Deep Learning/Kernel Methods.md",
     "Machine Learning/Affine Transformation.md",
-    "diary/2023-10-03.md",
-    "Deep Learning/SVD (Singular Value Decomposition).md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
