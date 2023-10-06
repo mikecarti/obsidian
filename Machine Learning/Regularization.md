@@ -78,3 +78,8 @@ $$\implies x_{ij}=\frac{{x_{ij}-\mu_{i}}}{s_{j}}$$
 
 ![[Pasted image 20231006113718.png|500]]
 
+
+## Related:
+[[Ridge and Lasso regularization is like a salt in cookery. Often makes model better.]]
+[[Linear Regression]]
+[[Over-fitting]]

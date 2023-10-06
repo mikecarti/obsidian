@@ -11,13 +11,8 @@
             "id": "07bb314f286caba9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Classification.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Binary Classification.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,23 +169,26 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Machine Learning/Binary Classification.md",
+    "Machine Learning/Loss Function.md",
+    "Machine Learning/Regularization.md",
+    "Machine Learning/Polynomial Regression.md",
+    "Machine Learning/Proximity Method.md",
+    "Sometimes features are not significant one by one, but together are.md",
+    "Distribution Limit.md",
     "photos/Pasted image 20231006122644.png",
     "photos/Pasted image 20231006122545.png",
     "photos/Pasted image 20231006122541.png",
     "photos/Pasted image 20231006122504.png",
     "photos/Pasted image 20231006121359.png",
-    "Linear Classification.md",
-    "Sparse Models.md",
-    "Binary Classification.md",
-    "Proximity Method.md",
+    "Machine Learning/Linear Classification.md",
+    "Machine Learning/Sparse Models.md",
     "photos/Pasted image 20231006114930.png",
-    "Machine Learning/Regularization.md",
     "photos/Pasted image 20231006113718.png",
     "diary/2023-10-06.md",
     "Deep Learning/Fully-connected Neural Networks.md",
     "Neural Networks.md",
     "Качественная Теория Уравнений В Частных Производных.md",
-    "Distribution Limit.md",
     "Probability Limit.md",
     "Probability.md",
     "Convergence.md",
@@ -203,7 +196,6 @@
     "Econometrics/Douglas Production Function.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Stochastic Processes/Almost Surely Limit.md",
-    "Sometimes features are not significant one by one, but together are.md",
     "Econometrics/Classwork.md",
     "photos/Pasted image 20231003153713.png",
     "Deep Learning/Kernel Methods.md",
@@ -211,10 +203,8 @@
     "diary/2023-10-03.md",
     "photos/Pasted image 20231003134156.png",
     "photos/Pasted image 20231003134112.png",
-    "photos/Pasted image 20231003134039.png",
     "Deep Learning/SVD (Singular Value Decomposition).md",
     "Deep Learning/Backpropagation.md",
-    "Deep Learning/Epoch.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

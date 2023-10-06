@@ -11,7 +11,7 @@ $\mid<w,x> \mid$ - distance from separating hyper-plane (confidence of model)
 
 ![[Pasted image 20231006121359.png]]
 
-## Loss Function
+## [[Loss Function]]
 $$
 \begin{gather}
 Q(a) = \frac{1}{\ell}\sum_{i=1}^{\ell}[a(x_{i})\neq y_{i}] \quad - \text{  error rate} \\
@@ -25,7 +25,7 @@ $$
 
 therefore for now we use this loss function:
 $$
-L(M) = [M<0] - threshold loss function
+L(M) = [M<0] \text{ - threshold loss function}
 $$
 ![[Pasted image 20231006122545.png |450]]
 
