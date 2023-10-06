@@ -358,9 +358,9 @@ $$
 = \frac{{C_{3}^{1} \cdot 0.7^{1} \cdot \left( 0.3 \cdot \frac{1}{3} \right)^{2}}}{\left( 0.7+0.3 \cdot \frac{1}{3} \right)} =
 \end{align}
 $$
-c) 
+c) i
 $$
-\begin{align}
+\begin{gather*}
 f_{T}(t) = \begin{cases}
 \alpha \exp(-\alpha t) & \text{if you know the answer} \\
 5\alpha \cdot \exp(-5\alpha t) & \text{ if you guess}
@@ -372,6 +372,17 @@ I \text{ - random variable} \\
 A: I=1 \text{ or } I = 0 \\
 P(A): 0.7 \text{ or } 0.3 \\ \\
 E(T)=E(IT_{1}+(1-I)T_{2})=E(IT_{1})+E((1-I)T_{2})= \\
-=E(I) \cdot E(T_{1})+ E(1-I) \cdot E(T_{2})
+=E(I) \cdot E(T_{1})+ E(1-I) \cdot E(T_{2}) = \\
+\end{gather*}
+$$
+
+c) ii
+![[Pasted image 20231006164654.png]]
+
+$$
+\begin{align}
+E(W)=E(E(W|N)) \quad \text{ law of total expected value} \\
+\text{ Adam's law Tower property} \\
+Var(W) = E(Var(W|N)) + Var(E(W|N)) \quad \text{ Evve's Law}
 \end{align}
 $$
