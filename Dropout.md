@@ -15,7 +15,7 @@ m_{ij} \sim Bernoulli(1-p) \\
 y = m \odot x \cdot  \frac{1}{1-p}
 \end{align}
 $$
-Inference mode:
+Eval mode / Inference mode:
 $$
 y = x
 $$

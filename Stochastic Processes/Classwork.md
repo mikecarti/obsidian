@@ -386,3 +386,8 @@ E(W)=E(E(W|N)) \quad \text{ law of total expected value} \\
 Var(W) = E(Var(W|N)) + Var(E(W|N)) \quad \text{ Evve's Law}
 \end{align}
 $$
+
+
+![[Pasted image 20231006172744.png]]
+
+![[Pasted image 20231006173303.png]]
