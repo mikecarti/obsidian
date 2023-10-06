@@ -11,8 +11,13 @@
             "id": "07bb314f286caba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Processes/Classwork.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -81,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stochastic Processes/Classwork.md"
+              }
             }
           },
           {
@@ -169,6 +179,7 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "photos/Pasted image 20231006162703.png",
     "Machine Learning/Binary Classification.md",
     "Machine Learning/Loss Function.md",
     "Machine Learning/Regularization.md",
@@ -204,7 +215,6 @@
     "photos/Pasted image 20231003134156.png",
     "photos/Pasted image 20231003134112.png",
     "Deep Learning/SVD (Singular Value Decomposition).md",
-    "Deep Learning/Backpropagation.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

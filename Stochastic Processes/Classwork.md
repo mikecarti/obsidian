@@ -344,3 +344,34 @@ $$
 = 1 - \lim_{ n \to \infty } ( 1-e^{-n\epsilon}) &= \lim_{ n \to \infty } e^{-n\epsilon} = 0
 \end{align}
 $$
+
+
+## 06.10 Lecture
+![[Pasted image 20231006162703.png]]
+
+a) warm-up P(you will answer correctly) = $0.7 + 0.3 \cdot \frac{1}{3} = 0.8$
+b) N=3 (N is not random yet)
+$P(\text{"You know just one quest. | you have answered 3 questions correctly"}) =$
+$$
+\begin{align}
+\frac{{P(A\cap B)}}{P(B)}={\frac{P(\text{I know 1, answer 3 correctly})}{P(\text{I answer 3qs corr.})}} =  \\
+= \frac{{C_{3}^{1} \cdot 0.7^{1} \cdot \left( 0.3 \cdot \frac{1}{3} \right)^{2}}}{\left( 0.7+0.3 \cdot \frac{1}{3} \right)} =
+\end{align}
+$$
+c) 
+$$
+\begin{align}
+f_{T}(t) = \begin{cases}
+\alpha \exp(-\alpha t) & \text{if you know the answer} \\
+5\alpha \cdot \exp(-5\alpha t) & \text{ if you guess}
+\end{cases} \\
+T_{1} \sim \exp(rate=\alpha) \\
+T_{2}\sim \exp(rate=5\alpha) \\
+T = I \cdot T_{1}+(1-I) \cdot T_{2}   \\
+I \text{ - random variable} \\
+A: I=1 \text{ or } I = 0 \\
+P(A): 0.7 \text{ or } 0.3 \\ \\
+E(T)=E(IT_{1}+(1-I)T_{2})=E(IT_{1})+E((1-I)T_{2})= \\
+=E(I) \cdot E(T_{1})+ E(1-I) \cdot E(T_{2})
+\end{align}
+$$
