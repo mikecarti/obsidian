@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sparse Models.md",
+                "file": "Linear Classification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sparse Models.md",
+                "file": "Linear Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sparse Models.md",
+                "file": "Linear Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sparse Models.md"
+                "file": "Linear Classification.md"
               }
             }
           },
@@ -179,9 +179,11 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Sparse Models.md",
+    "Linear Classification.md",
+    "Proximity Method.md",
     "photos/Pasted image 20231006114930.png",
     "Machine Learning/Regularization.md",
-    "Sparse Models.md",
     "photos/Pasted image 20231006113718.png",
     "diary/2023-10-06.md",
     "Deep Learning/Fully-connected Neural Networks.md",
@@ -210,14 +212,12 @@
     "Deep Learning/Epoch.md",
     "Deep Learning/Activation  functions.md",
     "Deep Learning/Classwork.md",
-    "Machine Learning/Polynomial Regression.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
     "photos/Pasted image 20230929174713.png",
     "photos/Pasted image 20230929174357.png",
     "photos/Pasted image 20230929173720.png",
-    "photos/Pasted image 20230929173706.png",
     "Excalidraw",
     "photos/decompositions 1.pdf",
     "photos/decompositions.pdf",
