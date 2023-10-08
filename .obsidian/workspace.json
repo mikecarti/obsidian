@@ -11,8 +11,13 @@
             "id": "07bb314f286caba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Aggregate num. variable by several cat. variables Matrix.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aggregate num. variable by several cat. variables Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aggregate num. variable by several cat. variables Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Aggregate num. variable by several cat. variables Matrix.md"
+              }
             }
           },
           {
@@ -167,8 +176,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0808e3cca7f689eb",
+  "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "photos/Pasted image 20231008182622.png",
+    "Aggregate num. variable by several cat. variables Matrix.md",
     "Stochastic Processes/Classwork.md",
     "Deep Learning/Cross Entropy Loss.md",
     "Deep Learning/Dropout.md",
@@ -203,7 +214,6 @@
     "Econometrics/Douglas Production Function.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Stochastic Processes/Almost Surely Limit.md",
-    "Econometrics/Classwork.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
