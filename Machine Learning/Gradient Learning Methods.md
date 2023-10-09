@@ -1,4 +1,4 @@
-Methods:
+## Methods:
 - [[Gradient Descent|Classical Gradient Descent]]
 - [[Stochastic Gradient Descent]]
 - [[Stochastic Average Gradient (SAG)]]
