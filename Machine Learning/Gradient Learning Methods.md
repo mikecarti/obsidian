@@ -1,3 +1,12 @@
+Methods:
+- [[Gradient Descent|Classical Gradient Descent]]
+- [[Stochastic Gradient Descent]]
+- [[Stochastic Average Gradient (SAG)]]
+- [[AdaGrad (Adaptive Gradient)]]
+- [[Gradient Descent with Momentum]]
+- [[RMSProp]]
+
+
 $$
 Q(w_{1}, \dots, w_{d}) \to \min\limits_{ w } \text{- is a loss function}
 $$
@@ -26,7 +35,3 @@ Q(w)&=\frac{1}{\ell}\sum_{i=1}^{\ell}q_{i}(w) \\
 \end{align}
 $$
 
-Methods:
-- [[Gradient Descent|Classical Gradient Descent]]
-- [[Stochastic Gradient Descent]]
-- [[Stochastic Average Gradient (SAG)]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aggregate num. variable by several cat. variables Matrix.md",
+                "file": "Machine Learning/Gradient Learning Methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aggregate num. variable by several cat. variables Matrix.md",
+                "file": "Machine Learning/Gradient Learning Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aggregate num. variable by several cat. variables Matrix.md",
+                "file": "Machine Learning/Gradient Learning Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aggregate num. variable by several cat. variables Matrix.md"
+                "file": "Machine Learning/Gradient Learning Methods.md"
               }
             }
           },
@@ -178,8 +178,17 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "photos/Pasted image 20231008182622.png",
+    "AdaGrad (Adaptive Gradient).md",
+    "RMSProp.md",
+    "Machine Learning/Gradient Learning Methods.md",
+    "Gradient.md",
+    "Machine Learning/Stochastic Average Gradient (SAG).md",
+    "Machine Learning/Stochastic Gradient Descent.md",
+    "Convergence.md",
+    "Sometimes features are not significant one by one, but together are.md",
+    "Distribution Limit.md",
     "Aggregate num. variable by several cat. variables Matrix.md",
+    "photos/Pasted image 20231008182622.png",
     "Stochastic Processes/Classwork.md",
     "Deep Learning/Cross Entropy Loss.md",
     "Deep Learning/Dropout.md",
@@ -195,12 +204,9 @@
     "Machine Learning/Regularization.md",
     "Machine Learning/Polynomial Regression.md",
     "Machine Learning/Proximity Method.md",
-    "Sometimes features are not significant one by one, but together are.md",
-    "Distribution Limit.md",
     "photos/Pasted image 20231006122644.png",
     "photos/Pasted image 20231006122545.png",
     "photos/Pasted image 20231006122541.png",
-    "photos/Pasted image 20231006122504.png",
     "Machine Learning/Linear Classification.md",
     "Machine Learning/Sparse Models.md",
     "diary/2023-10-06.md",
@@ -208,12 +214,6 @@
     "Neural Networks.md",
     "Качественная Теория Уравнений В Частных Производных.md",
     "Probability Limit.md",
-    "Probability.md",
-    "Convergence.md",
-    "Econometrics/Cochrane's Theorem.md",
-    "Econometrics/Douglas Production Function.md",
-    "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
-    "Stochastic Processes/Almost Surely Limit.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
