@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mean Target Encoding (MTE).md",
+                "file": "Machine Learning/Categorical features.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mean Target Encoding (MTE).md",
+                "file": "Machine Learning/Categorical features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mean Target Encoding (MTE).md",
+                "file": "Machine Learning/Categorical features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mean Target Encoding (MTE).md"
+                "file": "Machine Learning/Categorical features.md"
               }
             }
           },
@@ -178,10 +178,11 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Mean Target Encoding (MTE).md",
+    "CatBoost.md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
     "Machine Learning/Categorical features.md",
-    "Mean Target Encoding (MTE).md",
     "Machine Learning/Gradient Learning Methods.md",
     "AdaGrad (Adaptive Gradient).md",
     "RMSProp.md",
@@ -209,7 +210,6 @@
     "Machine Learning/Polynomial Regression.md",
     "Machine Learning/Proximity Method.md",
     "photos/Pasted image 20231006122644.png",
-    "photos/Pasted image 20231006122545.png",
     "Machine Learning/Linear Classification.md",
     "Machine Learning/Sparse Models.md",
     "diary/2023-10-06.md",
