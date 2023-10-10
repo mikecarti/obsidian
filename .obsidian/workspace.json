@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Methods of NLP.md",
+                "file": "CatBoost.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Methods of NLP.md",
+                "file": "CatBoost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Methods of NLP.md",
+                "file": "CatBoost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Methods of NLP.md"
+                "file": "CatBoost.md"
               }
             }
           },
@@ -178,11 +178,12 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Mean Target Encoding (MTE).md",
+    "CatBoost.md",
+    "Aggregate num. variable by several cat. variables Matrix.md",
     "Categorical Feature Encoding.md",
     "Basic Methods of NLP.md",
     "Machine Learning/Categorical features.md",
-    "Mean Target Encoding (MTE).md",
-    "CatBoost.md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
     "Machine Learning/Gradient Learning Methods.md",
@@ -194,7 +195,6 @@
     "Convergence.md",
     "Sometimes features are not significant one by one, but together are.md",
     "Distribution Limit.md",
-    "Aggregate num. variable by several cat. variables Matrix.md",
     "photos/Pasted image 20231008182622.png",
     "Stochastic Processes/Classwork.md",
     "Deep Learning/Cross Entropy Loss.md",
