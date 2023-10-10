@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Categorical features.md",
+                "file": "Basic Methods of NLP.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Categorical features.md",
+                "file": "Basic Methods of NLP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Categorical features.md",
+                "file": "Basic Methods of NLP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Categorical features.md"
+                "file": "Basic Methods of NLP.md"
               }
             }
           },
@@ -178,11 +178,13 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Categorical Feature Encoding.md",
+    "Basic Methods of NLP.md",
+    "Machine Learning/Categorical features.md",
     "Mean Target Encoding (MTE).md",
     "CatBoost.md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
-    "Machine Learning/Categorical features.md",
     "Machine Learning/Gradient Learning Methods.md",
     "AdaGrad (Adaptive Gradient).md",
     "RMSProp.md",
@@ -212,8 +214,6 @@
     "photos/Pasted image 20231006122644.png",
     "Machine Learning/Linear Classification.md",
     "Machine Learning/Sparse Models.md",
-    "diary/2023-10-06.md",
-    "Deep Learning/Fully-connected Neural Networks.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
