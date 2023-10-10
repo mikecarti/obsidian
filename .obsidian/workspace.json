@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Gradient Learning Methods.md",
+                "file": "Mean Target Encoding (MTE).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Gradient Learning Methods.md",
+                "file": "Mean Target Encoding (MTE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Gradient Learning Methods.md",
+                "file": "Mean Target Encoding (MTE).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Gradient Learning Methods.md"
+                "file": "Mean Target Encoding (MTE).md"
               }
             }
           },
@@ -178,9 +178,11 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Machine Learning/Categorical features.md",
+    "Mean Target Encoding (MTE).md",
+    "Machine Learning/Gradient Learning Methods.md",
     "AdaGrad (Adaptive Gradient).md",
     "RMSProp.md",
-    "Machine Learning/Gradient Learning Methods.md",
     "Gradient.md",
     "Machine Learning/Stochastic Average Gradient (SAG).md",
     "Machine Learning/Stochastic Gradient Descent.md",
@@ -212,8 +214,6 @@
     "diary/2023-10-06.md",
     "Deep Learning/Fully-connected Neural Networks.md",
     "Neural Networks.md",
-    "Качественная Теория Уравнений В Частных Производных.md",
-    "Probability Limit.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

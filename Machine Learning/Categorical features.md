@@ -7,3 +7,4 @@ $b_{i}(x_{j}) = [x_{j} = c_{i}]: bool$
 
 #### One-cold-encoding
 is an inverse thing of OHE.
+
