@@ -1,4 +1,4 @@
-Idea: change categorical feature on mean categorical feature
+Idea: change categorical feature on mean value for this categorical feature on other numerical feature
 
 $$
 \begin{align}
@@ -10,10 +10,28 @@ $$
 \end{align}
 $$
 
-## Problem:
-Data leak. 
+## Example:
+![[Pasted image 20231010131950.png|450]]
 
+
+## Problems:
+### 1) Data leak. 
 Feature becomes dependent of feature ($y_{i}$). We can not look into target variable while we are working with the test data.
+### Solutions:
+- Cross Validation
+- Зашумление $g_{j}(x, X) + \epsilon$    $\epsilon \sim \mathcal{N}(0, \sigma^{2})$
+- Сглаживание
+	$$
+	\begin{align}
+g_{j(x, X)} = \frac{{\sum_{i=1}^{\ell}[f_{j}(x_{i})=f_{j}(x)][y_{i}=+1]}}{\sum_{i=1}^{\ell}[f_{j}(x_{i})=f_{i}(x)]} + (1-\pi(n_{j})) \cdot \frac{1}{\ell}\sum_{i=1}^{\ell}[y_{i}=+1] \\
+n_{j} 
+\end{align}
 
-## Solutions:
-### Cross Validation
+$$
+	![[Pasted image 20231010132344.png|]]
+### 2) New non-seen category.
+### Solutions:
+- Average along all X
+- trash bucket (one category for rare values)
+
+
