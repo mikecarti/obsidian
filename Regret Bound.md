@@ -1,1 +1,1 @@
-Theorem about inpossibility of 
+Measure of how bad a [[Reinforcement Learning]] model is compared to best possible policy.
