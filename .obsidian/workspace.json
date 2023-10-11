@@ -11,8 +11,13 @@
             "id": "07bb314f286caba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Regret Bound.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Regret Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Regret Bound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Regret Bound.md"
+              }
             }
           },
           {
@@ -169,6 +178,7 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Regret Bound.md",
     "Fin. Engineering/Stock Return.md",
     "Machine Learning/Basic Methods of NLP.md",
     "Machine Learning/Gradient Learning Methods.md",
@@ -194,7 +204,6 @@
     "Machine Learning/Errors for ML Algorithms.md",
     "Machine Learning/Quantile Loss Function.md",
     "Machine Learning/SMAPE.md",
-    "Machine Learning/MAPE.md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
     "photos/Pasted image 20231008182622.png",
