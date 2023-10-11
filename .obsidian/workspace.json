@@ -11,13 +11,8 @@
             "id": "07bb314f286caba9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/CatBoost.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/CatBoost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/CatBoost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/CatBoost.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,42 +169,42 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Machine Learning/Gradient Learning Methods.md",
-    "Machine Learning/CatBoost.md",
-    "Machine Learning/Mean Target Encoding (MTE).md",
-    "Machine Learning/Categorical features.md",
-    "Machine Learning/Categorical Feature Encoding.md",
+    "Fin. Engineering/Stock Return.md",
     "Machine Learning/Basic Methods of NLP.md",
+    "Machine Learning/Gradient Learning Methods.md",
     "Machine Learning/Aggregate num. variable by several cat. variables Matrix.md",
+    "Machine Learning/Mean Target Encoding (MTE).md",
+    "Machine Learning/Linear Classification.md",
+    "Machine Learning/Sparse Models.md",
+    "Machine Learning/Modifications Of Gradient Descent.md",
+    "Machine Learning/Linear Model Training.md",
+    "Machine Learning/Stochastic Average Gradient (SAG).md",
+    "Machine Learning/Matrix Differentiation.md",
+    "Machine Learning/Few Data (Small Datasets).md",
+    "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
+    "Machine Learning/Anomaly Detection.md",
+    "Machine Learning/Unsupervised Learning.md",
+    "Machine Learning/Clustering Models.md",
+    "Machine Learning/Principal Component Analysis (PCA).md",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Ordinary Least Squares (OLS).md",
+    "Machine Learning/Expected Probability Error (EPE).md",
+    "Machine Learning/Multicollinearity.md",
+    "Machine Learning/Relative Loss Function.md",
+    "Machine Learning/Errors for ML Algorithms.md",
+    "Machine Learning/Quantile Loss Function.md",
+    "Machine Learning/SMAPE.md",
+    "Machine Learning/MAPE.md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
-    "AdaGrad (Adaptive Gradient).md",
-    "RMSProp.md",
-    "Gradient.md",
-    "Machine Learning/Stochastic Average Gradient (SAG).md",
-    "Machine Learning/Stochastic Gradient Descent.md",
-    "Convergence.md",
-    "Sometimes features are not significant one by one, but together are.md",
-    "Distribution Limit.md",
     "photos/Pasted image 20231008182622.png",
-    "Stochastic Processes/Classwork.md",
-    "Deep Learning/Cross Entropy Loss.md",
-    "Deep Learning/Dropout.md",
-    "Deep Learning/Batch Normalization.md",
     "photos/Pasted image 20231006173303.png",
     "photos/Pasted image 20231006172744.png",
     "photos/Pasted image 20231006165553.png",
     "photos/Pasted image 20231006164654.png",
     "photos/Pasted image 20231006164530.png",
     "photos/Pasted image 20231006162703.png",
-    "Machine Learning/Binary Classification.md",
-    "Machine Learning/Loss Function.md",
-    "Machine Learning/Regularization.md",
-    "Machine Learning/Polynomial Regression.md",
-    "Machine Learning/Proximity Method.md",
     "photos/Pasted image 20231006122644.png",
-    "Machine Learning/Linear Classification.md",
-    "Machine Learning/Sparse Models.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
