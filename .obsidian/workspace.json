@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Basic Methods of NLP.md",
+                "file": "Machine Learning/CatBoost.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Basic Methods of NLP.md",
+                "file": "Machine Learning/CatBoost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Basic Methods of NLP.md",
+                "file": "Machine Learning/CatBoost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Basic Methods of NLP.md"
+                "file": "Machine Learning/CatBoost.md"
               }
             }
           },
@@ -176,17 +176,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0808e3cca7f689eb",
+  "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Machine Learning/Gradient Learning Methods.md",
+    "Machine Learning/CatBoost.md",
+    "Machine Learning/Mean Target Encoding (MTE).md",
+    "Machine Learning/Categorical features.md",
     "Machine Learning/Categorical Feature Encoding.md",
     "Machine Learning/Basic Methods of NLP.md",
-    "Machine Learning/Mean Target Encoding (MTE).md",
-    "Machine Learning/CatBoost.md",
     "Machine Learning/Aggregate num. variable by several cat. variables Matrix.md",
-    "Machine Learning/Categorical features.md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
-    "Machine Learning/Gradient Learning Methods.md",
     "AdaGrad (Adaptive Gradient).md",
     "RMSProp.md",
     "Gradient.md",
