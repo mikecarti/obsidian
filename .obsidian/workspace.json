@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Batch Normalization.md",
+                "file": "Augmentation in Deep Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deep Learning/Batch Normalization.md",
+                "file": "Augmentation in Deep Learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Batch Normalization.md",
+                "file": "Augmentation in Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Batch Normalization.md",
+                "file": "Augmentation in Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Batch Normalization.md"
+                "file": "Augmentation in Deep Learning.md"
               }
             }
           },
@@ -216,8 +216,13 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Deep Learning/Cross Entropy Loss.md",
+    "Weight Initialization.md",
     "Deep Learning/Batch Normalization.md",
+    "Augmentation in Deep Learning.md",
+    "photos/Pasted image 20231012134831.png",
+    "photos/Pasted image 20231012134736.png",
+    "Layer Normalization.md",
+    "Deep Learning/Cross Entropy Loss.md",
     "2D-Batch Norm.md",
     "Convolutional Neural Network.md",
     "Hadamard Product.md",
@@ -238,10 +243,6 @@
     "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "Machine Learning/Anomaly Detection.md",
     "Machine Learning/Unsupervised Learning.md",
-    "Machine Learning/Clustering Models.md",
-    "Machine Learning/Principal Component Analysis (PCA).md",
-    "Machine Learning/Linear Regression.md",
-    "Machine Learning/Ordinary Least Squares (OLS).md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
     "photos/Pasted image 20231008182622.png",
@@ -250,8 +251,6 @@
     "photos/Pasted image 20231006165553.png",
     "photos/Pasted image 20231006164654.png",
     "photos/Pasted image 20231006164530.png",
-    "photos/Pasted image 20231006162703.png",
-    "photos/Pasted image 20231006122644.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

@@ -60,3 +60,4 @@ $$
 ## Related:
 [[Neural Network]]
 [[2D-Batch Norm]]
+[[Layer Normalization]]
