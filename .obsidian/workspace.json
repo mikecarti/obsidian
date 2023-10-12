@@ -4,74 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bea8e6fe5fdad156",
+        "id": "10980aba37f8e8c1",
         "type": "tabs",
         "children": [
           {
-            "id": "07bb314f286caba9",
+            "id": "444f6b516606d7cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Econometrics/F-Test for Linear Restrictions.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            },
-            "group": "7ce1ca9eb076a342"
-          },
-          {
-            "id": "0598fc1fc62dca60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Econometrics/Fischer Distribution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
-          },
-          {
-            "id": "d76c748e333b829c",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Econometrics/F-Test for Linear Restrictions.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 3,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7270789309906859,
-                  "close": true
-                }
-              }
-            },
-            "group": "7ce1ca9eb076a342"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/Fischer Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/Fischer Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Econometrics/Fischer Distribution.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,8 +167,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0808e3cca7f689eb",
+  "active": "444f6b516606d7cd",
   "lastOpenFiles": [
+    "Machine Learning/Errors for ML Algorithms.md",
+    "Machine Learning/Log-Cosh.md",
+    "Hyperbolic Functions.md",
+    "Machine Learning/MSE.md",
+    "Docker.md",
+    "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "Econometrics/F-Test for Linear Restrictions.md",
     "Econometrics/F Statistic.md",
     "Econometrics/Fischer Distribution.md",
@@ -258,12 +204,6 @@
     "Fin. Engineering/Stock Return.md",
     "Machine Learning/Basic Methods of NLP.md",
     "Machine Learning/Gradient Learning Methods.md",
-    "Machine Learning/Aggregate num. variable by several cat. variables Matrix.md",
-    "Machine Learning/Linear Classification.md",
-    "Machine Learning/Sparse Models.md",
-    "Machine Learning/Modifications Of Gradient Descent.md",
-    "Machine Learning/Linear Model Training.md",
-    "Machine Learning/Stochastic Average Gradient (SAG).md",
     "photos/Pasted image 20231010132344.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
