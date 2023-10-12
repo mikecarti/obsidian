@@ -9,7 +9,7 @@ $$
 
 ## Note
 $$
-f(u, t, x_{0}) = \frac{d}{du}Prob[]
+f(u, t, x_{0}) = \frac{d}{du}\text{Prob}  [x(t)<u \;\mid\;x(0)=x_{0}]
 $$
 
 ## Related:
