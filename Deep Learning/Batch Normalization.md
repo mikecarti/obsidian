@@ -16,7 +16,10 @@ $a \circ b$ - [[Hadamard Product]]
 ## Problem
 Different scale of data, may affect significantly next layers of neural network. So let us normalize objects' features batch-wise (we count mean and standard deviation)
 
- 
+## Note
+- Usually put between full connected / convolutional layer and non-linearyty
+- Helps increase step size for [[Gradient Descent]]
+- Wanted to create it to 
 
 
 ### Train mode:
@@ -56,3 +59,4 @@ $$
 
 ## Related:
 [[Neural Network]]
+[[2D-Batch Norm]]

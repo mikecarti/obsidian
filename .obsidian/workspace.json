@@ -13,12 +13,49 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hadamard Product.md",
+                "file": "Deep Learning/Batch Normalization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "7ce1ca9eb076a342"
+          },
+          {
+            "id": "d76c748e333b829c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Deep Learning/Batch Normalization.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7270789309906859,
+                  "close": true
+                }
+              }
+            },
+            "group": "7ce1ca9eb076a342"
           }
         ]
       }
@@ -87,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hadamard Product.md",
+                "file": "Deep Learning/Batch Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hadamard Product.md",
+                "file": "Deep Learning/Batch Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hadamard Product.md"
+                "file": "Deep Learning/Batch Normalization.md"
               }
             }
           },
@@ -179,7 +216,10 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Deep Learning/Cross Entropy Loss.md",
     "Deep Learning/Batch Normalization.md",
+    "2D-Batch Norm.md",
+    "Convolutional Neural Network.md",
     "Hadamard Product.md",
     "Machine Learning/Mean Target Encoding (MTE).md",
     "Study theory deep, but also reflect on how and what can be applied..md",
@@ -202,9 +242,6 @@
     "Machine Learning/Principal Component Analysis (PCA).md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Ordinary Least Squares (OLS).md",
-    "Machine Learning/Expected Probability Error (EPE).md",
-    "Machine Learning/Multicollinearity.md",
-    "Machine Learning/Relative Loss Function.md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
     "photos/Pasted image 20231008182622.png",
