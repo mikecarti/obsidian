@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Augmentation in Deep Learning.md",
+                "file": "Convolutional Neural Network.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Augmentation in Deep Learning.md",
+                "file": "Convolutional Neural Network.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Augmentation in Deep Learning.md",
+                "file": "Convolutional Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Augmentation in Deep Learning.md",
+                "file": "Convolutional Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Augmentation in Deep Learning.md"
+                "file": "Convolutional Neural Network.md"
               }
             }
           },
@@ -216,15 +216,18 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "photos/Pasted image 20231012140549.png",
+    "Deep Learning/Pooling Layers.md",
+    "Convolutional Neural Network.md",
+    "photos/Pasted image 20231012135819.png",
+    "Augmentation in Deep Learning.md",
     "Weight Initialization.md",
     "Deep Learning/Batch Normalization.md",
-    "Augmentation in Deep Learning.md",
     "photos/Pasted image 20231012134831.png",
     "photos/Pasted image 20231012134736.png",
     "Layer Normalization.md",
     "Deep Learning/Cross Entropy Loss.md",
     "2D-Batch Norm.md",
-    "Convolutional Neural Network.md",
     "Hadamard Product.md",
     "Machine Learning/Mean Target Encoding (MTE).md",
     "Study theory deep, but also reflect on how and what can be applied..md",
@@ -242,7 +245,6 @@
     "Machine Learning/Few Data (Small Datasets).md",
     "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "Machine Learning/Anomaly Detection.md",
-    "Machine Learning/Unsupervised Learning.md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
     "photos/Pasted image 20231008182622.png",
@@ -250,7 +252,6 @@
     "photos/Pasted image 20231006172744.png",
     "photos/Pasted image 20231006165553.png",
     "photos/Pasted image 20231006164654.png",
-    "photos/Pasted image 20231006164530.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

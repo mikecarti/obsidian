@@ -12,6 +12,7 @@
 
 ![[Pasted image 20231012134736.png]]
 
-![[Pasted image 20231012134831.png]]
+
+![[Pasted image 20231012134831.png|700]]
 
 
