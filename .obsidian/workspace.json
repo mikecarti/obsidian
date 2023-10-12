@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Convolutional Neural Network.md",
+                "file": "F-Test for Linear Restrictions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Deep Learning/Convolutional Neural Network.md",
+                "file": "F-Test for Linear Restrictions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Convolutional Neural Network.md",
+                "file": "F-Test for Linear Restrictions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Convolutional Neural Network.md",
+                "file": "F-Test for Linear Restrictions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Convolutional Neural Network.md"
+                "file": "F-Test for Linear Restrictions.md"
               }
             }
           },
@@ -213,10 +214,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0808e3cca7f689eb",
+  "active": "07bb314f286caba9",
   "lastOpenFiles": [
-    "Deep Learning/Augmentation in Deep Learning.md",
+    "Adjusted R^2.md",
+    "F-Test for Linear Restrictions.md",
     "Deep Learning/Convolutional Neural Network.md",
+    "Deep Learning/Augmentation in Deep Learning.md",
     "RELU.md",
     "photos/Pasted image 20231012141837.png",
     "photos/Pasted image 20231012141801.png",
@@ -247,7 +250,6 @@
     "Machine Learning/Stochastic Average Gradient (SAG).md",
     "Machine Learning/Matrix Differentiation.md",
     "Machine Learning/Few Data (Small Datasets).md",
-    "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
     "Untitled 1.canvas",
