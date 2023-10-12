@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Catastrophe Model.md",
+                "file": "Cusp Catastrophe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Catastrophe Model.md",
+                "file": "Cusp Catastrophe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Catastrophe Model.md",
+                "file": "Cusp Catastrophe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Catastrophe Model.md"
+                "file": "Cusp Catastrophe.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "444f6b516606d7cd",
   "lastOpenFiles": [
-    "Monte Carlo.md",
+    "Wiener Process.md",
     "Stochastic Catastrophe Model.md",
+    "Monte Carlo.md",
     "Brownian Motion.md",
     "Fairness Perception Utility Function.md",
     "Machine Learning/Errors for ML Algorithms.md",
@@ -212,7 +213,6 @@
     "Deep Learning/Cross Entropy Loss.md",
     "Deep Learning/2D-Batch Norm.md",
     "Hadamard Product.md",
-    "Study theory deep, but also reflect on how and what can be applied..md",
     "photos/Pasted image 20231010132344.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
