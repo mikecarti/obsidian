@@ -11,6 +11,9 @@ F = \frac{{(RSS_{R}-RSS_{UR})}/q}{RSS_{UR}/(n-k)} \quad q - \text{Num. of Lin. R
 \end{gather}
 $$
 ## Why we use [[Fischer Distribution]]?
+$$
+F = \frac{{(RSS_{R}-RSS_{UR})}/q}{RSS_{UR}/(n-k)} \sim \frac{\chi_{q}^{2} - \chi^{2}_{q}}{\chi^{2}_{n-k}} \equiv {\frac{\chi^{2}_{q}}{\chi^{2}_{n-k}}} := \text{Fischer}
+$$
 
 
 
