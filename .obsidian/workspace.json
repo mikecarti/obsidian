@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Convolutional Neural Network.md",
+                "file": "Deep Learning/Convolutional Neural Network.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Convolutional Neural Network.md",
+                "file": "Deep Learning/Convolutional Neural Network.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Convolutional Neural Network.md",
+                "file": "Deep Learning/Convolutional Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Convolutional Neural Network.md",
+                "file": "Deep Learning/Convolutional Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Convolutional Neural Network.md"
+                "file": "Deep Learning/Convolutional Neural Network.md"
               }
             }
           },
@@ -214,22 +213,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07bb314f286caba9",
+  "active": "0808e3cca7f689eb",
   "lastOpenFiles": [
+    "Deep Learning/Augmentation in Deep Learning.md",
+    "Deep Learning/Convolutional Neural Network.md",
+    "RELU.md",
+    "photos/Pasted image 20231012141837.png",
+    "photos/Pasted image 20231012141801.png",
+    "Deep Learning/Weight Initialization.md",
+    "Machine Learning/Mean Target Encoding (MTE).md",
+    "Deep Learning/Batch Normalization.md",
+    "photos/Pasted image 20231012140903.png",
+    "photos/Pasted image 20231012140851.png",
     "photos/Pasted image 20231012140549.png",
     "Deep Learning/Pooling Layers.md",
-    "Convolutional Neural Network.md",
     "photos/Pasted image 20231012135819.png",
-    "Augmentation in Deep Learning.md",
-    "Weight Initialization.md",
-    "Deep Learning/Batch Normalization.md",
     "photos/Pasted image 20231012134831.png",
     "photos/Pasted image 20231012134736.png",
-    "Layer Normalization.md",
+    "Deep Learning/Layer Normalization.md",
     "Deep Learning/Cross Entropy Loss.md",
-    "2D-Batch Norm.md",
+    "Deep Learning/2D-Batch Norm.md",
     "Hadamard Product.md",
-    "Machine Learning/Mean Target Encoding (MTE).md",
     "Study theory deep, but also reflect on how and what can be applied..md",
     "Regret Bound.md",
     "Fin. Engineering/Stock Return.md",
@@ -244,14 +248,8 @@
     "Machine Learning/Matrix Differentiation.md",
     "Machine Learning/Few Data (Small Datasets).md",
     "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
-    "Machine Learning/Anomaly Detection.md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
-    "photos/Pasted image 20231008182622.png",
-    "photos/Pasted image 20231006173303.png",
-    "photos/Pasted image 20231006172744.png",
-    "photos/Pasted image 20231006165553.png",
-    "photos/Pasted image 20231006164654.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

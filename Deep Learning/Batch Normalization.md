@@ -1,4 +1,4 @@
-
+Breakthrough in [[Deep Learning]]
 $$
 \begin{align}
 &\mu_{B} = \frac{1}{n}\sum_{i=1}^{n}x_{B,j} \\
