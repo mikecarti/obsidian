@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F-Test for Linear Restrictions.md",
+                "file": "Econometrics/F-Test for Linear Restrictions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -22,12 +22,25 @@
             "group": "7ce1ca9eb076a342"
           },
           {
+            "id": "0598fc1fc62dca60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Econometrics/Fischer Distribution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d76c748e333b829c",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "F-Test for Linear Restrictions.md",
+                "file": "Econometrics/F-Test for Linear Restrictions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -57,7 +70,8 @@
             },
             "group": "7ce1ca9eb076a342"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F-Test for Linear Restrictions.md",
+                "file": "Econometrics/Fischer Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F-Test for Linear Restrictions.md",
+                "file": "Econometrics/Fischer Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F-Test for Linear Restrictions.md"
+                "file": "Econometrics/Fischer Distribution.md"
               }
             }
           },
@@ -214,13 +227,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "07bb314f286caba9",
+  "active": "0808e3cca7f689eb",
   "lastOpenFiles": [
-    "F Statistic.md",
-    "F-Test for Linear Restrictions.md",
-    "Fischer Distribution.md",
+    "Econometrics/F-Test for Linear Restrictions.md",
+    "Econometrics/F Statistic.md",
+    "Econometrics/Fischer Distribution.md",
     "photos/Pasted image 20231012155252.png",
-    "Adjusted R^2.md",
+    "Econometrics/Adjusted R^2.md",
     "Deep Learning/Convolutional Neural Network.md",
     "Deep Learning/Augmentation in Deep Learning.md",
     "RELU.md",
