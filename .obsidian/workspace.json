@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Mean Target Encoding (MTE).md",
+                "file": "Hadamard Product.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Mean Target Encoding (MTE).md",
+                "file": "Hadamard Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Mean Target Encoding (MTE).md",
+                "file": "Hadamard Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Mean Target Encoding (MTE).md"
+                "file": "Hadamard Product.md"
               }
             }
           },
@@ -178,13 +179,15 @@
   },
   "active": "07bb314f286caba9",
   "lastOpenFiles": [
+    "Deep Learning/Batch Normalization.md",
+    "Hadamard Product.md",
+    "Machine Learning/Mean Target Encoding (MTE).md",
     "Study theory deep, but also reflect on how and what can be applied..md",
     "Regret Bound.md",
     "Fin. Engineering/Stock Return.md",
     "Machine Learning/Basic Methods of NLP.md",
     "Machine Learning/Gradient Learning Methods.md",
     "Machine Learning/Aggregate num. variable by several cat. variables Matrix.md",
-    "Machine Learning/Mean Target Encoding (MTE).md",
     "Machine Learning/Linear Classification.md",
     "Machine Learning/Sparse Models.md",
     "Machine Learning/Modifications Of Gradient Descent.md",
@@ -202,8 +205,6 @@
     "Machine Learning/Expected Probability Error (EPE).md",
     "Machine Learning/Multicollinearity.md",
     "Machine Learning/Relative Loss Function.md",
-    "Machine Learning/Errors for ML Algorithms.md",
-    "Machine Learning/Quantile Loss Function.md",
     "photos/Pasted image 20231010132344.png",
     "photos/Pasted image 20231010131950.png",
     "photos/Pasted image 20231008182622.png",
