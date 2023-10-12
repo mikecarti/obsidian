@@ -11,8 +11,13 @@
             "id": "444f6b516606d7cd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Catastrophe Model.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stochastic Catastrophe Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stochastic Catastrophe Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stochastic Catastrophe Model.md"
+              }
             }
           },
           {
@@ -169,6 +178,8 @@
   },
   "active": "444f6b516606d7cd",
   "lastOpenFiles": [
+    "Brownian Motion.md",
+    "Stochastic Catastrophe Model.md",
     "Fairness Perception Utility Function.md",
     "Machine Learning/Errors for ML Algorithms.md",
     "Machine Learning/Log-Cosh.md",
@@ -202,8 +213,6 @@
     "Hadamard Product.md",
     "Study theory deep, but also reflect on how and what can be applied..md",
     "Regret Bound.md",
-    "Fin. Engineering/Stock Return.md",
-    "Machine Learning/Basic Methods of NLP.md",
     "photos/Pasted image 20231010132344.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
