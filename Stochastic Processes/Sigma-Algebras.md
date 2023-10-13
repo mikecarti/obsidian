@@ -21,6 +21,6 @@ $\mathcal{F}$ is a $\sigma$-algebra IF
 $\cdot$ : $A\cap  B$
 
 ## Examples of Discrete Case.
-[[Stochastic Processes/Classwork|Classwork]] - 13.10
+1) [[Stochastic Processes/Classwork|Classwork]] - 13.10
 
-![[Pasted image 20231013173211.png]]
+2) ![[Pasted image 20231013173211.png]]

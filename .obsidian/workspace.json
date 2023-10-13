@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigma-Algebras.md",
+                "file": "Stochastic Processes/Sigma-Algebras.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sigma-Algebras.md",
+                "file": "Stochastic Processes/Sigma-Algebras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sigma-Algebras.md",
+                "file": "Stochastic Processes/Sigma-Algebras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sigma-Algebras.md"
+                "file": "Stochastic Processes/Sigma-Algebras.md"
               }
             }
           },
@@ -190,12 +189,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "603f897371749ba7",
+  "active": "0808e3cca7f689eb",
   "lastOpenFiles": [
-    "photos/Pasted image 20231013173211.png",
     "Stochastic Processes/Classwork.md",
+    "Stochastic Processes/Sigma-Algebras.md",
+    "photos/Pasted image 20231013173211.png",
     "photos/Pasted image 20231013172126.png",
-    "Sigma-Algebras.md",
     "Machine Learning/Accuracy.md",
     "photos/Pasted image 20231013164409.png",
     "Deep Learning/Neural Network.md",
@@ -217,7 +216,6 @@
     "Machine Learning/F-Score.md",
     "photos/Pasted image 20231013120134.png",
     "photos/Pasted image 20231013115854.png",
-    "photos/Pasted image 20231013114111.png",
     "Machine Learning/Binary Classification.md",
     "Cusp Catastrophe.md",
     "Wiener Process.md",
