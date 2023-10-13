@@ -423,7 +423,10 @@ $$
 \text{3 X values, 2 Y values, so we have 6 outcomes} \\
 \text{We can take emptyset, we can combine all outcomes } \Omega \\
 \vdots \\
-\text{in total Cardinality: } cord\lr
+\text{in total Cardinality: } cord\left( \sigma(X,Y) \right) = 2^{6} = 64 \text{ elements} 
 
 \end{align}
 $$
+2 - because we can take or not take, 6 because we have 6 cells.
+![[Pasted image 20231013172126.png]]
+
