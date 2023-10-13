@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUC ROC.md",
+                "file": "Machine Learning/Accuracy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "603f897371749ba7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUC ROC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUC ROC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AUC ROC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,31 +181,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "444f6b516606d7cd",
+  "active": "603f897371749ba7",
   "lastOpenFiles": [
+    "Machine Learning/Confusion Matrix.md",
+    "Machine Learning/Accuracy.md",
+    "Machine Learning/Metrics for ML Algorithms.md",
+    "Machine Learning/Metrics of Ranking Quality (Area Under Curve).md",
+    "Machine Learning/Improving the Model.md",
+    "Machine Learning/Precision and Recall.md",
+    "Machine Learning/PR-Curve (AUC-PRC).md",
+    "Machine Learning/AUC ROC.md",
     "photos/Pasted image 20231013122837.png",
-    "Metrics of Ranking Quality (Area Under Curve).md",
-    "Gini Index.md",
+    "Machine Learning/Gini Index.md",
     "photos/Pasted image 20231013122326.png",
-    "PR-Curve (AUC-PRC).md",
     "photos/Pasted image 20231013122111.png",
-    "AUC ROC.md",
     "photos/Pasted image 20231013121642.png",
     "photos/Pasted image 20231013121125.png",
-    "Machine Learning/Metrics for ML Algorithms.md",
-    "Confusion Matrix.md",
-    "Precision and Recall.md",
     "Hyperbolic Functions.md",
-    "Lift.md",
-    "F-Score.md",
+    "Machine Learning/Lift.md",
+    "Machine Learning/F-Score.md",
     "photos/Pasted image 20231013120134.png",
     "photos/Pasted image 20231013115854.png",
     "photos/Pasted image 20231013114111.png",
     "photos/Pasted image 20231013114034.png",
     "photos/Pasted image 20231013114014.png",
-    "photos/Pasted image 20231013112901.png",
-    "Accuracy.md",
-    "Improving the Model.md",
     "Machine Learning/Binary Classification.md",
     "Cusp Catastrophe.md",
     "Wiener Process.md",
