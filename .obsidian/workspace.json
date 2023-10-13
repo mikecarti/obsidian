@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Precision and Recall.md",
+                "file": "F-Score.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Precision and Recall.md",
+                "file": "F-Score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Precision and Recall.md",
+                "file": "F-Score.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Precision and Recall.md"
+                "file": "F-Score.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "444f6b516606d7cd",
   "lastOpenFiles": [
-    "Confusion Matrix.md",
     "Precision and Recall.md",
+    "F-Score.md",
+    "Confusion Matrix.md",
     "photos/Pasted image 20231013114111.png",
     "photos/Pasted image 20231013114034.png",
     "photos/Pasted image 20231013114014.png",
@@ -212,7 +213,6 @@
     "photos/Pasted image 20231012141837.png",
     "photos/Pasted image 20231012141801.png",
     "Deep Learning/Weight Initialization.md",
-    "Machine Learning/Mean Target Encoding (MTE).md",
     "photos/Pasted image 20231012140903.png",
     "photos/Pasted image 20231012140851.png",
     "Untitled 1.canvas",
