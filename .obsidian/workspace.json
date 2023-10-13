@@ -32,8 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3bd20566e69b2aea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +200,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0808e3cca7f689eb",
+  "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
     "Stochastic Processes/Classwork.md",
     "Stochastic Processes/Sigma-Algebras.md",
