@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accuracy.md",
+                "file": "Precision and Recall.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accuracy.md",
+                "file": "Precision and Recall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accuracy.md",
+                "file": "Precision and Recall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accuracy.md"
+                "file": "Precision and Recall.md"
               }
             }
           },
@@ -179,10 +179,16 @@
   },
   "active": "444f6b516606d7cd",
   "lastOpenFiles": [
-    "Improving the Model.md",
-    "Accuracy.md",
-    "photos/Pasted image 20231013112655.png",
+    "Confusion Matrix.md",
+    "Precision and Recall.md",
+    "photos/Pasted image 20231013114111.png",
+    "photos/Pasted image 20231013114034.png",
+    "photos/Pasted image 20231013114014.png",
+    "photos/Pasted image 20231013112901.png",
     "Machine Learning/Metrics for ML Algorithms.md",
+    "Accuracy.md",
+    "Improving the Model.md",
+    "photos/Pasted image 20231013112655.png",
     "Machine Learning/Binary Classification.md",
     "Cusp Catastrophe.md",
     "Wiener Process.md",
@@ -207,13 +213,8 @@
     "photos/Pasted image 20231012141801.png",
     "Deep Learning/Weight Initialization.md",
     "Machine Learning/Mean Target Encoding (MTE).md",
-    "Deep Learning/Batch Normalization.md",
     "photos/Pasted image 20231012140903.png",
     "photos/Pasted image 20231012140851.png",
-    "photos/Pasted image 20231012140549.png",
-    "photos/Pasted image 20231012135819.png",
-    "photos/Pasted image 20231012134831.png",
-    "photos/Pasted image 20231012134736.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

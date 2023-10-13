@@ -13,3 +13,4 @@
 
 # Classification
 - [[Accuracy]]
+- [[Confusion Matrix]]

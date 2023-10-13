@@ -9,5 +9,3 @@ Along with accuracy, class balance should be observed
 
 +1: 50                         a(x) = -1.
 -1: 950                        accuracy = 95% but model is trash
-
-### 2) Confusion Matrix
