@@ -24,8 +24,13 @@
             "id": "603f897371749ba7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sigma-Algebras.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sigma-Algebras.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sigma-Algebras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sigma-Algebras.md"
+              }
             }
           },
           {
@@ -183,6 +192,8 @@
   },
   "active": "603f897371749ba7",
   "lastOpenFiles": [
+    "photos/Pasted image 20231013164409.png",
+    "Sigma-Algebras.md",
     "Deep Learning/Neural Network.md",
     "Machine Learning/Confusion Matrix.md",
     "Machine Learning/Accuracy.md",
@@ -217,8 +228,6 @@
     "Machine Learning/MSE.md",
     "Docker.md",
     "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
-    "Econometrics/F-Test for Linear Restrictions.md",
-    "Econometrics/F Statistic.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
