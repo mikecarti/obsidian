@@ -65,7 +65,7 @@ $z$ - prediction
 $Q(a,X) = \frac{1}{l}\\sum_{i=1}^{l}L(y_{i}, a(x_{i}))$
 
 Related:
-1) [[Errors for ML Algorithms]]
+1) [[Metrics for ML Algorithms]]
 2) [[Multicollinearity]]
 3) [[Expected Probability Error (EPE)]]
 4) [[Ordinary Least Squares (OLS)]]

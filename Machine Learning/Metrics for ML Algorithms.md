@@ -1,3 +1,4 @@
+# Regression
 - [[MSE]]
 - [[RMSE]]
 - [[R^2]]
@@ -10,3 +11,5 @@
 - [[Quantile Loss Function]]
 - [[Relative Loss Function]]
 
+# Classification
+- [[Accuracy]]

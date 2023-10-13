@@ -47,3 +47,4 @@ $$
 \text{And use gradient descent}
 \end{gather}
 $$
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Accuracy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Accuracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cusp Catastrophe.md",
+                "file": "Accuracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cusp Catastrophe.md"
+                "file": "Accuracy.md"
               }
             }
           },
@@ -178,12 +179,17 @@
   },
   "active": "444f6b516606d7cd",
   "lastOpenFiles": [
+    "Improving the Model.md",
+    "Accuracy.md",
+    "photos/Pasted image 20231013112655.png",
+    "Machine Learning/Metrics for ML Algorithms.md",
+    "Machine Learning/Binary Classification.md",
+    "Cusp Catastrophe.md",
     "Wiener Process.md",
     "Stochastic Catastrophe Model.md",
     "Monte Carlo.md",
     "Brownian Motion.md",
     "Fairness Perception Utility Function.md",
-    "Machine Learning/Errors for ML Algorithms.md",
     "Machine Learning/Log-Cosh.md",
     "Hyperbolic Functions.md",
     "Machine Learning/MSE.md",
@@ -205,15 +211,9 @@
     "photos/Pasted image 20231012140903.png",
     "photos/Pasted image 20231012140851.png",
     "photos/Pasted image 20231012140549.png",
-    "Deep Learning/Pooling Layers.md",
     "photos/Pasted image 20231012135819.png",
     "photos/Pasted image 20231012134831.png",
     "photos/Pasted image 20231012134736.png",
-    "Deep Learning/Layer Normalization.md",
-    "Deep Learning/Cross Entropy Loss.md",
-    "Deep Learning/2D-Batch Norm.md",
-    "Hadamard Product.md",
-    "photos/Pasted image 20231010132344.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
