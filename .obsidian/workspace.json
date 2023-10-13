@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Metrics of Ranking Quality (Area Under Curve).md",
+                "file": "AUC ROC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metrics of Ranking Quality (Area Under Curve).md",
+                "file": "AUC ROC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metrics of Ranking Quality (Area Under Curve).md",
+                "file": "AUC ROC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metrics of Ranking Quality (Area Under Curve).md"
+                "file": "AUC ROC.md"
               }
             }
           },
@@ -179,9 +179,15 @@
   },
   "active": "444f6b516606d7cd",
   "lastOpenFiles": [
+    "Metrics of Ranking Quality (Area Under Curve).md",
+    "Gini Index.md",
+    "photos/Pasted image 20231013122326.png",
+    "PR-Curve (AUC-PRC).md",
+    "photos/Pasted image 20231013122111.png",
+    "AUC ROC.md",
+    "photos/Pasted image 20231013121642.png",
     "photos/Pasted image 20231013121125.png",
     "Machine Learning/Metrics for ML Algorithms.md",
-    "Metrics of Ranking Quality (Area Under Curve).md",
     "Confusion Matrix.md",
     "Precision and Recall.md",
     "Hyperbolic Functions.md",
@@ -195,7 +201,6 @@
     "photos/Pasted image 20231013112901.png",
     "Accuracy.md",
     "Improving the Model.md",
-    "photos/Pasted image 20231013112655.png",
     "Machine Learning/Binary Classification.md",
     "Cusp Catastrophe.md",
     "Wiener Process.md",
@@ -209,12 +214,6 @@
     "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
     "Econometrics/F-Test for Linear Restrictions.md",
     "Econometrics/F Statistic.md",
-    "Econometrics/Fischer Distribution.md",
-    "photos/Pasted image 20231012155252.png",
-    "Econometrics/Adjusted R^2.md",
-    "Deep Learning/Convolutional Neural Network.md",
-    "photos/Pasted image 20231012141837.png",
-    "photos/Pasted image 20231012141801.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
