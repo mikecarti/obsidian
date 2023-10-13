@@ -32,7 +32,12 @@ recall \geq 0.9
 \end{cases}
 $$
 
-### [[F-Score]]
+### [[F-Score]] - Harmonic Average
+
+### Geometric Average
+$$
+G = \sqrt{ precision  \cdot  recall }
+$$
 
 
 

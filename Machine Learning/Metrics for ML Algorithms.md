@@ -14,3 +14,4 @@
 # Classification
 - [[Accuracy]]
 - [[Confusion Matrix]]
+- [[Metrics of Ranking Quality (Area Under Curve)]]

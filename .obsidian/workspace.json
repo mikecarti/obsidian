@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F-Score.md",
+                "file": "Metrics of Ranking Quality (Area Under Curve).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F-Score.md",
+                "file": "Metrics of Ranking Quality (Area Under Curve).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F-Score.md",
+                "file": "Metrics of Ranking Quality (Area Under Curve).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F-Score.md"
+                "file": "Metrics of Ranking Quality (Area Under Curve).md"
               }
             }
           },
@@ -179,14 +179,20 @@
   },
   "active": "444f6b516606d7cd",
   "lastOpenFiles": [
-    "Precision and Recall.md",
-    "F-Score.md",
+    "photos/Pasted image 20231013121125.png",
+    "Machine Learning/Metrics for ML Algorithms.md",
+    "Metrics of Ranking Quality (Area Under Curve).md",
     "Confusion Matrix.md",
+    "Precision and Recall.md",
+    "Hyperbolic Functions.md",
+    "Lift.md",
+    "F-Score.md",
+    "photos/Pasted image 20231013120134.png",
+    "photos/Pasted image 20231013115854.png",
     "photos/Pasted image 20231013114111.png",
     "photos/Pasted image 20231013114034.png",
     "photos/Pasted image 20231013114014.png",
     "photos/Pasted image 20231013112901.png",
-    "Machine Learning/Metrics for ML Algorithms.md",
     "Accuracy.md",
     "Improving the Model.md",
     "photos/Pasted image 20231013112655.png",
@@ -198,7 +204,6 @@
     "Brownian Motion.md",
     "Fairness Perception Utility Function.md",
     "Machine Learning/Log-Cosh.md",
-    "Hyperbolic Functions.md",
     "Machine Learning/MSE.md",
     "Docker.md",
     "Machine Learning/Ridge and Lasso regularization is like a salt in cookery. Often makes model better..md",
@@ -208,13 +213,8 @@
     "photos/Pasted image 20231012155252.png",
     "Econometrics/Adjusted R^2.md",
     "Deep Learning/Convolutional Neural Network.md",
-    "Deep Learning/Augmentation in Deep Learning.md",
-    "RELU.md",
     "photos/Pasted image 20231012141837.png",
     "photos/Pasted image 20231012141801.png",
-    "Deep Learning/Weight Initialization.md",
-    "photos/Pasted image 20231012140903.png",
-    "photos/Pasted image 20231012140851.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
