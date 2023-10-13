@@ -391,3 +391,39 @@ $$
 ![[Pasted image 20231006172744.png]]
 
 ![[Pasted image 20231006173303.png]]
+
+
+### 13.10 Lecture
+
+$Ex$.
+$\sigma(Y), \sigma(X^{2}), \sigma(\mid X\mid \cdot Y)$ - ?
+![[Pasted image 20231013164409.png]]
+
+a) $\sigma(Y)$ = $\{ \{ Y=0 \}, \{ Y=1 \}, \Omega ,\emptyset\}$
+$\Omega$ - the trivial event that always happens (universe for our experiment)
+$\emptyset$ -  the trivial event that never happens (universe for our experiment)
+
+b) $\sigma(X^{2})$    $\{X=-2\} \cancel{ \in } \sigma(X^{2})$
+$\{  X^{2} = 4\} = \{ X=2 \}U\{ X=-2 \}$
+$\{ X^{2}=25 \}= \{ X=5 \}$
+
+$\sigma(X^{2}) = \{ \{ X^{2}=4 \}, \{ X^{2}=25 \}, \Omega, \emptyset \}$
+
+c) $\sigma(|X| \cdot Y)$                           $|X| \cdot Y \in \{ 0,2,5 \}$ 
+
+$\{ |X| \cdot Y>1 \}=\left\{  |X| \cdot Y> \frac{1}{2}  \right\} = \{ |X| \cdot Y=2 \text{ OR }5 \}$
+$\{ |X| \cdot Y=0 \}=\{ \sin(|X| \cdot Y)\leq 0 \}=\{ \log(|X| \cdot Y+1)=0 \}$
+$\sigma(|X| \cdot Y)=\{ \Omega, \emptyset, \{ |X| \cdot Y=2 \}, \{ |X| \cdot Y=5 \}, \{ |X| \cdot Y\neq 0 \}, \{ |X| \cdot Y\neq 2 \}, \{ |X| \cdot Y \neq 5\}\}$
+d) How many events are there in $\sigma(X,Y)?$
+$\{ X<Y \}$, $\{X^{2}>{Y^{2}}\}$ 
+$\{ X^{2}+Y^{2}=5 \}=\{ |X|=2,Y=1 \}=\{ X<5,Y>0 \}$
+$$
+\begin{align}
+\sigma(X,Y)=\{ \{ X=-2,Y=1 \}, \dots\dots, \{ X<5, Y>0 \} \}  \\
+\text{3 X values, 2 Y values, so we have 6 outcomes} \\
+\text{We can take emptyset, we can combine all outcomes } \Omega \\
+\vdots \\
+\text{in total Cardinality: } cord\lr
+
+\end{align}
+$$
