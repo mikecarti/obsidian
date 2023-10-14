@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Metrics and Loss Functions.md",
+                "file": "Can Ln of MSE be simply transformed to MSE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Metrics and Loss Functions.md",
+                "file": "Can Ln of MSE be simply transformed to MSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Metrics and Loss Functions.md",
+                "file": "Can Ln of MSE be simply transformed to MSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Metrics and Loss Functions.md"
+                "file": "Can Ln of MSE be simply transformed to MSE.md"
               }
             }
           },
@@ -205,8 +205,9 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
-    "Machine Learning/RMSE.md",
     "Machine Learning/Metrics and Loss Functions.md",
+    "Can Ln of MSE be simply transformed to MSE.md",
+    "Machine Learning/RMSE.md",
     "Machine Learning/Huber's Loss.md",
     "Stochastic Processes/Classwork.md",
     "Stochastic Processes/Sigma-Algebras.md",
@@ -240,7 +241,6 @@
     "Brownian Motion.md",
     "Fairness Perception Utility Function.md",
     "Machine Learning/Log-Cosh.md",
-    "Machine Learning/MSE.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
