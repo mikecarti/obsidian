@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Can Ln of MSE be simply transformed to MSE.md",
+                "file": "diary/2023-10-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Can Ln of MSE be simply transformed to MSE.md",
+                "file": "diary/2023-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Can Ln of MSE be simply transformed to MSE.md",
+                "file": "diary/2023-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Can Ln of MSE be simply transformed to MSE.md"
+                "file": "diary/2023-10-14.md"
               }
             }
           },
@@ -205,12 +206,15 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
-    "Machine Learning/Metrics and Loss Functions.md",
+    "Stochastic Processes/First Step Analysis.md",
+    "diary/2023-10-14.md",
+    "Excalidraw/Drawing 2023-10-14 23.39.14.excalidraw.md",
+    "Stochastic Processes/Sigma-Algebras.md",
+    "Stochastic Processes/Classwork.md",
     "Can Ln of MSE be simply transformed to MSE.md",
+    "Machine Learning/Metrics and Loss Functions.md",
     "Machine Learning/RMSE.md",
     "Machine Learning/Huber's Loss.md",
-    "Stochastic Processes/Classwork.md",
-    "Stochastic Processes/Sigma-Algebras.md",
     "photos/Pasted image 20231013173211.png",
     "photos/Pasted image 20231013172126.png",
     "Machine Learning/Accuracy.md",
@@ -238,9 +242,6 @@
     "Wiener Process.md",
     "Stochastic Catastrophe Model.md",
     "Monte Carlo.md",
-    "Brownian Motion.md",
-    "Fairness Perception Utility Function.md",
-    "Machine Learning/Log-Cosh.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
