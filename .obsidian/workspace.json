@@ -24,16 +24,14 @@
             "id": "3bd20566e69b2aea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "diary/2023-10-14.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md"
               }
             }
           },
@@ -190,13 +188,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3acb2d044cbd74da",
+  "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
     "diary/2023-10-14.md",
+    "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
+    "Stochastic Processes/Classwork.md",
     "Stochastic Processes/First Step Analysis.md",
     "Excalidraw/Drawing 2023-10-14 23.39.14.excalidraw.md",
     "Stochastic Processes/Sigma-Algebras.md",
-    "Stochastic Processes/Classwork.md",
     "Can Ln of MSE be simply transformed to MSE.md",
     "Machine Learning/Metrics and Loss Functions.md",
     "Machine Learning/RMSE.md",
@@ -227,7 +226,6 @@
     "Cusp Catastrophe.md",
     "Wiener Process.md",
     "Stochastic Catastrophe Model.md",
-    "Monte Carlo.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
