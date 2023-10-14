@@ -37,9 +37,12 @@
             "id": "3bd20566e69b2aea",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Machine Learning/Metrics and Loss Functions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -110,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Sigma-Algebras.md",
+                "file": "Machine Learning/Metrics and Loss Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Sigma-Algebras.md",
+                "file": "Machine Learning/Metrics and Loss Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Sigma-Algebras.md"
+                "file": "Machine Learning/Metrics and Loss Functions.md"
               }
             }
           },
@@ -202,6 +205,9 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
+    "Machine Learning/RMSE.md",
+    "Machine Learning/Metrics and Loss Functions.md",
+    "Machine Learning/Huber's Loss.md",
     "Stochastic Processes/Classwork.md",
     "Stochastic Processes/Sigma-Algebras.md",
     "photos/Pasted image 20231013173211.png",
@@ -210,7 +216,6 @@
     "photos/Pasted image 20231013164409.png",
     "Deep Learning/Neural Network.md",
     "Machine Learning/Confusion Matrix.md",
-    "Machine Learning/Metrics for ML Algorithms.md",
     "Machine Learning/Metrics of Ranking Quality (Area Under Curve).md",
     "Machine Learning/Improving the Model.md",
     "Machine Learning/Precision and Recall.md",
@@ -236,7 +241,6 @@
     "Fairness Perception Utility Function.md",
     "Machine Learning/Log-Cosh.md",
     "Machine Learning/MSE.md",
-    "Docker.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
