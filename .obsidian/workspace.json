@@ -31,53 +31,10 @@
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "d476065cb8fbf1cd"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "7d3f11ebbffd42bd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3822b4c3d64108c6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "diary/2023-10-14.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "d476065cb8fbf1cd"
-          }
-        ]
       }
     ],
     "direction": "vertical"
