@@ -24,9 +24,12 @@
             "id": "3bd20566e69b2aea",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md"
+                "file": "diary/2023-10-14.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
+                "file": "diary/2023-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
+                "file": "diary/2023-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md"
+                "file": "diary/2023-10-14.md"
               }
             }
           },
@@ -190,9 +193,10 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
+    "Stochastic Processes/Markov chain.md",
     "diary/2023-10-14.md",
-    "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
     "Stochastic Processes/Classwork.md",
+    "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
     "Stochastic Processes/First Step Analysis.md",
     "Excalidraw/Drawing 2023-10-14 23.39.14.excalidraw.md",
     "Stochastic Processes/Sigma-Algebras.md",
@@ -225,7 +229,6 @@
     "Machine Learning/Binary Classification.md",
     "Cusp Catastrophe.md",
     "Wiener Process.md",
-    "Stochastic Catastrophe Model.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
