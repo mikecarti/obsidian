@@ -24,13 +24,8 @@
             "id": "3bd20566e69b2aea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Regularization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -101,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Regularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Regularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/Regularization.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,6 +184,8 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
+    "Machine Learning/Binary Classification.md",
+    "Machine Learning/Regularization.md",
     "diary/2023-10-14.md",
     "Can Ln of MSE be simply transformed to MSE.md",
     "Stochastic Processes/Infinite Markov Chains.md",
@@ -225,10 +218,8 @@
     "photos/Pasted image 20231013121125.png",
     "Hyperbolic Functions.md",
     "Machine Learning/Lift.md",
-    "Machine Learning/F-Score.md",
     "photos/Pasted image 20231013120134.png",
     "photos/Pasted image 20231013115854.png",
-    "Machine Learning/Binary Classification.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
