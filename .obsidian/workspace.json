@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-10-14.md",
+                "file": "Machine Learning/Regularization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-14.md",
+                "file": "Machine Learning/Regularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-14.md",
+                "file": "Machine Learning/Regularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-14.md"
+                "file": "Machine Learning/Regularization.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
-    "Can Ln of MSE be simply transformed to MSE.md",
     "diary/2023-10-14.md",
+    "Can Ln of MSE be simply transformed to MSE.md",
     "Stochastic Processes/Infinite Markov Chains.md",
     "Stochastic Processes/Markov chain.md",
     "Stochastic Processes/Classwork.md",
