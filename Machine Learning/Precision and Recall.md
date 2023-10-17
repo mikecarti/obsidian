@@ -4,6 +4,7 @@ $$
 precision = \frac{TP}{TP+FP} 
 $$
 
+
 ### Recall
 How much model covers positive class (полнота)
 $$

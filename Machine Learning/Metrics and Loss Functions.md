@@ -18,5 +18,5 @@
 - [[F-Score]]
 - [[Lift]]
 - [[AUC ROC]]
-- [[PR-Curve (AUC-PRC)]]
+- [[PR-Curve (AUC-PRC, Precision-Recall)]]
 - [[Gini Index]]

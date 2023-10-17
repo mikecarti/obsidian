@@ -6,6 +6,6 @@ $$
 
 ## How to measure quality of $b(x)$ in general?
 ### [[AUC ROC]]
-### [[PR-Curve (AUC-PRC)]]
+### [[PR-Curve (AUC-PRC, Precision-Recall)]]
 
 
