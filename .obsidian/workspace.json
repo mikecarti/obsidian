@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "b1a9a5a0c80f26ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "10980aba37f8e8c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3acb2d044cbd74da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Processes/Classwork.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bd20566e69b2aea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Classwork.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eed3b0124250d872",
+    "type": "split",
+    "children": [
+      {
+        "id": "614b6f15d297c255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0808e3cca7f689eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "8bdf61c85e303884",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27b8da8ea57e0ae0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "597630b082247d37",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c62b2ae564f5df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dad250550f6af0d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine Learning/Classwork.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11c34e9f4dfcc981",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine Learning/Classwork.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23ec18097353941f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "644c17f448ea16a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine Learning/Classwork.md"
+              }
+            }
+          },
+          {
+            "id": "e13151627a1c01a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4acf21e22e8b4603",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d96ac1f99bbc50e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "3bd20566e69b2aea",
+  "lastOpenFiles": [
+    "photos/Pasted image 20231017134540.png",
+    "Machine Learning/AUC ROC.md",
+    "Machine Learning/Classwork.md",
+    "photos/Pasted image 20231017134157.png",
+    "Machine Learning/Binary Classification.md",
+    "Machine Learning/Regularization.md",
+    "diary/2023-10-14.md",
+    "Can Ln of MSE be simply transformed to MSE.md",
+    "Stochastic Processes/Infinite Markov Chains.md",
+    "Stochastic Processes/Markov chain.md",
+    "Stochastic Processes/Classwork.md",
+    "Stochastic Processes/Finite closed classes are recurrent.md",
+    "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
+    "Stochastic Processes/First Step Analysis.md",
+    "Excalidraw/Drawing 2023-10-14 23.39.14.excalidraw.md",
+    "Stochastic Processes/Sigma-Algebras.md",
+    "Machine Learning/Metrics and Loss Functions.md",
+    "Machine Learning/RMSE.md",
+    "Machine Learning/Huber's Loss.md",
+    "photos/Pasted image 20231013173211.png",
+    "photos/Pasted image 20231013172126.png",
+    "Machine Learning/Accuracy.md",
+    "photos/Pasted image 20231013164409.png",
+    "Deep Learning/Neural Network.md",
+    "Machine Learning/Confusion Matrix.md",
+    "Machine Learning/Metrics of Ranking Quality (Area Under Curve).md",
+    "Machine Learning/Improving the Model.md",
+    "Machine Learning/Precision and Recall.md",
+    "Machine Learning/PR-Curve (AUC-PRC).md",
+    "photos/Pasted image 20231013122837.png",
+    "Machine Learning/Gini Index.md",
+    "photos/Pasted image 20231013122326.png",
+    "photos/Pasted image 20231013122111.png",
+    "photos/Pasted image 20231013121642.png",
+    "photos/Pasted image 20231013121125.png",
+    "photos/Pasted image 20231013120134.png",
+    "Untitled 1.canvas",
+    "Catastrophe Theory",
+    "Deep Learning",
+    "Excalidraw",
+    "photos/decompositions 1.pdf",
+    "photos/decompositions.pdf",
+    "Financial Economics",
+    "Mathematical Optimization",
+    "Excalidraw",
+    "Machine Learning/Seminar Collabs",
+    "Time Series",
+    "Untitled.canvas"
+  ]
+}
