@@ -449,12 +449,18 @@ A_{i}&\cap A_{j} = \emptyset \\
 \end{align}
 $$
 
-
+Task 2)
+1, 2, 3 people , 0.5,0.2,0.3, fine: 1,5,10
+write down $\sigma$ - algebras, find conditional $\mathbf{E}$ of the fine in cases
 $$
 \begin{align}
-& \\
-& \\
-& \\
-&
+& \mathcal{F}_{1} = \sigma(\text{number of officers})U = \{ \emptyset, \Omega,\underbrace{  \{ 1 \}, \{ 2 \}, \{ 3 \} }_{partition}, \dots \}\\
+& \mathbb{E}(fine)_{\mathcal{F_{1}}} = \begin{cases}
+1 & \{ 1 \} \\
+5 & \{ 2 \}  \\
+10 & \{ 3 \}
+\end{cases} = X\\
+& \mathcal{F}_{2} = \sigma(\text{they are in car, don't see how many}) = \{ \emptyset, \{ 1,2,3 \} \}\\
+& \mathbb{E}(fine)_{\mathcal{F_{2}}} = 1 \cdot 0,5 + 5  \cdot  0.2 + 10  \cdot 0.3 = 0.5 + 1 + 3 = 4.5
 \end{align}
 $$
