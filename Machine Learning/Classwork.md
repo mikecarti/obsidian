@@ -41,4 +41,5 @@ FPR = 51/275
 $\alpha \approx 0.43$
 
 6)$l_{+}, l_{-}$ - даны
-$ROC(\mathcal{A})$ не ниже $ROC(\mathcal{B})$ $\equiv$
+$ROC(\mathcal{A})$ не ниже $ROC(\mathcal{B})$ $\Leftarrow \Rightarrow$  $PR(\mathcal{A})$ не ниже $PR(\mathcal{B})$
+я не буду переписывать доказательство...
