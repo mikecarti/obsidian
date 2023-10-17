@@ -443,7 +443,18 @@ A_{i} &\in \mathcal{F} \\
 \Omega &= \cup_{i\in I}A_{i} \\
 A_{i}&\cap A_{j} = \emptyset \\
 \forall A &\in \mathcal{F} : \exists \mathcal{J}\subset I \; A=\cup_{i\in J}A_{i} \\ \\
-\mathcal{F}_{3} &= \sigma(\text{1,2 or many}) =\{ \emptyset, \{1\}, \{ 2 \}, \{ 3,4,5,6 \}, \dots, \{ 1,2 \}, \{ 1,3,4,5,6 \}, \dots, \Omega \}  \\
+\mathcal{F}_{3} &= \sigma(\text{1,2 or many}) =\{ \emptyset, \{1\}, \{ 2 \}, \{ >2 \}, \dots, \{ 1,2 \}, \{ 1,>2 \}, \dots, \Omega \}   \\
+&\{ \emptyset, \underbrace{ \{ 1 \}, \{ 2 \}, \{ 3,4,5,6 \} }_{ partition }, ... \} \\
+&cord(\mathcal{F}_{3}) = 2^{3}
+\end{align}
+$$
 
+
+$$
+\begin{align}
+& \\
+& \\
+& \\
+&
 \end{align}
 $$
