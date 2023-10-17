@@ -24,3 +24,5 @@ M_{x}(t) = E[e^{tx}]$$
 $$
 M_{Y}(t) = \exp(at)M_{X}(bt)
 $$
+## Example:
+- [[Stochastic Processes/Classwork# 15.09 Lecture]]

@@ -138,3 +138,9 @@ T_{NS} = 5 \;\; T_{AS} = 9 \\
 $$
 
 # N2
+Each day the Random Restaurant is independently closed with probability p. If the restaurant is open then the number of clients has Poisson distribution with mean µ.
+
+After N days (working or non-working) the Random Restaurant will permanently close, N is random and has Poisson distribution with mean n.
+
+(a) Find the moment generating function of the number of clients during day 1, assuming N $\geq$ 1.
+

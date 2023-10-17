@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-10-14.md",
+                "file": "diary/2023-10-14 Homework SP1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,6 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Stochastic Processes/Moment Generating Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25edf8bad279d219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Stochastic Processes/Classwork.md",
                 "mode": "source",
                 "backlinks": true,
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-14.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-14.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-14.md"
+                "file": "Stochastic Processes/Classwork.md"
               }
             }
           },
@@ -190,10 +204,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3bd20566e69b2aea",
+  "active": "25edf8bad279d219",
   "lastOpenFiles": [
+    "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Classwork.md",
-    "diary/2023-10-14.md",
+    "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/First Step Analysis.md",
     "Docker.md",
     "Stochastic Processes/Infinite Markov Chains.md",
@@ -226,7 +241,6 @@
     "Machine Learning/Metrics of Ranking Quality (Area Under Curve).md",
     "Machine Learning/Improving the Model.md",
     "photos/Pasted image 20231013122837.png",
-    "Machine Learning/Gini Index.md",
     "photos/Pasted image 20231013122326.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
