@@ -1,2 +1,3 @@
 - free disk space: ```docker system prune```
+- attach to all running containers: ```docker compose logs --tail=0 --follow```
 - 

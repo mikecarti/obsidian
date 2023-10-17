@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Docker.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "Docker.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "550fbabb6730da9d",
   "lastOpenFiles": [
-    "Stochastic Processes/Infinite Markov Chains.md",
     "Stochastic Processes/Classwork.md",
+    "Stochastic Processes/Infinite Markov Chains.md",
     "Stochastic Processes/Sigma-Algebras.md",
     "diary/2023-10-14.md",
     "Machine Learning/Classwork.md",
