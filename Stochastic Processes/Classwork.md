@@ -430,3 +430,11 @@ $$
 2 - because we can take or not take, 6 because we have 6 cells.
 ![[Pasted image 20231013172126.png]]
 
+
+
+### 17.10 Seminar
+- Task 1 
+Toss a dice: $\Omega$ = $\{ 1,2,3,4,5,6 \}$
+$$
+\mathcal{F}_{1} = \sigma(\text{we know that there was a toss}) = \{ \emptyset, \Omega \}
+$$
