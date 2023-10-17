@@ -436,5 +436,14 @@ $$
 - Task 1 
 Toss a dice: $\Omega$ = $\{ 1,2,3,4,5,6 \}$
 $$
-\mathcal{F}_{1} = \sigma(\text{we know that there was a toss}) = \{ \emptyset, \Omega \}
+\begin{align}
+\mathcal{F}_{1} &= \sigma(\text{we know that there was a toss}) = \{ \emptyset, \Omega \} \\
+\mathcal{F}_{2} &= \sigma(\text{we saw a number on a dice}) = \underbrace{ \{\emptyset,  \Omega, \{ 1 \}, \dots, \{ 6 \}, \{ 1,2 \}, \dots \} }_{ \text{a partition (all smallest pieces)} } \\
+A_{i} &\in \mathcal{F} \\
+\Omega &= \cup_{i\in I}A_{i} \\
+A_{i}&\cap A_{j} = \emptyset \\
+\forall A &\in \mathcal{F} : \exists \mathcal{J}\subset I \; A=\cup_{i\in J}A_{i} \\ \\
+\mathcal{F}_{3} &= \sigma(\text{1,2 or many}) =\{ \emptyset, \{1\}, \{ 2 \}, \{ 3,4,5,6 \}, \dots, \{ 1,2 \}, \{ 1,3,4,5,6 \}, \dots, \Omega \}  \\
+
+\end{align}
 $$
