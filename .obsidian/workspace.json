@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-14.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-14.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-14.md"
+                "file": "Stochastic Processes/Classwork.md"
               }
             }
           },
@@ -190,13 +191,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3bd20566e69b2aea",
+  "active": "550fbabb6730da9d",
   "lastOpenFiles": [
+    "diary/2023-10-14.md",
     "Stochastic Processes/Classwork.md",
+    "Stochastic Processes/First Step Analysis.md",
     "Docker.md",
     "Stochastic Processes/Infinite Markov Chains.md",
     "Stochastic Processes/Sigma-Algebras.md",
-    "diary/2023-10-14.md",
     "Machine Learning/Classwork.md",
     "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
     "Machine Learning/Precision and Recall.md",
@@ -212,7 +214,6 @@
     "Stochastic Processes/Markov chain.md",
     "Stochastic Processes/Finite closed classes are recurrent.md",
     "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
-    "Stochastic Processes/First Step Analysis.md",
     "Excalidraw/Drawing 2023-10-14 23.39.14.excalidraw.md",
     "Machine Learning/Metrics and Loss Functions.md",
     "Machine Learning/RMSE.md",
