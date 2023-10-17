@@ -462,6 +462,5 @@ $$
 \end{cases} = X\\
 & \mathcal{F}_{2} = \sigma(\text{they are in car, don't see how many}) = \{ \emptyset, \{ 1,2,3 \} \}\\
 & \mathbb{E}(fine)_{\mathcal{F_{2}}} = 1 \cdot 0,5 + 5  \cdot  0.2 + 10  \cdot 0.3 = 0.5 + 1 + 3 = 4.5 \\ \\
-&\mathcal{F}_{3} = \sigma(\text{at least 1 officer}) = \dots
 \end{align}
 $$
