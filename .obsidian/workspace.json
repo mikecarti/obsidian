@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git commands.md",
+                "file": "diary/2023-10-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git commands.md",
+                "file": "diary/2023-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git commands.md",
+                "file": "diary/2023-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git commands.md"
+                "file": "diary/2023-10-18.md"
               }
             }
           },
@@ -205,6 +204,9 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
+    "Can Ln of MSE be simply transformed to MSE.md",
+    "diary/2023-10-18.md",
+    "Git commands.md",
     "Linux commands.md",
     "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/Moment Generating Function.md",
@@ -224,7 +226,6 @@
     "photos/Pasted image 20231017134157.png",
     "Machine Learning/Binary Classification.md",
     "Machine Learning/Regularization.md",
-    "Can Ln of MSE be simply transformed to MSE.md",
     "Stochastic Processes/Markov chain.md",
     "Stochastic Processes/Finite closed classes are recurrent.md",
     "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
@@ -237,8 +238,6 @@
     "Machine Learning/Accuracy.md",
     "photos/Pasted image 20231013164409.png",
     "Deep Learning/Neural Network.md",
-    "Machine Learning/Confusion Matrix.md",
-    "Machine Learning/Metrics of Ranking Quality (Area Under Curve).md",
     "photos/Pasted image 20231013122837.png",
     "photos/Pasted image 20231013122326.png",
     "Untitled 1.canvas",
