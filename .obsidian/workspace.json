@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Git commands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Git commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md"
+                "file": "Git commands.md"
               }
             }
           },
@@ -205,9 +205,10 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
+    "Linux commands.md",
+    "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Classwork.md",
-    "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/First Step Analysis.md",
     "Docker.md",
     "Stochastic Processes/Infinite Markov Chains.md",
@@ -238,7 +239,6 @@
     "Deep Learning/Neural Network.md",
     "Machine Learning/Confusion Matrix.md",
     "Machine Learning/Metrics of Ranking Quality (Area Under Curve).md",
-    "Machine Learning/Improving the Model.md",
     "photos/Pasted image 20231013122837.png",
     "photos/Pasted image 20231013122326.png",
     "Untitled 1.canvas",
