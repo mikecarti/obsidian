@@ -128,14 +128,15 @@ A  & 0 & \frac{3}{4} & \frac{1}{4}\\
 N  & \frac{1}{4} & \frac{1}{4} & \frac{1}{2}
 \end{bmatrix} \\
 \mathbb{E}[X] = T_{AS} = 1 + \frac{3}{4} \cdot T_{AS} + \frac{1}{4} \cdot T_{NS} \\
-T_{NS} = 1 \cdot \frac{1}{4} + T_{AS} \cdot \frac{1}{4} + T_{NS}  \cdot  \frac{1}{2} \\
+T_{NS} = 1  + T_{AS} \cdot \frac{1}{4} + T_{NS}  \cdot  \frac{1}{2} \\
 4T_{AS}=4 + 3T_{AS}+T_{NS} \implies T_{AS} = 4 + T_{NS} \\
-4T_{NS} = 1 + T_{AS} + 2T_{NS} \implies 2T_{NS} - 1 = T_{AS} \\
-4 + T_{NS} = 2T_{NS} -1  \\
-T_{NS} = 5 \;\; T_{AS} = 9 \\
+4T_{NS} = 4 + T_{AS} + 2T_{NS} \implies 2T_{NS} - 4 = T_{AS} \\
+4 + T_{NS} = 2T_{NS} -4  \\
+T_{NS} = 8 \;\; T_{AS} = 12 \\
 \text{Answer: } 9 \text{ steps} !!!
 \end{gather}
 $$
+
 
 # N2
 Each day the Random Restaurant is independently closed with probability p. If the restaurant is open then the number of clients has Poisson distribution with mean µ.
