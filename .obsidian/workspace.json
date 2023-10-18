@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "diary/2023-10-14 Homework SP1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "diary/2023-10-14 Homework SP1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "diary/2023-10-14 Homework SP1.md"
               }
             }
           },
@@ -204,7 +203,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "25edf8bad279d219",
+  "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
     "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Classwork.md",
