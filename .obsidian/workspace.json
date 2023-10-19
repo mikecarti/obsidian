@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Convolutional Neural Network.md",
+                "file": "Transfer Learning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Convolutional Neural Network.md",
+                "file": "Transfer Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Convolutional Neural Network.md",
+                "file": "Transfer Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Convolutional Neural Network.md"
+                "file": "Transfer Learning.md"
               }
             }
           },
@@ -179,6 +179,12 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
+    "Deep Learning/Neural Network.md",
+    "Transfer Learning.md",
+    "photos/Pasted image 20231019135924.png",
+    "photos/Pasted image 20231019135921.png",
+    "Deep Learning/Convolutional Neural Network.md",
+    "History of CNN.md",
     "photos/Pasted image 20231019135148.png",
     "photos/Pasted image 20231019134744.png",
     "photos/Pasted image 20231019134310.png",
@@ -202,8 +208,6 @@
     "photos/Pasted image 20231017140944.png",
     "photos/Pasted image 20231017135403.png",
     "photos/Pasted image 20231017134700.png",
-    "photos/Pasted image 20231017134540.png",
-    "photos/Pasted image 20231017134157.png",
     "Machine Learning/Binary Classification.md",
     "Machine Learning/Regularization.md",
     "Stochastic Processes/Markov chain.md",
@@ -211,10 +215,6 @@
     "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
     "Excalidraw/Drawing 2023-10-14 23.39.14.excalidraw.md",
     "Machine Learning/Metrics and Loss Functions.md",
-    "Machine Learning/RMSE.md",
-    "Machine Learning/Huber's Loss.md",
-    "photos/Pasted image 20231013173211.png",
-    "Machine Learning/Accuracy.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
