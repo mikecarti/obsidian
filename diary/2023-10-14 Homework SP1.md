@@ -155,6 +155,9 @@ $$
 &X \sim Poisson(\mu)  \\
 &f(X=k) = {\displaystyle {\frac {\lambda ^{k}e^{-\lambda }}{k!}}} \\
 &M_{X(t)} = E(e^{tX}) = \sum_{x}e^{tx}f_{X}(x) = \sum_{x=0}^{\infty} \left(    e^{tx}{\frac {\lambda ^{x}e^{-\lambda }}{x!}}\right)= \\
-=& e^{-\lambda} \sum_{x=0}^{\infty} \left({\frac {e^{tx}\lambda ^{x}}{x!}}\right) = e^{-\lambda} \sum_{x=0}^{\infty} \left(\frac{(e^{t} \lambda)^{x}}{x!}\right)
+=& e^{-\lambda} \sum_{x=0}^{\infty} \left({\frac {e^{tx}\lambda ^{x}}{x!}}\right) = e^{-\lambda} \sum_{x=0}^{\infty} \left(\frac{(e^{t} \lambda)^{x}}{x!}\right) =  \\
+=& e^{-\lambda} e^{e^{t}\lambda} = e^{e^{t}\lambda-\lambda}= e^{\lambda(e^{t}-1)} = \underbrace{ \exp \left(   {\lambda(\exp(t)-1)} \right) }_{ MGF \text{ for N. of Clients Day 1} }
 \end{align}
 $$
+
+(b) Find the moment generating function of the total number of clients served in the Random Restaurant

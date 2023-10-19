@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md",
+                "file": "Taylor Expansion.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -237,6 +237,7 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
+    "Taylor Expansion.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Poisson Distribution.md",
     "diary/2023-10-14 Homework SP1.md",
@@ -272,7 +273,6 @@
     "Machine Learning/Binary Classification.md",
     "Machine Learning/Regularization.md",
     "Stochastic Processes/Markov chain.md",
-    "Stochastic Processes/Finite closed classes are recurrent.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
