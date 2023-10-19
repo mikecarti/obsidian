@@ -204,3 +204,13 @@ $$
 \mathbb{E}[Y_{t}] = \mathbb{E}[X_{t^{2}}] 
 $$
 
+# N5
+Let’s toss a dice until the first six appears. Let X be the result of the first toss and Y — the total number of tosses.
+Find E(X | Y)
+$$
+\begin{align}
+\mathbb{E}[X|Y] = \mathbb{E}[\text{first toss } | \text{ n tosses}] = 6  \cdot  P(Y=1) + \\
++ \frac{{1+2+3+4+5}}{5} \cdot P(Y>1) = 1 +  \\
+\end{align}
+
+$$
