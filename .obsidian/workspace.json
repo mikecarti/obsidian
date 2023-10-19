@@ -6,21 +6,7 @@
       {
         "id": "10980aba37f8e8c1",
         "type": "tabs",
-        "dimension": 47.31903485254691,
         "children": [
-          {
-            "id": "3bd20566e69b2aea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
           {
             "id": "151023e07880b309",
             "type": "leaf",
@@ -60,27 +46,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "f2df324117a24946",
-        "type": "tabs",
-        "dimension": 52.68096514745309,
-        "children": [
-          {
-            "id": "8e6f3c4b7b1bb3fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,19 +204,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3bd20566e69b2aea",
+  "active": "4dcdcfbf5ebfec27",
   "lastOpenFiles": [
-    "Stochastic Processes/Poisson Distribution.md",
+    "Stochastic Processes/Moment Generating Function.md",
     "diary/2023-10-14 Homework SP1.md",
+    "Taylor Expansion.md",
+    "photos/Pasted image 20231019180826.png",
+    "Stochastic Processes/Poisson Distribution.md",
     "Probability Limit.md",
     "Variance.md",
     "Stochastic Processes/Classwork.md",
-    "Stochastic Processes/Moment Generating Function.md",
     "Econometrics/Expected Value.md",
-    "Taylor Expansion.md",
     "Probability Density Function (PDF).md",
     "Probability.md",
-    "photos/Pasted image 20231019180826.png",
     "Transfer Learning.md",
     "Deep Learning/Neural Network.md",
     "photos/Pasted image 20231019135924.png",
@@ -272,7 +239,6 @@
     "Machine Learning/Classwork.md",
     "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
     "Machine Learning/Precision and Recall.md",
-    "Machine Learning/AUC ROC.md",
     "photos/Pasted image 20231017140944.png",
     "photos/Pasted image 20231017135403.png",
     "Untitled 1.canvas",

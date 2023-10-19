@@ -148,6 +148,7 @@ Each day the Random Restaurant is independently closed with probability p. If th
 After N days (working or non-working) the Random Restaurant will permanently close, N is random and has Poisson distribution with mean n.
 
 (a) Find the moment generating function of the number of clients during day 1, assuming N $\geq$ 1.
+
 $$
 \begin{align}
 &X \text{ - number of clients a day} \\
@@ -162,6 +163,13 @@ $$
 $$
 
 (b) Find the moment generating function of the total number of clients served in the Random Restaurant
+$$
+\begin{align}
+X - \text{ number of clients served total} \\
+\mathbb{E}[X] = (p\lambda + )
+\end{align}
+
+$$
 
 ```python
 pass
