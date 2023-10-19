@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "diary/2023-10-14 Homework SP1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "diary/2023-10-14 Homework SP1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "diary/2023-10-14 Homework SP1.md"
               }
             }
           },
@@ -191,10 +190,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "151023e07880b309",
+  "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
-    "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/Classwork.md",
+    "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Transfer Learning.md",
     "Deep Learning/Neural Network.md",
