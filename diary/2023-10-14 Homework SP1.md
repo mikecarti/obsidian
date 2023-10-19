@@ -208,9 +208,18 @@ $$
 Let’s toss a dice until the first six appears. Let X be the result of the first toss and Y — the total number of tosses.
 Find E(X | Y)
 $$
+\begin{gather}
+\mathbb{E}[X|Y] = \mathbb{E}[\text{first toss } | \text{ n tosses}]  \\
+= 6 \cdot P(Y=1) + \mathbb{E}[\text{"first toss value, except 6"}]  \cdot  P(Y>1) =  \\
+6  \cdot  P(Y=1) + 
++ \frac{{1+2+3+4+5}}{5} \cdot P(Y>1)= 1 + \frac{15}{\cancel{ 5 }} \cdot \frac{\cancel{ 5 }}{6} = 1 + 2.5 = 3.5 \\
+\end{gather}
+$$
+Find E(Y|X)
+$$
 \begin{align}
-\mathbb{E}[X|Y] = \mathbb{E}[\text{first toss } | \text{ n tosses}] = 6  \cdot  P(Y=1) + \\
-+ \frac{{1+2+3+4+5}}{5} \cdot P(Y>1) = 1 +  \\
-\end{align}
+\mathbb{E}[Y|X] = \mathbb{E}[\text{n tosses } | \text{ first toss value}] = P(X=6) \cdot 1 + \mathbb{E}[Y|X\neq 6] = \\
 
+
+\end{align}
 $$
