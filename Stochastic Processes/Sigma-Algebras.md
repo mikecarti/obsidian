@@ -24,4 +24,4 @@ $\cdot$ : $A\cap  B$
 1) [[Stochastic Processes/Classwork|Classwork]] - 13.10
 
 2) ![[Pasted image 20231013173211.png]]
-3) [[Stochastic Processes/Classwork|Classwork]] - 17.10
+3) [[Stochastic Processes/Classwork#17.10 Seminar]] - 17.10

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Sigma-Algebras.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Sigma-Algebras.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Sigma-Algebras.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Sigma-Algebras.md"
+                "file": "Stochastic Processes/Classwork.md"
               }
             }
           },
@@ -232,15 +232,15 @@
   },
   "active": "4dcdcfbf5ebfec27",
   "lastOpenFiles": [
+    "Stochastic Processes/Sigma-Algebras.md",
+    "Stochastic Processes/Classwork.md",
     "Stochastic Processes/Moment Generating Function.md",
     "diary/2023-10-14 Homework SP1.md",
     "photos/2023-10-14 Homework SP1 2023-10-19 23.50.18.excalidraw.md",
     "photos/Pasted Image 20231019235048_527.png",
     "photos/2023-10-14 Homework SP1 2023-10-19 23.43.29.excalidraw.md",
     "photos/Pasted Image 20231019234336_982.png",
-    "Stochastic Processes/Classwork.md",
     "Econometrics/Expected Value.md",
-    "Stochastic Processes/Sigma-Algebras.md",
     "photos/Pasted image 20231019231901.png",
     "photos/Pasted image 20231019230119.png",
     "Stochastic Processes/Poisson Distribution.md",

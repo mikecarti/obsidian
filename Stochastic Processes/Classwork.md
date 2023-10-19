@@ -1,4 +1,5 @@
 
+
 # 07.09
 ## Tasks:
 ![[Pasted image 20230905150123.png]]
