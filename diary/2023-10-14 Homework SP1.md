@@ -241,6 +241,9 @@ $$
 (b)
 $$
 \begin{align}
-\sigma(X,Y) 
+&coord(\sigma(X,Y)) = coord\left(  \{ \{ -1, 0 \}, \{ 0, 0 \} , \{ X=1, Y \neq 0 \}, \dots\} \right) = 2^{6} = 64 \\
+&coord( \sigma(X+Y) ) = coord\{ P(-1,0,1,2) \} = 2^{4} = 16 \\
+&coord[\sigma(X, Y,X+{Y}) ] = 2^{24}
 \end{align}
 $$
+![[2023-10-14 Homework SP1 2023-10-19 23.50.18.excalidraw]]
