@@ -45,6 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71f8bf10121a2999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Econometrics/Expected Value.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -206,16 +219,18 @@
   },
   "active": "4dcdcfbf5ebfec27",
   "lastOpenFiles": [
+    "Stochastic Processes/Classwork.md",
+    "Econometrics/Expected Value.md",
+    "Stochastic Processes/Sigma-Algebras.md",
+    "diary/2023-10-14 Homework SP1.md",
+    "photos/Pasted image 20231019231901.png",
+    "Stochastic Processes/Moment Generating Function.md",
     "photos/Pasted image 20231019230119.png",
     "Stochastic Processes/Poisson Distribution.md",
-    "diary/2023-10-14 Homework SP1.md",
-    "Stochastic Processes/Moment Generating Function.md",
     "Taylor Expansion.md",
     "photos/Pasted image 20231019180826.png",
     "Probability Limit.md",
     "Variance.md",
-    "Stochastic Processes/Classwork.md",
-    "Econometrics/Expected Value.md",
     "Probability Density Function (PDF).md",
     "Probability.md",
     "Transfer Learning.md",
@@ -236,12 +251,9 @@
     "Stochastic Processes/First Step Analysis.md",
     "Docker.md",
     "Stochastic Processes/Infinite Markov Chains.md",
-    "Stochastic Processes/Sigma-Algebras.md",
     "Machine Learning/Classwork.md",
     "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
     "Machine Learning/Precision and Recall.md",
-    "photos/Pasted image 20231017140944.png",
-    "photos/Pasted image 20231017135403.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

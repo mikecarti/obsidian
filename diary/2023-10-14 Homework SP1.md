@@ -218,9 +218,21 @@ $$
 Find E(Y|X)
 $$
 \begin{align}
-&\mathbb{E}[Y|X] = \mathbb{E}[\text{n tosses } | \text{ first toss value}] = \mathbb{E}[Y|] + \mathbb{E}[Y|X\neq 6] = \\
-&\frac{1}{6} \cdot 1 + \frac{5}{6} \cdot \mathbb{E}(G) = \frac{1}{6}+ \frac{5}{6}  \cdot \frac{1}{\frac{1}{6}} =  \frac{1}{6} + \frac{5}{6}  \cdot  6\\
-&= \frac{1}{6} +5= 5 \tfrac{1}{6}
+&\mathbb{E}[Y|X] = \mathbb{E}[\text{n tosses } | \text{ first toss value}] = \mathbb{E}[Y|X=6] + \mathbb{E}[Y|X\neq 6] = \\
+&\frac{1}{6} \cdot 6 + \frac{5}{6} \cdot \mathbb{E}(G) = 1+\frac{5}{6}  \cdot \frac{1}{\frac{1}{6}} = 1 + \frac{5}{\cancel{ 6 }} \cdot \cancel{ 6 } =6
 
+\end{align}
+$$
+
+
+# N6
+![[Pasted image 20231019231901.png]]
+
+(a)
+$$
+\begin{align}
+&\sigma(X) = \{ \emptyset, \Omega, \{ -1 \}, \{ 0 \}, \{ 1 \}, \{ -1,0 \}, \{ -1,1 \}, \dots, \{ -1, 0, 1 \} \} \\
+&\sigma(Y) = \{ \emptyset, \Omega, \{ 0 \}, \{ 1 \}, \{ 0,1 \} \} \\
+&\sigma(X \cdot Y) = 
 \end{align}
 $$
