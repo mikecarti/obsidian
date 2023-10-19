@@ -218,8 +218,9 @@ $$
 Find E(Y|X)
 $$
 \begin{align}
-\mathbb{E}[Y|X] = \mathbb{E}[\text{n tosses } | \text{ first toss value}] = P(X=6) \cdot 1 + \mathbb{E}[Y|X\neq 6] = \\
-
+&\mathbb{E}[Y|X] = \mathbb{E}[\text{n tosses } | \text{ first toss value}] = \mathbb{E}[Y|] + \mathbb{E}[Y|X\neq 6] = \\
+&\frac{1}{6} \cdot 1 + \frac{5}{6} \cdot \mathbb{E}(G) = \frac{1}{6}+ \frac{5}{6}  \cdot \frac{1}{\frac{1}{6}} =  \frac{1}{6} + \frac{5}{6}  \cdot  6\\
+&= \frac{1}{6} +5= 5 \tfrac{1}{6}
 
 \end{align}
 $$
