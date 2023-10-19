@@ -151,6 +151,10 @@ After N days (working or non-working) the Random Restaurant will permanently clo
 
 $$
 \begin{align}
-\mathbb{E}[X_{1}] =  
+&X \text{ - number of clients a day} \\
+&X \sim Poisson(\mu)  \\
+&f(X=k) = {\displaystyle {\frac {\lambda ^{k}e^{-\lambda }}{k!}}} \\
+&M_{X(t)} = E(e^{tX}) = \sum_{x}e^{tX}f_{X}(x) = \sum_{x=0}^{\infty} \left(    e^{tX}{\frac {\lambda ^{x}e^{-\lambda }}{x!}}\right)= \\
+=&  
 \end{align}
 $$

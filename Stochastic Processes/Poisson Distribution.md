@@ -1,3 +1,10 @@
+## Definition
+$$
+f(X=k) = {\displaystyle {\frac {\lambda ^{k}e^{-\lambda }}{k!}}} 
+$$
+For $k$ occurrences where $\lambda$ - mean occurrences . 
+
+
 ### No occurrences in an interval:
 $$
 \begin{align}

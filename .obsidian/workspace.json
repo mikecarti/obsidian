@@ -32,6 +32,38 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4dcdcfbf5ebfec27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "diary/2023-10-14 Homework SP1.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "96f4656502c4545b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d62c3e66e7700e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Processes/Moment Generating Function.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -192,9 +224,13 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
-    "Stochastic Processes/Classwork.md",
+    "Stochastic Processes/Poisson Distribution.md",
     "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/Moment Generating Function.md",
+    "Probability Density Function (PDF).md",
+    "Probability.md",
+    "photos/Pasted image 20231019180826.png",
+    "Stochastic Processes/Classwork.md",
     "Transfer Learning.md",
     "Deep Learning/Neural Network.md",
     "photos/Pasted image 20231019135924.png",
@@ -220,14 +256,10 @@
     "Machine Learning/AUC ROC.md",
     "photos/Pasted image 20231017140944.png",
     "photos/Pasted image 20231017135403.png",
-    "photos/Pasted image 20231017134700.png",
     "Machine Learning/Binary Classification.md",
     "Machine Learning/Regularization.md",
     "Stochastic Processes/Markov chain.md",
     "Stochastic Processes/Finite closed classes are recurrent.md",
-    "photos/2023-10-14 2023-10-15 00.36.34.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-14 23.39.14.excalidraw.md",
-    "Machine Learning/Metrics and Loss Functions.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
