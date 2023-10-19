@@ -231,8 +231,16 @@ $$
 (a)
 $$
 \begin{align}
-&\sigma(X) = \{ \emptyset, \Omega, \{ -1 \}, \{ 0 \}, \{ 1 \}, \{ -1,0 \}, \{ -1,1 \}, \dots, \{ -1, 0, 1 \} \} \\
-&\sigma(Y) = \{ \emptyset, \Omega, \{ 0 \}, \{ 1 \}, \{ 0,1 \} \} \\
-&\sigma(X \cdot Y) = 
+&\sigma(X) = \{ \emptyset, \Omega, \{ -1 \}, \{ 0 \}, \{ 1 \}, \{ -1,0 \}, \{ -1,1 \}, \{ 0, 1 \} \}  \\
+ &\Omega_{X} = \{ -1, 0, 1 \}\\
+&\sigma(Y) = \{ \emptyset, \{ 0 \}, \{ 1 \}, \Omega \} \\
+&\sigma(X \cdot Y) = \{ \emptyset, \Omega, \{ -1 \}, \{ 0 \}, \{ 1 \}, \{ -1,0 \}, \{ -1,1 \}, \{ 0, 1 \} \} \\
+&X \cdot Y \in \{ 0,1,-1 \}
+\end{align}
+$$
+(b)
+$$
+\begin{align}
+\sigma(X,Y) 
 \end{align}
 $$
