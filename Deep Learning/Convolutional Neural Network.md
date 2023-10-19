@@ -1,5 +1,9 @@
 
 # History
+
+![[Pasted image 20231019133907.png]]
+
+
 ## LeNet (1998)
 ![[Pasted image 20231012135819.png]]
 
@@ -34,6 +38,7 @@ Sub-Sampling - [[Pooling Layers#Max Pooling]]
 
 - Number of channels decrease before heavy convolutions
 - Several output layers for better trainability. 
+- ImageNet error 6.67
 
 ![[Pasted image 20231012141837.png]]
 
@@ -43,5 +48,28 @@ $$
 new_{pixel} = <old_{pixel}, filter_{array}>
 $$
 
+### ResNet (2015) Deep Residual Learning for Image Recognition
+
+#### Idea:
+![[Pasted image 20231019134145.png| 450]]
+- More layers makes worse training errors
+- Although there is more possibility to over-train, but NN cant use it for some reason
+
+#### Residual Connection
+![[Pasted image 20231019134310.png]]
+
+![[Pasted image 20231019134744.png]]
+
+#### Results
+- Low error on small layer size
+- [[Gradient Descent with Momentum]], random weight initialization
+- 4.49% Image Net
+
+
+### Xception
+
+![[Pasted image 20231019135148.png]]
+
+- Разделение свертки по пространству и по каналам
 ## Related
 [[Image Generation with AI]]
