@@ -143,7 +143,7 @@ $$
 
 
 # N2
-Each day the Random Restaurant is independently closed with probability p. If the restaurant is open then the number of clients has Poisson distribution with mean µ.
+Each day the Random Restaurant is independently closed with probability p. If the restaurant is open then the number of clients has Poisson distribution with mean µ = $\lambda$.
 
 After N days (working or non-working) the Random Restaurant will permanently close, N is random and has Poisson distribution with mean n.
 
@@ -157,7 +157,17 @@ $$
 &M_{X}(t) = p \cdot E(e^{tX}) = p \cdot \sum_{x}e^{tx}f_{X}(x) = p \cdot \sum_{x=0}^{\infty} \left(    e^{tx}{\frac {\lambda ^{x}e^{-\lambda }}{x!}}\right)= \\
 =& p \cdot e^{-\lambda} \sum_{x=0}^{\infty} \left({\frac {e^{tx}\lambda ^{x}}{x!}}\right) = p \cdot e^{-\lambda} \sum_{x=0}^{\infty} \left(\frac{(e^{t} \lambda)^{x}}{x!}\right) =  \\
 =& p \cdot e^{-\lambda} e^{e^{t}\lambda} = p \cdot e^{e^{t}\lambda-\lambda}= p \cdot e^{\lambda(e^{t}-1)} = \underbrace{ p \cdot \exp \left(   {\lambda(\exp(t)-1)} \right) }_{ MGF \text{ for N. of Clients Day 1} } \\
-&E[X] = 
+\end{align}
+$$
+
+$$
+\begin{align}
+&X \text{ - number of clients a day} \\
+&X \sim Poisson(\mu)  \\
+&f(X=k) = {\displaystyle {\frac {\lambda ^{k}e^{-\lambda }}{k!}}} \\
+&M_{pX}(t) = E(e^{tpX}) = \sum_{x}e^{tx}f_{X}(x) = \sum_{x=0}^{\infty} \left(    e^{tx}{\frac {\lambda ^{x}e^{-\lambda }}{x!}}\right)= \\
+=& e^{-\lambda} \sum_{x=0}^{\infty} \left({\frac {e^{tx}\lambda ^{x}}{x!}}\right) = e^{-\lambda} \sum_{x=0}^{\infty} \left(\frac{(e^{t} \lambda)^{x}}{x!}\right) =  \\
+=& e^{-\lambda} e^{e^{t}\lambda} = e^{e^{t}\lambda-\lambda}= e^{\lambda(e^{t}-1)} = \underbrace{ \exp \left(   {\lambda(\exp(t)-1)} \right) }_{ MGF \text{ for N. of Clients Day 1} } \\
 \end{align}
 $$
 
