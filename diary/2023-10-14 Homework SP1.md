@@ -199,13 +199,14 @@ $$
 
 Consider the Poisson arrival process $X_t$ with constant rate λ.
 Now let’s scale the time in a non-linear fashion, $Y_t = X_{t^{2}}$
+(a)
 Find $\mathbb{E}[Y], \mathbb{V}[Y], \mathbb{P}(Y=0)$
-$$
-\mathbb{E}[Y_{t}] = \mathbb{E}[X_{t^{2}}] 
-$$
+
 
 # N5
 Let’s toss a dice until the first six appears. Let X be the result of the first toss and Y — the total number of tosses.
+
+(a)
 Find E(X | Y)
 $$
 \begin{gather}
@@ -224,6 +225,7 @@ $$
 \end{align}
 $$
 
+(b)
 
 # N6
 ![[Pasted image 20231019231901.png]]
