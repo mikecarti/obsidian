@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transfer Learning.md",
+                "file": "diary/2023-10-14 Homework SP1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transfer Learning.md",
+                "file": "diary/2023-10-14 Homework SP1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transfer Learning.md",
+                "file": "diary/2023-10-14 Homework SP1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transfer Learning.md"
+                "file": "diary/2023-10-14 Homework SP1.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
-    "Deep Learning/Neural Network.md",
     "Transfer Learning.md",
+    "Deep Learning/Neural Network.md",
     "photos/Pasted image 20231019135924.png",
     "photos/Pasted image 20231019135921.png",
     "Deep Learning/Convolutional Neural Network.md",
