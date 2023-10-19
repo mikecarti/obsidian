@@ -149,7 +149,8 @@ g(u)&={ \frac{1\pm\sqrt{ 1-u^2 }}{u}} \\
 g(u)&=\frac{{1\pm(1-u^2)^{1/2}}}{u} \;\;\;\; \text{choosing}  \; - \\ 
 \text{by having   } t &= -u^2 \text{ and having this taylor expansion} \\
 &\text{we can transform this to binomial form} \\
-g(u)&=C^1_{0.5}u - C^2_{0.5}u^3 + C^3_{0.5}u^5 + \dots\\ 
+g(u)&=C^1_{0.5}u - C^2_{0.5}u^3 + C^3_{0.5}u^5 + \dots\\ \\
+ &\text{Example of binomials for rationals:} \\
 C^3_{5} = \frac{5!}{3!2!} &\equiv C^k_{\alpha}= \frac{\alpha(\alpha-1)\dots(\alpha-l+1)}{k!} \implies\\
 C^3_{0.5} &= \frac{{0.5 \cdot (0.5-1) \cdot (0.5-2)}}{3!} \\ \\
 

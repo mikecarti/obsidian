@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "151023e07880b309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Processes/Classwork.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md"
+                "file": "Stochastic Processes/Classwork.md"
               }
             }
           },
@@ -177,8 +191,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3bd20566e69b2aea",
+  "active": "151023e07880b309",
   "lastOpenFiles": [
+    "diary/2023-10-14 Homework SP1.md",
+    "Stochastic Processes/Classwork.md",
+    "Stochastic Processes/Moment Generating Function.md",
     "Transfer Learning.md",
     "Deep Learning/Neural Network.md",
     "photos/Pasted image 20231019135924.png",
@@ -194,9 +211,6 @@
     "Can Ln of MSE be simply transformed to MSE.md",
     "Git commands.md",
     "Linux commands.md",
-    "diary/2023-10-14 Homework SP1.md",
-    "Stochastic Processes/Moment Generating Function.md",
-    "Stochastic Processes/Classwork.md",
     "Stochastic Processes/First Step Analysis.md",
     "Docker.md",
     "Stochastic Processes/Infinite Markov Chains.md",

@@ -149,3 +149,8 @@ After N days (working or non-working) the Random Restaurant will permanently clo
 
 (a) Find the moment generating function of the number of clients during day 1, assuming N $\geq$ 1.
 
+$$
+\begin{align}
+\mathbb{E}[X_{1}] =  
+\end{align}
+$$
