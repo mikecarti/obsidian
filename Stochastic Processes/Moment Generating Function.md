@@ -2,8 +2,8 @@
 $$
 M_{X(t)} = E(e^{tX}) =
 \begin{cases}
-\sum\limits_{x}e^{tX}f_{X}(x) & \text{if X discrete} \\
-\int_{-\infty}^{\infty}e^{tX}  \, dx & \text{if X continuous}
+\sum\limits_{x}e^{tx}f_{X}(x) & \text{if X discrete} \\
+\int_{-\infty}^{\infty}e^{tx}  \, dx & \text{if X continuous}
 \end{cases}
 $$
 where $f$ - [[Probability Density Function (PDF)]]
