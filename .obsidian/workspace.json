@@ -65,14 +65,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Taylor Expansion.md",
+                "file": "Variance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Variance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md"
+                "file": "Variance.md"
               }
             }
           },
@@ -229,12 +230,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3bd20566e69b2aea",
+  "active": "8e6f3c4b7b1bb3fa",
   "lastOpenFiles": [
-    "Stochastic Processes/Classwork.md",
+    "Econometrics/Expected Value.md",
+    "Variance.md",
     "diary/2023-10-14 Homework SP1.md",
-    "Taylor Expansion.md",
     "Stochastic Processes/Moment Generating Function.md",
+    "Taylor Expansion.md",
+    "Stochastic Processes/Classwork.md",
     "Stochastic Processes/Poisson Distribution.md",
     "Probability Density Function (PDF).md",
     "Probability.md",
@@ -265,8 +268,6 @@
     "photos/Pasted image 20231017140944.png",
     "photos/Pasted image 20231017135403.png",
     "Machine Learning/Binary Classification.md",
-    "Machine Learning/Regularization.md",
-    "Stochastic Processes/Markov chain.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

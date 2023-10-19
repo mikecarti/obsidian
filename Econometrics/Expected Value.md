@@ -1,3 +1,13 @@
+# Definition
+## Discrete 
+$$
+\mathbb{E}[X] = \sum_{i=1}^{x}x_{i}p_{i}
+$$
+## Continuous
+$$
+\mathbb{E}[X] = \int _{-\infty} ^{+\infty} xf(x)\, dx 
+$$
+
 #### Conditional Expectation / Probability
 $$
 E[X |Y] = \frac{E[ X  \cdot  Y]}{E[Y]}

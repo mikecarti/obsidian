@@ -162,3 +162,20 @@ $$
 $$
 
 (b) Find the moment generating function of the total number of clients served in the Random Restaurant
+
+```python
+pass
+```
+
+
+# N3
+Find the probability limit $plim\; Xn$, where
+$$
+\begin{align}
+&X_{n} = \frac{{Y_{1}+2Y_{2}+\dots+nY_{n}}}{n^{2}} \\
+&Y_{k} \sim U(0,1) \\
+&\mathbb{E}[X_{n }] = \frac{E[Y_{1}] + 2E[Y_{2}] + \dots + nE[Y_{n}]}{n^{2}} =  \frac{E[Y](1 + 2 + \dots + n)}{n^{2}}  \\
+&= \frac{{0.5 \cdot {\frac{n(n+1)}{2}}}}{n^{2}} = \frac{{0.25(n+1)}}{n} = \frac{{n+1}}{4n} \\
+&\mathbb{Var}[X_{n}] 
+\end{align}
+$$
