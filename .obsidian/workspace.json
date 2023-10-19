@@ -71,14 +71,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
+                "file": "Stochastic Processes/Moment Generating Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,9 +238,9 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
-    "Taylor Expansion.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Poisson Distribution.md",
+    "Taylor Expansion.md",
     "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/Classwork.md",
     "Probability Density Function (PDF).md",
