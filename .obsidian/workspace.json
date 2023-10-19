@@ -6,6 +6,7 @@
       {
         "id": "10980aba37f8e8c1",
         "type": "tabs",
+        "dimension": 47.31903485254691,
         "children": [
           {
             "id": "3bd20566e69b2aea",
@@ -64,6 +65,7 @@
       {
         "id": "f2df324117a24946",
         "type": "tabs",
+        "dimension": 52.68096514745309,
         "children": [
           {
             "id": "8e6f3c4b7b1bb3fa",
@@ -238,8 +240,8 @@
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
     "Stochastic Processes/Poisson Distribution.md",
-    "Probability Limit.md",
     "diary/2023-10-14 Homework SP1.md",
+    "Probability Limit.md",
     "Variance.md",
     "Stochastic Processes/Classwork.md",
     "Stochastic Processes/Moment Generating Function.md",
