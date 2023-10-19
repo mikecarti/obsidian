@@ -166,7 +166,6 @@ $$
 $$
 \begin{align}
 X - \text{ number of clients served total} \\
-\mathbb{E}[X] = (p\lambda + )
 \end{align}
 
 $$
@@ -202,6 +201,6 @@ Consider the Poisson arrival process $X_t$ with constant rate λ.
 Now let’s scale the time in a non-linear fashion, $Y_t = X_{t^{2}}$
 Find $\mathbb{E}[Y], \mathbb{V}[Y], \mathbb{P}(Y=0)$
 $$
-\mathbb{E}[Y_{t}] = \mathbb{E}[X_{t^{2}}] = \lambda t^{2}
+\mathbb{E}[Y_{t}] = \mathbb{E}[X_{t^{2}}] 
 $$
 
