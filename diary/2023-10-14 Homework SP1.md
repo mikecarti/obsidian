@@ -173,9 +173,14 @@ Find the probability limit $plim\; Xn$, where
 $$
 \begin{align}
 &X_{n} = \frac{{Y_{1}+2Y_{2}+\dots+nY_{n}}}{n^{2}} \\
-&Y_{k} \sim U(0,1) \\
+&Y_{k} \sim U(0,1) \\ \\
+
 &\mathbb{E}[X_{n }] = \frac{E[Y_{1}] + 2E[Y_{2}] + \dots + nE[Y_{n}]}{n^{2}} =  \frac{E[Y](1 + 2 + \dots + n)}{n^{2}}  \\
 &= \frac{{0.5 \cdot {\frac{n(n+1)}{2}}}}{n^{2}} = \frac{{0.25(n+1)}}{n} = \frac{{n+1}}{4n} \\
-&\mathbb{Var}[X_{n}] 
+&\mathbb{Var}[X_{n}] = \text{using independence}= \frac{{var(Y_{1})+ \dots +var(nE[Y_{n}])}}{n^{4}} = \\
+&var(Y) = {\displaystyle {\tfrac {1}{12}}(b-a)^{2}} = \frac{1}{12} \\
+& = \frac{{\frac{1}{12} + 4 \cdot \frac{1}{12} + \dots + n^{2}  \cdot  \frac{1}{12}}}{n^{4}} = \frac{\frac{1}{12}(n(n+1)(2n+1))}{6n^{4}} \\
+ &= \frac{(n(n+1)(2n+1))}{72n^{4}} \\
+&\lim_{ n \to \infty } \mathbb{Var}[Y]
 \end{align}
 $$
