@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability Limit.md",
+                "file": "Stochastic Processes/Poisson Distribution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -237,14 +237,14 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
+    "Stochastic Processes/Poisson Distribution.md",
     "Probability Limit.md",
-    "Variance.md",
     "diary/2023-10-14 Homework SP1.md",
+    "Variance.md",
     "Stochastic Processes/Classwork.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Econometrics/Expected Value.md",
     "Taylor Expansion.md",
-    "Stochastic Processes/Poisson Distribution.md",
     "Probability Density Function (PDF).md",
     "Probability.md",
     "photos/Pasted image 20231019180826.png",

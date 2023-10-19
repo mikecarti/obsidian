@@ -181,6 +181,19 @@ $$
 &var(Y) = {\displaystyle {\tfrac {1}{12}}(b-a)^{2}} = \frac{1}{12} \\
 & = \frac{{\frac{1}{12} + 4 \cdot \frac{1}{12} + \dots + n^{2}  \cdot  \frac{1}{12}}}{n^{4}} = \frac{\frac{1}{12}(n(n+1)(2n+1))}{6n^{4}} \\
  &= \frac{(n(n+1)(2n+1))}{72n^{4}} \\
-&\lim_{ n \to \infty } \mathbb{Var}[Y]
+&\lim_{ n \to \infty } \mathbb{Var}[X_{n }] = \frac{n^{3}\dots}{n^{4}\dots} = 0  \\
+&\text{ then } \lim_{ n \to \infty } E[X_n] = plim[X_n] \\
+&\lim_{ n \to \infty } E[X_{n}] = \lim_{ n \to \infty } \frac{{n+1}}{4n} = \frac{1}{4} \\
+&\text{Answer: } \frac{1}{4}
+
 \end{align}
 $$
+# N4
+
+Consider the Poisson arrival process $X_t$ with constant rate λ.
+Now let’s scale the time in a non-linear fashion, $Y_t = X_{t^{2}}$
+Find $\mathbb{E}[Y], \mathbb{V}[Y], \mathbb{P}(Y=0)$
+$$
+\mathbb{E}[Y_{t}] = \mathbb{E}[X_{t^{2}}]
+$$
+
