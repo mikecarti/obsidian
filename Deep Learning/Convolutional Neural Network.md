@@ -6,6 +6,7 @@
 Sub-Sampling - [[Pooling Layers#Max Pooling]]
 - End-To-End idea
 - Augmentation
+- Convolution->Max Pooling loop
 
 ## ImageNet Dataset
 - Large Scale Visual Recognition Challenge
@@ -33,11 +34,14 @@ Sub-Sampling - [[Pooling Layers#Max Pooling]]
 
 - Number of channels decrease before heavy convolutions
 - Several output layers for better trainability. 
-![[Pasted image 20231012141801.png|100]]
 
 ![[Pasted image 20231012141837.png]]
 
-
+### Projection layer (1x1 convolutions)
+changes number of channels (RGB -> Black and White)
+$$
+new_{pixel} = <old_{pixel}, filter_{array}>
+$$
 
 ## Related
 [[Image Generation with AI]]

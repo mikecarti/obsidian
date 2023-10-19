@@ -13,33 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-10-18.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "550fbabb6730da9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25edf8bad279d219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Deep Learning/Convolutional Neural Network.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-18.md",
+                "file": "Deep Learning/Convolutional Neural Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-18.md",
+                "file": "Deep Learning/Convolutional Neural Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-18.md"
+                "file": "Deep Learning/Convolutional Neural Network.md"
               }
             }
           },
@@ -205,8 +179,8 @@
   },
   "active": "3bd20566e69b2aea",
   "lastOpenFiles": [
-    "Can Ln of MSE be simply transformed to MSE.md",
     "diary/2023-10-18.md",
+    "Can Ln of MSE be simply transformed to MSE.md",
     "Git commands.md",
     "Linux commands.md",
     "diary/2023-10-14 Homework SP1.md",
