@@ -475,6 +475,17 @@ N2
 $$
 \begin{align}
 \mathbb{E}(S|N) = \mathbb{E}(X_{1}+X_{2}+ \dots+X_{n}|N) = N \cdot \mathbb{E}(X_{1}) = \frac{N}{2} \\
-M_{S|N}(u) = \mathbb{E}(\exp(S \cdot u) | N) = m
+M_{S|N}(u) = \mathbb{E}(\exp(S \cdot u) | N) = \mathbb{E}(\exp(x_{1}u+x_{2}u+\dots+x_{n}u) |N)= \\
+\mathbb{E}(\exp(x_{1}u) \cdot \dots \cdot \exp(x_{n}u)|N) =  \\
+[\mathbb{E}(\exp(X_{1}u))]^{N} = \left[ \int _{0}^{1}\exp(xu) 1\, dx  \right] = \left[ \frac{\exp(xu)}{4}|^{x=1}_{x=0} \right] ^{N} = \dots
 \end{align}
 $$
+(b) N is not fixed
+$$
+\begin{align}
+M_{s}(u) = \mathbb{E}\left( \mathbb{E}(\exp(Su)|N) \right)=\dots \quad \text{ Power property: } \mathbb{E}(X) = \mathbb{E}(\mathbb{E}(X|Y))  \\
+\dots=P(N=1) \cdot \left( \frac{{\exp(u)-1}}{u} \right)^{1} P(N=2) \cdot \left( \frac{{\exp(u)-1}}{u} \right)^{2} + \dots = \\
+= \frac{7}{1} \cdot 0.3  \cdot  \alpha + \frac{7}{3} \cdot 0.3^{2} \cdot \alpha^{2}  + \dots = \frac{b_{1}}{1-q} = \frac{{\frac{7}{3} \cdot 0.3 \cdot \alpha}}{1-0.3\alpha} = \frac{{0.7}}{\frac{1}{\alpha} - 0.3} = \frac{{0.7}}{\frac{4}{\exp(u)-1} -0.3}
+\end{align}
+$$
+
