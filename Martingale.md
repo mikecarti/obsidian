@@ -60,8 +60,16 @@ $$
 Lets create a [[Martingale]] 
 $$
 \begin{align}
-Y_{n} = (X_{n}-100)^{2} - n  \\
-\mathbb{E}
+&Y_{n} = (X_{n}-100)^{2} - n  \\
+&\mathbb{E}(Y_{n+1}|\mathcal{F}_{n}) = \mathbb{E}\left( \left( X_{n+1}-100 \right)^{2} - (n+1) |\mathcal{F}_{n}\right) = \\
+&= \mathbb{E}\left( X_{n}^{2}+ 2X_{n}W_{n+1}+W_{n+1} - 2X_{n+1} \cdot 100-(n+1)+100^{2}|\mathcal{F}_{n} \right) = \\
+&= X_{n}^{2} + 2X_{n}\mathbb{E}(W_{n+1}|\mathcal{F}_{n})+\left( -2X_{n}  \cdot  100 - (n+1)+100^{2} \right) = \\
+&= \left( X_{n}-100 \right)^{2} - n = Y_{n} \\
+&\mathbb{E}\left( Y_{n+1}|\mathcal{F}_{n} \right) = Y_{n} \qquad \text{Yn is a martingale} \\
+&\text{Doob's theorem: }\mathbb{E}(Y_{\tau}) = Y_{0}= (X_{0}-100)^{2}= 0 \\
+&\mathbb{E}(Y_{\tau}) = 0 \\
+&\mathbb{E}(\tau) = \mathbb{E}\left( \left( X_{\tau}-100 \right) ^{2} \right)   = p\left( 220-100 \right) ^{2}+(1-p) \cdot (0-100)^{2} \\
+&\mathbb{E}(\tau)= \frac{110}{220} \cdot 110^{2}+\frac{120}{220} \cdot 100^{2} 
 \end{align}
 $$
 

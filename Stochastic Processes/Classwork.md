@@ -466,3 +466,15 @@ $$
 & \mathbb{E}(fine)_{\mathcal{F_{2}}} = 1 \cdot 0,5 + 5  \cdot  0.2 + 10  \cdot 0.3 = 0.5 + 1 + 3 = 4.5 \\ \\
 \end{align}
 $$
+
+### Lecture 20.10
+(exam)
+N2
+![[Pasted image 20231020175247.png]]
+(a) N is fixed. N is like a constant
+$$
+\begin{align}
+\mathbb{E}(S|N) = \mathbb{E}(X_{1}+X_{2}+ \dots+X_{n}|N) = N \cdot \mathbb{E}(X_{1}) = \frac{N}{2} \\
+M_{S|N}(u) = \mathbb{E}(\exp(S \cdot u) | N) = m
+\end{align}
+$$
