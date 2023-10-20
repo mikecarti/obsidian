@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Expected Value.md",
+                "file": "Stochastic Processes/Poisson Distribution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Stochastic Processes/Poisson Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Stochastic Processes/Poisson Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "Stochastic Processes/Poisson Distribution.md"
               }
             }
           },
@@ -230,20 +230,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4dcdcfbf5ebfec27",
+  "active": "71f8bf10121a2999",
   "lastOpenFiles": [
-    "Stochastic Processes/Sigma-Algebras.md",
-    "Stochastic Processes/Classwork.md",
-    "Stochastic Processes/Moment Generating Function.md",
     "diary/2023-10-14 Homework SP1.md",
+    "Stochastic Processes/Classwork.md",
+    "Stochastic Processes/Poisson Distribution.md",
+    "Econometrics/Expected Value.md",
+    "Stochastic Processes/Moment Generating Function.md",
+    "Stochastic Processes/Sigma-Algebras.md",
     "photos/2023-10-14 Homework SP1 2023-10-19 23.50.18.excalidraw.md",
     "photos/Pasted Image 20231019235048_527.png",
     "photos/2023-10-14 Homework SP1 2023-10-19 23.43.29.excalidraw.md",
     "photos/Pasted Image 20231019234336_982.png",
-    "Econometrics/Expected Value.md",
     "photos/Pasted image 20231019231901.png",
     "photos/Pasted image 20231019230119.png",
-    "Stochastic Processes/Poisson Distribution.md",
     "Taylor Expansion.md",
     "photos/Pasted image 20231019180826.png",
     "Probability Limit.md",

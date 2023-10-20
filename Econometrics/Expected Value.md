@@ -13,11 +13,6 @@ $$
 E[X |Y] = \frac{E[ X  \cdot  Y]}{E[Y]}
 $$
 
-#### Bayes Theorem
-$$
-E[X|Y] = \frac{{E[Y|X] \cdot E[X]}}{E[Y]}
-$$
-
 ## Independency -> Unpredictability -> Uncorrelatedness
 #### Independency
 $$
