@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Азимут.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Азимут.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "Азимут.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "Азимут.md"
               }
             }
           },
@@ -245,6 +245,10 @@
   },
   "active": "71f8bf10121a2999",
   "lastOpenFiles": [
+    "photos/Pasted image 20231020214959.png",
+    "photos/Pasted image 20231020214958.png",
+    "Stochastic Processes/Classwork.md",
+    "Азимут.md",
     "photos/Pasted image 20231020175247.png",
     "Martingale.md",
     "Doob's Theorem.md",
@@ -253,7 +257,6 @@
     "photos/Pasted image 20231020171332.png",
     "Stochastic Processes/Poisson Distribution.md",
     "diary/2023-10-14 Homework SP1.md",
-    "Stochastic Processes/Classwork.md",
     "Econometrics/Expected Value.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Sigma-Algebras.md",
@@ -271,8 +274,6 @@
     "Probability.md",
     "Transfer Learning.md",
     "Deep Learning/Neural Network.md",
-    "photos/Pasted image 20231019135924.png",
-    "photos/Pasted image 20231019135921.png",
     "Deep Learning/Convolutional Neural Network.md",
     "History of CNN.md",
     "diary/2023-10-18.md",
@@ -280,7 +281,6 @@
     "Git commands.md",
     "Linux commands.md",
     "Stochastic Processes/First Step Analysis.md",
-    "Docker.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
