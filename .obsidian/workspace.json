@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
+                "file": "Martingale.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
+                "file": "Martingale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
+                "file": "Martingale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md"
+                "file": "Martingale.md"
               }
             }
           },
@@ -232,9 +232,12 @@
   },
   "active": "71f8bf10121a2999",
   "lastOpenFiles": [
+    "photos/Pasted image 20231020171427.png",
+    "photos/Pasted image 20231020171332.png",
+    "Stochastic Processes/Poisson Distribution.md",
+    "Martingale.md",
     "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/Classwork.md",
-    "Stochastic Processes/Poisson Distribution.md",
     "Econometrics/Expected Value.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Sigma-Algebras.md",
@@ -258,7 +261,6 @@
     "History of CNN.md",
     "photos/Pasted image 20231019135148.png",
     "photos/Pasted image 20231019134744.png",
-    "photos/Pasted image 20231019134310.png",
     "diary/2023-10-18.md",
     "Can Ln of MSE be simply transformed to MSE.md",
     "Git commands.md",
@@ -266,7 +268,6 @@
     "Stochastic Processes/First Step Analysis.md",
     "Docker.md",
     "Stochastic Processes/Infinite Markov Chains.md",
-    "Machine Learning/Classwork.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
