@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People feel anxiety when they don't have explanations.md",
+                "file": "Reductionism.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People feel anxiety when they don't have explanations.md",
+                "file": "Reductionism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People feel anxiety when they don't have explanations.md",
+                "file": "Reductionism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People feel anxiety when they don't have explanations.md"
+                "file": "Reductionism.md"
               }
             }
           },
@@ -245,8 +245,9 @@
   },
   "active": "71f8bf10121a2999",
   "lastOpenFiles": [
-    "Git commands.md",
     "People feel anxiety when they don't have explanations.md",
+    "Reductionism.md",
+    "Git commands.md",
     "History of CNN.md",
     "Deep Learning/Convolutional Neural Network.md",
     "Азимут.md",
@@ -280,7 +281,6 @@
     "diary/2023-10-18.md",
     "Can Ln of MSE be simply transformed to MSE.md",
     "Linux commands.md",
-    "Stochastic Processes/First Step Analysis.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
