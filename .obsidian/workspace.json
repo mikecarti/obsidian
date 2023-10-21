@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git commands.md",
+                "file": "People feel anxiety when they don't have explanations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git commands.md",
+                "file": "People feel anxiety when they don't have explanations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git commands.md",
+                "file": "People feel anxiety when they don't have explanations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git commands.md"
+                "file": "People feel anxiety when they don't have explanations.md"
               }
             }
           },
@@ -245,6 +245,8 @@
   },
   "active": "71f8bf10121a2999",
   "lastOpenFiles": [
+    "Git commands.md",
+    "People feel anxiety when they don't have explanations.md",
     "History of CNN.md",
     "Deep Learning/Convolutional Neural Network.md",
     "Азимут.md",
@@ -277,7 +279,6 @@
     "Deep Learning/Neural Network.md",
     "diary/2023-10-18.md",
     "Can Ln of MSE be simply transformed to MSE.md",
-    "Git commands.md",
     "Linux commands.md",
     "Stochastic Processes/First Step Analysis.md",
     "Untitled 1.canvas",
