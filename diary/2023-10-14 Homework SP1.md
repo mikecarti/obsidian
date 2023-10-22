@@ -189,9 +189,10 @@ $$
 =& E\left[ e^{\lambda N(e^{t(1-p)}-1)} \right]  =  \\
 =& P(N=0) \cdot  \left(  M_{X}(t) \right)^{0N} + P(N=1) \cdot  \left(  M_{X}(t) \right)^{1N} + ... = \\
 =& e^{-n} \cdot  \left[ 1 + n \cdot \left(  M_{X}(t) \right)^{1} + \frac{n^{2}}{2!}\left(  M_{X}(t) \right)^{2} + \dots \right] = \\
-=& 
+=& e^{-n} \cdot e^{nM_{X}(t) } = e^{-n^{2}M_{X}(t)} = M_{Z}(t) = \exp \left(  -n^{2}\exp \left(  {\lambda(e^{t(1-p)}-1)} \right) \right)
 \end{align}
 $$
+
 
 
 
