@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
+                "file": "diary/2023-10-14 Homework SP1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
+                "file": "diary/2023-10-14 Homework SP1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md"
+                "file": "diary/2023-10-14 Homework SP1.md"
               }
             }
           },
@@ -191,8 +190,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "90732d4c53c429f1",
+  "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
+    "Stochastic Processes/Poisson Distribution.md",
     "diary/2023-10-14 Homework SP1.md",
     "Conditional Probabilty.md",
     "Conditional Expectation.md",
@@ -213,7 +213,6 @@
     "photos/Pasted image 20231020173635.png",
     "photos/Pasted image 20231020171427.png",
     "photos/Pasted image 20231020171332.png",
-    "Stochastic Processes/Poisson Distribution.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Sigma-Algebras.md",
     "photos/2023-10-14 Homework SP1 2023-10-19 23.50.18.excalidraw.md",

@@ -201,9 +201,20 @@ Consider the Poisson arrival process $X_t$ with constant rate λ.
 Now let’s scale the time in a non-linear fashion, $Y_t = X_{t^{2}}$
 (a)
 Find $\mathbb{E}[Y], \mathbb{V}[Y], \mathbb{P}(Y=0)$
+$$
+\begin{align}
+&E[Y_{t}] = E[X_{t^{2}}] = \lambda t^{2} \\
+&Var[Y_{t}] = Var[X_{t^{2}}] = \lambda t^{2} \\
+&P(Y=0) = P(X_{t^{2}}=0) = e^{-\lambda t^{2}}
+\end{align}
+$$
 
-
-
+(b) Find $E(Y_{t+5} | Y_t)$ and $Var(Y_{t+5} | Y_t)$.
+$$
+\begin{align}
+E(Y_{t+5}\mid Y_{t}) =  E(X_{(t+5)^{2}} | X_{t^{2}}) =E(X_{t^{2}+10t +25} | X_{t^{2}})
+\end{align}
+$$
 
 # N5
 Let’s toss a dice until the first six appears. Let X be the result of the first toss and Y — the total number of tosses.
