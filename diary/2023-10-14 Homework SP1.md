@@ -169,13 +169,15 @@ $$
 \begin{align}
 &X - \text{ number of clients served a day}  \\
 &Z  - \text{total number of clients in rest.}  \\
-
-&Z = (1-p)X  \cdot  E[N] = \\
+&B - \text{Restaraunt is open} ~ \\
+&Z = BX_{1} + \dots + BX_{N}\\
+&E[Z] = (1-p)X  \cdot  E[N] = (1-p)X  \cdot  n  =  \\
 &= P(\text{"rest. is open"}) \cdot  \text{"Number of clients a day"} \cdot  \text{"expected n. of days"} \\
  
 \end{align}
 
 $$
+
 
 
 
