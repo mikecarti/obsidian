@@ -203,6 +203,8 @@ Now let’s scale the time in a non-linear fashion, $Y_t = X_{t^{2}}$
 Find $\mathbb{E}[Y], \mathbb{V}[Y], \mathbb{P}(Y=0)$
 
 
+
+
 # N5
 Let’s toss a dice until the first six appears. Let X be the result of the first toss and Y — the total number of tosses.
 
@@ -224,6 +226,17 @@ $$
 $$
 
 (b) $Var(X | Y ), Var(Y | X)$
+$$
+\begin{align}
+&Var(X\mid Y) = E[(X\mid Y)^{2}] - E[X\mid Y]^{2} \\
+&E[(X\mid Y)^{2}] = E[X^{2}\mid Y] = 36 \cdot [Y=1] + 9  \cdot [Y\neq 1]  \\
+&Var(X\mid Y) =  E[X^{2}\mid Y] =\cancel{  36 \cdot [Y=1] } + \cancel{ 9  \cdot [Y\neq 1] } - \cancel{ 36[Y=1] } - \\
+&\cancelto{ 0 }{ 36[Y=1][Y\neq 1] } - \cancel{ 9[Y\neq 1] } = 0 \\ \\
+
+&Var(Y\mid X) = E[Y^{2}\mid X] - E[Y\mid X]^{2} = [X=6] + 36 \cdot [X\neq 6] - [X= 6] - \\
+&- 2 \cdot 6[X=6][X\neq 6] - 36[X\neq 6] = 0
+\end{align}
+$$
 
 
 # N6

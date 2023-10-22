@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90732d4c53c429f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Processes/Poisson Distribution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Stochastic Processes/Poisson Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Stochastic Processes/Poisson Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md"
+                "file": "Stochastic Processes/Poisson Distribution.md"
               }
             }
           },
@@ -177,11 +191,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ee44c46eeb1bc5d9",
+  "active": "90732d4c53c429f1",
   "lastOpenFiles": [
+    "diary/2023-10-14 Homework SP1.md",
     "Conditional Probabilty.md",
     "Conditional Expectation.md",
-    "diary/2023-10-14 Homework SP1.md",
     "Econometrics/Expected Value.md",
     "Levels of Statistical Dependence.md",
     "Reductionism.md",
