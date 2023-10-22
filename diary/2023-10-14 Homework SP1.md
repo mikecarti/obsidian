@@ -210,8 +210,9 @@ Let’s toss a dice until the first six appears. Let X be the result of the firs
 Find E(X | Y)
 $$
 \begin{gather}
-\mathbb{E}[X|Y] = \mathbb{E}[\text{first toss } | \text{ n tosses}]  \\
-= 
+\mathbb{E}[X|Y] = \mathbb{E}[\text{first toss } | \text{ n tosses}] = \\
+= 1  \cdot  P(X=1\mid Y) + 2  \cdot  P(X=2\mid Y) + 3P(X=3\mid Y)+ \dots + 6P(X=6\mid Y) = \\
+1  \cdot  \frac{{P(Y|X=1) \cdot P(X=1)}}{P(YT)}
 \end{gather}
 $$
 Find E(Y|X)
