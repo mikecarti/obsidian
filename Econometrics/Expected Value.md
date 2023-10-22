@@ -8,9 +8,9 @@ $$
 \mathbb{E}[X] = \int _{-\infty} ^{+\infty} xf(x)\, dx 
 $$
 
-#### Conditional Expectation / Probability
+## Conditional Expectation / Probability
 $$
-E[X |Y] = \frac{E[ X  \cdot  Y]}{E[Y]}
+
 $$
 
 ## Independency -> Unpredictability -> Uncorrelatedness
