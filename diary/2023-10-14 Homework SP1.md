@@ -184,8 +184,12 @@ $$
 &Z - \text{number of clients total} \\
 &M_{Z | N}(t) = E[e^{Zt}\mid N] = E\left[  \exp \left(  (1-p)t(X_{1}+ \dots+X_{N}) \right)\mid N \right] =  \\
 & E(\exp(tx_{1}(1-p))\mid N) + \dots + E(\exp(tx_{N}(1-p))\mid N) = \\
-&= M_{Z | N}(t) = E(\exp ((1-p)Xt))^{N}  \\
-&M_{Z}(t) = E[e^{Zt}] = E[E[e^{Zt}\mid N]\,] = E[]
+&= M_{Z | N}(t) = \left(  E(\exp ((1-p)Xt) \right)^N = \left(  M_{X}(t) \right)^{N}=e^{\lambda N(e^{t(1-p)}-1)}\\
+&M_{Z}(t) = E[e^{Zt}] = E[E[e^{Zt}\mid N]\,] = E\left[ M_{Z\mid N}(t) \right] =  \\
+=& E\left[ e^{\lambda N(e^{t(1-p)}-1)} \right]  =  \\
+=& P(N=0) \cdot  \left(  M_{X}(t) \right)^{0N} + P(N=1) \cdot  \left(  M_{X}(t) \right)^{1N} + ... = \\
+=& e^{-n} \cdot  \left[ 1 + n \cdot \left(  M_{X}(t) \right)^{1} + \frac{n^{2}}{2!}\left(  M_{X}(t) \right)^{2} + \dots \right] = \\
+=& 
 \end{align}
 $$
 
