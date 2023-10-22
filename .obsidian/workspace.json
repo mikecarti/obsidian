@@ -177,44 +177,6 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "floating": {
-    "id": "8bae3da07489c999",
-    "type": "floating",
-    "children": [
-      {
-        "id": "38c391816e2e1345",
-        "type": "window",
-        "children": [
-          {
-            "id": "904677744d587c56",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3cc1af2c63684569",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Conditional Probabilty.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 796,
-        "y": 102,
-        "width": 607,
-        "height": 656,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
     "Conditional Probabilty.md",
