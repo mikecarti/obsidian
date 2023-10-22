@@ -173,10 +173,18 @@ $$
 &Z = B_{1}X_{1} + \dots + B_{N}X_{N}\\
 &E[Z] = (1-p)X  \cdot  E[N] = (1-p)X  \cdot  n  =  \\
 &= P(\text{"rest. is open"}) \cdot  \text{"Number of clients a day"} \cdot  \text{"expected n. of days"}  \\
-&M_{Z}(t) = E(e^{tZ}) = \sum_{z}e^{tz}f_{Z}(z) =  \\
-&P(B_{1}X_{1} + \dots + B_{N}X_{N} = k) = \sum_{i}^{}
+&M_{Z}(t) = M_{X}(t)
 \end{align}
 
+$$
+
+$$
+\begin{align}
+&X - \text{ number of clients served a day} \sim Pois(\mu)  \\
+&Z - \text{number of clients total} \\
+&M_{Z | N}(t) = E[e^{Zt}] = E(\exp(t(X_{1}+ \dots+X_{N}))\mid N) =  \\
+& E(\exp(x_{1}t)\mid N) + \dots + E(\exp(tx_{N})\mid N) = E(\exp (Xt))^{N}
+\end{align}
 $$
 
 

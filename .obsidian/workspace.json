@@ -21,25 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "eb24510a49b8dcf7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "00caf74175f0d69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes/Moment Generating Function.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
