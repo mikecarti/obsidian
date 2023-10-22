@@ -21,25 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5484665418047442",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "90732d4c53c429f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes/Poisson Distribution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +180,8 @@
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
     "Stochastic Processes/Poisson Distribution.md",
-    "Conditional Expectation.md",
     "diary/2023-10-14 Homework SP1.md",
+    "Conditional Expectation.md",
     "Conditional Probabilty.md",
     "Econometrics/Expected Value.md",
     "Levels of Statistical Dependence.md",

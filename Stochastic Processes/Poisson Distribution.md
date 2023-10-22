@@ -4,10 +4,10 @@ f(X=k) = {\displaystyle {\frac {\lambda ^{k}e^{-\lambda }}{k!}}}
 $$
 For $k$ occurrences where $\lambda$ - mean occurrences . 
 
-## Expected value
+## Expected value & Variance
 
 $$
-E[X_{t}]=\lambda t
+E[X_{t}] = Var[X_{t}]=\lambda t
 $$
 $$
 P[X(t+s)−X(s)=n]=P[P_{0}(λt)=n]=\frac{e^{-\lambda t}{(\lambda t)^{n}}}{n!}

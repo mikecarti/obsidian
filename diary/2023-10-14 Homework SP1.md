@@ -154,11 +154,11 @@ $$
 &X \text{ - number of clients a day} \\
 &X \sim Poisson(\mu)  \\
 &f(X=k) = {\displaystyle {\frac {\lambda ^{k}e^{-\lambda }}{k!}}} \\
-&M_{pX}(t) = E(e^{tpX}) = \sum_{x}e^{tpx}f_{X}(x) = \sum_{x=0}^{\infty} \left(    e^{tpx}{\frac {\lambda ^{x}e^{-\lambda }}{x!}}\right)= \\
-=& e^{-\lambda} \sum_{x=0}^{\infty} \left({\frac {e^{tpx}\lambda ^{x}}{x!}}\right) = e^{-\lambda} \sum_{x=0}^{\infty} \left(\frac{(e^{tp} \lambda)^{x}}{x!}\right) =  \\
-=& e^{-\lambda} e^{e^{tp}\lambda} = e^{e^{tp}\lambda-\lambda}= e^{\lambda(e^{tp}-1)} = \underbrace{ \exp \left(   {\lambda(\exp(tp)-1)} \right) }_{ MGF \text{ for N. of Clients Day 1} } \\ \\
+&M_{pX}(t) = E(e^{tpX}) = \sum_{x}e^{tpx}f_{X}(x) = \sum_{x=0}^{\infty} \left(    e^{t(1-p)x}{\frac {\lambda ^{x}e^{-\lambda }}{x!}}\right)= \\
+=& e^{-\lambda} \sum_{x=0}^{\infty} \left({\frac {e^{t(1-p)x}\lambda ^{x}}{x!}}\right) = e^{-\lambda} \sum_{x=0}^{\infty} \left(\frac{(e^{t(1-p)} \lambda)^{x}}{x!}\right) =  \\
+=& e^{-\lambda} e^{e^{t(1-p)}\lambda} = e^{e^{t(1-p)}\lambda-\lambda}= e^{\lambda(e^{t(1-p)}-1)} = \underbrace{ \exp \left(   {\lambda(\exp(t(1-p))-1)} \right) }_{ MGF \text{ for N. of Clients Day 1} } \\ \\
 
-&\mathbb{E}[X] = \frac{dM_{pX}(t)}{dt} = p\lambda \exp(0)= p\lambda \text{ - correct} 
+&\mathbb{E}[X] = \frac{dM_{pX}(t)}{dt} = (1-p)\lambda \exp(0)= (1-p)\lambda \text{ - correct} 
 \end{align}
 $$
 
@@ -170,9 +170,6 @@ X - \text{ number of clients served total} \\
 
 $$
 
-```python
-pass
-```
 
 
 # N3
@@ -215,9 +212,11 @@ $$
 &E(Y_{t+5}\mid Y_{t}) =  E(X_{(t+5)^{2}} | X_{t^{2}}) =E(X_{t^{2}+10t +25} | X_{t^{2}}) = \\
 = & X_{t^{2}} + E(X_{10t + 25}) = X_{t^{2}} + \lambda(10t+25) \\ \\
 &Var(Y_{t+5} \mid Y_{t}) =  E(X^{2}_{(t+5)^{2}} | X_{t^{2}}) -  E(X_{(t+5)^{2}} | X_{t^{2}})^{2} = \\
-=& E(X_{(t+5)^{4}} | X_{t^{2}}) -  E(X_{(t+5)^{2}} | X_{t^{2}})^{2}
+=& E(X_{(t+5)^{4}} | X_{t^{2}}) -  E(X_{(t+5)^{2}} | X_{t^{2}})^{2} = E(X_{625 + 500 t + 150 t^2 + 20 t^3 + t^4}|X_{t^{2}}) - \\
+&( X_{t^{2}} + \lambda(10t+25))^{2} = X_{t^{2}} + \lambda((t+5)^{2}-t^{2}) - ( X_{t^{2}} + \lambda(10t+25))^{2}
 \end{align}
 $$
+
 
 # N5
 Let’s toss a dice until the first six appears. Let X be the result of the first toss and Y — the total number of tosses.
