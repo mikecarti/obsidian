@@ -182,8 +182,10 @@ $$
 \begin{align}
 &X - \text{ number of clients served a day} \sim Pois(\mu)  \\
 &Z - \text{number of clients total} \\
-&M_{Z | N}(t) = E[e^{Zt}] = E(\exp(t(X_{1}+ \dots+X_{N}))\mid N) =  \\
-& E(\exp(x_{1}t)\mid N) + \dots + E(\exp(tx_{N})\mid N) = E(\exp (Xt))^{N}
+&M_{Z | N}(t) = E[e^{Zt}\mid N] = E\left[  \exp \left(  (1-p)t(X_{1}+ \dots+X_{N}) \right)\mid N \right] =  \\
+& E(\exp(tx_{1}(1-p))\mid N) + \dots + E(\exp(tx_{N}(1-p))\mid N) = \\
+&= M_{Z | N}(t) = E(\exp ((1-p)Xt))^{N}  \\
+&M_{Z}(t) = E[e^{Zt}] = E[E[e^{Zt}\mid N]\,] = E[]
 \end{align}
 $$
 
