@@ -209,18 +209,16 @@ Let’s toss a dice until the first six appears. Let X be the result of the firs
 (a)
 Find E(X | Y)
 $$
-\begin{gather}
-\mathbb{E}[X|Y] = \mathbb{E}[\text{first toss } | \text{ n tosses}] = \\
-= 1  \cdot  P(X=1\mid Y) + 2  \cdot  P(X=2\mid Y) + 3P(X=3\mid Y)+ \dots + 6P(X=6\mid Y) = \\
-1  \cdot  \frac{{P(Y|X=1) \cdot P(X=1)}}{P(YT)}
-\end{gather}
+\begin{align}
+&\mathbb{E}[X|Y] = \mathbb{E}[\text{first toss } | \text{ n tosses}] = \\
+&= 6 \cdot [Y=1] + \frac{{1+\dots+5}}{5} \cdot [Y\neq 1] = 6 \cdot [Y=1] + 3 \cdot [Y\neq 1]
+
+\end{align}
 $$
 Find E(Y|X)
 $$
 \begin{align}
-&\mathbb{E}[Y|X] = \mathbb{E}[\text{n tosses } | \text{ first toss value}] = \mathbb{E}[Y|X=6] + \mathbb{E}[Y|X\neq 6] = \\
-&\frac{1}{6} \cdot 6 + \frac{5}{6} \cdot \mathbb{E}(G) = 1+\frac{5}{6}  \cdot \frac{1}{\frac{1}{6}} = 1 + \frac{5}{\cancel{ 6 }} \cdot \cancel{ 6 } =6
-
+&\mathbb{E}[Y|X] = \mathbb{E}[\text{n tosses } | \text{ first toss value}] = 1  \cdot  [X=6] + \dots (hard)
 \end{align}
 $$
 
