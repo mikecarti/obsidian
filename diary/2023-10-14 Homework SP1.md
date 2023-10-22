@@ -167,13 +167,14 @@ $$
 (b) Find the moment generating function of the total number of clients served in the Random Restaurant
 $$
 \begin{align}
-&X - \text{ number of clients served a day}  \\
+&X - \text{ number of clients served a day} \sim Pois(\mu) \\
 &Z  - \text{total number of clients in rest.}  \\
-&B - \text{Restaraunt is open} ~ \\
-&Z = BX_{1} + \dots + BX_{N}\\
+&B - \text{Restaraunt is open} \sim Bernoulli(1-p) \\
+&Z = B_{1}X_{1} + \dots + B_{N}X_{N}\\
 &E[Z] = (1-p)X  \cdot  E[N] = (1-p)X  \cdot  n  =  \\
-&= P(\text{"rest. is open"}) \cdot  \text{"Number of clients a day"} \cdot  \text{"expected n. of days"} \\
- 
+&= P(\text{"rest. is open"}) \cdot  \text{"Number of clients a day"} \cdot  \text{"expected n. of days"}  \\
+&M_{Z}(t) = E(e^{tZ}) = \sum_{z}e^{tz}f_{Z}(z) =  \\
+&P(B_{1}X_{1} + \dots + B_{N}X_{N} = k) = \sum_{i}^{}
 \end{align}
 
 $$
