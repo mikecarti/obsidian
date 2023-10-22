@@ -152,9 +152,11 @@ After N days (working or non-working) the Random Restaurant will permanently clo
 $$
 \begin{align}
 &X \text{ - number of clients a day} \\
-&X \sim Poisson(\mu)  \\
+&X \sim Poisson(\mu)   \\
+&\mu = \lambda  \\
+
 &f(X=k) = {\displaystyle {\frac {\lambda ^{k}e^{-\lambda }}{k!}}} \\
-&M_{pX}(t) = E(e^{tpX}) = \sum_{x}e^{tpx}f_{X}(x) = \sum_{x=0}^{\infty} \left(    e^{t(1-p)x}{\frac {\lambda ^{x}e^{-\lambda }}{x!}}\right)= \\
+&M_{pX}(t) = E(e^{(1-p)tX}) = \sum_{x}e^{t(1-p)x}f_{X}(x) = \sum_{x=0}^{\infty} \left(    e^{t(1-p)x}{\frac {\lambda ^{x}e^{-\lambda }}{x!}}\right)= \\
 =& e^{-\lambda} \sum_{x=0}^{\infty} \left({\frac {e^{t(1-p)x}\lambda ^{x}}{x!}}\right) = e^{-\lambda} \sum_{x=0}^{\infty} \left(\frac{(e^{t(1-p)} \lambda)^{x}}{x!}\right) =  \\
 =& e^{-\lambda} e^{e^{t(1-p)}\lambda} = e^{e^{t(1-p)}\lambda-\lambda}= e^{\lambda(e^{t(1-p)}-1)} = \underbrace{ \exp \left(   {\lambda(\exp(t(1-p))-1)} \right) }_{ MGF \text{ for N. of Clients Day 1} } \\ \\
 
@@ -165,7 +167,12 @@ $$
 (b) Find the moment generating function of the total number of clients served in the Random Restaurant
 $$
 \begin{align}
-X - \text{ number of clients served total} \\
+&X - \text{ number of clients served a day}  \\
+&Z  - \text{total number of clients in rest.}  \\
+
+&Z = (1-p)X  \cdot  E[N] = \\
+&= P(\text{"rest. is open"}) \cdot  \text{"Number of clients a day"} \cdot  \text{"expected n. of days"} \\
+ 
 \end{align}
 
 $$
