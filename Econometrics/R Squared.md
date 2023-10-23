@@ -21,8 +21,9 @@ $$
 ### TSS, ESS and RSS
 $$
 \begin{align}
-TSS = \sum(y_{i}-\bar{y})^2 = \sum(\hat{y}_{i}-\bar{\hat{y}})^2+\sum e_{i}^2 \\
-ESS
+&TSS = \sum(y_{i}-\bar{y})^2 = \sum(\hat{y}_{i}-\bar{\hat{y}})^2+\sum e_{i}^2 \\
+&ESS = \sum(\hat{y}_{i}-\bar{\hat{y}})^2 \\
+&RSS = \sum e_{i}^2 = \sum(y_{i} - \hat{y}_{i})^{2}
 \end{align}
 $$$$
 \begin{align}
