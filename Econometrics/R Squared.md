@@ -20,7 +20,10 @@ $$
 
 ### TSS, ESS and RSS
 $$
-TSS = \sum(y_{i}-\bar{y})^2 = \sum(\hat{y}_{i}-\bar{\hat{y}})^2+\sum e_{i}^2
+\begin{align}
+TSS = \sum(y_{i}-\bar{y})^2 = \sum(\hat{y}_{i}-\bar{\hat{y}})^2+\sum e_{i}^2 \\
+ESS
+\end{align}
 $$$$
 \begin{align}
 TSS = ESS + RSS  
