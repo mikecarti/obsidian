@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/R^2.md",
+                "file": "Econometrics/F-Test for Linear Restrictions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/R^2.md",
+                "file": "Econometrics/F-Test for Linear Restrictions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/R^2.md",
+                "file": "Econometrics/F-Test for Linear Restrictions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/R^2.md"
+                "file": "Econometrics/F-Test for Linear Restrictions.md"
               }
             }
           },
@@ -179,14 +178,20 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
-    "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
+    "Econometrics/Fischer Distribution.md",
+    "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
+    "Econometrics/Classwork.md",
     "Econometrics/Adjusted R^2.md",
+    "Econometrics/F Statistic.md",
+    "Econometrics/F-Test for Linear Restrictions.md",
+    "Econometrics/Expected Value.md",
+    "Machine Learning/R^2.md",
+    "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Poisson Distribution.md",
     "Conditional Expectation.md",
     "Conditional Probabilty.md",
-    "Econometrics/Expected Value.md",
     "Levels of Statistical Dependence.md",
     "Reductionism.md",
     "People feel anxiety when they don't have explanations.md",
@@ -206,15 +211,9 @@
     "Stochastic Processes/Sigma-Algebras.md",
     "photos/2023-10-14 Homework SP1 2023-10-19 23.50.18.excalidraw.md",
     "photos/Pasted Image 20231019235048_527.png",
-    "photos/2023-10-14 Homework SP1 2023-10-19 23.43.29.excalidraw.md",
     "photos/Pasted Image 20231019234336_982.png",
     "photos/Pasted image 20231019231901.png",
     "photos/Pasted image 20231019230119.png",
-    "Taylor Expansion.md",
-    "Probability Limit.md",
-    "Variance.md",
-    "Probability Density Function (PDF).md",
-    "Probability.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
