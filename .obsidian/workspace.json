@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/F-Test for Linear Restrictions.md",
+                "file": "Econometrics/R Squared.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/F-Test for Linear Restrictions.md",
+                "file": "Econometrics/R Squared.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/F-Test for Linear Restrictions.md",
+                "file": "Econometrics/R Squared.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/F-Test for Linear Restrictions.md"
+                "file": "Econometrics/R Squared.md"
               }
             }
           },
@@ -178,12 +178,12 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
+    "Econometrics/F-Test for Linear Restrictions.md",
     "Econometrics/Fischer Distribution.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Econometrics/Classwork.md",
     "Econometrics/Adjusted R^2.md",
     "Econometrics/F Statistic.md",
-    "Econometrics/F-Test for Linear Restrictions.md",
     "Econometrics/Expected Value.md",
     "Machine Learning/R^2.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
