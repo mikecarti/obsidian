@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md",
+                "file": "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-14 Homework SP1.md"
+                "file": "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
-    "Stochastic Processes/Moment Generating Function.md",
+    "Econometrics/Adjusted R^2.md",
     "diary/2023-10-14 Homework SP1.md",
+    "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Poisson Distribution.md",
     "Conditional Expectation.md",
     "Conditional Probabilty.md",
@@ -214,7 +215,6 @@
     "Probability Density Function (PDF).md",
     "Probability.md",
     "Transfer Learning.md",
-    "Deep Learning/Neural Network.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
