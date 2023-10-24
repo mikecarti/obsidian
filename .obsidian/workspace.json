@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/R Squared.md",
+                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/R Squared.md",
+                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/R Squared.md",
+                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/R Squared.md"
+                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md"
               }
             }
           },
@@ -178,12 +179,13 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
-    "Econometrics/F-Test for Linear Restrictions.md",
+    "Econometrics/F Statistic.md",
     "Econometrics/Fischer Distribution.md",
+    "Econometrics/R Squared.md",
+    "Econometrics/F-Test for Linear Restrictions.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Econometrics/Classwork.md",
     "Econometrics/Adjusted R^2.md",
-    "Econometrics/F Statistic.md",
     "Econometrics/Expected Value.md",
     "Machine Learning/R^2.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
@@ -209,7 +211,6 @@
     "photos/Pasted image 20231020171427.png",
     "photos/Pasted image 20231020171332.png",
     "Stochastic Processes/Sigma-Algebras.md",
-    "photos/2023-10-14 Homework SP1 2023-10-19 23.50.18.excalidraw.md",
     "photos/Pasted Image 20231019235048_527.png",
     "photos/Pasted Image 20231019234336_982.png",
     "photos/Pasted image 20231019231901.png",
