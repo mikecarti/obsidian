@@ -20,6 +20,11 @@ cd -
 docker system prune -a
 ```
 
+#show #graphics #card #gpu
+```
+lspci
+sudo lshw -C display
+```
 # [[Git commands]]
 
 # [[Virtual Environment]]

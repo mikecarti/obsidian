@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
+                "file": "Linux commands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
+                "file": "Linux commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
+                "file": "Linux commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md"
+                "file": "Linux commands.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
+    "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Econometrics/F Statistic.md",
     "Econometrics/Fischer Distribution.md",
@@ -188,7 +189,6 @@
     "Econometrics/Adjusted R^2.md",
     "Econometrics/Expected Value.md",
     "Machine Learning/R^2.md",
-    "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "diary/2023-10-14 Homework SP1.md",
     "Stochastic Processes/Moment Generating Function.md",
     "Stochastic Processes/Poisson Distribution.md",
