@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
+                "file": "Matrix Transpose.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
+                "file": "Matrix Transpose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
+                "file": "Matrix Transpose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md"
+                "file": "Matrix Transpose.md"
               }
             }
           },
@@ -179,9 +179,13 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
+    "Eigenvector.md",
+    "Matrix Transpose.md",
+    "Machine Learning/Matrix.md",
+    "Transposing.md",
+    "Machine Learning/Matrix Differentiation.md",
     "Jacobian Matrix.md",
     "Dot Product.md",
-    "Machine Learning/Matrix Differentiation.md",
     "Linux commands.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
@@ -201,10 +205,6 @@
     "Levels of Statistical Dependence.md",
     "Reductionism.md",
     "People feel anxiety when they don't have explanations.md",
-    "Git commands.md",
-    "History of CNN.md",
-    "Deep Learning/Convolutional Neural Network.md",
-    "Азимут.md",
     "photos/Pasted image 20231020214959.png",
     "photos/Pasted image 20231020214958.png",
     "photos/Pasted image 20231020175247.png",
