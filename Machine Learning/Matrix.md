@@ -6,5 +6,6 @@ $$
 
 ## Related:
 [[Matrix Transpose]]
+[[Matrix Trace]]
 [[Orthogonal Matrix]]
 [[Triangular Matrix]]
