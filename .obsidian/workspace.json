@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Jacobian Matrix.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Jacobian Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux commands.md",
+                "file": "Jacobian Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux commands.md"
+                "file": "Jacobian Matrix.md"
               }
             }
           },
@@ -179,6 +179,10 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
+    "Dot Product.md",
+    "Jacobian Matrix.md",
+    "Machine Learning/Matrix Differentiation.md",
+    "Linux commands.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Econometrics/F Statistic.md",
@@ -203,14 +207,10 @@
     "Азимут.md",
     "photos/Pasted image 20231020214959.png",
     "photos/Pasted image 20231020214958.png",
-    "Stochastic Processes/Classwork.md",
     "photos/Pasted image 20231020175247.png",
-    "Martingale.md",
-    "Doob's Theorem.md",
     "photos/Pasted image 20231020173635.png",
     "photos/Pasted image 20231020171427.png",
     "photos/Pasted image 20231020171332.png",
-    "Stochastic Processes/Sigma-Algebras.md",
     "photos/Pasted Image 20231019235048_527.png",
     "photos/Pasted Image 20231019234336_982.png",
     "photos/Pasted image 20231019231901.png",
