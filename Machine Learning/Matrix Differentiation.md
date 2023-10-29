@@ -16,9 +16,15 @@ Let rows represent [[Domain and Range|domain]] and columns represent [[Domain an
 |--------| -------- | -------- | -------- |  
 | Scalar| f'(x)dx | $J dx$ | - |  
 | Vector| $\nabla f(x)dx$ | $Jdx$ | - |
-| Matrix| $tr(\nabla_{A}f(A)^{T}dA )$ | - | - |
+| Matrix| $tr(\nabla_{A}f^{T}dA )$ | 3D tensor | - |
 
-
+## Properties of Matrix Differentials
+properties are really similar to common differentials, but it is important to remember that we are working with matrices:
+1) $d(AB) = dAB + AdB$,     $dAB\neq BdA$
+2) $d(\alpha A+\beta B) = \alpha dA + \beta dB$     (where $\alpha, \beta$ are scalars)
+3) $d(A^{T})=(dA)^{T}$
+4) $dC = 0$     for a constant matrix $C$
+5) $s \in R^{1\times1} \implies s^{T}=s \quad tr(s)=s$ 
 ## Examples
 ### 1)
 $$
