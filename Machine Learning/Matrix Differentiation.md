@@ -1,4 +1,5 @@
-
+## Application
+Fast Differentiation in ML
 ## Definition 
 Let $L$ be a differential for matrices
 $$
@@ -16,8 +17,7 @@ Let rows represent [[Domain and Range|domain]] and columns represent [[Domain an
 | Scalar| f'(x)dx | $J dx$ | - |  
 | Vector| $\nabla f(x)dx$ | $Jdx$ | - |
 | Matrix| $tr(\nabla_{A}f(A)^{T}dA )$ | - | - |
-## Application
-Fast Differentiation in ML
+
 
 ## Examples
 ### 1)
