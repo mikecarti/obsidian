@@ -23,8 +23,9 @@ properties are really similar to common differentials, but it is important to re
 1) $d(AB) = dAB + AdB$,     $dAB\neq BdA$
 2) $d(\alpha A+\beta B) = \alpha dA + \beta dB$     (where $\alpha, \beta$ are scalars)
 3) $d(A^{T})=(dA)^{T}$
-4) $dC = 0$     for a constant matrix $C$
-5) $s \in R^{1\times1} \implies s^{T}=s \quad tr(s)=s$ 
+4) $dC = 0$     for a co
+5) *-nstant matrix $C$
+6) $s \in R^{1\times1} \implies s^{T}=s \quad tr(s)=s$ 
 ## Examples
 ### 1)
 $$
