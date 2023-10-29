@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jacobian Matrix.md",
+                "file": "Machine Learning/Matrix Differentiation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jacobian Matrix.md",
+                "file": "Machine Learning/Matrix Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jacobian Matrix.md",
+                "file": "Machine Learning/Matrix Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jacobian Matrix.md"
+                "file": "Machine Learning/Matrix Differentiation.md"
               }
             }
           },
@@ -179,9 +179,9 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
+    "Jacobian Matrix.md",
     "Dot Product.md",
     "Machine Learning/Matrix Differentiation.md",
-    "Jacobian Matrix.md",
     "Linux commands.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",

@@ -1,12 +1,15 @@
 
-## Definition
+## Definition 
+Let $L$ be a differential for matrices
 $$
 \begin{align}
 f(x+dx)&=f(x)= f'(x)dx + \bar{o}(dx) \\
-f(x+dx)&= f(x) + L(dx)+\bar{o}(|| dx||) \\
+f(x+dx)&= f(x) + L[dx]+\bar{o}(|| dx||) \\
 
 \end{align}
 $$
+
+Let rows represent [[Domain and Range|domain]] and columns represent [[Domain and Range|range]], then:
 
 |        | Scalar | Vector | Matrix |  
 |--------| -------- | -------- | -------- |  
