@@ -13,6 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "diary/2023-10-30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b08cad0be9f38b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix Transpose.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26ec157b55ceb7f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Machine Learning/Matrix Differentiation.md",
                 "mode": "source",
                 "backlinks": true,
@@ -87,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
+                "file": "diary/2023-10-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
+                "file": "diary/2023-10-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md"
+                "file": "diary/2023-10-30.md"
               }
             }
           },
@@ -140,14 +166,6 @@
             }
           },
           {
-            "id": "4acf21e22e8b4603",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
-          },
-          {
             "id": "9d96ac1f99bbc50e",
             "type": "leaf",
             "state": {
@@ -156,14 +174,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "ac116cc735442c79",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +204,16 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
+    "Machine Learning/Matrix Differentiation.md",
+    "Matrix Transpose.md",
+    "diary/2023-10-30.md",
+    "Transposing.md",
+    "Machine Learning/Expected Probability Error (EPE).md",
     "Machine Learning/Matrix.md",
     "Matrix Trace.md",
     "Jacobian Matrix.md",
     "Dot Product.md",
-    "Machine Learning/Matrix Differentiation.md",
-    "Matrix Transpose.md",
     "Eigenvector.md",
-    "Transposing.md",
     "Linux commands.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
@@ -203,8 +230,6 @@
     "Stochastic Processes/Poisson Distribution.md",
     "Conditional Expectation.md",
     "Conditional Probabilty.md",
-    "Levels of Statistical Dependence.md",
-    "Reductionism.md",
     "photos/Pasted image 20231020214959.png",
     "photos/Pasted image 20231020214958.png",
     "photos/Pasted image 20231020175247.png",
