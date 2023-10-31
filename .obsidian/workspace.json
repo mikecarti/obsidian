@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dot Product.md",
+                "file": "Machine Learning/Stochastic Gradient Descent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dot Product.md",
+                "file": "Machine Learning/Stochastic Gradient Descent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dot Product.md",
+                "file": "Machine Learning/Stochastic Gradient Descent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dot Product.md"
+                "file": "Machine Learning/Stochastic Gradient Descent.md"
               }
             }
           },
@@ -204,6 +204,7 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
+    "Dot Product.md",
     "diary/2023-10-30.md",
     "Machine Learning/Matrix Differentiation.md",
     "Matrix Transpose.md",
@@ -212,7 +213,6 @@
     "Machine Learning/Matrix.md",
     "Matrix Trace.md",
     "Jacobian Matrix.md",
-    "Dot Product.md",
     "Eigenvector.md",
     "Linux commands.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",

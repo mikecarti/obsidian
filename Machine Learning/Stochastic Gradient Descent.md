@@ -1,3 +1,5 @@
+## Idea
+Take a subset of objects, not the whole sample on every step.
 $$
 \nabla Q \approx \nabla q_{i}(w)
 $$
