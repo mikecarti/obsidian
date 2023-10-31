@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-10-30.md",
+                "file": "Dot Product.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/2023-10-30.md",
+                "file": "Dot Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/2023-10-30.md",
+                "file": "Dot Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/2023-10-30.md"
+                "file": "Dot Product.md"
               }
             }
           },
@@ -204,9 +204,9 @@
   },
   "active": "ee44c46eeb1bc5d9",
   "lastOpenFiles": [
+    "diary/2023-10-30.md",
     "Machine Learning/Matrix Differentiation.md",
     "Matrix Transpose.md",
-    "diary/2023-10-30.md",
     "Transposing.md",
     "Machine Learning/Expected Probability Error (EPE).md",
     "Machine Learning/Matrix.md",
