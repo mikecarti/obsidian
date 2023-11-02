@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Stochastic Processes\"",
@@ -67,6 +67,6 @@
   "repelStrength": 11.9706573605869,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.7365260843134889,
+  "scale": 0.08930847145340383,
   "close": true
 }
