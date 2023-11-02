@@ -1,9 +1,12 @@
 
 $$\pi{\sum_{i=0}^n{\frac{a_{i}}{(n!)^2}}}$$ 
 
-$$
-\frac{a}{b} 
-$$
+```python
+import numpy as np
+
+print( np.array([1,2,3]) )
+```
+
 ## Replacements
 (more on [[LaTeX Training]])
 
