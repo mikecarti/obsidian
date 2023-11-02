@@ -2,9 +2,12 @@
 $$\pi{\sum_{i=0}^n{\frac{a_{i}}{(n!)^2}}}$$ 
 
 ```python
-import numpy as np
+i = range(100)
+sum = 0
 
-print( np.array([1,2,3]) )
+for i in i:
+	sum += i
+print(sum)
 ```
 
 ## Replacements
