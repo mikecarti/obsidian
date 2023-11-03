@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LaTeX.md",
+                "file": "AdaGrad (Adaptive Gradient).md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LaTeX.md",
+                "file": "AdaGrad (Adaptive Gradient).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LaTeX.md",
+                "file": "AdaGrad (Adaptive Gradient).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LaTeX.md"
+                "file": "AdaGrad (Adaptive Gradient).md"
               }
             }
           },
@@ -191,6 +191,12 @@
   },
   "active": "5b08cad0be9f38b4",
   "lastOpenFiles": [
+    "Machine Learning/Gradient Learning Methods.md",
+    "AdaGrad (Adaptive Gradient).md",
+    "Machine Learning/Stochastic Gradient Descent.md",
+    "Machine Learning/Gradient Descent.md",
+    "LaTeX.md",
+    "Gradient.md",
     "Potential.md",
     "Chebyshev's Inequality.md",
     "Gradient Descent with Momentum.md",
@@ -204,8 +210,6 @@
     "Obsidian.md",
     "Studying.md",
     "LaTeX Training.md",
-    "LaTeX.md",
-    "Machine Learning/Stochastic Gradient Descent.md",
     "Deep Learning/RELU (Rectified Linear Unit).md",
     "Machine Learning/Matrix Differentiation.md",
     "Dot Product.md",
@@ -213,10 +217,6 @@
     "Transposing.md",
     "Machine Learning/Expected Probability Error (EPE).md",
     "Machine Learning/Matrix.md",
-    "Matrix Trace.md",
-    "Eigenvector.md",
-    "Linux commands.md",
-    "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "photos/Pasted image 20231020214959.png",
     "photos/Pasted image 20231020214958.png",
     "photos/Pasted image 20231020175247.png",
