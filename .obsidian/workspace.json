@@ -11,38 +11,25 @@
             "id": "058c6c205b645958",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning/Wiener Process (Brownian Motion).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb0578868bad7947",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "ff45d23778ef6bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Triangular Matrix.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdd90c49a5b28cf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shrinkage Methods.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -108,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrinkage Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrinkage Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Shrinkage Methods.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,34 +182,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bdd90c49a5b28cf4",
+  "active": "eb0578868bad7947",
   "lastOpenFiles": [
-    "Triangular Matrix.md",
-    "movefile.md",
-    "Machine Learning/Matrix.md",
+    "Stochastic Processes/Continuous Time.md",
+    "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
+    "Pair Events.md",
+    "Discriminant.md",
+    "Deep Learning/Cross Entropy Loss.md",
+    "Competitive Equilibrium.md",
+    "Chebyshev's Inequality.md",
+    "Obsidian Shortcuts.md",
+    "Levels of Statistical Dependence.md",
+    "Variance.md",
     "Shrinkage Methods.md",
+    "movefile.md",
+    "Conditional Expectation.md",
+    "Deep Learning/Wiener Process (Brownian Motion).md",
+    "photos/Pasted image 20231103174532.png",
+    "Stochastic Processes/Martingale.md",
+    "Stochastic Processes/Sigma-Algebras.md",
+    "Stochastic Processes/Classwork.md",
+    "Triangular Matrix.md",
+    "photos/Pasted image 20231103163458.png",
+    "photos/Pasted image 20231103163455.png",
+    "Machine Learning/Matrix.md",
     "Orthogonal Matrix.md",
     "Virtual Environment.md",
     "Obsidian.md",
-    "Obsidian Shortcuts.md",
     "FastAPI.md",
     "API.md",
     "Git commands.md",
     "LaTeX Training.md",
-    "USE.md",
-    "Linearity.md",
-    "Competitive Equilibrium.md",
-    "Atomic Idea X.md",
-    "Distribution.md",
-    "Catastrophe.md",
-    "Behavioral Axis.md",
-    "Control Factors.md",
-    "Singularity.md",
-    "Degeneracy.md",
-    "Universal Unfolding.md",
-    "Degenerate Singularity.md",
-    "Potential.md",
-    "Discriminant.md",
     "photos/Pasted image 20231103122604.png",
     "photos/Pasted image 20231103120806.png",
     "photos/Pasted image 20231103115353.png",
@@ -233,9 +220,6 @@
     "photos/Pasted image 20231020214959.png",
     "photos/Pasted image 20231020214958.png",
     "photos/Pasted image 20231020175247.png",
-    "photos/Pasted image 20231020173635.png",
-    "photos/Pasted image 20231020171427.png",
-    "photos/Pasted image 20231020171332.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

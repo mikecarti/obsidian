@@ -20,6 +20,19 @@ $\mathcal{F}$ is a $\sigma$-algebra IF
 +: $A \Delta B = (A/B)\cup(B/A)$
 $\cdot$ : $A\cap  B$
 
+### Independence to a Random Variable
+Random variable $X$ is independent of $\sigma$ - algebra $\mathcal{F}$. 
+$$
+X \to \underbrace{ \sigma(X) }_{ \text{list of all possibly stated events} }
+$$
+## Conditional Expectation
+$$
+E(Y | \mathcal{F}) = R \text{ - random var. that satisfies req-ts.}
+$$
+1) $\sigma(R) \, \in \,\mathcal{F}$      (you can calculate R using info in $\mathcal{F}$)
+2) the prediction error $Y-R$ is uncorrelated of any R.V. you can calculate using info in $\mathcal{F}$
+ $Cov(Y-R, I_{A}) = 0$ for  $A\, \in \,\mathcal{F}$
+3) $E(Y-R)= 0$
 ## Examples of Discrete Case.
 1) [[Stochastic Processes/Classwork|Classwork]] - 13.10
 

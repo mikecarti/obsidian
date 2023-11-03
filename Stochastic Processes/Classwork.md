@@ -489,3 +489,15 @@ M_{s}(u) = \mathbb{E}\left( \mathbb{E}(\exp(Su)|N) \right)=\dots \quad \text{ Po
 \end{align}
 $$
 
+# Lecture 22.10
+
+
+# Lecture 03.11
+$$
+\begin{align}
+E(W_{7}) = 0 \\
+Var(W_{7}) = 7 \\
+Cov(W_{7},W_{10}) = Cov(W_{7},W_{7}) + Cov(W_{7}, W_{10}- W_{7}) =  \\
+= Var(W_{7}) + 0 \\
+\end{align}
+$$

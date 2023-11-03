@@ -54,3 +54,5 @@ R = \begin{pmatrix}
 0 & I
 \end{pmatrix}
 $$
+## Related
+[[Linear Regression]]
