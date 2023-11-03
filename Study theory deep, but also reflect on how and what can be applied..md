@@ -1,1 +1,1 @@
-Don't focus too much attention on inrelevant math and methods.
+Don't focus too much attention on irrelevant math and methods.
