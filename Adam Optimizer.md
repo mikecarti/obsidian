@@ -1,2 +1,2 @@
 
-Combines [[Gradient Descent with Momentum]] and [[AdaGrad (Adaptive Gradient)]]
+Combines [[RMSProp]] and [[AdaGrad (Adaptive Gradient)]]

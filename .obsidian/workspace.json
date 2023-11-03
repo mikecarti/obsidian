@@ -24,8 +24,13 @@
             "id": "eb0578868bad7947",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AdaGrad (Adaptive Gradient).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -96,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AdaGrad (Adaptive Gradient).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AdaGrad (Adaptive Gradient).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AdaGrad (Adaptive Gradient).md"
+              }
             }
           },
           {
@@ -184,6 +193,8 @@
   },
   "active": "eb0578868bad7947",
   "lastOpenFiles": [
+    "RMSProp.md",
+    "Adam Optimizer.md",
     "Stochastic Processes/Continuous Time.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Pair Events.md",
@@ -211,8 +222,6 @@
     "Obsidian.md",
     "FastAPI.md",
     "API.md",
-    "Git commands.md",
-    "LaTeX Training.md",
     "photos/Pasted image 20231103122604.png",
     "photos/Pasted image 20231103120806.png",
     "photos/Pasted image 20231103115353.png",
