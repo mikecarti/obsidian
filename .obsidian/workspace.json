@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "96a944007eedb880",
+        "id": "2274049b56672148",
         "type": "tabs",
         "children": [
           {
-            "id": "058c6c205b645958",
+            "id": "e484fa2dbce06e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Wiener Process (Brownian Motion).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb0578868bad7947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Databases/BIG HW 3.md",
+                "file": "diary/BIG HW 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/BIG HW 3.md",
+                "file": "diary/BIG HW 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/BIG HW 3.md",
+                "file": "diary/BIG HW 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/BIG HW 3.md"
+                "file": "diary/BIG HW 3.md"
               }
             }
           },
@@ -190,13 +176,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eb0578868bad7947",
+  "active": "e484fa2dbce06e36",
   "lastOpenFiles": [
+    "photos/Pasted image 20231104211647.png",
+    "photos/Pasted image 20231104210537.png",
+    "photos/Pasted image 20231104210322.png",
+    "photos/Pasted image 20231104205556.png",
+    "photos/Pasted image 20231104205231.png",
+    "photos/Pasted image 20231104205227.png",
+    "photos/Pasted image 20231104204155.png",
+    "photos/Pasted image 20231104204017.png",
+    "photos/Pasted image 20231104203821.png",
+    "photos/Pasted image 20231104203311.png",
+    "photos/Pasted image 20231104203016.png",
+    "Machine Learning/RMSProp.md",
+    "Deep Learning/Wiener Process (Brownian Motion).md",
+    "Deep Learning/Adam Optimizer.md",
+    "diary/BIG HW 3.md",
     "photos/hw db.pdf",
     "AdaGrad (Adaptive Gradient).md",
-    "Databases/BIG HW 3.md",
-    "RMSProp.md",
-    "Adam Optimizer.md",
     "Stochastic Processes/Continuous Time.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Pair Events.md",
@@ -210,24 +208,13 @@
     "Shrinkage Methods.md",
     "movefile.md",
     "Conditional Expectation.md",
-    "Deep Learning/Wiener Process (Brownian Motion).md",
-    "photos/Pasted image 20231103174532.png",
     "Stochastic Processes/Martingale.md",
     "Stochastic Processes/Sigma-Algebras.md",
     "Stochastic Processes/Classwork.md",
     "Triangular Matrix.md",
-    "photos/Pasted image 20231103163458.png",
-    "photos/Pasted image 20231103163455.png",
     "Machine Learning/Matrix.md",
     "Orthogonal Matrix.md",
     "Virtual Environment.md",
-    "photos/Pasted image 20231103122604.png",
-    "photos/Pasted image 20231103120806.png",
-    "photos/Pasted image 20231103115353.png",
-    "photos/Pasted image 20231103112337.png",
-    "photos/Pasted image 20231020214959.png",
-    "photos/Pasted image 20231020214958.png",
-    "photos/Pasted image 20231020175247.png",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
@@ -238,7 +225,6 @@
     "Mathematical Optimization",
     "Excalidraw",
     "Machine Learning/Seminar Collabs",
-    "Time Series",
     "Untitled.canvas"
   ]
 }
