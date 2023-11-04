@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AdaGrad (Adaptive Gradient).md",
+                "file": "Databases/BIG HW 3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AdaGrad (Adaptive Gradient).md",
+                "file": "Databases/BIG HW 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AdaGrad (Adaptive Gradient).md",
+                "file": "Databases/BIG HW 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AdaGrad (Adaptive Gradient).md"
+                "file": "Databases/BIG HW 3.md"
               }
             }
           },
@@ -193,6 +192,9 @@
   },
   "active": "eb0578868bad7947",
   "lastOpenFiles": [
+    "photos/hw db.pdf",
+    "AdaGrad (Adaptive Gradient).md",
+    "Databases/BIG HW 3.md",
     "RMSProp.md",
     "Adam Optimizer.md",
     "Stochastic Processes/Continuous Time.md",
@@ -219,9 +221,6 @@
     "Machine Learning/Matrix.md",
     "Orthogonal Matrix.md",
     "Virtual Environment.md",
-    "Obsidian.md",
-    "FastAPI.md",
-    "API.md",
     "photos/Pasted image 20231103122604.png",
     "photos/Pasted image 20231103120806.png",
     "photos/Pasted image 20231103115353.png",
