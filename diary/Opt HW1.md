@@ -81,3 +81,39 @@ x_{4} \\
 $$
 
 
+```python
+import numpy as np
+from sympy import lambdify, parse_expr
+from math import log
+
+def get_new_interval_golden_ratio(a, b, func, fa_=None, fb_=None):
+    golden_ratio = (3 - 5**0.5) / 2
+    an = a + golden_ratio * (b - a)
+    bn = b - golden_ratio * (b - a)
+    print(f"New interval: [{an}, {bn}]")
+    fa = fa_ if fa_ is not None else func(an)
+    fb = fb_ if fb_ is not None else func(bn)
+    
+    if fa < fb:
+        return a, bn, None, fa
+    else:
+        return an, b, fb, None
+
+fstr = "x**4 - 25*x**3 + 215*x**2 - 680.5*x + 624"
+f = lambdify(["x"], parse_expr(fstr))
+a, b = [-0.5, 12]
+tolerance = 0.01
+golden_ratio = (3 - 5**0.5) / 2
+N = int(np.ceil(log(tolerance / (b - a), (1 - golden_ratio))) )
+print(f"Number of iterations: {N}")
+fa, fb = None, None
+
+for _ in range(N):
+    a, b, fa, fb = get_new_interval_golden_ratio(a, b, f, fa_=fa, fb_=fb)
+
+x = 2.591302703383936
+y = 2.594803123159844
+print((x+y)/2)
+print(f((x+y)/2))
+```
+![[Pasted image 20231105184405.png|400]]

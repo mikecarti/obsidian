@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "diary/Opt HW1.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -179,6 +179,7 @@
   },
   "active": "e484fa2dbce06e36",
   "lastOpenFiles": [
+    "photos/Pasted image 20231105184405.png",
     "diary/2023-11-05.md",
     "diary/Opt HW1.md",
     "Machine Learning/Expected Probability Error (EPE).md",
@@ -215,7 +216,6 @@
     "movefile.md",
     "Conditional Expectation.md",
     "Stochastic Processes/Martingale.md",
-    "Stochastic Processes/Sigma-Algebras.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
