@@ -19,3 +19,65 @@ $$
 ![[Drawing 2023-11-05 17.18.45.excalidraw]]
 
 №2
+$$
+\begin{align}
+&q(x) = 455*x_1^2 − 156*x_1*x_2 − 668*x1*x3 + 206*x1*x4 − 136*x1 + 672*x2^2 -  \\
+&− 72*x2*x3 − 12*x2*x4 − 1224*x2 + 722*x3^2 + 524*x3*x4 +  \\
+& +2312*x3 + 599*x4^2 + 3400*x4 
+\end{align}
+
+$$
+$$
+\begin{align}
+&\nabla_{q} = \begin{bmatrix}
+910x_{1} - 156x_{2}-668x_{3}+206x_{4}-136 \\
+-156x_{1}+1344x_{2}-72x_{3}-12x_{4}-1224 \\
+-668x_{1}-72x_{2}+1444x_{3}+524x_{4}+2312 \\
+206x_{1}-12x_{2}+524x_{3}+1198x_{4}+3400
+\end{bmatrix} = \begin{bmatrix}
+0 \\
+0 \\
+0 \\
+0
+\end{bmatrix} \implies \\ \\
+
+&\implies \text{stationary point: }   
+\begin{bmatrix}
+x_{1} \\
+x_{2} \\
+x_{3} \\
+x_{4} \\
+\end{bmatrix} = \begin{bmatrix}
+1 \\
+1 \\
+0 \\
+-3
+\end{bmatrix}\\ \\
+
+
+
+
+
+
+
+&H_{q}=\begin{bmatrix}
+910 & -156 & -668 & 206 \\
+-156 & 1344 & -72 & -12 \\
+-668 & -72 & 1444 & 524 \\
+206 & -12 & 524 & 1198 \\
+\end{bmatrix}  \\ \\
+
+&\det(H_{q} - \lambda I) = \begin{vmatrix}
+910 - \lambda & -156 & -668 & 206 \\
+-156 & 1344 - \lambda & -72 & -12 \\
+-668 & -72 & 1444 - \lambda & 524 \\
+206 & -12 & 524 & 1198 - \lambda \\
+\end{vmatrix}  = \\
+&= λ^4 - 4896 λ^3 + 8115120 λ^2 - 5025881088 λ + 727394411520 = 0 \\
+
+&\vec{\lambda} = \{ 204,1224,1428, 2040 \} > 0 \implies \vec{x} = \{ 1,1,0,-3 \} \text{ is a minimum point}  \\
+\end{align}
+
+$$
+
+

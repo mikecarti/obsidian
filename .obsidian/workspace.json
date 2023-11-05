@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "diary/Opt HW1.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -178,8 +179,10 @@
   },
   "active": "e484fa2dbce06e36",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-05 17.18.45.excalidraw.md",
+    "diary/2023-11-05.md",
     "diary/Opt HW1.md",
+    "Machine Learning/Expected Probability Error (EPE).md",
+    "Excalidraw/Drawing 2023-11-05 17.18.45.excalidraw.md",
     "photos/Pasted image 20231105165318.png",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Feature Discretization.md",
@@ -213,8 +216,6 @@
     "Conditional Expectation.md",
     "Stochastic Processes/Martingale.md",
     "Stochastic Processes/Sigma-Algebras.md",
-    "Stochastic Processes/Classwork.md",
-    "Triangular Matrix.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
