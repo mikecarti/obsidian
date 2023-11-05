@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Stochastic Processes\"",
@@ -60,13 +60,13 @@
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 1.67148444444444,
+  "nodeSizeMultiplier": 1.17001481481481,
   "lineSizeMultiplier": 0.481487889273356,
   "collapse-forces": false,
   "centerStrength": 0.233886475322271,
   "repelStrength": 11.9706573605869,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.08890954735111274,
-  "close": true
+  "scale": 0.10754577560794547,
+  "close": false
 }

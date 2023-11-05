@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/BIG HW 3.md",
+                "file": "diary/Opt HW1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "diary/BIG HW 3.md",
+                "file": "diary/Opt HW1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "diary/BIG HW 3.md",
+                "file": "diary/Opt HW1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "diary/BIG HW 3.md"
+                "file": "diary/Opt HW1.md"
               }
             }
           },
@@ -178,6 +178,12 @@
   },
   "active": "e484fa2dbce06e36",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-05 17.18.45.excalidraw.md",
+    "diary/Opt HW1.md",
+    "photos/Pasted image 20231105165318.png",
+    "Machine Learning/Linear Regression.md",
+    "Machine Learning/Feature Discretization.md",
+    "diary/BIG HW 3.md",
     "photos/Pasted image 20231104211647.png",
     "photos/Pasted image 20231104210537.png",
     "photos/Pasted image 20231104210322.png",
@@ -187,12 +193,9 @@
     "photos/Pasted image 20231104204155.png",
     "photos/Pasted image 20231104204017.png",
     "photos/Pasted image 20231104203821.png",
-    "photos/Pasted image 20231104203311.png",
-    "photos/Pasted image 20231104203016.png",
     "Machine Learning/RMSProp.md",
     "Deep Learning/Wiener Process (Brownian Motion).md",
     "Deep Learning/Adam Optimizer.md",
-    "diary/BIG HW 3.md",
     "photos/hw db.pdf",
     "AdaGrad (Adaptive Gradient).md",
     "Stochastic Processes/Continuous Time.md",
@@ -212,9 +215,6 @@
     "Stochastic Processes/Sigma-Algebras.md",
     "Stochastic Processes/Classwork.md",
     "Triangular Matrix.md",
-    "Machine Learning/Matrix.md",
-    "Orthogonal Matrix.md",
-    "Virtual Environment.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
