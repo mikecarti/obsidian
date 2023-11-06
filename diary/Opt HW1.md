@@ -18,7 +18,7 @@ $$
 
 ![[Drawing 2023-11-05 17.18.45.excalidraw]]
 
-№2
+№3
 $$
 \begin{align}
 &q(x) = 455*x_1^2 − 156*x_1*x_2 − 668*x1*x3 + 206*x1*x4 − 136*x1 + 672*x2^2 -  \\
@@ -80,7 +80,7 @@ x_{4} \\
 
 $$
 
-
+№2
 ```python
 import numpy as np
 from sympy import lambdify, parse_expr
