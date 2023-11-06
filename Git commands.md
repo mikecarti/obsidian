@@ -38,3 +38,13 @@ git push origin --delete branch_name
 git reset --hard <commit_hash> # reset to some commit
 git commit -am "reset"
 git push --force
+
+## #LFS (Large File Storage)
+
+```
+git lfs install
+git lfs track "*.extension"
+git config http.postBuffer 524288000
+git commit -am "..."
+git push 
+```
