@@ -19,8 +19,13 @@
             "id": "341471eda9b37c4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Box-Cox Test.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Box-Cox Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Box-Cox Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Box-Cox Test.md"
+              }
             }
           },
           {
@@ -173,12 +182,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
-      "3d-graph:3D Graph": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "341471eda9b37c4d",
   "lastOpenFiles": [
+    "Box-Cox Test.md",
     "Functional Transformations.md",
     "Shrinkage Methods.md",
     "Triangular Matrix.md",
@@ -215,7 +224,6 @@
     "photos/hw db.pdf",
     "AdaGrad (Adaptive Gradient).md",
     "Stochastic Processes/Continuous Time.md",
-    "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
