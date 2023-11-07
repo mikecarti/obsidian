@@ -4,23 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "2274049b56672148",
+        "id": "21a3ee1d1e3b825b",
         "type": "tabs",
         "children": [
           {
-            "id": "e484fa2dbce06e36",
+            "id": "d5d9f5d058b7ce56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes/Classwork.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "3d_graph_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "341471eda9b37c4d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Stochastic Processes/Classwork.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,14 +173,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "e484fa2dbce06e36",
+  "active": "341471eda9b37c4d",
   "lastOpenFiles": [
-    "Stochastic Processes/Doob's Theorem.md",
+    "Functional Transformations.md",
+    "Shrinkage Methods.md",
+    "Triangular Matrix.md",
+    "Conditional Expectation.md",
+    "Levels of Statistical Dependence.md",
     "Stochastic Processes/Classwork.md",
-    "Natural Filtration.md",
+    "Stochastic Processes/Doob's Theorem.md",
+    "Stochastic Processes/Natural Filtration.md",
     "Machine Learning/Affine Transformation.md",
     "photos/Pasted image 20231107150525.png",
     "Git commands.md",
@@ -188,10 +194,6 @@
     "Machine Learning/Regularization.md",
     "Atomic Idea X.md",
     "Orthogonal Matrix.md",
-    "Triangular Matrix.md",
-    "Shrinkage Methods.md",
-    "Levels of Statistical Dependence.md",
-    "Conditional Expectation.md",
     "Deep Learning/Adam Optimizer.md",
     "Machine Learning/RMSProp.md",
     "diary/Opt HW1.md",
@@ -214,7 +216,6 @@
     "AdaGrad (Adaptive Gradient).md",
     "Stochastic Processes/Continuous Time.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
-    "Pair Events.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",
