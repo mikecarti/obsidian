@@ -17,6 +17,11 @@ git branch --set-upstream-to=origin/branch_name branch_name
 
 #change #last #commit #rename:
 
+#Another #git# process seems to be #running in this repository, 
+```
+rm -f .git/index.lock
+```
+
 
 # Remote repos
 
