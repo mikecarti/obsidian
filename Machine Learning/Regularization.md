@@ -7,8 +7,8 @@ If a linear model is over-trained $<==>$ it has large weights.
 $$
 \begin{gather}
 \exists v \in \mathbb{R}^{d}: \forall x \in \mathbb{X} \qquad <u, x> = 0 \\
-w_{ * } - \text{solution} \qquad \frac{1}{l}\sum_{i=1}^{l}(<w,x>-y_{i})^{2 } \to min \\
-<w_{*} + \alpha u, x> = <w_{*}, x> + \alpha <u, x> = <w_{*}, x> \\
+w_{ * } - \text{solution} \qquad \frac{1}{l}\sum_{i=1}^{l}(\left< w,x \right> -y_{i})^{2 } \to min \\
+\left< w_{*} + \alpha u, x \right>  = \left< w_{*}, x \right>  + \alpha \left< u,x \right>  = \left< w_{*}, x \right>  \\
 \text{therefore } w_{*} + \alpha u - \text{ one more solution}
 \end{gather}
 $$
