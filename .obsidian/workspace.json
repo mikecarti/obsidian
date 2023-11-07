@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Catastrophe Theory.md",
+                "file": "Entropy (information theory).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catastrophe Theory.md",
+                "file": "Entropy (information theory).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Catastrophe Theory.md",
+                "file": "Entropy (information theory).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Catastrophe Theory.md"
+                "file": "Entropy (information theory).md"
               }
             }
           },
@@ -187,6 +187,12 @@
   },
   "active": "341471eda9b37c4d",
   "lastOpenFiles": [
+    "Deep Learning/Cross Entropy Loss.md",
+    "Entropy (information theory).md",
+    "Stochastic Processes/Classwork.md",
+    "Deep Learning/Wiener Process (Brownian Motion).md",
+    "Machine Learning/AUC ROC.md",
+    "Catastrophe Theory.md",
     "Cusp Catastrophe.md",
     "Potential Function.md",
     "Diffeomorphism.md",
@@ -194,7 +200,6 @@
     "photos/Pasted image 20231107235508.png",
     "photos/Pasted image 20231107235503.png",
     "photos/Pasted image 20231107234806.png",
-    "Catastrophe Theory.md",
     "Econometrics/Functional Transformations.md",
     "diary/Cusp Catastrophe Research.md",
     "Singularity.md",
@@ -206,16 +211,12 @@
     "Triangular Matrix.md",
     "Conditional Expectation.md",
     "Levels of Statistical Dependence.md",
-    "Stochastic Processes/Classwork.md",
     "Stochastic Processes/Doob's Theorem.md",
     "Stochastic Processes/Natural Filtration.md",
     "Machine Learning/Affine Transformation.md",
     "photos/Pasted image 20231107150525.png",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Regularization.md",
-    "Atomic Idea X.md",
-    "Orthogonal Matrix.md",
-    "Deep Learning/Adam Optimizer.md",
     "photos/Pasted image 20231105184405.png",
     "photos/Pasted image 20231105165318.png",
     "photos/Pasted image 20231104211647.png",
