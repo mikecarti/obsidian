@@ -43,8 +43,9 @@ git push --force
 
 ```
 git lfs install
-git lfs track "*.extension"
+git lfs track "*.<your_file_extension>"
 git config http.postBuffer 524288000
 git commit -am "..."
+git lfs migrate import --include="*.<your_file_extension>"
 git push 
 ```
