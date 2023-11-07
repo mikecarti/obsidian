@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git commands.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git commands.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git commands.md",
+                "file": "Stochastic Processes/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git commands.md"
+                "file": "Stochastic Processes/Classwork.md"
               }
             }
           },
@@ -178,9 +178,14 @@
   },
   "active": "e484fa2dbce06e36",
   "lastOpenFiles": [
+    "Stochastic Processes/Doob's Theorem.md",
+    "Stochastic Processes/Classwork.md",
+    "Natural Filtration.md",
+    "Machine Learning/Affine Transformation.md",
+    "photos/Pasted image 20231107150525.png",
+    "Git commands.md",
     "Machine Learning/Linear Regression.md",
     "Machine Learning/Regularization.md",
-    "Git commands.md",
     "Atomic Idea X.md",
     "Orthogonal Matrix.md",
     "Triangular Matrix.md",
@@ -204,17 +209,12 @@
     "photos/Pasted image 20231104205231.png",
     "photos/Pasted image 20231104205227.png",
     "photos/Pasted image 20231104204155.png",
-    "photos/Pasted image 20231104204017.png",
     "Deep Learning/Wiener Process (Brownian Motion).md",
     "photos/hw db.pdf",
     "AdaGrad (Adaptive Gradient).md",
     "Stochastic Processes/Continuous Time.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Pair Events.md",
-    "Discriminant.md",
-    "Deep Learning/Cross Entropy Loss.md",
-    "Competitive Equilibrium.md",
-    "Chebyshev's Inequality.md",
     "Untitled 1.canvas",
     "Catastrophe Theory",
     "Deep Learning",

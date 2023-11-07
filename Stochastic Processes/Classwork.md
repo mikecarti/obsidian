@@ -501,3 +501,74 @@ Cov(W_{7},W_{10}) = Cov(W_{7},W_{7}) + Cov(W_{7}, W_{10}- W_{7}) =  \\
 = Var(W_{7}) + 0 \\
 \end{align}
 $$
+
+
+# Seminar 07.11
+## Task 1
+![[Pasted image 20231107150525.png]]
+### a)
+$$
+\begin{align}
+&P_{b, a+b} \text{ - } ?\\
+&P_{b,a} \text{ - } ? \\
+&S_{n} = x_{0}+x_{1}+\dots+x_{n} \quad x_{i} \sim iid \\
+&\mathcal{F}_{n} = \sigma(X_{0},X_{1},X_{2},\dots,X_{n}) \\
+&S_{n} \text{ is adopted} ;  \\
+& 1) S_{n} = f(x_{0}, \dots,x_{n}) \\
+& 2) E\mid S_{n}\mid \leq n M \infty \\
+&3) E(S_{n}\mid \mathcal{F}_{n-1}) = \\
+& = E(X_{0}+ \dots+X_{n}\mid\underbrace{  X_{0}, X_{1}, \dots, X_{n-1} }_{ partition }) = \\
+&= x_{0}+\dots+x_{n-1}+E(X_{n}\mid \dots)  = S_{n-1} + \frac{1}{2}(-1 + 1) = S_{n-1} \text{ - martingale} \\
+\end{align}
+$$
+As it is a martingale, by [[Doob's Theorem]] (optional stopping theorem)
+We can not gain from the fair game
+### b)
+$$
+\begin{align}
+&E(S_{T}) = S_{0} = 0 \quad \text{As we are dealing with a martingale} \\
+& T \text{ - is a finish time of the game} \\
+&S_{t} = \begin{cases}
+a & \text{win}\\
+-b & \text{lose}
+\end{cases}  \\
+&\begin{cases}
+E(S_{T}) = a \cdot \mathbb{P}(\text{win}) - b \cdot \mathbb{P}(\text{loose})=0 \text{ by Doob's} \\
+\mathbb{P}(\text{win}) + \mathbb{P}(loose)= 1
+\end{cases} \\
+&\begin{cases}
+P_{win} = \frac{b}{a}P_{loose} \\
+\frac{{b+a}}{a} : P_{loose} = 1
+\end{cases} \\
+&\begin{cases}
+P_{loose} = \frac{a}{a+b} \\
+P_{win} = \frac{b}{a+b}
+\end{cases}
+\end{align}
+$$
+### c)
+$$
+\begin{align}
+&\text{Prove that "} M_{n} = S_{n}^{2} -n \text{" is a martingale} \\  \\
+&1) \text{ its adopted (function of elements of sigma algebra)}  \\
+&2) E(M_{n}) \leq n^{2} - n < \infty \\
+&3)
+E(M_{n} \mid \mathcal{F_{n-1}}) = E(M_{n-1}) ? \\
+&E(S^{2}_{n}- n \mid \mathcal{F_{n-1}}) = E((S_{n-1}+X_{n})^{2} - n \mid X_{0}, \dots, X_{n}) = \\
+&= E(S_{n-1}^{2} + 2S_{n-1}X_{n}+X_{n}^{2}-n \mid X_{0},\dots, X_{n-1}) =  \\
+&= S_{n-1}^{2} + \cancelto{ 0 }{ 2S_{n-1}E(X_{n}\mid X_{0},\dots,X_{n-1}) } + \cancelto{ \frac{1}{2}  \cdot  1^{2} + \frac{1}{2} \cdot (-1)^{2} =1 }{ E(X_{n}^{2}\mid X_{0},\dots,x_{n-1}) } -n= \\
+&= S_{n-1}^{2} - (n-1) = M_{n-1} \to \text{ That is a martingale} \\
+&M_{0}= S_{0}^{2} - 0 = 0 \\ \\
+&\text{d)} \\
+
+&\text{For T f(finish the game)} \\
+&E[M_{t}]=M_{0}=0 \implies E[S_{T}^{2}-T]= 0 \implies E( S_{T}^{2})= E[T] \\
+&S_{T}^{2} = \begin{cases}
+(-b)^{2} & \text{loose} \\
+a^{2} & win
+\end{cases} \\
+&E(S_{T}^{2}) = a^2{P(win)} + b^{2}P(loose) = E(T) \\
+&E(T)= a^{2} \cdot \frac{b}{a+b}+ b^{2} \cdot \frac{a}{a+b} =\frac{{(a+b)ab}}{a+b} = ab
+\end{align}
+$$
+
