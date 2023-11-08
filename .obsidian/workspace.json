@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Optimization Problem.md",
+                "file": "Dynamic Travelling Salesman.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Optimization Problem.md",
+                "file": "Dynamic Travelling Salesman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Optimization Problem.md",
+                "file": "Dynamic Travelling Salesman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Optimization Problem.md"
+                "file": "Dynamic Travelling Salesman.md"
               }
             }
           },
@@ -200,8 +200,8 @@
   },
   "active": "341471eda9b37c4d",
   "lastOpenFiles": [
-    "Dynamic Travelling Salesman.md",
     "Dynamic Optimization Problem.md",
+    "Dynamic Travelling Salesman.md",
     "Entropy (information theory).md",
     "Deep Learning/Cross Entropy Loss.md",
     "Stochastic Processes/Classwork.md",
