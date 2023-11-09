@@ -1,4 +1,4 @@
-
+Something between linear and multiplicative model. (0 - multiplicative model, 1 - linear model, >1 - n-power sum)
 (Or B.C Transformation)
 
 $$
