@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Box-Cox Test.md",
+                "file": "diary/2023-11-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/Box-Cox Test.md",
+                "file": "diary/2023-11-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/Box-Cox Test.md",
+                "file": "diary/2023-11-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/Box-Cox Test.md"
+                "file": "diary/2023-11-09.md"
               }
             }
           },
@@ -200,6 +200,8 @@
   },
   "active": "341471eda9b37c4d",
   "lastOpenFiles": [
+    "Econometrics/Box-Cox Test.md",
+    "diary/2023-11-09.md",
     "Dynamic Travelling Salesman.md",
     "Dynamic Optimization Problem.md",
     "Entropy (information theory).md",
@@ -221,14 +223,12 @@
     "Degenerate Singularity.md",
     "Degeneracy.md",
     "Git commands.md",
-    "Econometrics/Box-Cox Test.md",
     "Shrinkage Methods.md",
     "Triangular Matrix.md",
     "Conditional Expectation.md",
     "Levels of Statistical Dependence.md",
     "Stochastic Processes/Doob's Theorem.md",
     "Stochastic Processes/Natural Filtration.md",
-    "Machine Learning/Affine Transformation.md",
     "photos/Pasted image 20231107150525.png",
     "photos/Pasted image 20231105184405.png",
     "photos/Pasted image 20231105165318.png",
