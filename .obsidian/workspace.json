@@ -34,15 +34,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloth Washing.md",
+                "file": "Torch (Python).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -108,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloth Washing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloth Washing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cloth Washing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,11 +194,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f84354aa7aa8ee61",
+  "active": "d5d9f5d058b7ce56",
   "lastOpenFiles": [
+    "Torch (Python).md",
+    "Cloth Washing.md",
     "photos/Pasted image 20231110003336.png",
     "Dynamic Travelling Salesman.md",
-    "Cloth Washing.md",
     "diary/2023-11-09.md",
     "Econometrics/Box-Cox Test.md",
     "Dynamic Optimization Problem.md",
@@ -235,7 +232,6 @@
     "photos/Pasted image 20231104211647.png",
     "photos/Pasted image 20231104210537.png",
     "photos/Pasted image 20231104210322.png",
-    "photos/Pasted image 20231104205556.png",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",
