@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynamic Travelling Salesman.md",
+                "file": "Cloth Washing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Travelling Salesman.md",
+                "file": "Cloth Washing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Travelling Salesman.md",
+                "file": "Cloth Washing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Travelling Salesman.md"
+                "file": "Cloth Washing.md"
               }
             }
           },
@@ -200,9 +200,11 @@
   },
   "active": "f84354aa7aa8ee61",
   "lastOpenFiles": [
+    "photos/Pasted image 20231110003336.png",
+    "Dynamic Travelling Salesman.md",
+    "Cloth Washing.md",
     "diary/2023-11-09.md",
     "Econometrics/Box-Cox Test.md",
-    "Dynamic Travelling Salesman.md",
     "Dynamic Optimization Problem.md",
     "Entropy (information theory).md",
     "Deep Learning/Cross Entropy Loss.md",
@@ -227,8 +229,6 @@
     "Triangular Matrix.md",
     "Conditional Expectation.md",
     "Levels of Statistical Dependence.md",
-    "Stochastic Processes/Doob's Theorem.md",
-    "Stochastic Processes/Natural Filtration.md",
     "photos/Pasted image 20231107150525.png",
     "photos/Pasted image 20231105184405.png",
     "photos/Pasted image 20231105165318.png",
