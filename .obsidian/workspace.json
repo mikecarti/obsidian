@@ -11,17 +11,9 @@
             "id": "d5d9f5d058b7ce56",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "341471eda9b37c4d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "diary/2023-11-09.md",
+                "file": "Machine Learning/Multiclass Classification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Torch (Python).md",
+                "file": "Decision Tree.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Decision Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Decision Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Decision Tree.md"
+              }
             }
           },
           {
@@ -194,8 +191,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d5d9f5d058b7ce56",
+  "active": "f84354aa7aa8ee61",
   "lastOpenFiles": [
+    "Machine Learning/XGBoost.md",
+    "Decision Tree.md",
+    "Machine Learning/Entropy.md",
+    "photos/Pasted image 20231110115118.png",
+    "photos/Pasted image 20231110115024.png",
+    "photos/Pasted image 20231110114957.png",
+    "Machine Learning/Multiclass Classification.md",
+    "Machine Learning/Linear Classification.md",
+    "Machine Learning/Binary Classification.md",
+    "MultiLabel Classification.md",
+    "Multiclass Classification Metrics.md",
+    "photos/Pasted image 20231110112516.png",
     "Torch (Python).md",
     "Cloth Washing.md",
     "photos/Pasted image 20231110003336.png",
@@ -218,20 +227,8 @@
     "photos/Pasted image 20231107234806.png",
     "Econometrics/Functional Transformations.md",
     "diary/Cusp Catastrophe Research.md",
-    "Singularity.md",
-    "Degenerate Singularity.md",
-    "Degeneracy.md",
-    "Git commands.md",
-    "Shrinkage Methods.md",
-    "Triangular Matrix.md",
-    "Conditional Expectation.md",
-    "Levels of Statistical Dependence.md",
     "photos/Pasted image 20231107150525.png",
     "photos/Pasted image 20231105184405.png",
-    "photos/Pasted image 20231105165318.png",
-    "photos/Pasted image 20231104211647.png",
-    "photos/Pasted image 20231104210537.png",
-    "photos/Pasted image 20231104210322.png",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",

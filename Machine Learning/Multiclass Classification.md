@@ -39,3 +39,5 @@ x \to b(x) = \left( b_{1}(x), \dots, b_{k}(x) \right) \\
 \mathbb{P}(y=k|x) = \frac{{\exp(\left< w_{k},x \right> + w_{0k})}}{\sum_{j=1}^{k} (\left< w_{j},x \right> + w_{0j} )} 
 \end{align}
 $$
+
+## [[Multiclass Classification Metrics]]
