@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decision Tree.md",
+                "file": "Machine Learning/Matrix Differentiation.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decision Tree.md",
+                "file": "Machine Learning/Matrix Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decision Tree.md",
+                "file": "Machine Learning/Matrix Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decision Tree.md"
+                "file": "Machine Learning/Matrix Differentiation.md"
               }
             }
           },
@@ -193,8 +193,10 @@
   },
   "active": "f84354aa7aa8ee61",
   "lastOpenFiles": [
-    "Machine Learning/XGBoost.md",
+    "Machine Learning/Matrix.md",
+    "Machine Learning/Matrix Differentiation.md",
     "Decision Tree.md",
+    "Machine Learning/XGBoost.md",
     "Machine Learning/Entropy.md",
     "photos/Pasted image 20231110115118.png",
     "photos/Pasted image 20231110115024.png",
@@ -225,8 +227,6 @@
     "photos/Pasted image 20231107235508.png",
     "photos/Pasted image 20231107235503.png",
     "photos/Pasted image 20231107234806.png",
-    "Econometrics/Functional Transformations.md",
-    "diary/Cusp Catastrophe Research.md",
     "photos/Pasted image 20231107150525.png",
     "photos/Pasted image 20231105184405.png",
     "photos/hw db.pdf",

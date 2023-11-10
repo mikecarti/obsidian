@@ -9,3 +9,4 @@ $$
 [[Matrix Trace]]
 [[Orthogonal Matrix]]
 [[Triangular Matrix]]
+[[Matrix Differentiation]]
