@@ -1,6 +1,12 @@
 ## Application
 Fast Differentiation in ML
-## Definition 
+
+## Definition
+$$
+df(X) = \left< \nabla f(x), dx \right> 
+$$
+
+## Formulation
 Let $L$ be a differential for matrices
 $$
 \begin{align}
