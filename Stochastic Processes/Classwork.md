@@ -572,3 +572,26 @@ a^{2} & win
 \end{align}
 $$
 
+
+
+# 10.11(Lecture)
+[[Stochastic Integral]]
+### Exercise 1
+Calculate 
+$$
+	\int _0^{10}\underbrace{ Y_{t} }_{ quantity }d\underbrace{ W_{t} }_{ price } \quad \text{Where } Y_{t} = \begin{cases}
+2  & t \, \in \,[0;7] \\
+9 & t \, \in \, [7,\infty]
+\end{cases} 
+$$
+at time t=0. i buy 2 apples $-2 * W_{0}$
+
+at time t=7, i buy 7 apples $-7 * W_{7}$
+
+at time t=10, i sell 9 apples $+9 * W_{10}$
+$$
+\int _{0}^{10} Y_{t}dW_{t} = -2W_{0}-7W_{7}+9 \cdot W_{10} 
+$$
+
+### Exercise 2
+

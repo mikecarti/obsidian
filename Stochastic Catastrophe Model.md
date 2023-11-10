@@ -13,4 +13,4 @@ f(u, t, x_{0}) = \frac{d}{du}\text{Prob}  [x(t)<u \;\mid\;x(0)=x_{0}]
 $$
 
 ## Related:
-[[Brownian Motion]]
+[[Wiener Process (Brownian Motion)]]

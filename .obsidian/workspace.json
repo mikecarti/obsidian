@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Multiclass Classification.md",
+                "file": "Machine Learning/Decision Tree.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,20 +21,36 @@
             }
           },
           {
-            "id": "f84354aa7aa8ee61",
+            "id": "1a0bfa81dcfac1c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
+                "file": "Machine Learning/MultiLabel Classification.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "11a71570988f28e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f84354aa7aa8ee61",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -101,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/Matrix Differentiation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,42 +204,42 @@
   },
   "active": "f84354aa7aa8ee61",
   "lastOpenFiles": [
-    "Machine Learning/Matrix.md",
+    "Stochastic Processes/Stochastic Integral.md",
+    "Stochastic Processes/Classwork.md",
+    "Machine Learning/MultiLabel Classification.md",
+    "Entropy (information theory).md",
+    "Dynamic Optimization Problem.md",
+    "Dynamic Travelling Salesman.md",
+    "Cloth Washing.md",
+    "Deep Learning/Torch (Python).md",
+    "Machine Learning/Multiclass Classification Metrics.md",
+    "Machine Learning/Decision Tree.md",
+    "Stochastic Processes/L2 limit.md",
+    "orphaned files output.md",
+    "Stochastic Catastrophe Model.md",
+    "Brownian Motion.md",
+    "stochastic model.md",
+    "Econometrics/Classwork.md",
+    "photos/Pasted image 20231110170237.png",
+    "Deep Learning/Wiener Process (Brownian Motion).md",
     "Machine Learning/Matrix Differentiation.md",
-    "Decision Tree.md",
+    "Machine Learning/Multiclass Classification.md",
+    "Machine Learning/Matrix.md",
     "Machine Learning/XGBoost.md",
     "Machine Learning/Entropy.md",
     "photos/Pasted image 20231110115118.png",
     "photos/Pasted image 20231110115024.png",
     "photos/Pasted image 20231110114957.png",
-    "Machine Learning/Multiclass Classification.md",
     "Machine Learning/Linear Classification.md",
     "Machine Learning/Binary Classification.md",
-    "MultiLabel Classification.md",
-    "Multiclass Classification Metrics.md",
     "photos/Pasted image 20231110112516.png",
-    "Torch (Python).md",
-    "Cloth Washing.md",
     "photos/Pasted image 20231110003336.png",
-    "Dynamic Travelling Salesman.md",
     "diary/2023-11-09.md",
     "Econometrics/Box-Cox Test.md",
-    "Dynamic Optimization Problem.md",
-    "Entropy (information theory).md",
-    "Deep Learning/Cross Entropy Loss.md",
-    "Stochastic Processes/Classwork.md",
-    "Deep Learning/Wiener Process (Brownian Motion).md",
-    "Machine Learning/AUC ROC.md",
-    "Catastrophe Theory.md",
-    "Cusp Catastrophe.md",
-    "Potential Function.md",
-    "Diffeomorphism.md",
-    "Теория Выпрямления.md",
     "photos/Pasted image 20231107235508.png",
     "photos/Pasted image 20231107235503.png",
     "photos/Pasted image 20231107234806.png",
     "photos/Pasted image 20231107150525.png",
-    "photos/Pasted image 20231105184405.png",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",
