@@ -12,6 +12,8 @@ $$
 
 Let rows represent [[Domain and Range|domain]] and columns represent [[Domain and Range|range]], then:
 
+$df( \cdot)=$ ...
+
 |        | Scalar | Vector | Matrix |  
 |--------| -------- | -------- | -------- |  
 | Scalar| f'(x)dx | $J dx$ | - |  
@@ -30,6 +32,7 @@ properties are really similar to common differentials, but it is important to re
 1) $d(A^{-1}) = -A^{-1}dAA^{-1}$
 2) $d (det \,A) = tr(det(A)A^{-1} dA)$
 3) $\nabla_{A}tr(A) = I_{n}$
+4) $d \left< A,X \right> = \left< A, dX \right>$
 
 
 ## Examples
