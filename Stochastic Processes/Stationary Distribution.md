@@ -10,4 +10,4 @@ $$
 u(n) - probability distribution after n steps in [[Markov chain|MC]] 
 
 ## [[Eigenvector]]
-Stationary distribution may be also viewed as an [[eigenvector]] for a [[Markov chain#Transition Matrix |Transition Matrix]] P.
+Stationary distribution may be also viewed as an [[Eigenvector]] for a [[Markov chain#Transition Matrix |Transition Matrix]] P.

@@ -27,6 +27,7 @@ properties are really similar to common differentials, but it is important to re
 3) $d(A^{T})=(dA)^{T}$
 4) $dC = 0$     for a constant matrix $C$
 6) $s \in R^{1\times1} \implies s^{T}=s \quad tr(s)=s \quad sA = As$ 
+7) $\left< x,Ay \right>=\left< A^{T}x,y \right>$
 
 ## Useful Differentials
 1) $d(A^{-1}) = -A^{-1}dAA^{-1}$
