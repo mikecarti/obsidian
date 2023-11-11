@@ -13,12 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
+                "file": "Machine Learning/Loss Function.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "eaf47b71635261a7"
+          }
+        ]
+      },
+      {
+        "id": "ca73a9ee554364c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb6de864240f0d86",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Machine Learning/Loss Function.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "eaf47b71635261a7"
           }
         ]
       }
@@ -86,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
+                "file": "Machine Learning/Loss Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md",
+                "file": "Machine Learning/Loss Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Matrix Differentiation.md"
+                "file": "Machine Learning/Loss Function.md"
               }
             }
           },
@@ -178,6 +221,22 @@
   },
   "active": "4a32014c70965a72",
   "lastOpenFiles": [
+    "Deep Learning/Batch Normalization.md",
+    "Machine Learning/Modifications Of Gradient Descent.md",
+    "Machine Learning/RMSProp.md",
+    "Deep Learning/Adam Optimizer.md",
+    "Machine Learning/Gradient Learning Methods.md",
+    "Gradient Descent with Momentum.md",
+    "AdaGrad (Adaptive Gradient).md",
+    "Machine Learning/Stochastic Average Gradient (SAG).md",
+    "Machine Learning/Stochastic Gradient Descent.md",
+    "Machine Learning/Gradient Descent.md",
+    "Machine Learning/SVM (Support Vector Machine).md",
+    "Machine Learning/Linear Classification.md",
+    "Machine Learning/MultiLabel Classification.md",
+    "Machine Learning/Decision Tree.md",
+    "Machine Learning/Matrix.md",
+    "Machine Learning/Matrix Differentiation.md",
     "Dot (Scalar) Product.md",
     "Frobenius Scalar (Dot) Product.md",
     "Spectral Norm of a Matrix.md",
@@ -188,22 +247,6 @@
     "Spectrum of Operator (or Matrix).md",
     "Matrix EigenValues.md",
     "Frobenius Norm.md",
-    "Machine Learning/Matrix Differentiation.md",
-    "Stochastic Processes/Stochastic Integral.md",
-    "Stochastic Processes/Classwork.md",
-    "Machine Learning/MultiLabel Classification.md",
-    "Entropy (information theory).md",
-    "Dynamic Optimization Problem.md",
-    "Dynamic Travelling Salesman.md",
-    "Cloth Washing.md",
-    "Deep Learning/Torch (Python).md",
-    "Machine Learning/Multiclass Classification Metrics.md",
-    "Machine Learning/Decision Tree.md",
-    "Stochastic Processes/L2 limit.md",
-    "orphaned files output.md",
-    "Stochastic Catastrophe Model.md",
-    "Brownian Motion.md",
-    "stochastic model.md",
     "photos/Pasted image 20231110170237.png",
     "photos/Pasted image 20231110115118.png",
     "photos/Pasted image 20231110115024.png",
