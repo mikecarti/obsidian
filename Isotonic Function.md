@@ -1,0 +1,1 @@
+non-decreasing piecewise function (кусочно-постоянная)

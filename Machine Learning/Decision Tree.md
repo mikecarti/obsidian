@@ -14,6 +14,15 @@ Decision tree - binary tree, where:
 	1) $v$ - node with child nodes $\implies \beta_{v}:\mathbb{X}\to \{ 0,1 \}$ predicate
 	2) $v$ - leaf $\implies c_{v} \, \in \, \mathbb{Y}$ - prediction.
 
+
+### Important
+Small variations in train data, result in gigantic changes in decision tree splitting.
+
+## SK-Learn
+```
+max_params = "size of subset for choosing every predicat"
+```
+
 ## Structure
 ### Predicates
 $$
@@ -114,7 +123,7 @@ $$
 Q(R_{m},j,t) = H(R_{m}) - \frac{{\mid R_{l}\mid}}{\mid R_{m}\mid }H(R_{l}) - \frac{{\mid R_{r}\mid }}{\mid R_{m}\mid}H(R_{r}) \to \max_{}
 \end{align}
 $$
-$\frac{{\mid R_{l}\mid}}{\mid R_{m}\mid } \text{ and } \frac{{\mid R_{r}\mid}}{\mid R_{m}\mid }$ are needed to divide tree in most balanced way
+$\frac{{\mid R_{l}\mid}}{\mid R_{m}\mid } \text{ and } \frac{{\mid R_{r}\mid}}{\mid R_{m}\mid }$ are needed to divide tree in most balanced way. $R$ is number of objects located in some part of a tree. This normalization is done to value more tree parts where there are more objects.
 
 For simplicity:
 $$
@@ -126,3 +135,6 @@ cost-complexity pruning. (Cutting of nodes)
 
 ### [[Multi-Way Trees]]
 Non-binary trees, but that's very hard to make, and there are over-fitting risks
+
+## Related
+[[Multivariate Adaptive Regression Splines Model (MARS)]]
