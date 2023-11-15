@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model Ensembles.md",
+                "file": "Camera Properties.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model Ensembles.md",
+                "file": "Camera Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model Ensembles.md",
+                "file": "Camera Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model Ensembles.md"
+                "file": "Camera Properties.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "4a32014c70965a72",
   "lastOpenFiles": [
-    "Bootstrap.md",
     "Model Ensembles.md",
+    "Camera Properties.md",
+    "Bootstrap.md",
     "Machine Learning/Decision Tree.md",
     "photos/Pasted image 20231115133627.png",
     "Multivariate Adaptive Regression Splines Model (MARS).md",
@@ -208,7 +209,6 @@
     "Machine Learning/Gradient Descent.md",
     "Machine Learning/SVM (Support Vector Machine).md",
     "Machine Learning/Linear Classification.md",
-    "Machine Learning/MultiLabel Classification.md",
     "photos/Pasted image 20231110170237.png",
     "photos/Pasted image 20231110115118.png",
     "photos/Pasted image 20231110115024.png",
