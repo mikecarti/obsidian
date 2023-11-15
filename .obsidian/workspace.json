@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Decision Tree.md",
+                "file": "Model Ensembles.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Decision Tree.md",
+                "file": "Model Ensembles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Decision Tree.md",
+                "file": "Model Ensembles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Decision Tree.md"
+                "file": "Model Ensembles.md"
               }
             }
           },
@@ -179,8 +179,11 @@
   },
   "active": "4a32014c70965a72",
   "lastOpenFiles": [
-    "Multivariate Adaptive Regression Splines Model (MARS).md",
+    "Bootstrap.md",
+    "Model Ensembles.md",
     "Machine Learning/Decision Tree.md",
+    "photos/Pasted image 20231115133627.png",
+    "Multivariate Adaptive Regression Splines Model (MARS).md",
     "Isotonic Regression.md",
     "Isotonic Function.md",
     "Probability Estimation.md",
@@ -206,15 +209,12 @@
     "Machine Learning/SVM (Support Vector Machine).md",
     "Machine Learning/Linear Classification.md",
     "Machine Learning/MultiLabel Classification.md",
-    "Machine Learning/Matrix.md",
-    "Machine Learning/Matrix Differentiation.md",
     "photos/Pasted image 20231110170237.png",
     "photos/Pasted image 20231110115118.png",
     "photos/Pasted image 20231110115024.png",
     "photos/Pasted image 20231110114957.png",
     "photos/Pasted image 20231110112516.png",
     "photos/Pasted image 20231110003336.png",
-    "photos/Pasted image 20231107235508.png",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",

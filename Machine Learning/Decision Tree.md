@@ -136,5 +136,48 @@ cost-complexity pruning. (Cutting of nodes)
 ### [[Multi-Way Trees]]
 Non-binary trees, but that's very hard to make, and there are over-fitting risks
 
+## Missing Data (Nan)
+#### Option 1
+Training: in R, feature j has nans $[x_{j}\geq t]$ - how to calculate $Q(R,j,t)?$
+let $V_{j}(R)$ - objects that has known $x_{j}$
+
+$$
+Q(R,j,t) = \frac{{\mid \{  R\} - \{ V_{j}(R) \}\mid}}{\mid R\mid} Q(R - V_{j}(R), j,t)
+$$
+
+#### Option 2 (Surrogate Predicate)
+...
+
+
+### Categorical Features
+$x_{j}$ - cat.
+$x_{j} \, \in \, Q=\{ u_{1}, \dots, u_{q} \}$
+
+1) Trivial option: $[x_j=q]$
+2) Multi-Way splits
+3) best way: $Q= Q_{1}\cup Q_{2}$
+$\beta(x)=[x_{j}\, \in \,Q_{1}]$
+$R_{m}(U)$
+$N_{m}(u)=\mid R_{m}(u)\mid$
+$\mathbb{Y}=\{ -1,+1 \}$
+![[Pasted image 20231115133627.png]]
+
+## Methods of Tree Construction
+- ID3: экстр крит .кр. останова.
+- C4.5: Gain Ratio, сттрижка, проспуски
+- CART: ...
+
+## Connection between trees and [[Linear Regression|Linear Models]]
+$$
+\begin{align}
+&\mathbb{X} = J_{1} \cup \dots \cup J_{n} \\
+&w_{1}, \dots, w_{n} - \text{ predictions in according leaves} \\
+&a(x) = \sum_{j=1}^{n}\underbrace{ w_{j} }_{ weights }\underbrace{ [x \, \in \, J_{j}] }_{ features }
+\end{align}
+$$
+
+In other words: tree finds new non-linear features, and builds upon them a new linear model.
+
+Idea: you can build trees with random predicates and use indices of leaves as new features.
 ## Related
 [[Multivariate Adaptive Regression Splines Model (MARS)]]
