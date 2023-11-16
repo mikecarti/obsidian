@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camera Properties.md",
+                "file": "Git commands.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera Properties.md",
+                "file": "Git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera Properties.md",
+                "file": "Git commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera Properties.md"
+                "file": "Git commands.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "4a32014c70965a72",
   "lastOpenFiles": [
-    "Model Ensembles.md",
     "Camera Properties.md",
+    "Model Ensembles.md",
     "Bootstrap.md",
     "Machine Learning/Decision Tree.md",
     "photos/Pasted image 20231115133627.png",
