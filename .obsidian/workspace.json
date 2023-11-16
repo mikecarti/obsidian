@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Classwork.md",
+                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/Classwork.md",
+                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/Classwork.md",
+                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/Classwork.md"
+                "file": "Machine Learning/SVM (Support Vector Machine).md"
               }
             }
           },
@@ -219,8 +219,10 @@
   },
   "active": "73cfb92b85535a72",
   "lastOpenFiles": [
-    "Errors and Residuals of Linear Model.md",
+    "Machine Learning/Precision and Recall.md",
+    "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
     "Econometrics/Classwork.md",
+    "Errors and Residuals of Linear Model.md",
     "Heteroskedasticity.md",
     "Robustness.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
@@ -253,8 +255,6 @@
     "Machine Learning/Decision Tree.md",
     "Machine Learning/Multivariate Adaptive Regression Splines Model (MARS).md",
     "Machine Learning/Isotonic Regression.md",
-    "Machine Learning/Isotonic Function.md",
-    "Machine Learning/Probability Estimation.md",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",

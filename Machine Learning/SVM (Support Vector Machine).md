@@ -12,9 +12,9 @@ Red makes minimal amount of assumptions.
 ## Linearly Separable Case
 $$
 \begin{align}
-&\exists w: y:   \\
-&= sign(\langle \alpha w, x \rangle + \alpha w_{0}) \\
-&\min_{x_{i}\in X} \lvert \langle w,x_{i} \rangle + w_{0} \rvert = 1 \text{ - can be got with scaling of parameters} 
+&\exists w \text{ s.t. } y:   \\
+&y= sign(\langle \alpha w, x \rangle + \alpha w_{0}) \\
+&\min_{x_{i}\in X} \lvert \langle w,x_{i} \rangle + w_{0} \rvert = 1 \text{ - can be achieved with scaling of parameters} 
 \end{align}
 $$
 
