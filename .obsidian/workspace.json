@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
+                "file": "Econometrics/Classwork.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
+                "file": "Econometrics/Classwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
+                "file": "Econometrics/Classwork.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md"
+                "file": "Econometrics/Classwork.md"
               }
             }
           },
@@ -219,8 +219,11 @@
   },
   "active": "73cfb92b85535a72",
   "lastOpenFiles": [
-    "Econometrics/Adjusted R^2.md",
+    "Heteroskedasticity.md",
+    "Robustness.md",
+    "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
+    "Econometrics/Adjusted R^2.md",
     "Seq2Seq.md",
     "LSTM (Long Short-Term Memory).md",
     "Beam Search.md",
@@ -252,9 +255,6 @@
     "Machine Learning/Probability Estimation.md",
     "Machine Learning/Platta Calibration.md",
     "Machine Learning/Metrics and Loss Functions.md",
-    "Deep Learning/Cross Entropy Loss.md",
-    "Machine Learning/Gini Index.md",
-    "Machine Learning/Entropy (information theory).md",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",
