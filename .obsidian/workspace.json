@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seq2Seq.md",
+                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seq2Seq.md",
+                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seq2Seq.md",
+                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seq2Seq.md"
+                "file": "Econometrics/Multiple Regression Hypothesis Testing (Inference).md"
               }
             }
           },
@@ -219,8 +219,10 @@
   },
   "active": "73cfb92b85535a72",
   "lastOpenFiles": [
-    "LSTM (Long Short-Term Memory).md",
+    "Econometrics/Adjusted R^2.md",
+    "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Seq2Seq.md",
+    "LSTM (Long Short-Term Memory).md",
     "Beam Search.md",
     "photos/Pasted image 20231116140709.png",
     "photos/Pasted image 20231116140509.png",
@@ -253,7 +255,6 @@
     "Deep Learning/Cross Entropy Loss.md",
     "Machine Learning/Gini Index.md",
     "Machine Learning/Entropy (information theory).md",
-    "Machine Learning/Loss Function.md",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",

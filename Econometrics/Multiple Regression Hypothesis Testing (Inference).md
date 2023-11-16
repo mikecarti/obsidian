@@ -1,4 +1,4 @@
-
+**
 
 ## Estimator of variance of error
 $\epsilon \sim N(0; \sigma^2)$
