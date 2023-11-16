@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RNN (Recurrent Neural Network).md",
+                "file": "Seq2Seq.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d4ba1f6a28e6665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LSTM (Long Short-Term Memory).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RNN (Recurrent Neural Network).md",
+                "file": "Seq2Seq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RNN (Recurrent Neural Network).md",
+                "file": "Seq2Seq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RNN (Recurrent Neural Network).md"
+                "file": "Seq2Seq.md"
               }
             }
           },
@@ -206,12 +219,21 @@
   },
   "active": "73cfb92b85535a72",
   "lastOpenFiles": [
+    "LSTM (Long Short-Term Memory).md",
+    "Seq2Seq.md",
+    "Beam Search.md",
+    "photos/Pasted image 20231116140709.png",
+    "photos/Pasted image 20231116140509.png",
+    "photos/Pasted image 20231116140448.png",
+    "photos/Pasted image 20231116140341.png",
+    "photos/Pasted image 20231116140025.png",
+    "photos/Pasted image 20231116135520.png",
+    "RNN (Recurrent Neural Network).md",
+    "photos/Pasted image 20231116134919.png",
+    "photos/Pasted image 20231116134907.png",
     "photos/Pasted image 20231116132751.png",
     "photos/Pasted image 20231116132427.png",
-    "photos/Pasted image 20231116132335.png",
-    "photos/Pasted image 20231116131844.png",
     "Теория Прогнозирования.md",
-    "RNN (Recurrent Neural Network).md",
     "Качественная Теория.md",
     "Странные Аттракторы.md",
     "Potential Function.md",
@@ -220,14 +242,8 @@
     "Camera Properties.md",
     "Model Ensembles.md",
     "Machine Learning/Bootstrap.md",
-    "photos/Pasted image 20231116122617.png",
-    "photos/Pasted image 20231116122616.png",
-    "photos/Pasted image 20231116121628.png",
-    "photos/Pasted image 20231116121614.png",
-    "photos/Pasted image 20231116120719.png",
     "Git commands.md",
     "Machine Learning/Decision Tree.md",
-    "photos/Pasted image 20231115133627.png",
     "Machine Learning/Multivariate Adaptive Regression Splines Model (MARS).md",
     "Machine Learning/Isotonic Regression.md",
     "Machine Learning/Isotonic Function.md",
@@ -235,13 +251,9 @@
     "Machine Learning/Platta Calibration.md",
     "Machine Learning/Metrics and Loss Functions.md",
     "Deep Learning/Cross Entropy Loss.md",
-    "photos/Pasted image 20231114115121.png",
     "Machine Learning/Gini Index.md",
     "Machine Learning/Entropy (information theory).md",
     "Machine Learning/Loss Function.md",
-    "Deep Learning/Batch Normalization.md",
-    "Machine Learning/Modifications Of Gradient Descent.md",
-    "Machine Learning/RMSProp.md",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",
