@@ -40,18 +40,18 @@ $$
 
 b) [[Weighted Least Squares]]
 $$
-\begin{align}
+\begin{gather}
 \epsilon_{i} \sim N(0, \alpha x_{i}) \\
 \frac{\epsilon_{i}}{x_{i}} \sim N(0,a) \\
 \frac{y_{i}}{x_{i}} = \beta+\frac{\epsilon_{i}}{x_{i}} \\
 \hat{\beta}_{WLS} = \frac{1}{n}\sum{\frac{y_{i}}{x_{i}}} \\
-E(\hat{\beta}) = \frac{1}{n}\sum{\frac{\beta x_{i}+E(\epsilon_{i})/}{x_{i}}} = \frac{1}{n}\sum\beta & =\beta \\ \\
+E(\hat{\beta}) = \frac{1}{n}\sum{\frac{\beta x_{i}+E(\epsilon_{i})/}{x_{i}}} = \frac{1}{n}\sum\beta  =\beta \\ \\
 
 Var(\hat{\beta}_{WLS}) = E\left( \frac{1}{n}\sum \frac{y_{i}}{x_{i}} - \beta\right)^{2}  =  \\
 = E\left( \frac{1}{n}\sum\frac{{\beta}x_{i}+\epsilon_{i}}{x_{i}}-\beta \right) ^{2} = \\
 =\frac{1}{n^{2}}E\left( \epsilon  \frac{{\epsilon_{i}}}{x_{i}}\right)^{2} = \frac{1}{n^{2}}E\left( \sum \frac{{\epsilon_{i}^{2}}}{x_{i}^{2}} + \sum\sum \frac{{\epsilon_{i}\epsilon j}}{x_{i}x_{j}} \right) \quad= \frac{1}{n^{2}}\sum {\frac{E \epsilon^{2}}{X_{i}^{2}}} = \\
 = \frac{1}{n^{2}}\sum a = \frac{a}{n}
-\end{align}
+\end{gather}
 $$
 
 c) ...
