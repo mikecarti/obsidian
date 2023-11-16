@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Качественная Теория.md",
+                "file": "Model Ensembles.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68c0291730b1cd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "False Nearest Neighbours (FNN).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73cfb92b85535a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RNN (Recurrent Neural Network).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Качественная Теория.md",
+                "file": "RNN (Recurrent Neural Network).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Качественная Теория.md",
+                "file": "RNN (Recurrent Neural Network).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Качественная Теория.md"
+                "file": "RNN (Recurrent Neural Network).md"
               }
             }
           },
@@ -177,44 +204,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4a32014c70965a72",
+  "active": "73cfb92b85535a72",
   "lastOpenFiles": [
+    "photos/Pasted image 20231116132751.png",
+    "photos/Pasted image 20231116132427.png",
+    "photos/Pasted image 20231116132335.png",
+    "photos/Pasted image 20231116131844.png",
+    "Теория Прогнозирования.md",
+    "RNN (Recurrent Neural Network).md",
+    "Качественная Теория.md",
+    "Странные Аттракторы.md",
+    "Potential Function.md",
+    "Фрактальное Множество.md",
+    "False Nearest Neighbours (FNN).md",
+    "Camera Properties.md",
+    "Model Ensembles.md",
+    "Machine Learning/Bootstrap.md",
     "photos/Pasted image 20231116122617.png",
     "photos/Pasted image 20231116122616.png",
-    "Странные Аттракторы.md",
-    "Качественная Теория.md",
-    "Фрактальное Множество.md",
     "photos/Pasted image 20231116121628.png",
     "photos/Pasted image 20231116121614.png",
     "photos/Pasted image 20231116120719.png",
-    "Теория Прогнозирования.md",
-    "False Nearest Neighbours (FNN).md",
     "Git commands.md",
-    "Camera Properties.md",
-    "Model Ensembles.md",
-    "Bootstrap.md",
     "Machine Learning/Decision Tree.md",
     "photos/Pasted image 20231115133627.png",
-    "Multivariate Adaptive Regression Splines Model (MARS).md",
-    "Isotonic Regression.md",
-    "Isotonic Function.md",
-    "Probability Estimation.md",
-    "Platta Calibration.md",
+    "Machine Learning/Multivariate Adaptive Regression Splines Model (MARS).md",
+    "Machine Learning/Isotonic Regression.md",
+    "Machine Learning/Isotonic Function.md",
+    "Machine Learning/Probability Estimation.md",
+    "Machine Learning/Platta Calibration.md",
     "Machine Learning/Metrics and Loss Functions.md",
     "Deep Learning/Cross Entropy Loss.md",
     "photos/Pasted image 20231114115121.png",
     "Machine Learning/Gini Index.md",
-    "photos/Pasted image 20231111154349.png",
-    "photos/Pasted image 20231111154338.png",
-    "Entropy (information theory).md",
+    "Machine Learning/Entropy (information theory).md",
     "Machine Learning/Loss Function.md",
     "Deep Learning/Batch Normalization.md",
     "Machine Learning/Modifications Of Gradient Descent.md",
     "Machine Learning/RMSProp.md",
-    "Deep Learning/Adam Optimizer.md",
-    "Machine Learning/Gradient Learning Methods.md",
-    "photos/Pasted image 20231110170237.png",
-    "photos/Pasted image 20231110115118.png",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",
