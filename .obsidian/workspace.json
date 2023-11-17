@@ -50,8 +50,13 @@
             "id": "530b77f5d2efcf42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Stochastic Processes/Stochastic Integral.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -118,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -134,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stochastic Processes/Stochastic Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stochastic Processes/Stochastic Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +179,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Stochastic Processes/Stochastic Integral.md"
+              }
             }
           },
           {
@@ -199,9 +209,17 @@
               "type": "code-execute-manage-executors",
               "state": {}
             }
+          },
+          {
+            "id": "2f530a7db4a6ac3d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,11 +235,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "530b77f5d2efcf42",
   "lastOpenFiles": [
+    "photos/Pasted image 20231117164642.png",
+    "photos/Pasted image 20231117164400.png",
+    "Stochastic Processes/Stochastic Integral.md",
     "Stochastic Processes/Markov Processes.md",
     "Triangular Matrix.md",
     "Machine Learning/Unsupervised Learning.md",
@@ -251,13 +273,10 @@
     "photos/Pasted image 20231116134919.png",
     "photos/Pasted image 20231116134907.png",
     "photos/Pasted image 20231116132751.png",
-    "photos/Pasted image 20231116132427.png",
     "Теория Прогнозирования.md",
     "Качественная Теория.md",
     "Странные Аттракторы.md",
     "Potential Function.md",
-    "Фрактальное Множество.md",
-    "False Nearest Neighbours (FNN).md",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",

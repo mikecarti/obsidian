@@ -15,11 +15,26 @@ $$
 $$
 \int _{0}^{T}W_{t}dW_{t} = \underbrace{ -\frac{T}{2} + \frac{W_{T}^{2}}{2} }_{ martingale }
 $$
+## Shorthand notation
+Normally $a=b$ means a and b are the same object.
+$$
+\begin{align}
+&\text{We write: }dX_{t}= A_{t} \cdot dW_{t} + B_{t}dt \\
+&\text{We mean: }X_{t} = X_{0}+ \int _{0}^{t}A_{u} \cdot dW_{u}+ \int _{0}^{t}B_{u}du  
+\end{align}
+$$
+$dX_{t}$ does not exist, it is not a random variable. It's not a constant, it's just a **shorthand**.
+
+We write:                                                          We mean: 
+![[Pasted image 20231117164400.png]]
+
+![[Pasted image 20231117164642.png]]
 
 ### under mild technical assumptions
 $$
 \int _{0}^{T}\text{Anything}_{t} \, dW_{t} = M_{T}
 $$
+
 
 
 ### Proof of better definition
