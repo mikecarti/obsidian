@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/SVM (Support Vector Machine).md",
-                "mode": "source",
+                "file": "Stochastic Integral Theorems.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -58,22 +58,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d4ba1f6a28e6665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deep Learning/LSTM (Long Short-Term Memory).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Stochastic Integral.md",
+                "file": "Stochastic Integral Theorems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Stochastic Integral.md",
+                "file": "Stochastic Integral Theorems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Stochastic Integral.md"
+                "file": "Stochastic Integral Theorems.md"
               }
             }
           },
@@ -239,11 +226,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "530b77f5d2efcf42",
+  "active": "73cfb92b85535a72",
   "lastOpenFiles": [
+    "Stochastic Processes/Stochastic Integral.md",
+    "Stochastic Integral Theorems.md",
+    "Ito's Process.md",
+    "Machine Learning/SVM (Support Vector Machine).md",
+    "Deep Learning/LSTM (Long Short-Term Memory).md",
+    "Stochastic Processes/Doob's Theorem.md",
     "photos/Pasted image 20231117164642.png",
     "photos/Pasted image 20231117164400.png",
-    "Stochastic Processes/Stochastic Integral.md",
     "Stochastic Processes/Markov Processes.md",
     "Triangular Matrix.md",
     "Machine Learning/Unsupervised Learning.md",
@@ -252,7 +244,6 @@
     "Machine Learning/Logistic Regression.md",
     "Deep Learning/Seq2Seq.md",
     "Econometrics/Errors and Residuals of Linear Model.md",
-    "Machine Learning/SVM (Support Vector Machine).md",
     "Machine Learning/Precision and Recall.md",
     "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
     "Econometrics/Classwork.md",
@@ -261,7 +252,6 @@
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Econometrics/Adjusted R^2.md",
-    "Deep Learning/LSTM (Long Short-Term Memory).md",
     "Deep Learning/Beam Search.md",
     "photos/Pasted image 20231116140709.png",
     "photos/Pasted image 20231116140509.png",
@@ -272,11 +262,8 @@
     "Deep Learning/RNN (Recurrent Neural Network).md",
     "photos/Pasted image 20231116134919.png",
     "photos/Pasted image 20231116134907.png",
-    "photos/Pasted image 20231116132751.png",
     "Теория Прогнозирования.md",
     "Качественная Теория.md",
-    "Странные Аттракторы.md",
-    "Potential Function.md",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",

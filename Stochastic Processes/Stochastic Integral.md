@@ -20,7 +20,8 @@ Normally $a=b$ means a and b are the same object.
 $$
 \begin{align}
 &\text{We write: }dX_{t}= A_{t} \cdot dW_{t} + B_{t}dt \\
-&\text{We mean: }X_{t} = X_{0}+ \int _{0}^{t}A_{u} \cdot dW_{u}+ \int _{0}^{t}B_{u}du  
+&\text{We mean: }X_{t} = X_{0}+ \int _{0}^{t}A_{u} \cdot dW_{u}+ \int _{0}^{t}B_{u}du  \\
+&\text{That means that } X_{t} \text{ is locally differentiable}
 \end{align}
 $$
 $dX_{t}$ does not exist, it is not a random variable. It's not a constant, it's just a **shorthand**.
