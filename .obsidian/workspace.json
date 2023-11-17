@@ -47,12 +47,20 @@
             }
           },
           {
+            "id": "530b77f5d2efcf42",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "9d4ba1f6a28e6665",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LSTM (Long Short-Term Memory).md",
+                "file": "Deep Learning/LSTM (Long Short-Term Memory).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -127,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/SVM (Support Vector Machine).md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,27 +220,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "73cfb92b85535a72",
+  "active": "530b77f5d2efcf42",
   "lastOpenFiles": [
+    "Stochastic Processes/Markov Processes.md",
+    "Triangular Matrix.md",
+    "Machine Learning/Unsupervised Learning.md",
+    "Machine Learning/Principal Component Analysis (PCA).md",
+    "Machine Learning/Basic Methods of NLP.md",
+    "Machine Learning/Logistic Regression.md",
+    "Deep Learning/Seq2Seq.md",
+    "Econometrics/Errors and Residuals of Linear Model.md",
+    "Machine Learning/SVM (Support Vector Machine).md",
     "Machine Learning/Precision and Recall.md",
     "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
     "Econometrics/Classwork.md",
-    "Errors and Residuals of Linear Model.md",
-    "Heteroskedasticity.md",
-    "Robustness.md",
+    "Econometrics/Heteroskedasticity.md",
+    "Econometrics/Robustness.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "Econometrics/Adjusted R^2.md",
-    "Seq2Seq.md",
-    "LSTM (Long Short-Term Memory).md",
-    "Beam Search.md",
+    "Deep Learning/LSTM (Long Short-Term Memory).md",
+    "Deep Learning/Beam Search.md",
     "photos/Pasted image 20231116140709.png",
     "photos/Pasted image 20231116140509.png",
     "photos/Pasted image 20231116140448.png",
     "photos/Pasted image 20231116140341.png",
     "photos/Pasted image 20231116140025.png",
     "photos/Pasted image 20231116135520.png",
-    "RNN (Recurrent Neural Network).md",
+    "Deep Learning/RNN (Recurrent Neural Network).md",
     "photos/Pasted image 20231116134919.png",
     "photos/Pasted image 20231116134907.png",
     "photos/Pasted image 20231116132751.png",
@@ -248,13 +258,6 @@
     "Potential Function.md",
     "Фрактальное Множество.md",
     "False Nearest Neighbours (FNN).md",
-    "Camera Properties.md",
-    "Model Ensembles.md",
-    "Machine Learning/Bootstrap.md",
-    "Git commands.md",
-    "Machine Learning/Decision Tree.md",
-    "Machine Learning/Multivariate Adaptive Regression Splines Model (MARS).md",
-    "Machine Learning/Isotonic Regression.md",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",

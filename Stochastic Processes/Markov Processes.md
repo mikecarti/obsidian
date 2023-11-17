@@ -6,5 +6,4 @@
 
 ## Related
 [[Markov's inequality]]
-[[Gauss Markov Theorem For Best Unbiased Estimator]]
 [[Infinite Markov Chains]]
