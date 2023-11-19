@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloth Washing.md",
+                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloth Washing.md",
+                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloth Washing.md",
+                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloth Washing.md"
+                "file": "Machine Learning/SVM (Support Vector Machine).md"
               }
             }
           },
@@ -228,6 +228,7 @@
   },
   "active": "73cfb92b85535a72",
   "lastOpenFiles": [
+    "Cloth Washing.md",
     "Stochastic Integral Theorems.md",
     "Stochastic Processes/Stochastic Integral.md",
     "Ito's Process.md",
@@ -263,7 +264,6 @@
     "photos/Pasted image 20231116134919.png",
     "photos/Pasted image 20231116134907.png",
     "Теория Прогнозирования.md",
-    "Качественная Теория.md",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",
