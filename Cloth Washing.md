@@ -23,6 +23,8 @@ Default: Synthetics, 30*, 1000 spins, 1:50 time
 - Body color
 - White 
 
+## Socks should not be turbed out
+
 ## Extra Deliberate: 
 Wash these separatly for extra deliberate washing.
 ![[Pasted image 20231110003336.png|600x400]]

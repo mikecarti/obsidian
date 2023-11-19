@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Integral Theorems.md",
-                "mode": "preview",
+                "file": "Cloth Washing.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Integral Theorems.md",
+                "file": "Cloth Washing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Integral Theorems.md",
+                "file": "Cloth Washing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Integral Theorems.md"
+                "file": "Cloth Washing.md"
               }
             }
           },
@@ -228,8 +228,8 @@
   },
   "active": "73cfb92b85535a72",
   "lastOpenFiles": [
-    "Stochastic Processes/Stochastic Integral.md",
     "Stochastic Integral Theorems.md",
+    "Stochastic Processes/Stochastic Integral.md",
     "Ito's Process.md",
     "Machine Learning/SVM (Support Vector Machine).md",
     "Deep Learning/LSTM (Long Short-Term Memory).md",
