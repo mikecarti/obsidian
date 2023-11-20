@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Camera Properties.md",
+                "file": "Tokens.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Camera Properties.md",
+                "file": "Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Camera Properties.md",
+                "file": "Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Camera Properties.md"
+                "file": "Tokens.md"
               }
             }
           },
@@ -227,6 +227,10 @@
   },
   "active": "73cfb92b85535a72",
   "lastOpenFiles": [
+    "Linux commands.md",
+    "Tokens.md",
+    "Git commands.md",
+    "Camera Properties.md",
     "Machine Learning/SVM (Support Vector Machine).md",
     "Cloth Washing.md",
     "Stochastic Integral Theorems.md",
@@ -251,18 +255,14 @@
     "Econometrics/Robustness.md",
     "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
     "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
-    "Econometrics/Adjusted R^2.md",
-    "Deep Learning/Beam Search.md",
     "photos/Pasted image 20231116140709.png",
     "photos/Pasted image 20231116140509.png",
     "photos/Pasted image 20231116140448.png",
     "photos/Pasted image 20231116140341.png",
     "photos/Pasted image 20231116140025.png",
     "photos/Pasted image 20231116135520.png",
-    "Deep Learning/RNN (Recurrent Neural Network).md",
     "photos/Pasted image 20231116134919.png",
     "photos/Pasted image 20231116134907.png",
-    "Теория Прогнозирования.md",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",

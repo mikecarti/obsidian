@@ -25,6 +25,27 @@ docker system prune -a
 lspci
 sudo lshw -C display
 ```
+
+
+#Remove #keybind:
+```
+gsettings list-recursively | grep ......
+gsettings set XXX.XXXXXX.XXXXX.XXX xxxxxx []
+```
+
+#Make #screen #clickable #again:
+```
+pkill VBoxClient (or "ps aux www | grep VBoxClient -- && kill -9 PID")
+VBoxClient-all
+```
+
+
+#Intellij:
+
+# Disable linux latency:
+vm_options -> type command: -Dsun.java2d.metal=false
+
+
 # [[Git commands]]
 
 # [[Virtual Environment]]
