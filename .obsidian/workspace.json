@@ -1,90 +1,49 @@
 {
   "main": {
-    "id": "b1a9a5a0c80f26ee",
+    "id": "0486bbeae13c7c6b",
     "type": "split",
     "children": [
       {
-        "id": "454933619803b479",
+        "id": "532a40619d5bed63",
         "type": "tabs",
         "children": [
           {
-            "id": "4a32014c70965a72",
+            "id": "de296c947f10744f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model Ensembles.md",
+                "file": "API.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68c0291730b1cd95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "False Nearest Neighbours (FNN).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73cfb92b85535a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Manifold.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "530b77f5d2efcf42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stochastic Processes/Stochastic Integral.md",
-                "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eed3b0124250d872",
+    "id": "3f47cd0624e7b8d4",
     "type": "split",
     "children": [
       {
-        "id": "614b6f15d297c255",
+        "id": "b1b15fc1f52e9eb8",
         "type": "tabs",
         "children": [
           {
-            "id": "0808e3cca7f689eb",
+            "id": "2ca1948b1f59c4e9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "8bdf61c85e303884",
+            "id": "46b0c1b750c31ac2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -99,7 +58,7 @@
             }
           },
           {
-            "id": "27b8da8ea57e0ae0",
+            "id": "59302cf43de950aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "597630b082247d37",
+    "id": "649ffa196d98fe11",
     "type": "split",
     "children": [
       {
-        "id": "8c62b2ae564f5df4",
+        "id": "ed5522c24bb7d8d6",
         "type": "tabs",
         "children": [
           {
-            "id": "dad250550f6af0d6",
+            "id": "0f40618fcd264855",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manifold.md",
+                "file": "API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,19 +97,19 @@
             }
           },
           {
-            "id": "11c34e9f4dfcc981",
+            "id": "9a1c83741d41401b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manifold.md",
+                "file": "API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "23ec18097353941f",
+            "id": "71eff1ae77bb50fe",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,55 +120,20 @@
             }
           },
           {
-            "id": "644c17f448ea16a1",
+            "id": "0e901bd5c639935b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manifold.md"
+                "file": "API.md"
               }
-            }
-          },
-          {
-            "id": "e13151627a1c01a2",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "9d96ac1f99bbc50e",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "ac116cc735442c79",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
-          },
-          {
-            "id": "2f530a7db4a6ac3d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -219,61 +143,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "73cfb92b85535a72",
-  "lastOpenFiles": [
-    "Matrix Trace.md",
-    "Matrix Transpose.md",
-    "Pair Events.md",
-    "Obsidian Shortcuts.md",
-    "Tokens.md",
-    "Linux commands.md",
-    "Git commands.md",
-    "Camera Properties.md",
-    "Machine Learning/SVM (Support Vector Machine).md",
-    "Cloth Washing.md",
-    "Stochastic Integral Theorems.md",
-    "Stochastic Processes/Stochastic Integral.md",
-    "Ito's Process.md",
-    "Deep Learning/LSTM (Long Short-Term Memory).md",
-    "Stochastic Processes/Doob's Theorem.md",
-    "photos/Pasted image 20231117164642.png",
-    "photos/Pasted image 20231117164400.png",
-    "Stochastic Processes/Markov Processes.md",
-    "Triangular Matrix.md",
-    "Machine Learning/Unsupervised Learning.md",
-    "Machine Learning/Principal Component Analysis (PCA).md",
-    "Machine Learning/Basic Methods of NLP.md",
-    "Machine Learning/Logistic Regression.md",
-    "Deep Learning/Seq2Seq.md",
-    "Econometrics/Errors and Residuals of Linear Model.md",
-    "Machine Learning/Precision and Recall.md",
-    "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
-    "Econometrics/Classwork.md",
-    "photos/Pasted image 20231116140709.png",
-    "photos/Pasted image 20231116140509.png",
-    "photos/Pasted image 20231116140448.png",
-    "photos/Pasted image 20231116140341.png",
-    "photos/Pasted image 20231116140025.png",
-    "photos/Pasted image 20231116135520.png",
-    "photos/Pasted image 20231116134919.png",
-    "photos/Pasted image 20231116134907.png",
-    "photos/hw db.pdf",
-    "Untitled 1.canvas",
-    "Catastrophe Theory",
-    "Deep Learning",
-    "Excalidraw",
-    "photos/decompositions 1.pdf",
-    "photos/decompositions.pdf",
-    "Financial Economics",
-    "Mathematical Optimization",
-    "Excalidraw",
-    "Machine Learning/Seminar Collabs",
-    "Untitled.canvas"
-  ]
+  "active": "de296c947f10744f",
+  "lastOpenFiles": []
 }
