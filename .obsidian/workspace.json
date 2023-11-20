@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/SVM (Support Vector Machine).md",
+                "file": "Camera Properties.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/SVM (Support Vector Machine).md",
+                "file": "Camera Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/SVM (Support Vector Machine).md",
+                "file": "Camera Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/SVM (Support Vector Machine).md"
+                "file": "Camera Properties.md"
               }
             }
           },
@@ -228,11 +227,11 @@
   },
   "active": "73cfb92b85535a72",
   "lastOpenFiles": [
+    "Machine Learning/SVM (Support Vector Machine).md",
     "Cloth Washing.md",
     "Stochastic Integral Theorems.md",
     "Stochastic Processes/Stochastic Integral.md",
     "Ito's Process.md",
-    "Machine Learning/SVM (Support Vector Machine).md",
     "Deep Learning/LSTM (Long Short-Term Memory).md",
     "Stochastic Processes/Doob's Theorem.md",
     "photos/Pasted image 20231117164642.png",
