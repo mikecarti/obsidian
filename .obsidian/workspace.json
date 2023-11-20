@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tokens.md",
+                "file": "Manifold.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tokens.md",
+                "file": "Manifold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tokens.md",
+                "file": "Manifold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tokens.md"
+                "file": "Manifold.md"
               }
             }
           },
@@ -227,8 +227,12 @@
   },
   "active": "73cfb92b85535a72",
   "lastOpenFiles": [
-    "Linux commands.md",
+    "Matrix Trace.md",
+    "Matrix Transpose.md",
+    "Pair Events.md",
+    "Obsidian Shortcuts.md",
     "Tokens.md",
+    "Linux commands.md",
     "Git commands.md",
     "Camera Properties.md",
     "Machine Learning/SVM (Support Vector Machine).md",
@@ -251,10 +255,6 @@
     "Machine Learning/Precision and Recall.md",
     "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
     "Econometrics/Classwork.md",
-    "Econometrics/Heteroskedasticity.md",
-    "Econometrics/Robustness.md",
-    "Econometrics/Gauss Markov Theorem For Best Unbiased Estimator.md",
-    "Econometrics/Multiple Regression Hypothesis Testing (Inference).md",
     "photos/Pasted image 20231116140709.png",
     "photos/Pasted image 20231116140509.png",
     "photos/Pasted image 20231116140448.png",
