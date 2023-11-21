@@ -130,6 +130,43 @@ $$
 \frac{{\mid R_{l}\mid}}{\mid R_{m}\mid }H(R_{l}) + \frac{{\mid R_{r}\mid }}{\mid R_{m}\mid}H(R_{r}) \to \min_{j,t}
 $$
 
+### Classification
+
+**Bad Example** (does not take into account unpopular classes):
+$p_{k}=\frac{1}{\mid R\mid}\sum_{x_{i},y_{i} \, \in \,R}\left[ y_{i}=k \right]$
+$$
+\begin{align}
+&L(y,z) = \left[ y\neq z \right]  \\
+&H(R)=\min_{k\, \in \,\mathbb{Y} } \frac{1}{\mid R\mid}\sum_{\left( x_{i},y_{i} \right) \, \in \,R}\left[ y_{i}\neq k \right] =1-p_{k_{*}}
+\end{align}
+$$
+$p_{k_{*}}$ - The most popular class
+
+**Good Example**:
+$$
+\begin{align}
+& c \, \in \,\mathbb{R}^{k} \\
+&L(y,c)= \sum_{k=1}^{k}\left( c_{k}-\left[ y=k \right]  \right) ^{2} \text{ - Brier Score} \implies \\
+\implies& H(R) = \sum_{k=1}^{k}p_{k}(1-p_{k}) \text{ - Gini Index}
+\end{align}
+$$
+[[Gini Index]]
+
+##### Interesting Facts about [[Gini Index]]
+- $\sum_{i=1}^{n}$ ....
+- Let node $m$ leaf. Prediction will be stochastic: class $k$ wit probablity $P_{mk}$. Expected value of error frequency of a node is equal to [[Gini Index]]
+- Minimization of [[Gini Index]] is almost equivallent to Maximization of number of objects from one class, that are in one  subtree after splitting.
+
+$$
+\begin{align}
+&L(y,c) = -\sum_{k=1}^{k}\left[ y=k \right] \log c_{k} \\
+&H(R)= \min_{c \, \in \,\mathbb{R}^{k}, c_{k}\geq 0, \sum c_{k}=1} \left( -\frac{1}{\mid R\mid}\sum_{(x_{i},y_{i})\, \in \,R}\sum_{k=1}^{k}\left[ y_{i}=k \right] \log c_{k} \right) \\
+&L(c,\lambda) = -\frac{1}{\mid R\mid}\sum_{(x_{i},y_{i})\, \in \,R}\sum_{k=1}^{k} \left[ y_{i}=k \right] \log c_{k}+\lambda\left( \sum_{k=1}^{k}c_{k}-1 \right) \\
+\end{align}
+$$
+![[Pasted image 20231121121733.png|700x400]]
+
+
 ### Tree Pruning
 cost-complexity pruning. (Cutting of nodes)
 

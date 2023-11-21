@@ -13,7 +13,8 @@ Red makes minimal amount of assumptions.
 $$
 \begin{align}
 &\exists w \text{ s.t. } y:   \\
-&y= sign(\langle \alpha w, x \rangle + \alpha w_{0}) \\
+&y= sign(\langle \alpha w, x \rangle + \alpha w_{0}) \text{ - we try to achieve that, because sign shows } \\
+&\text{from which side of hyperplane the data lies} \\
 &\min_{x_{i}\in X} \lvert \langle w,x_{i} \rangle + w_{0} \rvert = 1 \text{ - can be achieved with scaling of parameters} 
 \end{align}
 $$
