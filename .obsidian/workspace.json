@@ -23,12 +23,8 @@
             "id": "3540da58aff1d8e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tokens.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tokens.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,11 +156,12 @@
   },
   "active": "3540da58aff1d8e3",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Tokens.md",
     "Frisch-Waugh Lovell Theorem.md",
     "Specification Errors.md",
     "conflict-files-obsidian-git.md",
     "Weighted Least Squares.md",
-    "Tokens.md",
     "Stochastic Processes/Classwork.md",
     "2023-11-21.md",
     "Stochastic Processes/Stochastic Processes and Time Series.md",
