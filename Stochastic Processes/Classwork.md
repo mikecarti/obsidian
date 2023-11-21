@@ -595,3 +595,8 @@ $$
 
 ### Exercise 2
 
+
+
+## 21.11 (Seminar)
+Task 7
+
