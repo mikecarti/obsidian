@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tokens.md",
+                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6501294c9ed11a1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning/Masking.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -51,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "649ffa196d98fe11",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tokens.md",
+                "file": "Deep Learning/Masking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tokens.md",
+                "file": "Deep Learning/Masking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tokens.md"
+                "file": "Deep Learning/Masking.md"
               }
             }
           }
@@ -162,19 +173,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3540da58aff1d8e3",
+  "active": "6501294c9ed11a1b",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Tokens.md",
-    "Frisch-Waugh Lovell Theorem.md",
-    "Specification Errors.md",
-    "conflict-files-obsidian-git.md",
-    "Weighted Least Squares.md",
-    "Stochastic Processes/Classwork.md",
+    "Machine Learning/Machine Learning.md",
+    "Deep Learning/Masking.md",
+    "Matrix EigenValues.md",
+    "Machine Learning/Model Ensembles.md",
+    "Machine Learning/Bias-Variance Decomposition (BVD).md",
+    "Econometrics/Specification Errors.md",
     "2023-11-21.md",
+    "Econometrics/Weighted Least Squares.md",
+    "Econometrics/Frisch-Waugh Lovell Theorem.md",
+    "Machine Learning/AdaGrad (Adaptive Gradient).md",
+    "Machine Learning/Metrics of Ranking Quality (Area Under Curve).md",
+    "Tokens.md",
+    "Untitled.canvas",
+    "conflict-files-obsidian-git.md",
+    "Stochastic Processes/Classwork.md",
     "Stochastic Processes/Stochastic Processes and Time Series.md",
     "Pasted image 20231121121733.png",
-    "Bias-Variance Decomposition (BVD).md",
     "Git commands.md",
     "API.md"
   ]
