@@ -3,7 +3,7 @@ $$
 \tilde{L}(M)=max(0,1-M)
 \end{align}
 $$
-
+              
 ## How to select best hyperplane?
 ![[Pasted image 20231103112337.png]]
 

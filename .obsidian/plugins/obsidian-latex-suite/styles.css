@@ -1,5 +1,6 @@
 /* Settings panel */
 
+<<<<<<< HEAD
 .setting-item.hidden {
     display: none;
 }
@@ -39,16 +40,39 @@
     margin-bottom: 0.75rem;
 }
 
+=======
+.snippets-text-area {
+    width: 100%;
+    display: inline-block;
+}
+
+
+.hidden {
+    display: none;
+}
+
+
+.snippets-text-area .setting-item-info {
+    margin-bottom: 0.75rem;
+}
+
+
+>>>>>>> origin/main
 .snippets-text-area .setting-item-control {
     flex-direction: column;
     align-items: flex-end;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 .snippets-editor-wrapper {
     width: 100%;
     margin-bottom: 0.75rem;
 }
 
+<<<<<<< HEAD
 .snippets-editor-wrapper .cm-editor {
     border: 1px solid var(--background-modifier-border);
     border-radius: 4px;
@@ -58,10 +82,32 @@
     text-align: left;
 }
 
+=======
+
+.snippets-editor-wrapper .cm-editor {
+    height: 20em;
+    font-size: var(--font-inputs);
+    text-align: left;
+    outline: none !important;
+
+    border: 1px solid var(--background-modifier-border);
+}
+
+
+.snippets-editor-wrapper .cm-editor, .cm-scroller {
+    border-radius: 4px;
+}
+
+
+>>>>>>> origin/main
 .snippets-editor-wrapper .cm-line, .snippets-editor-wrapper .cm-lineNumbers {
     font-family: var(--font-monospace);
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 .snippets-footer {
     width: 100%;
     display: flex;
@@ -69,57 +115,109 @@
     justify-content: space-between;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 .snippets-editor-validity {
     display: flex;
     align-items: center;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 .snippets-editor-validity-indicator {
     color: white;
     display: inline-block;
     border-radius: 1em;
+<<<<<<< HEAD
     margin-right: 10px;
+=======
+    margin-right: var(--size-3);
+>>>>>>> origin/main
     cursor: default;
     visibility: hidden;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 .snippets-editor-validity-indicator svg {
     width: 16px !important;
     height: 16px !important;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 .snippets-editor-validity-indicator:hover {
     color: white;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 .snippets-editor-validity-indicator.valid {
     background-color: #7dc535;
     visibility: visible;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 .theme-dark .snippets-editor-validity-indicator.valid {
     background-color: #588b24;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 .snippets-editor-validity-indicator.invalid {
     background-color: #ea5555;
     visibility: visible;
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> origin/main
 .snippets-editor-buttons {
     display: flex;
     flex-direction: row;
 }
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> origin/main
 .latex-suite-confirmation-modal .setting-item {
     border: none;
 }
 
 
+<<<<<<< HEAD
+=======
+.latex-suite-suggestion-placeholder {
+    border-width: 1px 0 1px 0;
+    border-style: solid;
+}
+
+
+>>>>>>> origin/main
 /*
 Snippet color classes.
 */
 
+<<<<<<< HEAD
 /* These extra selectors enforce their color on all children, because CodeMirror does weird nesting of spans when
 nesting multiple decorations. */
 
@@ -153,6 +251,64 @@ nesting multiple decorations. */
 }
 
 .latex-suite-snippet-placeholder-6, span.latex-suite-snippet-placeholder-6 span {
+=======
+.latex-suite-suggestion-placeholder0 {
+    border-color: lightskyblue;
+}
+
+/* These extra selectors enforce their color on all children, because CodeMirror does weird nesting of spans when
+nesting multiple decorations. */
+
+span.latex-suite-suggestion-placeholder0 span {
+    border-color: lightskyblue;
+}
+
+.latex-suite-suggestion-placeholder1 {
+    border-color: orange;
+}
+
+span.latex-suite-suggestion-placeholder1 span {
+    border-color: orange;
+}
+
+.latex-suite-suggestion-placeholder2 {
+    border-color: lime;
+}
+
+span.latex-suite-suggestion-placeholder2 span {
+    border-color: lime;
+}
+
+.latex-suite-suggestion-placeholder3 {
+    border-color: pink;
+}
+
+span.latex-suite-suggestion-placeholder3 span {
+    border-color: pink;
+}
+
+.latex-suite-suggestion-placeholder4 {
+    border-color: cornsilk;
+}
+
+span.latex-suite-suggestion-placeholder4 span {
+    border-color: cornsilk;
+}
+
+.latex-suite-suggestion-placeholder5 {
+    border-color: magenta;
+}
+
+span.latex-suite-suggestion-placeholder5 span {
+    border-color: magenta;
+}
+
+.latex-suite-suggestion-placeholder6 {
+    border-color: navajowhite;
+}
+
+span.latex-suite-suggestion-placeholder6 span {
+>>>>>>> origin/main
     border-color: navajowhite;
 }
 
@@ -233,4 +389,8 @@ sup.cm-math, sub.cm-math {
 
 /* .latex-suite-color-bracket-3 {
     color: #8de15c;
+<<<<<<< HEAD
 } */
+=======
+} */
+>>>>>>> origin/main

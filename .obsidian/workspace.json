@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3540da58aff1d8e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Specification Errors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02e3bcb73856e06e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,10 +172,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de296c947f10744f",
+  "active": "02e3bcb73856e06e",
   "lastOpenFiles": [
-    "Stochastic Processes/Stochastic Processes and Time Series.md",
+    "Specification Errors.md",
+    "conflict-files-obsidian-git.md",
+    "Weighted Least Squares.md",
     "Tokens.md",
+    "Stochastic Processes/Classwork.md",
+    "2023-11-21.md",
+    "Stochastic Processes/Stochastic Processes and Time Series.md",
     "Pasted image 20231121121733.png",
     "Bias-Variance Decomposition (BVD).md",
     "Git commands.md",
