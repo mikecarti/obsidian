@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tokens.md",
+                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tokens.md",
+                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tokens.md",
+                "file": "Machine Learning/SVM (Support Vector Machine).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tokens.md"
+                "file": "Machine Learning/SVM (Support Vector Machine).md"
               }
             }
           },
@@ -227,8 +228,8 @@
   },
   "active": "73cfb92b85535a72",
   "lastOpenFiles": [
-    "Linux commands.md",
     "Tokens.md",
+    "Linux commands.md",
     "Git commands.md",
     "Camera Properties.md",
     "Machine Learning/SVM (Support Vector Machine).md",

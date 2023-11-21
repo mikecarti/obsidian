@@ -18,6 +18,7 @@ $$
 \end{align}
 $$
 
+
 ### Distance from point x to a line $\alpha$ with normal vector w:
 $$
 \begin{align}
