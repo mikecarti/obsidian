@@ -52,8 +52,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
-                "mode": "source",
+                "file": "2023-11-21.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "2023-11-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Processes/Classwork.md",
+                "file": "2023-11-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Processes/Classwork.md"
+                "file": "2023-11-21.md"
               }
             }
           },
@@ -227,6 +228,8 @@
   },
   "active": "84f582076825122a",
   "lastOpenFiles": [
+    "Stochastic Processes/Classwork.md",
+    "2023-11-21.md",
     "Machine Learning/SVM (Support Vector Machine).md",
     "Bias-Variance Decomposition (BVD).md",
     "Model Ensembles.md",
@@ -254,8 +257,6 @@
     "Machine Learning/Logistic Regression.md",
     "Deep Learning/Seq2Seq.md",
     "Econometrics/Errors and Residuals of Linear Model.md",
-    "Machine Learning/Precision and Recall.md",
-    "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
     "photos/Pasted image 20231116140709.png",
     "photos/Pasted image 20231116140509.png",
     "photos/Pasted image 20231116140448.png",
