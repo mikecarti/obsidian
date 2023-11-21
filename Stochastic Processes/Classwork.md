@@ -595,3 +595,13 @@ $$
 
 ### Exercise 2
 
+
+
+## 21.11 (Seminar)
+Task 7
+solve
+$$
+\begin{cases}
+dX_{t}=X_{t}dt+dW_{t}
+\end{cases}
+$$
