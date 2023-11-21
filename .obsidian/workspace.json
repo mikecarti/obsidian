@@ -35,14 +35,11 @@
             "id": "6501294c9ed11a1b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Tokens.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Tokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Tokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Tokens.md"
               }
             }
           }
@@ -178,6 +175,7 @@
   },
   "active": "6501294c9ed11a1b",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Tokens.md",
     "Deep Learning/Masking.md",
     "Machine Learning/Machine Learning.md",
@@ -190,7 +188,6 @@
     "Econometrics/Frisch-Waugh Lovell Theorem.md",
     "Machine Learning/AdaGrad (Adaptive Gradient).md",
     "Machine Learning/Metrics of Ranking Quality (Area Under Curve).md",
-    "Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "Stochastic Processes/Classwork.md",
     "Stochastic Processes/Stochastic Processes and Time Series.md",
