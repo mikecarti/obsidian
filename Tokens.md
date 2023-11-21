@@ -8,6 +8,10 @@ nigger token:
 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
 
 
+ttttoken:
+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
+
+
 ...
 
 
