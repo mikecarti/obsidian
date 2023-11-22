@@ -1,13 +1,12 @@
 [
-  "find-unlinked-files",
-  "obsidian-plugin-toc",
-  "obsidian-latex-suite",
   "obsidian-git",
-  "obsidian-excalidraw-plugin",
-  "obsidian-hover-editor",
-  "omnisearch",
-  "execute-code",
   "taskbone-ocr-plugin",
-  "obsidian-functionplot",
-  "table-editor-obsidian"
+  "obsidian-plugin-toc",
+  "text-snippets-obsidian",
+  "table-editor-obsidian",
+  "obsidian-excalidraw-plugin",
+  "execute-code",
+  "find-unlinked-files",
+  "obsidian-hover-editor",
+  "obsidian-latex-suite"
 ]

@@ -1,22 +1,72 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "path:-(\"photos\" OR \"diary\" OR \"Excalidraw\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Stochastic Processes\"",
+      "color": {
+        "a": 1,
+        "rgb": 3604735
+      }
+    },
+    {
+      "query": "path:Econometrics",
+      "color": {
+        "a": 1,
+        "rgb": 65531
+      }
+    },
+    {
+      "query": "path:\"Machine Learning\"",
+      "color": {
+        "a": 1,
+        "rgb": 14223368
+      }
+    },
+    {
+      "query": "path:\"Fin. Engineering\"",
+      "color": {
+        "a": 1,
+        "rgb": 1043340
+      }
+    },
+    {
+      "query": "path:\"Mathematical Optimization\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6488217
+      }
+    },
+    {
+      "query": "path:diary  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"Deep Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.17001481481481,
+  "lineSizeMultiplier": 0.481487889273356,
+  "collapse-forces": false,
+  "centerStrength": 0.233886475322271,
+  "repelStrength": 11.9706573605869,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.1264545844664649,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.0952129758785525,
+  "close": true
 }

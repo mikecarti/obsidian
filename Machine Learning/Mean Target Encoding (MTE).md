@@ -1,12 +1,15 @@
+
+ Каждый категориальный признак заменяется на среднее значение целевой переменной по всем объектам, имеющим одинаковое значение в этом признаке.
+
 Idea: change categorical feature on mean value for this categorical feature on other numerical feature. Feature engineering for classification.
 
 $$
 \begin{align}
 &f_{j}(x) \text{ - j-th categorical feature} \\ \\
 &\text{bin. classification:} \\
-&g_{j}(x, X) = \frac{{\sum_{i=1}^{\ell}(f_{i}(x_{i})=f_{j}(x))[y_{i}=+1]}}{\sum_{i=1}^{\ell}[f_{j}(x_{i})=f_{j}(x)]} \\ \\
+&g_{j}(x, X) = \frac{{\sum_{i=1}^{\ell}[f_{i}(x_{i})=f_{j}(x)][y_{i}=+1]}}{\sum_{i=1}^{\ell}[f_{j}(x_{i})=f_{j}(x)]} \\ \\
 &\text{multiclass classification:} \\
-&g_{jk}(x,X) = \frac{{\sum_{i=1}^{\ell} (f_{j}(x_{i})= f_{i}(x)})[y_{i}=k]}{{\sum_{i=1}^{\ell}[f_{j}(x_{i})=f_{j}(x)]}}
+&g_{jk}(x,X) = \frac{{\sum_{i=1}^{\ell} [f_{j}(x_{i})= f_{i}(x)}][y_{i}=k]}{{\sum_{i=1}^{\ell}[f_{j}(x_{i})=f_{j}(x)]}}
 \end{align}
 $$
 
