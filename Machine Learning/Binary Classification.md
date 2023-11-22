@@ -48,3 +48,7 @@ $$
 \end{gather}
 $$
 
+By this diff. upper estimation i mean:
+$$
+\frac{1}{l}\sum_{i=1}^{l}\left[ sign \left< w,x \right> \neq y_{i} \right]  \leq \frac{1}{l}\sum_{i=1}^{l}\tilde{L})(y_{i}\left< w,x_{i} \right> )\to \min_{w} 
+$$

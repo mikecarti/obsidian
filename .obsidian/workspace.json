@@ -8,59 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a32014c70965a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Model Ensembles.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68c0291730b1cd95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "False Nearest Neighbours (FNN).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73cfb92b85535a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bias-Variance Decomposition (BVD).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "84f582076825122a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-21.md",
-                "mode": "preview",
+                "file": "2023-11-22.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-21.md",
+                "file": "2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-21.md",
+                "file": "2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-21.md"
+                "file": "2023-11-22.md"
               }
             }
           },
@@ -228,14 +188,28 @@
   },
   "active": "84f582076825122a",
   "lastOpenFiles": [
-    "Stochastic Processes/Classwork.md",
-    "2023-11-21.md",
+    "Machine Learning/Logistic Regression.md",
+    "2023-11-22.md",
+    "Deep Learning/Cross Entropy Loss (Log Loss).md",
+    "Cross Entropy Loss (Log Loss).md",
+    "Excalidraw/Drawing 2023-11-22 20.27.05.excalidraw.md",
+    "Log loss.md",
+    "Pasted image 20231122201702.png",
+    "Pasted image 20231122201638.png",
+    "Probabilistic ML.md",
+    "Model Ensembles.md",
+    "Machine Learning/Loss Function.md",
+    "Machine Learning/Binary Classification.md",
+    "False Nearest Neighbours (FNN).md",
     "Machine Learning/SVM (Support Vector Machine).md",
     "Bias-Variance Decomposition (BVD).md",
-    "Model Ensembles.md",
+    "Machine Learning/Linear Classification.md",
+    "Machine Learning/Classification Methods.md",
+    "Machine Learning/Linear Regression.md",
+    "2023-11-21.md",
+    "Stochastic Processes/Classwork.md",
     "Machine Learning/Decision Tree.md",
     "Pasted image 20231121121733.png",
-    "False Nearest Neighbours (FNN).md",
     "conflict-files-obsidian-git.md",
     "Tokens.md",
     "Linux commands.md",
@@ -243,27 +217,13 @@
     "Camera Properties.md",
     "Cloth Washing.md",
     "Stochastic Integral Theorems.md",
-    "Stochastic Processes/Stochastic Integral.md",
-    "Ito's Process.md",
-    "Deep Learning/LSTM (Long Short-Term Memory).md",
-    "Stochastic Processes/Doob's Theorem.md",
     "photos/Pasted image 20231117164642.png",
     "photos/Pasted image 20231117164400.png",
-    "Stochastic Processes/Markov Processes.md",
-    "Triangular Matrix.md",
-    "Machine Learning/Unsupervised Learning.md",
-    "Machine Learning/Principal Component Analysis (PCA).md",
-    "Machine Learning/Basic Methods of NLP.md",
-    "Machine Learning/Logistic Regression.md",
-    "Deep Learning/Seq2Seq.md",
-    "Econometrics/Errors and Residuals of Linear Model.md",
     "photos/Pasted image 20231116140709.png",
     "photos/Pasted image 20231116140509.png",
     "photos/Pasted image 20231116140448.png",
     "photos/Pasted image 20231116140341.png",
     "photos/Pasted image 20231116140025.png",
-    "photos/Pasted image 20231116135520.png",
-    "photos/Pasted image 20231116134919.png",
     "photos/hw db.pdf",
     "Untitled 1.canvas",
     "Catastrophe Theory",

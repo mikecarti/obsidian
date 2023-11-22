@@ -5,3 +5,8 @@ Loss function is often an objective function in [[Optimization Methods |Mathemat
 	- For example RSS, Absolute Error
 - Qualitative Response, $Y \in G$ of a finite set of target classes, G
 	- For example Zero-one loss
+
+
+## Classification Loss Function
+#### [[Logistic regression]]
+
