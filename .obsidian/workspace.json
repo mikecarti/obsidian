@@ -94,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-23 00.31.42.excalidraw.md",
+                "file": "Embedded Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-23 00.31.42.excalidraw.md",
+                "file": "Embedded Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-23 00.31.42.excalidraw.md",
+                "file": "Embedded Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-23 00.31.42.excalidraw.md"
+                "file": "Embedded Method.md"
               }
             }
           },
@@ -278,11 +278,12 @@
   },
   "active": "12751c1e5266a0f6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-23 00.31.42.excalidraw.md",
+    "Embedded Method.md",
     "Custom Transformers.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-11-23 00.31.42_0.excalidraw.md",
-    "Excalidraw/Drawing 2023-11-23 00.31.42.excalidraw.md",
     "Excalidraw/Drawing 2023-11-23 00.31.41.excalidraw.md",
     "Excalidraw/Drawing 2023-11-23 00.31.40.excalidraw.md",
     "Stochastic Processes/Moment Generating Function.md",
@@ -308,7 +309,6 @@
     "Machine Learning/SVM (Support Vector Machine).md",
     "Machine Learning/Model Ensembles.md",
     "Machine Learning/Bias-Variance Decomposition (BVD).md",
-    "Machine Learning/AdaGrad (Adaptive Gradient).md",
     "photos/Pasted image 20231117164642.png",
     "photos/Pasted image 20231117164400.png",
     "photos/Pasted image 20231116140709.png",
