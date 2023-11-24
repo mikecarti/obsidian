@@ -94,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded Method.md",
+                "file": "Filter Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded Method.md",
+                "file": "Filter Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded Method.md",
+                "file": "Filter Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded Method.md"
+                "file": "Filter Methods.md"
               }
             }
           },
@@ -278,8 +278,9 @@
   },
   "active": "12751c1e5266a0f6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-23 00.31.42.excalidraw.md",
     "Embedded Method.md",
+    "Filter Methods.md",
+    "Excalidraw/Drawing 2023-11-23 00.31.42.excalidraw.md",
     "Custom Transformers.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -308,7 +309,6 @@
     "conflict-files-obsidian-git.md",
     "Machine Learning/SVM (Support Vector Machine).md",
     "Machine Learning/Model Ensembles.md",
-    "Machine Learning/Bias-Variance Decomposition (BVD).md",
     "photos/Pasted image 20231117164642.png",
     "photos/Pasted image 20231117164400.png",
     "photos/Pasted image 20231116140709.png",
