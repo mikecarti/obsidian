@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Masking.md",
+                "file": "2023-11-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Masking.md",
+                "file": "2023-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Masking.md",
+                "file": "2023-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Masking.md"
+                "file": "2023-11-24.md"
               }
             }
           }
@@ -175,9 +175,11 @@
   },
   "active": "6501294c9ed11a1b",
   "lastOpenFiles": [
+    "Virtual Environment.md",
+    "2023-11-24.md",
+    "Deep Learning/Masking.md",
     "Tokens.md",
     "Untitled.canvas",
-    "Deep Learning/Masking.md",
     "Machine Learning/Machine Learning.md",
     "Matrix EigenValues.md",
     "Machine Learning/Model Ensembles.md",
