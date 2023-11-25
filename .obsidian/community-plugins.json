@@ -1,12 +1,11 @@
 [
-  "obsidian-git",
-  "taskbone-ocr-plugin",
-  "obsidian-plugin-toc",
-  "text-snippets-obsidian",
-  "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
-  "execute-code",
   "find-unlinked-files",
+  "obsidian-plugin-toc",
+  "obsidian-latex-suite",
+  "obsidian-git",
   "obsidian-hover-editor",
-  "obsidian-latex-suite"
+  "omnisearch",
+  "execute-code",
+  "taskbone-ocr-plugin",
+  "obsidian-functionplot"
 ]
