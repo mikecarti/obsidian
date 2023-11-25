@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md",
-                "mode": "source",
+                "file": "Deep Learning/RNN (Recurrent Neural Network).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md",
+                "file": "Deep Learning/RNN (Recurrent Neural Network).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md",
+                "file": "Deep Learning/RNN (Recurrent Neural Network).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md"
+                "file": "Deep Learning/RNN (Recurrent Neural Network).md"
               }
             }
           },
@@ -185,34 +185,34 @@
   },
   "active": "5300ad3bddb3d1dc",
   "lastOpenFiles": [
-    "Bias.md",
+    "Deep Learning/LSTM (Long Short-Term Memory).md",
+    "History of CNN.md",
+    "Deep Learning/Seq2Seq.md",
+    "Deep Learning/Beam Search.md",
+    "Deep Learning/Masking.md",
+    "Deep Learning/BERT.md",
+    "Degenerate Singularity.md",
+    "Degeneracy.md",
+    "Stochastic Processes/Stochastic Integral Theorems.md",
+    "diary/Cusp Catastrophe Research.md",
+    "Excalidraw/Drawing 2023-11-23 00.31.41.excalidraw.md",
+    "Deep Learning/Batch Normalization.md",
+    "Homeomorphism.md",
+    "Hadamard Product.md",
+    "Stochastic Processes/Sigma-Algebras.md",
+    "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
     "Machine Learning/Bias-Variance Decomposition (BVD).md",
+    "Bias.md",
     "Machine Learning/Custom Transformers.md",
     "Machine Learning/SVM (Support Vector Machine).md",
     "Machine Learning/Embedded Method.md",
     "Machine Learning/Filter Methods.md",
-    "Excalidraw/Drawing 2023-11-23 00.31.41.excalidraw.md",
     "Excalidraw/Drawing 2023-11-23 00.31.40.excalidraw.md",
     "Machine Learning/Probabilistic ML.md",
     "Machine Learning/ColumnTransformer and Pipeline.md",
     "Machine Learning/Mean Target Encoding (MTE).md",
-    "2023-11-22.md",
-    "Excalidraw/Drawing 2023-11-23 00.31.42.excalidraw.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2023-11-23 00.31.42_0.excalidraw.md",
-    "Stochastic Processes/Moment Generating Function.md",
-    "Deep Learning/Pooling Layers.md",
-    "Deep Learning/Attention Mechanism.md",
-    "Camera Properties.md",
-    "Spectral Norm of a Matrix.md",
-    "Condition Number of a Matrix.md",
-    "Stochastic Processes/Ito's Process.md",
-    "Stochastic Processes/Stochastic Integral Theorems.md",
-    "2023-11-21.md",
-    "Linux commands.md",
-    "API.md",
-    "Manifold.md",
     "Pasted image 20231121121733.png",
     "Pasted image 20231122201638.png",
     "Pasted image 20231122201702.png",
