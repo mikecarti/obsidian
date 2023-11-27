@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Attention Mechanism.md",
+                "file": "2023-11-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/Attention Mechanism.md",
+                "file": "2023-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/Attention Mechanism.md",
+                "file": "2023-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/Attention Mechanism.md"
+                "file": "2023-11-27.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "5300ad3bddb3d1dc",
   "lastOpenFiles": [
+    "Deep Learning/Attention Mechanism.md",
+    "2023-11-27.md",
     "Deep Learning/Sentence embeddings.md",
     "Deep Learning/Word embeddings.md",
     "Deep Learning/Embeddings.md",
@@ -209,8 +211,6 @@
     "Stochastic Processes/Sigma-Algebras.md",
     "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
     "Machine Learning/Bias-Variance Decomposition (BVD).md",
-    "Bias.md",
-    "Machine Learning/Custom Transformers.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20231121121733.png",
