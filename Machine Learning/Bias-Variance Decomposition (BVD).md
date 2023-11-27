@@ -1,3 +1,4 @@
+Error of every model is decomposed into Bias, [[Variance]] and Noise 
 
 $$
 \begin{align}

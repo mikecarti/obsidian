@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-27.md",
+                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-27.md",
+                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-27.md",
+                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-27.md"
+                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md"
               }
             }
           },
@@ -185,8 +185,11 @@
   },
   "active": "5300ad3bddb3d1dc",
   "lastOpenFiles": [
-    "Deep Learning/Attention Mechanism.md",
+    "Variance.md",
+    "Machine Learning/Bias-Variance Decomposition (BVD).md",
+    "Bias.md",
     "2023-11-27.md",
+    "Deep Learning/Attention Mechanism.md",
     "Deep Learning/Sentence embeddings.md",
     "Deep Learning/Word embeddings.md",
     "Deep Learning/Embeddings.md",
@@ -208,9 +211,6 @@
     "Deep Learning/Batch Normalization.md",
     "Homeomorphism.md",
     "Hadamard Product.md",
-    "Stochastic Processes/Sigma-Algebras.md",
-    "Machine Learning/PR-Curve (AUC-PRC, Precision-Recall).md",
-    "Machine Learning/Bias-Variance Decomposition (BVD).md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20231121121733.png",
