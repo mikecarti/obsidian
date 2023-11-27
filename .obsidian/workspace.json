@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e04e580c300b9c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Learning/RNN (Recurrent Neural Network).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deep Learning/RNN (Recurrent Neural Network).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Learning/RNN (Recurrent Neural Network).md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -183,8 +196,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5300ad3bddb3d1dc",
+  "active": "e04e580c300b9c44",
   "lastOpenFiles": [
+    "Deep Learning/RNN (Recurrent Neural Network).md",
+    "conflict-files-obsidian-git.md",
+    "Terminal Shortcuts (Terminator).md",
+    "2023-11-24.md",
     "Deep Learning/LSTM (Long Short-Term Memory).md",
     "History of CNN.md",
     "Deep Learning/Seq2Seq.md",
@@ -207,10 +224,6 @@
     "Machine Learning/SVM (Support Vector Machine).md",
     "Machine Learning/Embedded Method.md",
     "Machine Learning/Filter Methods.md",
-    "Excalidraw/Drawing 2023-11-23 00.31.40.excalidraw.md",
-    "Machine Learning/Probabilistic ML.md",
-    "Machine Learning/ColumnTransformer and Pipeline.md",
-    "Machine Learning/Mean Target Encoding (MTE).md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20231121121733.png",
