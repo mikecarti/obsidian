@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md",
+                "file": "Bagging.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "597630b082247d37",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md",
+                "file": "Bagging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md",
+                "file": "Bagging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Learning/Bias-Variance Decomposition (BVD).md"
+                "file": "Bagging.md"
               }
             }
           },
@@ -185,8 +186,9 @@
   },
   "active": "5300ad3bddb3d1dc",
   "lastOpenFiles": [
-    "Variance.md",
     "Machine Learning/Bias-Variance Decomposition (BVD).md",
+    "Bagging.md",
+    "Variance.md",
     "Bias.md",
     "2023-11-27.md",
     "Deep Learning/Attention Mechanism.md",
@@ -210,7 +212,6 @@
     "Excalidraw/Drawing 2023-11-23 00.31.41.excalidraw.md",
     "Deep Learning/Batch Normalization.md",
     "Homeomorphism.md",
-    "Hadamard Product.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20231121121733.png",
