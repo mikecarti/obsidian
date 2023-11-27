@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bagging.md",
+                "file": "Random Forest.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bagging.md",
+                "file": "Random Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bagging.md",
+                "file": "Random Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bagging.md"
+                "file": "Random Forest.md"
               }
             }
           },
@@ -186,8 +186,9 @@
   },
   "active": "5300ad3bddb3d1dc",
   "lastOpenFiles": [
-    "Machine Learning/Bias-Variance Decomposition (BVD).md",
     "Bagging.md",
+    "Random Forest.md",
+    "Machine Learning/Bias-Variance Decomposition (BVD).md",
     "Variance.md",
     "Bias.md",
     "2023-11-27.md",
@@ -211,7 +212,6 @@
     "diary/Cusp Catastrophe Research.md",
     "Excalidraw/Drawing 2023-11-23 00.31.41.excalidraw.md",
     "Deep Learning/Batch Normalization.md",
-    "Homeomorphism.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20231121121733.png",

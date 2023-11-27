@@ -16,7 +16,8 @@ $$
 $\implies$ $b_{n}(x)$ should be more complex
 - $var(a_{N})=\frac{1}{N}var(b_{n})+ \frac{N(N-1)}{N^{2}} \cdot cov(b_{n}(x), b_{m}(x))$
 Where $$cov(b_{n}(x), b_{m}(x)) = \mathbb{E}_{x,y}\mathbb{E}_{x}\left( \mu(\tilde{X}_{n})-\mathbb{E}\mu(\tilde{X}_{n}) \right) \cdot \left( \mu(\tilde{X}_{m})-\mathbb{E}\mu(\tilde{X}_{m}) \right)$$
-
+$\implies$ The less our base models are correlated $\implies$ the better.
+So let's invent [[Random Forest]] from that.
 
 ## [[Decision Tree]]
 For trees, using bagging
