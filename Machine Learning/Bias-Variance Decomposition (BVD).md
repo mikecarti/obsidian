@@ -1,3 +1,24 @@
+Error of every model is decomposed into Bias, [[Variance]] and Noise 
+
+$$
+\begin{align}
+&\mathbb{E}_{x,y}\left( y-\mathbb{E}\left[ y\mid x \right]  \right) ^{2} - \text{Noise} \\
+&\mathbb{E_{x,y}(\mathbb{E}_{\mathbb{X}}}\left[\mu (\mathbb{X})_{(x)}  \right] - \mathbb{E}\left[ y\mid x \right]  )^{2} - \text{Bias}  \\
+&\mathbb{E}_{x,y}\left( \mathbb{E}_{\mathbb{X}}\left[ \mu(\mathbb{X})_{(x)} \right] - \mu(\mathbb{X})_{(x)}  \right)^{2} - \text{Variance} \\ \\
+&L(\mu ) = \text{Bias + Variance + Noise}
+\end{align}
+$$
+$\mu$ - some Model. $L$ - error of model. 
+
+Bias = How good model performs on average (less = better)
+Variance = How much model performs differently based on different datasets (less = more stable)
+
+## Bias
+The bigger [[Regularization]] $\implies$ The bigger [[Bias]], the worse model performs
+## Variance
+The bigger [[Regularization]] $\implies$ The smaller [[Variance]], the better model generalizes
+
+## More theory:
 $$
 \begin{align}
 &X = (x_{i}, y_{i})_{i=1}^{l}, \quad y \, \in \,\mathbb{R}, \text{ (regression)} \\
@@ -31,8 +52,14 @@ $\mathbb{X}=\mathbb{R}$
 $\mathbb{Y}=\mathbb{R}$
 $a(x)= wx$, $w\, \in \,\mathbb{R}$
 
-$Q(w)=\sum_{i=1}^{l}(y_{i}-wx_{i})^{2 }+ \lambda w^{2}$
+$Q(w)=\sum_{i=1}^{l}(y_{i}-wx_{i})^{2 }+ \lambda w^{2} \to \min_{w}$ 
 $$\underbrace{ w(X) }_{ optimal }= \frac{{\sum_{i=1}^{l}x_{i}y_{i}}}{\sum_{i=1}^{l}x_{i}^{2}+\lambda}$$
 $\mu(X)_{(x)}=w(X)x$        ($\mu(X) - \text{model fitted on data, }\mu(X)(x) -\text{ prediction}$)
 $x_{i}$ - determined
 $y_{i} = wx + \epsilon$,    $\epsilon~\mathcal{N}(0, \sigma^{2})$ 
+
+1. Calculate noise, Noise: $\sigma^{2}$
+2. Calculate bias
+$$
+\mathbb{E}\left[ \frac{{\sum_{x_{i},y_{i}}}}{\sum x_{i}^{2}+\lambda}x \right] =\frac{{\sum(x_{i}):\mathbb{E}\left[ f(x_{i}+\epsilon) \right] }}{\dots} = \frac{\sum x_{i}f(x_{i})x}{\sum x_{i}^{2}+\lambda} =\frac{ \alpha \sum x_{i}^{2}}{\sum x_{i}^{2} + \alpha}
+$$

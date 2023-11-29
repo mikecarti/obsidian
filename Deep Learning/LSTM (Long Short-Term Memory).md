@@ -1,5 +1,7 @@
 ![[Pasted image 20231116135520.png]]
 
+**The modification of [[RNN (Recurrent Neural Network)]].**
+
 Square brackets - concatenation.
 As in [[History of CNN#ResNet (2015) Deep Residual Learning for Image Recognition|ResNet]] we add pure $h_{t-1}$ multiplied by inertia coefficient $(1-z_{t})$ that was not multiplied by $W$. So we throw our old $h$ vectors on longer distances.
 
