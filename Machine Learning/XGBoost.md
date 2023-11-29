@@ -1,4 +1,4 @@
-aka "Extreme Gradient Boosting".
+ffaka "Extreme Gradient Boosting".
 ![[Pasted image 20230831125924.png|700]]
 - Scalable, distributed [gradient-boosted](https://en.wikipedia.org/wiki/Gradient_boosting) decision tree (GBDT) machine learning library.
 - Provides parallel tree boosting and is the leading machine learning library for [[Linear Regression |Regression]], classification, and ranking problems.
