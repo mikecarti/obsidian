@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Forest.md",
+                "file": "Machine Learning/Gradient Boosting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdcb28566f213455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Random Forest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d7311d47d1a529f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Permutation Feature Importance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "597630b082247d37",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Forest.md",
+                "file": "Machine Learning/Gradient Boosting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Random Forest.md",
+                "file": "Machine Learning/Gradient Boosting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Forest.md"
+                "file": "Machine Learning/Gradient Boosting.md"
               }
             }
           },
@@ -164,8 +188,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,10 +207,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5300ad3bddb3d1dc",
+  "active": "0808e3cca7f689eb",
   "lastOpenFiles": [
-    "Bagging.md",
-    "Random Forest.md",
+    "Machine Learning/Gradient Boosting.md",
+    "Machine Learning/Permutation Feature Importance.md",
+    "Pasted image 20231128002020.png",
+    "Pasted image 20231128001144.png",
+    "Machine Learning/Gradient Descent.md",
+    "Machine Learning/Gradient.md",
+    "Jacobian Matrix.md",
+    "Machine Learning/Out-of-Bag Error (OOB).md",
+    "Machine Learning/Random Forest.md",
+    "Machine Learning/K-Fold Cross Validation.md",
+    "Pasted image 20231127232543.png",
+    "Machine Learning/Bagging.md",
     "Machine Learning/Bias-Variance Decomposition (BVD).md",
     "Variance.md",
     "Bias.md",
@@ -204,14 +237,6 @@
     "Deep Learning/LSTM (Long Short-Term Memory).md",
     "History of CNN.md",
     "Deep Learning/Seq2Seq.md",
-    "Deep Learning/Beam Search.md",
-    "Deep Learning/BERT.md",
-    "Degenerate Singularity.md",
-    "Degeneracy.md",
-    "Stochastic Processes/Stochastic Integral Theorems.md",
-    "diary/Cusp Catastrophe Research.md",
-    "Excalidraw/Drawing 2023-11-23 00.31.41.excalidraw.md",
-    "Deep Learning/Batch Normalization.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20231121121733.png",
@@ -221,9 +246,6 @@
     "photos/Pasted image 20231117164400.png",
     "photos/Pasted image 20231116140709.png",
     "photos/Pasted image 20231116140509.png",
-    "photos/Pasted image 20231116140448.png",
-    "photos/Pasted image 20231116140341.png",
-    "photos/Pasted image 20231116140025.png",
     "photos/hw db.pdf",
     "Catastrophe Theory",
     "Deep Learning",
