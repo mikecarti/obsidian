@@ -57,6 +57,7 @@ $$
 \end{align}
 $$
 
+
 ## Related:
 [[Neural Network]]
 [[2D-Batch Norm]]

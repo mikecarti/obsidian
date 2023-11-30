@@ -39,6 +39,10 @@ Where $y_{i}$ is the ground truth.
 ## Backprop
 ![[Pasted image 20231116134919.png]]
 
+## The BIG Problem of RNN
+![[Pasted image 20231130102754.png]]
+
+So [[Attention Mechanism]] may be the key to resolving this.
 ### As long ago weights are being lost, our weights and inference on long sequences is worse
 
 Solution to this:

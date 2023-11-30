@@ -1,5 +1,43 @@
 Used in [[Transformers]] model.
+
+# Encoder-Decoder Attention
+![[Pasted image 20231130112634.png]]
+
+![[Pasted image 20231130103825.png]]
+
+## Score Functions
+![[Pasted image 20231130104126.png]]
+
+W - trainable weights
+
+## Realizations of attention function
+![[Pasted image 20231130104229.png]]
+
+![[Pasted image 20231130104416.png]]
 ## Self-Attention
+
+![[Pasted image 20231130110253.png]]
+
+![[Pasted image 20231130110949.png]]
+
+Queries - запрос 
+Keys - ключи других слов, которые предоставляют слову информацию для его само-идентефикации 
+
+Q и K - как хорошо слова конкатенируют? 
+Values - новый ембеддинг из Q и V
+
+То есть мы вбираем в один вектор не только эмбеддинг слова, а теперь еще и насколько это слово ИМЕННО В ЭТОМ ПРЕДЛОЖЕНИИ релевантно к другим словам в этом предложении.
+
+![[Pasted image 20231130110455.png]]
+
+$\sqrt{ d_{k} }$ - magic constant
+
+![[Pasted image 20231130111443.png]]
+
+
+
+
+### Intuition
 > ”The animal didn't cross the street because it was too tired”
 
  What does "it" refer to in this sentence? The street or the animal? A simple question becomes a whole problem for an algorithm. 
@@ -15,6 +53,12 @@ https://www.youtube.com/watch?v=PSs6nxngL6k&ab_channel=StatQuestwithJoshStarmer
 
 ![[photo_2023-07-25_16-53-46.jpg]]
 
-## Encoder-Decoder Attention
+## Decoder-Decoder attention
+![[Pasted image 20231130112550.png]]
 
--pass
+
+
+## Related
+[[Attention is All You Need! (2017)]]
+[[Multi-Head-Attention]]
+[[Positional Encoding]]
