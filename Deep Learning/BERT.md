@@ -1,1 +1,1 @@
-Transformer-based model, similar to GPT-3.
+Only encoder of [[Transformers]], while GPT is only decoder of [[Transformers]]

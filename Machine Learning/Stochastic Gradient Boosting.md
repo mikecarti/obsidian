@@ -1,0 +1,2 @@
+Models are simple. They have low capacity, but data is big and complex.
+Idea: Lets train $b_{N}(x)$ on $X_{N}\subset X$  , $X_{N}$ - is subsample of our training sample. Similar to [[Stochastic Gradient Descent]]

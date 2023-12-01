@@ -1,0 +1,19 @@
+mjx-math[display=true] {
+    font-size 125% !important; 
+}
+
+img {
+        display block !important;
+        margin-left auto !important;
+        margin-right auto !important;
+}
+    
+
+.markdown-source-view.mod-cm6 .cm-content   {
+        margin auto auto !important;
+}
+
+.math-block  mjx-container[jax=CHTML]  {
+  font-size 130%;
+  text-align left !important;
+}

@@ -1,1 +1,1 @@
-Sentence embeddings are widely used in [[Transformers]] architecture. They use [[positional encoding]] and [[Attention Mechanism]] mechanism to store all necessary details about sentences. 
+Sentence embeddings are widely used in [[Transformers]] architecture. They use [[Positional Encoding]] and [[Attention Mechanism]] mechanism to store all necessary details about sentences. 

@@ -81,6 +81,9 @@ $$
 &\mathbb{E}(\tau)= \frac{110}{220} \cdot 110^{2}+\frac{120}{220} \cdot 100^{2} 
 \end{align}
 $$
+## You can regonize Martingale with [[Ito's Process|Ito's Lemma]]
+
 
 ### Related:
 [[Doob's Theorem]]
+[[Girsanov Theorem]]

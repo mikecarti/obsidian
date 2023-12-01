@@ -599,16 +599,13 @@ $$
 
 ## 21.11 (Seminar)
 Task 7
-<<<<<<< HEAD
 solve
 $$
 \begin{cases}
 dX_{t}=X_{t}dt+dW_{t}
 \end{cases}
-=======
 
 Task 8
-$$
 \begin{align}
  &\begin{cases}
 dx_{t} = \frac{1}{2}x_{t}dt + x_{t}dW_{t} \\
@@ -619,5 +616,8 @@ x_{0}=x
 &1) dY_{t}= \frac{ \partial f }{ \partial t } X_{t}dt + f(t)dX_{t}+\frac{1}{2}\left( \frac{ \partial^{2} f }{ \partial t^{2} }\cancelto{ 0 }{ X_{t}dt^{2} } + 2 \frac{ \partial f }{ \partial t } \cancelto{ 0 }{ dtdX_{t} } \right) = \\
 & f'_{t}x_{t}dt+f(t)dX_{t}=dY_{t} 
 \end{align} 
->>>>>>> origin/main
 $$
+
+
+
+
