@@ -1,0 +1,1 @@
+Right to buy or sell active for fixed price in the future

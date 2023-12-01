@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "photos"
+  "attachmentFolderPath": "photos",
+  "autoPairMarkdown": false,
+  "autoPairBrackets": false
 }
