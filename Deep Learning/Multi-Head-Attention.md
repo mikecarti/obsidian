@@ -1,0 +1,1 @@
+We will do everything from [[Attention is All You Need! (2017)]] but in *parallel*, 8 times.
