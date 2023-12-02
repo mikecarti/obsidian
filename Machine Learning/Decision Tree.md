@@ -51,6 +51,8 @@ Interesting, that [[Random Forest]]s and [[XGBoost]]-like algorithms also cut li
 - Classification $\implies C_{v} \, \in \, \{ 1,\dots,k \}$
 $C_{v}\, \in \,R^{k}: \quad C_{v_{k}}\geq 0 \quad \sum_{C_{v}}=1$
 
+$R$ = Split of training sample. $R_{m}$ - set of objects that ended up in a node.
+
 ## Training
 Lemma: If in X there is no $x_{i}=x_{j}, y_{i}\neq y_{j}$ 
 then there exists a tree with 0 error on training data.
