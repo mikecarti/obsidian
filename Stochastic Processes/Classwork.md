@@ -624,6 +624,36 @@ $$
 $$
 \begin{align}
 It = \int_{0}^{t} A_{s}dW_{s}  \\
-Var(It) = E\left[ \int _{0}^{t}A_{s}dW_{s} \, \right] ^{2} = 
+Var(It) = E\left[ \int _{0}^{t}A_{s}dW_{s} \, \right] ^{2} = \dots
+\end{align}
+$$
+
+TASK1
+
+$$
+\begin{align}
+&\text{SDE: } dr_{t} = a(b-r_{t})dt + \sigma dW_{t} \\
+&r_t \text{ - interest rate (Vasicek)} \\
+&b_{t} - \text{ long-term } r_{t} \\
+&\sigma - \text{volatility} \\ 
+&W_{t} - \text{profitability}\\ \\
+
+&L \; b =0 \\
+&dr_{t} = -ar_{t}dt + \sigma dW_{t}  \\
+&r_{0} = 0 
+\end{align}
+$$
+Imagine an active that is bought and deposited in a bank. some interest rates are approaching some $b^*$.
+
+We can not use Ito's formula. We had to find a form without unknown variable, that was not letting us use [[Ito's Process|Ito's Formula]]. Unknown variable was: $r_{t}$
+$$
+\begin{align} \\
+\text{We need} \; Y_{t} = e^{at}r_{t} \text{ замена}. \\
+dY_{t} = ae^{at}r_{t}dt + e^{at}dr_{t} = \cancelto{ 0 }{ ae^{at}r_{t}dt - ae^{at}r_{t}dt } + e^{at}\sigma dW_{t}  \\  \\
+Y_{t} = Y_{0} + \int _{0}^{t}e^{as}\sigma dW_{s}= \quad \quad  \text{ Now we can use Ito's Formula} \\
+= e^{a0}r_{0} + \sigma \int_{0}^{t} {e^{as}} \; {dW_s} = r_{0} + \sigma \left(  \right)  \\
+\left[ e^{at}W_{t}=a\int_{0}^{t} {e^{at}}W_{t} \; {dt} + \int_{0}^{t} {e^{at}} \; {dW_t} \right]  \\
+r_{t}  =e^{-at}Y_{t} = e^{-at}r_{0} + \sigma e^{-at}\int_{0}^{t} {e^{as}} \; {dW_s} = \\
+= e^{-at}r_{0} + \sigma \int_{0}^{t} e^{a(s-t)} \; {dW_s}
 \end{align}
 $$
