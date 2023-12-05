@@ -15,3 +15,6 @@ h_{k}&=\alpha h_{k-1} + \eta_{k}\nabla_{w}Q(w^{(k-1)}) \qquad \alpha=0.1\\
 w^{(k)}&= w^{(k-1)} - h_{k}
 \end{align}
 $$
+
+## Related:
+[[Nesterov Inertion Gradient Descent]]

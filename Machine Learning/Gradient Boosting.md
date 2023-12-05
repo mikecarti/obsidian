@@ -130,6 +130,14 @@ $$
 We used here [[Logistic Regression|Logistic Loss Function]] and it is stable to outliers. 
 $L(y,z)=e^{-yz}$ - [[Exponential Loss Function]] is not so stable, weights would lead to infinity. So for classification specific loss functions, can be unstable. 
 
+## Boosting and Extrapolation
+$b_{0}(x)$ - linear model (for extrapolation) 
+$a_{N}(x)$ - is trained using boosting on $y_{i}-b_{0}(x)$
+
+## Implementations:
+[[XGBoost]]
+[[LightGBM]]
+[[CatBoost]]
 ## Miscellaneous 
 #### Weighting 
 In classification task almost always:
