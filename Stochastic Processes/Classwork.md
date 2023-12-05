@@ -620,4 +620,10 @@ $$
 
 
 
-
+## 05.12 (Seminar)
+$$
+\begin{align}
+It = \int_{0}^{t} A_{s}dW_{s}  \\
+Var(It) = E\left[ \int _{0}^{t}A_{s}dW_{s} \, \right] ^{2} = 
+\end{align}
+$$
