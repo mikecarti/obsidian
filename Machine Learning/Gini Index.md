@@ -10,7 +10,7 @@ $$
 H = \sum p(1-p)
 $$
 
-### [[Entropy (information theory)]] and Gini Index
+### [[Cross Entropy Loss (Log Loss, Log-Likelihood Loss,Критерий информативности)]] and Gini Index
 
 ![[Pasted image 20231111154349.png|500]]
 

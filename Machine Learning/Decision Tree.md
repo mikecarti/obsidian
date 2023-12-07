@@ -109,7 +109,7 @@ Shows non-homogeneity of data in $R$
 Examples:
 - Regression $\implies H(R)= \frac{1}{\mid R_{m}\mid}\sum_{(x_{i},y_{i})\, \in \,R}\left( y_{i}-\bar{y}_{m} \right)^{2}$ - Sample Variance
 - Classification $\implies p_{k}=\frac{1}{\mid R\mid}\sum_{x_{i},y_{i} \, \in \,R}\left[ y_{i}=k \right]$
-$H(R)=-\sum_{k=1}^{K}(p_{k}\log p_{k})$ - [[Entropy (information theory)]] 
+$H(R)=-\sum_{k=1}^{K}(p_{k}\log p_{k})$ - [[Cross Entropy Loss (Log Loss, Log-Likelihood Loss,Критерий информативности)]] 
 
 #### Common approach to building H(R):
 $$

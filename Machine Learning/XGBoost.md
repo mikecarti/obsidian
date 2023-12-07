@@ -13,7 +13,7 @@ ffaka "Extreme Gradient Boosting".
 - Quantilization (Default method)
 - Clusterization
 - Randomly
-- By [[Entropy (information theory)]]
+- By [[Cross Entropy Loss (Log Loss, Log-Likelihood Loss,Критерий информативности)]]
 
 You can do that globally and locally.
 Globally - select subsets of thresholds and calculate for them

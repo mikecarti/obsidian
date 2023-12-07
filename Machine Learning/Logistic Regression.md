@@ -1,26 +1,71 @@
+### Model
 $$
 b(x) = \sigma(<w,x>)
 $$
+is a sigmoid over a distance from hyperplane to an object.
 
+
+
+### Loss function
+True loss function:
+$$
+\begin{align}
+arg\min_{b\, \in \,\left[ 0,1 \right] } \frac{1}{n}\sum_{i=1}^{n}L(y_{i},b) = \frac{1}{n}\sum_{i=1}^{n}\left[ y_{i}=+1 \right] 
+\end{align}
+$$
+
+Upper Bound Estimations:
+- [[Cross Entropy Loss (Log Loss, Log-Likelihood Loss,Критерий информативности)|Log-Loss]]
+$$
+\begin{align}
+H(X) = \sum_{i=1}^{l}\left( -\left[ y_{i}=+1 \right] \log b(x_{i})-\left[ y_{i}=-1 \right] \log(1-b(x_{i})) \right)
+\end{align}
+$$
+- [[Logistic Loss]]
+$$L(y, z) = \log(1 + \exp(-yz))$$
+- [[Hinge-Loss]]
+
+
+
+## Intuition 
 We want to estimate probabilities of classes. 
 $a(x)=+1$. And model is confident on 80%. This can be interpreted as follows:
 $$
 \text{If we take all objects with confidence N\%, than N\% from them will have y = + 1}
 $$
 
-## Training Goal
-$$
-\begin{align}
-arg\min_{b\, \in \,\left[ 0,1 \right] } \frac{1}{n}\sum_{i=1}^{n}L(y_{i},b) = \frac{1}{n}\sum_{i=1}^{n}\left[ y_{i}=+1 \right] 
-\end{align}
-$$
-(Loss function requires correct probability estimation)
 
 ## Formalization
 $b(x)$ - gives correct probability of positive class.
 $b(x) = \sigma(\left< w,x \right>) \, \in \,(0,1)$
 $\sigma(z)=\frac{1}{1+\exp({-z})}$
 
+#### Scalar Product
+Как при этом можно интерпретировать данное скалярное произведение?
+Чтобы ответить на этот вопрос, преобразуем уравнение
+
+$$
+    p(y = 1 \mid x)
+    =
+    \frac{1}{1 + \exp(-\langle w, x \rangle)}.
+$$
+Выражая из него скалярное произведение, получим
+$$
+
+    \langle w, x \rangle
+    =
+    \log
+    \frac{
+        p(y = +1 \mid x)
+    }{
+        p(y = -1 \mid x)
+    }.
+
+$$
+Получим, что скалярное произведение будет равно логарифму отношения
+вероятностей классов~(log-odds).
+
+### Mathematical Reasoning
 ###### $b(x)$ estimates probabilities, if for probability $p$ among all observations $x \, \in \,\mathbb{X}$ (where $\mathbb{X}$ is the [[Population]]) with $b(x)=p$, proportion of positive observations is equal to $p$.
 
 $$
@@ -80,6 +125,8 @@ $$
 $$
 That is [[Cross Entropy Loss (Log Loss)]]. And for it that claim is correct. 
 In our case $b(x)=\sigma(\left< w,x \right>)$.
+
+
 
 
 ## Related:
