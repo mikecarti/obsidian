@@ -1,9 +1,22 @@
+[Sokolov's Lecture](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture05-linclass.pdf)
+
+Maximizing the distance from hyperplane to points.
 $$
 \begin{align}
 \tilde{L}(M)=max(0,1-M)
 \end{align}
 $$
-              
+
+### Optimization Goal
+$$
+\begin{cases}
+\xi \geq 0  \\
+\frac{1}{2} \lvert\lvert w \rvert\rvert^{2} + C\sum\xi_{i} \to \min_{{w,b,\xi}}  \\
+y_{i} \cdot (\left< w,x_{i} \right> ) \geq 1 - \xi_{i}
+\end{cases}
+$$
+(Make margin $\frac{1}{\lvert\lvert w \rvert\rvert^{2}}$ the biggest, while trying to classify maximal objects correctly)
+
 ## How to select best hyperplane?
 ![[Pasted image 20231103112337.png]]
 
@@ -28,6 +41,8 @@ $$
 & \frac{1}{\lvert \lvert w \rvert  \rvert } \min_{x_{i}\in X}{\lvert \langle w,x \rangle + w_{0}  \rvert } = \frac{1}{\lvert \lvert w \rvert  \rvert }  \\
 \end{align}
 $$
+So nearest object is distanced by $\frac{1}{\lvert\lvert w \rvert\rvert}$ away from hyperplane $\left< w,x \right>$. That is our [[Margin]]. Thus width of it's splitting hyperplane is $\frac{2}{\lvert\lvert w \rvert\rvert}$
+
 
 Then we can formalize our optimization problem as
 $$
@@ -42,11 +57,13 @@ y_{i}(\left< w,x_{i} \right> +w_{0})> 0  & i = 1,\dots,l \\
 
 & \equiv\begin{cases}
 \lvert \lvert w \rvert  \rvert ^{2} \to \min_{w,w_{0}} \\
-y_{i}(\left< w,x_{i} \right> + w_{0}) \geq 1 & i = 1,\dots ,l
+y_{i}  \cdot (\left< w,x_{i} \right> + w_{0}) \geq 1 & i = 1,\dots ,l
 \end{cases}
 \end{align}
 $$
+
 $w_{0}$ - bias term
+Square in $\lvert\lvert w \rvert\rvert^{2}$ is for differentiability. And represents margin width maximization problem. $y_{i}  \cdot \left< w,x_{i} + w_{0} \right> \geq 1$ for every correctly separated object.
 
 
 ## Not linearly separable case
@@ -65,10 +82,9 @@ $\lvert \lvert w \rvert \rvert^{2}$ - penalty for small distance to nearest obje
 $\sum_{i=1}^{n}\xi_{i}$ - penalty for mistakes of a model
 $C$ - [[Hyperparameters|hyperparameter]]
 
+![[Pasted image 20231103115353.png|200x200]]
 
-![[Pasted image 20231103115353.png]]
-
-### Simplifying Optimization Goal (\*\*)
+### Unconditional Optimization Goal (\*\*)
 $$
 \begin{align}
 &\begin{cases}
@@ -82,6 +98,9 @@ $$
 
 ## Support Vectors
 опорные векторы — это точки, которые а) расположены в точности на границах, б) внутри гиперплоскости, в) которые попали на сторону противоположного класса при классификации
+
+### SVM estimates class probabilities badly..
+To solve it there are methods like [[Platta Calibration]] and [[Isotonic Regression]].
 
 ## Difference between [[Linear Classification]] and SVM
 

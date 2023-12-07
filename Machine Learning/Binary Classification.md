@@ -4,6 +4,13 @@ $\mathbb{Y} = \{ -1, +1 \}$
 
 $a(x) = sign<w,x>$
 
+### Classification non-differentiable loss function:
+$$
+\begin{align}
+arg\min_{b\, \in \,\left[ 0,1 \right] } \frac{1}{n}\sum_{i=1}^{n}L(y_{i},b) = \frac{1}{n}\sum_{i=1}^{n}\left[ y_{i}=+1 \right] 
+\end{align}
+$$
+
 ### Geometry
 $<w,x> = 0$    - eq. of hyperplane
 $w$ - вектор нормали (orthogonal vector)

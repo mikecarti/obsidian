@@ -7,12 +7,7 @@ is a sigmoid over a distance from hyperplane to an object.
 
 
 ### Loss function
-Classification loss function:
-$$
-\begin{align}
-arg\min_{b\, \in \,\left[ 0,1 \right] } \frac{1}{n}\sum_{i=1}^{n}L(y_{i},b) = \frac{1}{n}\sum_{i=1}^{n}\left[ y_{i}=+1 \right] 
-\end{align}
-$$
+![[Binary Classification#Classification non-differentiable loss function]]
 
 Upper Bound Estimations:
 - [[Cross Entropy Loss (Log Loss, Log-Likelihood Loss,Критерий информативности)|Log-Loss]]
