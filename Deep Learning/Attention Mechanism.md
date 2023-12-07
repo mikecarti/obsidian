@@ -1,9 +1,12 @@
 Used in [[Transformers]] model.
 
 # Encoder-Decoder Attention
+Vectors $k_{j}, v_{j}$ get multiplied by something from encoder
+
 ![[Pasted image 20231130112634.png]]
 
 ![[Pasted image 20231130103825.png]]
+
 
 ## Score Functions
 ![[Pasted image 20231130104126.png]]
@@ -15,6 +18,14 @@ W - trainable weights
 
 ![[Pasted image 20231130104416.png]]
 ## Self-Attention
+![[Pasted image 20231207131202.png]]
+
+![[Pasted image 20231207131423.png]]
+
+New word $x_{j}$ representation for $n$ words.
+$$
+z_{j} = \sum_{p=1}^{n}w_{pj}v_{p}
+$$
 
 ![[Pasted image 20231130110253.png]]
 

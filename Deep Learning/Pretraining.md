@@ -1,1 +1,1 @@
-Typically unsupervised type of training on big data before fine-tuning.
+Training that is done on another task (not the main task of NN. Done for weights calibration). Typically unsupervised type of training on big data before fine-tuning.

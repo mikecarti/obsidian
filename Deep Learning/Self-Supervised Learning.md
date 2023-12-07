@@ -1,4 +1,5 @@
-##  consists of 
-### 1) unsupervised [[Pretraining]]
+Когда я сам придумал некоторую supervised промежуточную задачу, чтобы помочь модели
 
-### 2) supervised fine-tuning
+#####  Сonsists of 
+ 1) unsupervised [[Pretraining]]
+ 2) supervised fine-tuning
