@@ -7,7 +7,7 @@ $$
 \end{align}
 $$
 
-### Optimization Goal
+### Constrained Optimization Goal
 $$
 \begin{cases}
 \xi \geq 0  \\
@@ -17,6 +17,10 @@ y_{i} \cdot (\left< w,x_{i} \right> ) \geq 1 - \xi_{i}
 $$
 (Make margin $\frac{1}{\lvert\lvert w \rvert\rvert^{2}}$ the biggest, while trying to classify maximal objects correctly)
 
+### Unconstrained Optimization Goal
+$$
+\frac{1}{2}\lvert\lvert w \rvert\rvert ^{2} + C\sum_{i=1}^{l} \xi_{i} = \frac{1}{2}\lvert\lvert w \rvert\rvert ^{2} + C\sum_{i=1}^{l} \max_{}(0, y \cdot (\left< w,x_{i} \right> + b )) \quad \to \min_{w,b}
+$$
 ## How to select best hyperplane?
 ![[Pasted image 20231103112337.png]]
 
