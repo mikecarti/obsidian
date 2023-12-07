@@ -7,5 +7,5 @@ c(x) = \frac{1}{1+\exp(\alpha b(x)+ \beta)} = \mathbb{P}(y=+1\mid x) \\
 $$
 
 Important: $\alpha, \beta$ should be fitted **not** on training data.
-Second line is [[Cross Entropy Loss (Log Loss)]]
+Second line is [[Cross Entropy Loss (Log Loss, Log-Likelihood Loss,Критерий информативности)]]
 

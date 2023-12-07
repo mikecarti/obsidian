@@ -1,15 +1,20 @@
 # Regression
+## Loss Functions
+- [[MSE]]
+- [[Huber's Loss]]
+- [[Log-Cosh]]
+- [[MSLE]]
+- [[Quantile Loss Function]]
+- [[Relative Loss Function]]
+## Metrics
 - [[MSE]]
 - [[RMSE]]
 - [[R^2]]
 - [[MAE]]
-- [[Huber's Loss]]
-- [[Log-Cosh]]
 - [[MSLE]]
 - [[MAPE]]
 - [[SMAPE]]
-- [[Quantile Loss Function]]
-- [[Relative Loss Function]]
+- [[MSLE]]
 
 # Classification
 - [[Accuracy]]
@@ -20,3 +25,5 @@
 - [[AUC ROC]]
 - [[PR-Curve (AUC-PRC, Precision-Recall)]]
 - [[Gini Index]]
+- [[Cross Entropy Loss (Log Loss, Log-Likelihood Loss,Критерий информативности)|Cross Entropy Loss]]
+- 
