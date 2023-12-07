@@ -63,3 +63,31 @@ $y_{i} = wx + \epsilon$,    $\epsilon~\mathcal{N}(0, \sigma^{2})$
 $$
 \mathbb{E}\left[ \frac{{\sum_{x_{i},y_{i}}}}{\sum x_{i}^{2}+\lambda}x \right] =\frac{{\sum(x_{i}):\mathbb{E}\left[ f(x_{i}+\epsilon) \right] }}{\dots} = \frac{\sum x_{i}f(x_{i})x}{\sum x_{i}^{2}+\lambda} =\frac{ \alpha \sum x_{i}^{2}}{\sum x_{i}^{2} + \alpha}
 $$
+
+
+#### Task 2 (Нулевой Вариант 4.)
+$$
+\begin{align}
+p(x,y): \; x_{i} \sim Exp(1) \quad p(x) = e^{-x} \\
+y_{i} = f(x_{i}), \quad  f(z) = \sum_{j=1}^{N} \mid z-j  \mid \quad  N - \text{fixed} \\
+\mu(X)(x)=\bar{X} = \frac{1}{l}\sum_{i=1}^{l}x_{i} \\ \\
+\end{align}
+$$
+Noise here is 0 because if we know x, we know y f(x) - is deterministic
+$$
+\begin{align}
+&y=\mathbb{E}[y\mid x ] \implies \mathbb{E}_{x,y} \left( y-\mathbb{E}[y\mid x] \right)^{2} = 0 \\
+&\text{Bias: } \\
+&\mathbb{E}_{x}\left[( \mathbb{E}_{\mathbb{X}}\left[ \mu(X)(x) \right] - \mathbb{E}[y\mid x])^{2}\right]   \\
+&\mathbb{E}_{\mathbb{X}}\left[ \mu(X)(x) \right] -  \text{функция от x, не от X}\\
+&\int f(x,y) \, dx  = F(y) \\
+\dots \\ \\
+&\mathbb{E}\left[ y\mid x \right]  = \mathbb{E}\left[ f(x)\mid x \right]  = f(x) =  \sum_{j=1}^{N} \mid x-j  \mid  \\
+&\mathbb{E}_{x}\left[ \left( 1- \sum_{j=1}^{N} \mid x-j  \mid \right)^{2} \right] = \left\{ x \sim Exp(1) \right\}  =  \\
+&= \int _{0}^{\infty}(1-  \sum_{j=1}^{N} \mid x-j  \mid)^{2}e^{-x} \, dx   - \text{ ... done} \\
+  \\
+&\text{Variance: }  \\
+&\mathbb{E}_{\underbrace{ x }_{ \text{забиваем} }}\mathbb{E}_{X}(\mu(\underbrace{ X }_{ \text{не зависит от х} })-\mathbb{E}_{\underbrace{ x }_{ \text{ не зависит от х} }}\mu(X))^{2} = \\ \\
+&= \mathbb{E}_{\mathbb{X}}(\bar{x}- \mathbb{E}\left[ \bar{x} \right] )^{2} = Var_{\mathbb{X}}(\bar{X}) =
+\end{align}
+$$
