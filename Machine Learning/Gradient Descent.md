@@ -30,3 +30,6 @@ $$
 - With linear models and reasonable [[Loss Function]] $Q(w)$ is *almost* always convex (Выпуклые)
 - $Q(w^{k}) - Q(w_{*})=\underline{O}\left( \frac{1}{k} \right)$ 
 	k - index of iteration
+
+### Related:
+[[Learning Rate]]

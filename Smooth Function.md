@@ -1,0 +1,1 @@
+Inifinitely differentiable function $f$.

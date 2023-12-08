@@ -5,6 +5,7 @@
 - [[AdaGrad (Adaptive Gradient)]]
 - [[Gradient Descent with Momentum]]
 - [[RMSProp]]
+- [[Adam Optimizer]]
 
 
 $$
@@ -19,9 +20,7 @@ dw_{1}, \\
 \frac{dQ}{dw_{d}}
 \end{bmatrix}
 $$
-## Important gradient properties
-- $\nabla Q(w)$ shows direction of fastest growth in w
-- $\nabla Q(w)$ is orthogonal to level curves
+![[Gradient#Important properties for ML]]
 
 
 ### Gradient Evaluation

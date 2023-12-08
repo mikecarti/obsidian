@@ -12,9 +12,10 @@ $$
 \end{matrix}
 $$
 
-Making SGD for $<w,x>$ from top to bottom for this dataset $\eta_{k} \downarrow$
+Making [[Stochastic Gradient Descent|SGD]] for $<w,x>$ from top to bottom for this dataset $\eta_{k} \downarrow$
 Only on seventh step i will update $w_{5}$ and $\eta_{k}$ there is small.
 
+### Adaptive Learning Rate (AdaGrad)
 Let us have its own $\eta_{k}$ for every object 
 $$
 \begin{align}
