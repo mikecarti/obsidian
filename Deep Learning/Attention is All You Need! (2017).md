@@ -1,6 +1,6 @@
 - RNN is too long
 - Backwards pass goes through time
-- Transformer - NN for [[Seq2Seq]] based on [[Fully-connected Neural Networks|Fully-connected Neural Layers]]
+- Transformer - NN for [[Seq2Seq]] based on [[Fully-connected (Linear) Layer|Fully-connected Neural Layers]]
 - Is better than [[Seq2Seq]] architectures for quality and speed.
 - Main element - Multi-Head Self-Attention
 
