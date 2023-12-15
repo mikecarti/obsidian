@@ -26,6 +26,8 @@ $$
 $$
 $dX_{t}$ does not exist, it is not a random variable. It's not a constant, it's just a **shorthand**.
 
+$B_{t}$ - regular calculus differentiable function (noise / randomness)
+
 We write:                                                          We mean: 
 ![[Pasted image 20231117164400.png]]
 
