@@ -1,8 +1,8 @@
-[[Ito's Process]]
+if $X_{t} = h(W_{t}, t)$        (and some technical assumptions)
 
 $$
-dM_{t} = ? = \begin{cases}
-	\dots dW_{t}  & \text{It's a margingale} \\
-\dots dW_{t} + \dots  *d_{t}  &  \text{Is not a martingale}
-\end{cases}
+dX_{t} = \frac{ \partial h }{ \partial t } dt + \frac{ \partial h }{ \partial W_{t} }dW_{t} + \frac{1}{2}\frac{ \partial^{2} h }{ \partial w^{2}_{t} }dt 
 $$
+
+#### Related:
+[[Ito's Process]]
