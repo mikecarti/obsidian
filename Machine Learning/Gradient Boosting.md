@@ -6,10 +6,10 @@ Let's train models iteratively, so that EVERY next model CORRECTS errors of PREV
 $$
 \begin{align}
 &\frac{1}{l}\sum_{i=1}^{l}\left( a(x_{i})-y_{i} \right)^{2} \to \min_{a} \\
-&a_{N}(x) = \sum_{n=1}^{N}\gamma_{n}b_{n}(x), \quad \gamma_{n}\, \in \,\mathbb{R} \\
+&a_{N}(x) = \sum_{n=1}^{N}\gamma_{n}b_{n}(x), \quad \gamma_{n}\, \in \,\mathbb{R} \quad \quad  b_{n}\text{ - model n}\\
 &b_{1}(x): \quad  \frac{1}{l}\sum_{n=1}^{N}\left( b_{1}(x_{i}) - y_{i} \right) ^{2} \to \min_{b_{1}(x)} \mid b_{1}(x) \text{fix for next steps} \\
 &b_{2}(x): \quad  b_{1}(x_{i}) + b_{2}(x_{i}) =y_{i} \\
-&b_{2}(x_{i}) = y_{i}-b_{1}(x_{i}) = s_{i}U \, \in \,R \implies \\
+&b_{2}(x_{i}) = y_{i}-b_{1}(x_{i}) = s_{i} \quad U \, \in \,R \implies \\
 &\frac{1}{l}\sum_{i=1}^{l}\left( b_{2}(x_{i})-s_{i} \right) ^{2} \to \min_{_{b_{1}}}  \\
 &\gamma_{2} = arg\min_{\gamma \, \in \, \mathbb{R}} \frac{1}{l} \sum_{i=1}^{l}\left( b_{1}(x_{i})+ \gamma b_{2}(x_{i})-y_{i} \right)^{2}   \\
 &b_{3}(x): \quad s_{i}=y_{i}-b_{1}(x_{i}) - \gamma_{2}b_{2}(x_{i}) \\
@@ -31,7 +31,7 @@ $$
 &\text{How to train?} \\
 &b_{N}(x): \quad \underbrace{ \frac{1}{l}\sum_{i=1}^{l}L(y_{i}-a_{N-1}(x_{i}), \;b_{N}(x_{i})) }_{ \text{Bad}! } \\ \\
 &\text{What's better?} \\
-&b_{1}(x) - \text{train how we can} \\
+&b_{1}(x) - \text{train by any method} \\
 &b_{N}(x): \quad b_{1}(x),\dots,b_{N-1}(x) - \text{ assume that already exist and fixed} \\
 &\frac{1}{l}\sum_{i=1}^{l}L(y_{i}, \; a_{N-1}(x_{i})+b_{N}(x_{i}))\to \min_{b_{N}} \quad  x_{i}-\text{individual object.} \\
 &\text{How can we optimize this loss?}
