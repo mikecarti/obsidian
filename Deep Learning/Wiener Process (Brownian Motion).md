@@ -22,7 +22,8 @@ $$
 ![[Pasted image 20231103174532.png]]
 
 ## Properties
-$Cov(W_{t}, W_{s}) = E(W_{t}W_{s})$
+$Cov(W_{t}, W_{s}) = E(W_{t}W_{s})$ $=s$        Where $s \leq t$
+
 
 ## Related:
 [[Martingale#Continuos Time]]
