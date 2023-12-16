@@ -1,6 +1,9 @@
 ([[Gradient Descent|Gradient]] boosting machine, GBM)
 
-Let's train models iteratively, so that EVERY next model CORRECTS errors of PREVIOUS models.
+Key ideas:
+- Let's train models iteratively, so that EVERY next model CORRECTS errors of PREVIOUS models.
+- We calculate derivative of loss function for every observation from training data, then we minimize [[Ordinary Least Squares (OLS)|OLS]] for new sub-model and required shifts provided by derrivatives.
+- If base models are too simple, quality of each base model would be bad, then it can ruin the ensemble.
 
 ### Boosting for [[MSE]]
 $$
@@ -81,26 +84,6 @@ We do not change predictions on objects  $x \, \cancel{ \in \, }X$
 2) Why $b_{N}$ is trained on MSE
 will be on seminar
 
-3) Regularization
-Can be experimentally proven, that in Boosting:
-![[Pasted image 20231201114711.png]]
-
-$\implies$ base models in GBM should be - not deep trees.
-
-Problems:
-- If base models are too simple, quality of each base model would be bad, then it can ruin the ensemble.
-- If base models will be too complex, there is a risk of instant over-fitting. 
-
-$\implies b_{N}(x)$ .... you can not trust this guy
-
-Step Reduction (Learning Rate):
-$$
-\begin{align}
-a_{N}(x)= a_{N-1}(x) + \eta b_{N}(x) \\
-\eta \, \in \,\left[ 0,1  \right] - \text{hyper-parameters} \\
-\text{the bigger } \eta \text{ the bigger will be optimal } N 
-\end{align}
-$$
 ## Loss Functions
 #### Regression
 $$
@@ -134,10 +117,66 @@ $L(y,z)=e^{-yz}$ - [[Exponential Loss Function]] is not so stable, weights would
 $b_{0}(x)$ - linear model (for extrapolation) 
 $a_{N}(x)$ - is trained using boosting on $y_{i}-b_{0}(x)$
 
+## Regularization
+Can be experimentally proven, that in Boosting:
+![[Pasted image 20231201114711.png]]
+
+$\implies$ base models in GBM should be - not deep trees.
+
+Problems:
+- If base models will be too complex, there is a risk of instant over-fitting. 
+$\implies b_{N}(x)$ .... you can not trust this guy
+
+Step Reduction (Learning Rate):
+$$
+\begin{align}
+a_{N}(x)= a_{N-1}(x) + \eta b_{N}(x) \\
+\eta \, \in \,\left[ 0,1  \right] - \text{hyper-parameters} \\
+\text{the bigger } \eta \text{ the bigger will be optimal } N 
+\end{align}
+$$
+#### [[Decision Tree]] based GB regularization 
+$$
+b(x) = \sum_{i=1}^{\gamma}b_{j}\left[ x \, \in \,R_{j} \right] 
+$$
+([[Decision Tree#Analytic Form|Analytic form of a Decision Tree]])
+
+Complexity indicators of a tree: 
+1) $\gamma$ - number of leaves
+2) $\lvert\lvert b \rvert\rvert = \sum_{i=1}^{\gamma}b_{j}^{2}$    -    the bigger this, the bigger chances of forced change of composition.
+###### Optimization Goal With Regularization
+$$
+\begin{align}
+\sum_{i=1}^{l}\left( -s_{i}b_{N}(x_{i}) + \frac{1}{2}h_{i}b_{N}^{2} (x_{i}) \right) + \alpha \gamma + \frac{\lambda}{2}\sum_{i=1}^{\gamma}b_{j}^{2} \to \min_{b_{N}(x)} 
+\end{align}
+$$
+Let structure of a tree be fixed. What will be equal to predictions in leaves. 
+$$
+\begin{align}
+&= \sum_{j=1}^{\gamma}\sum_{(x_{i}, y_{i})\, \in \,R_{j}} \left( -s_{i}b_{j}+\frac{1}{2}h_{i}b_{j}^{2} \right) + \alpha \sum_{i=1}^{\gamma}1 + \frac{\lambda}{2}\sum b_{j}^{2} = \\
+&= \sum_{j=1}^{\gamma}\left( b_{j}\underbrace{ \left( -\sum_{(x_{i}, y_{i})\, \in \,R_{j}} s_{i}\right) }_{ =-s_{i} } +\frac{1}{2}b_{j}^{2}\underbrace{ \left( \sum_{(x_{i}, y_{i})\, \in \,R_{j}}h_{i} \right) }_{ =-H_{j} } + \alpha+\frac{\lambda}{2}b_{j}^{2}  \right)  =  \\
+&= \sum_{j=1}^{\gamma}\underbrace{ \left( -s_{j}b_{j} + \frac{1}{2}\left( H_{j}+\lambda \right) b_{j}^{2} + \alpha  \right) }_{ \text{square polynomial in terms of } b_{j} } \\
+&\text{Substitute }b^{*}_{j} = \frac{s_{i}}{H_{j}+\lambda} \\
+&\underbrace{ = -\frac{\frac{1}{2}\sum_{j=1}^{\gamma}s_{i}^{2}}{H_{j}+\lambda} + \alpha\gamma = H(B) }_{ \text{Loss function for a tree given optimal predictions in leaves} }
+\end{align}
+
+$$
+$R_{j}$ - $j$-th leaf 
+
+![[Pasted image 20231216142428.png]]
+We can use $H(b)$ as [[Impurity]]. 
+$$
+\begin{align}
+Q(R,j,t) = H(R)- H(R_{l})- H(R_{r})
+\end{align}
+$$
+
+
 ## Implementations:
 [[XGBoost]]
 [[LightGBM]]
 [[CatBoost]]
+
 ## Miscellaneous 
 #### Weighting 
 In classification task almost always:
@@ -148,3 +187,4 @@ Then: $s_{i} = y_{i}\underbrace{ \left( -{\frac{ \tilde{\partial}L }{ \partial m
 ## Related
 [[Gradient boosting over trees (GBDT)]]
 [[Stochastic Gradient Boosting]]
+[[Second Order Boosting]]

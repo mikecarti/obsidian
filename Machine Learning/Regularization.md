@@ -1,8 +1,10 @@
+Regularization aims at **penalizing** the model for **over-complexity**.
+
+
 #### Famous experimental fact: 
 If a linear model is over-trained $<==>$ it has large weights.
 
-#### Why?
-
+Why?
 1. Imagine we have some linearly dependent features
 $$
 \begin{gather}

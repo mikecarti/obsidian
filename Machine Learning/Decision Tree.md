@@ -207,6 +207,9 @@ $\mathbb{Y}=\{ -1,+1 \}$
 - CART: ...
 
 ## Connection between trees and [[Linear Regression|Linear Models]]
+
+
+#### Analytic Form
 $$
 \begin{align}
 &\mathbb{X} = J_{1} \cup \dots \cup J_{n} \\
@@ -218,5 +221,6 @@ $$
 In other words: tree finds new non-linear features, and builds upon them a new linear model.
 
 Idea: you can build trees with random predicates and use indices of leaves as new features.
+
 ## Related
 [[Multivariate Adaptive Regression Splines Model (MARS)]]
