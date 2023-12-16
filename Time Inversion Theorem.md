@@ -6,3 +6,7 @@ Y_{t} = tW_{\frac{1}{t}} & t>0  \\
 \end{cases} \;\; = Y_{t} \text{ is a weiner process}
 $$
 ![[Pasted image 20231103174532.png]]
+
+
+#### Related:
+[[Wiener Process (Brownian Motion)]]
