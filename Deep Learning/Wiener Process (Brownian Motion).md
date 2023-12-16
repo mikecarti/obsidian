@@ -11,15 +11,6 @@ this could be also said through [[Sigma-Algebras]]:
 3. $W_{t}- W_{s}\sim N(0, t-s)$  $t \geq s$
 4. Trajectories are continuous with probability of 1
 
-### Time Inversion Theorem
-For Weiner Process $(W_{t})$
-$$
-Y_{t} = \begin{cases}
-Y_{t} = tW_{\frac{1}{t}} & t>0  \\
-0, & t=0
-\end{cases} \;\; = Y_{t} \text{ is a weiner process}
-$$
-![[Pasted image 20231103174532.png]]
 
 ## Properties
 $Cov(W_{t}, W_{s}) = E(W_{t}W_{s})$ $=s$        Where $s \leq t$
