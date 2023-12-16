@@ -16,5 +16,3 @@ $$
 &a(b_{1}(x), \dots, b_{N}(x)) - \text{metamodel}
 \end{align}
 $$
-
-If $a$ and $b_{1}, \dots b_{N}$ 

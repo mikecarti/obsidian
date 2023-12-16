@@ -1,0 +1,1 @@
+Take first centroid in corner of your dataset, second centroid as far as possible and etc.

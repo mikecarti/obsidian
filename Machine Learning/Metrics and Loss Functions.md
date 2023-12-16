@@ -26,4 +26,9 @@
 - [[PR-Curve (AUC-PRC, Precision-Recall)]]
 - [[Gini Index]]
 - [[Cross Entropy Loss (Log Loss, Log-Likelihood Loss,Критерий информативности)|Cross Entropy Loss]]
-- 
+
+# Clusterization
+- Just by looking (best method)
+- [[Intercluster Distance (Внутрикластерное)]] 
+- [[Между-Кластерное (Between-Cluster) Distance]]
+- [[Dunn Index]]
