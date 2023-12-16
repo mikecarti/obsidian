@@ -1,4 +1,3 @@
-If: 
 $$
 \begin{align}
 Given&: \\
