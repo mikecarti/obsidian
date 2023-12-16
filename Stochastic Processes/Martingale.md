@@ -2,7 +2,6 @@
 ### Idea
 When you need to find a stopping time, try to imagine that there is a Casino, in which some people play.
 
-
 ## Definitions
 
 ![[Pasted image 20231020171332.png]]
@@ -17,6 +16,17 @@ $\left( M_{t} \right)_{t\, \in \, [0;\infty]}$ is a martingale if:
 ## [[Wiener Process (Brownian Motion)|Wiener Process]] Theorem
 if $W_t$ is martingale
 then $(W_t^2 -t)$ is martingale
+
+
+
+
+
+
+
+
+
+
+
 # Examples
 
 ### Monkey Example
@@ -81,7 +91,6 @@ $$
 &\mathbb{E}(\tau)= \frac{110}{220} \cdot 110^{2}+\frac{120}{220} \cdot 100^{2} 
 \end{align}
 $$
-## You can regonize Martingale with [[Ito's Process|Ito's Lemma]]
 
 
 ### Related:
