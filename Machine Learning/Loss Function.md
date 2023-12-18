@@ -1,3 +1,4 @@
+[[Metrics and Loss Functions]]
 
 Loss function is often an objective function in [[Optimization Methods |Mathematical Optimization]] problems and [[Supervised Learning]]
 
@@ -7,6 +8,4 @@ Loss function is often an objective function in [[Optimization Methods |Mathemat
 	- For example Zero-one loss
 
 
-## Classification Loss Function
-#### [[Logistic regression]]
 

@@ -2,7 +2,7 @@
 
 Key ideas:
 - Let's train models iteratively, so that EVERY next model CORRECTS errors of PREVIOUS models.
-- We calculate derivative of loss function for every observation from training data, then we minimize [[Ordinary Least Squares (OLS)|OLS]] for new sub-model and required shifts provided by derrivatives.
+- We calculate derivative of loss function for every observation from training data, then we minimize [[Ordinary Least Squares (OLS)|OLS]] for new sub-model and required shifts provided by derivatives.
 - If base models are too simple, quality of each base model would be bad, then it can ruin the ensemble.
 
 ### Boosting for [[MSE]]
