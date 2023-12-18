@@ -1,0 +1,1 @@
+You should trade by lots (typically 100 shares)

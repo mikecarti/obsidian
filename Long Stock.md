@@ -1,0 +1,1 @@
+To buy a stock

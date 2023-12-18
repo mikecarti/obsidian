@@ -1,0 +1,1 @@
+When [[Shorten Stocks|Short]] sellers have a lot of stock and price escalates quickly upwards, shorters have to buy this stock at more expensive price. 
