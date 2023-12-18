@@ -1,0 +1,1 @@
+Stands for the "National Best Bid and Offer". Guarantees to operate with best prices.

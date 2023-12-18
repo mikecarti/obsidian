@@ -1,0 +1,1 @@
+Tick data is **the highest resolution intraday data** and is the sequence of each executed trade or bid/ask quote aggregated from multiple exchanges.

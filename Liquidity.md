@@ -1,0 +1,1 @@
+Intensiveness of trading. 
