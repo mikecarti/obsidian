@@ -99,13 +99,13 @@ $$
 #### Classification
 $$
 \begin{align}
-a_{N}(x) \, \in \, \mathbb{R} - \text{ Cerainty in positive class} \\
-sign \quad a_{N}(x) \text{ - final prediction} \\
-L(y,z) = \log(1+\exp(-yz)) \\
-\frac{1}{l}\sum_{i=1}^{l}\left( b_{N}(x_{i}) -\underbrace{  \frac{y_{i}}{1+\exp(y_{i}a_{N-1}(x_{i}))} }_{ s_{i} = w_{i}y_{i} } \right)^{2} \to \min_{b_{N}} \\ \\
-y_{i}a_{N-1}(x_{i}) \gg 0 \implies w_{i} \approx 0, s_{i} \approx 0 \implies \text{we dont touch such objects} \\
-\underbrace{ y_{i}a_{N-1}(x_{i})\ll 0 }_{ outlier } \implies w_{i} \approx1, s_{i} \approx y_{i} \implies \text{trying to correct to right answer} \\
-y_{i}a_{N-1}(x_{i}) \approx 0 \implies w_{i} = \frac{1}{2}, s_{i} = \frac{1}{2}y_{i} \implies \text{try to correct, but more moderately}
+&a_{N}(x) \, \in \, \mathbb{R} - \text{ Cerainty in positive class} \\
+&sign \quad a_{N}(x) \text{ - final prediction} \\
+&L(y,z) = \log(1+\exp(-yz)) \\
+&\frac{1}{l}\sum_{i=1}^{l}\left( b_{N}(x_{i}) -\underbrace{  \frac{y_{i}}{1+\exp(y_{i}a_{N-1}(x_{i}))} }_{ s_{i} = w_{i}y_{i} } \right)^{2} \to \min_{b_{N}} \\ \\
+&y_{i}a_{N-1}(x_{i}) \gg 0 \implies w_{i} \approx 0, s_{i} \approx 0 \implies \text{we dont touch such objects} \\
+&\underbrace{ y_{i}a_{N-1}(x_{i})\ll 0 }_{ outlier } \implies w_{i} \approx1, s_{i} \approx y_{i} \implies \text{trying to correct to right answer} \\
+&y_{i}a_{N-1}(x_{i}) \approx 0 \implies w_{i} = \frac{1}{2}, s_{i} = \frac{1}{2}y_{i} \implies \text{try to correct, but more moderately}
 
 \end{align}
 $$
