@@ -17,3 +17,6 @@ X= X_{1}\cup\dots \cup X_{k} \\
 b_{n}^{-k}(x) = b_{n}(x)\text{, trained on } X\setminus X_{k}
 \end{align}
 $$
+
+Subset of stacking algorithm is Blending
+![[Blending]]
