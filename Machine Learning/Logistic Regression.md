@@ -4,6 +4,8 @@ b(x) = \sigma(<w,x>)
 $$
 is a sigmoid over a distance from hyperplane to an object.
 
+![[Pasted image 20231219032756.png]]
+
 
 
 ### Loss function
