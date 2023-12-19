@@ -25,7 +25,7 @@ def objective(trial):
     boosting.fit(x_train, y_train, x_valid, y_valid)
 
     # Evaluate the model using AUC ROC
-    auc_roc = score(x_test, y_test)
+    auc_roc = boosting.score(x_test, y_test)
 
     return 1 - auc_roc  # Optuna minimizes the objective, so we use 1 - AUC ROC for maximization
 
