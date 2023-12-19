@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "photos",
   "autoPairMarkdown": false,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "readableLineLength": false
 }
