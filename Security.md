@@ -1,0 +1,1 @@
+is a certificate of monetary value, that has some value and can be traded. (Financial Asset)
