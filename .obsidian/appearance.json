@@ -3,6 +3,7 @@
   "enabledCssSnippets": [
     "snippet"
   ],
-  "baseFontSize": 22,
-  "textFontFamily": "Inter"
+  "baseFontSize": 30,
+  "textFontFamily": "Inter",
+  "cssTheme": "Terminal"
 }
