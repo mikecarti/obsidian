@@ -1,0 +1,1 @@
+A person that ensures that transaction between a buyer and a seller occurs.

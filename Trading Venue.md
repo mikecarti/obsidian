@@ -1,0 +1,1 @@
+Electronic platform / system that enables counterparties to trade with assets of their interest. 
