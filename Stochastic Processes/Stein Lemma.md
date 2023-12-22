@@ -7,3 +7,4 @@ Given&: \\
 &\mathbb{E}\left[ (z-\mu) \cdot h(z) \right]  = \mathbb{E}(h'(z))
 \end{align}
 $$
+
