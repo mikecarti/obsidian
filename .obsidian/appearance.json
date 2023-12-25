@@ -3,7 +3,8 @@
   "enabledCssSnippets": [
     "snippet"
   ],
-  "baseFontSize": 30,
+  "baseFontSize": 17,
   "textFontFamily": "Inter",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "theme": "obsidian"
 }
