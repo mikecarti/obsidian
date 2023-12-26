@@ -1,1 +1,1 @@
-Устойчивость эстиматора, при использовании его для разных распределений вероятности.
+How sensitive is an estimator or method given that some [[Gauss Markov Assumptions For Best Unbiased Estimator]] are violated or data has some disturbances. (Твердый как хуй)
