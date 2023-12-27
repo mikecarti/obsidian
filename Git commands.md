@@ -26,6 +26,10 @@ rm -f .git/index.lock
 # Remote repos
 
 #store #credentials:
+```bash
+git config --global credential.helper store
+git pull
+```
 
 #pull #branch:
 git fetch origin branch_name
