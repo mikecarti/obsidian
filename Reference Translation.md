@@ -1,0 +1,1 @@
+In [[String Metrics]], Language Reference is a ground truth (a good translation) of a given text.
