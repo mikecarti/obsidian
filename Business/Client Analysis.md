@@ -5,6 +5,10 @@ Search of useful knowledge in client data for a more effective accomplishment of
 - Sell more to every client
 - Get back gone clients
 
+## Good Presentation
+
+![[АДВБ_Занятие_№1_Лекция_Клиентская_аналитика_Титова_2023_removed.pdf]]
+
 ## Types of analysis
 - Segmentation of client base and behavior profiling. 
 - Predicting models (Модель оттока - [[CatBoost]] & [[XGBoost]], модель отклика)
