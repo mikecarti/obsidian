@@ -1,4 +1,10 @@
 
+
+## Data Science in Business
+![[Pasted image 20240113133335.png]]
+
+
+
 # Financial Engineering
 
 ![[Pasted image 20230901111737.png]]
