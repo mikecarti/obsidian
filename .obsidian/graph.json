@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 16753152
       }
+    },
+    {
+      "query": "path:Business  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 11.9706573605869,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.06645780572854064,
+  "scale": 0.05170109550566919,
   "close": true
 }
