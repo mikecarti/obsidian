@@ -3,7 +3,7 @@ $$
 R(w) = \lvert \lvert w \rvert  \rvert_{1}= \sum_{i=1}^{n}\lvert w_{j} \rvert
 $$
 
-### Adoptive LASSO:
+### Adaptive LASSO:
 $$
 \begin{align}
 RSS + \lambda \sum_{j=1}^{k} W_{j} \; \cdot  \mid \beta_{j}\mid \to \min_{\beta_{j}} \\

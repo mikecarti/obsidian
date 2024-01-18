@@ -12,7 +12,6 @@ Where $d$ is a distribution, and this property is a property of [[Maximum Likeli
 $\Sigma$ - is the [[Covariance Matrix]] of [[Estimators|estimator]] estimated using only the true subset $x_{1}, \dots, x_{p_{0}}$
 
 ## Estimators with that property
-![[Lasso#Adoptive LASSO]]
-
+![[Lasso#Adaptive LASSO]]
 
 ![[SCAD (Smoothly Clipped Absolute Deviation)]]

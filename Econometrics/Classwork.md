@@ -89,3 +89,51 @@ c) ...
 
 ## 18.01
 
+![[Pasted image 20240118150655.png]]
+
+(i)
+$$
+\begin{align}
+\lvert\lvert \hat{u} \rvert\rvert _{2}^{2} \to \min_{\beta} \\
+\lvert\lvert X\beta - Y \rvert\rvert^{2}_{2} \to \min_{} \\
+ \\
+\beta = \begin{bmatrix}
+\beta_{1} \\
+\beta_{2} \\
+\beta_{3} \\
+\dots
+\end{bmatrix} \quad \quad X = \begin{bmatrix}
+1 & x_{21} & x_{31} \\
+\vdots  & \vdots  & \vdots   \\
+1 & x_{2n} & x_{3n} 
+\end{bmatrix} \\
+Y = \begin{bmatrix}
+Y_{1} \\
+\dots \\
+Y_{n}
+\end{bmatrix} \quad u = \begin{bmatrix}
+u_{1} \\
+\dots \\
+u_{n}
+\end{bmatrix}
+\end{align}
+$$
+
+![[Normal Equation for OLS]]
+
+$$
+\begin{align}
+\bar{y} = b_{1}+b_{2}\bar{x}_{2}+b_{3}\bar{x}_{3} \implies \hat{b}_{1} = \bar{Y} - b_{2}\bar{X}_{2} - b_{3}\bar{X}_{3}\\
+cov(X_{2}, Y) = \beta_{2}  \cdot  Var(X_{2}) + \beta_{3}Cov(X_{2},X_{3})\\
+cov(X_{3},Y) = b_{2}Cov(X_{2},X_{3}) + b_{3}Var(X_{3}) 
+\end{align}
+$$
+![[Cramer's Rule]]
+
+$$
+\begin{bmatrix}
+Var(X_{2})  &  Cov(X_{2}, x_{3} )  & \mid Cov(X_{2},Y) \\
+Cov(X_{2},X_{3}) & Var(X_{3})   & \mid Cov(X_{3}, Y)
+\end{bmatrix}
+
+$$
