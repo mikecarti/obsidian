@@ -34,7 +34,7 @@ $$
  $Cov(Y-R, I_{A}) = 0$ for  $A\, \in \,\mathcal{F}$
 3) $E(Y-R)= 0$
 ## Examples of Discrete Case.
-1) [[Stochastic Processes/Classwork|Classwork]] - 13.10
+1) [[Stochastic Processes & Time Series/Classwork|Classwork]] - 13.10
 
 2) ![[Pasted image 20231013173211.png]]
-3) [[Stochastic Processes/Classwork#17.10 Seminar]] - 17.10
+3) [[Stochastic Processes & Time Series/Classwork#17.10 Seminar]] - 17.10

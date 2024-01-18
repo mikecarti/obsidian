@@ -85,5 +85,5 @@ $$
 $p(t)$ - price of the asset
 $q(t)$ - my trading strategy (how many do i keep in my financial portfolio)
 
-Examples in [[Stochastic Processes/Classwork##10.11(Lecture)|Classwork]]
+Examples in [[Stochastic Processes & Time Series/Classwork##10.11(Lecture)|Classwork]]
 

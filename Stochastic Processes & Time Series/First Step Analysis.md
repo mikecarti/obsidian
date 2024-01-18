@@ -6,7 +6,7 @@ Related:
 - [[Markov Processes]]
 
 ## Examples:
-1) [[Stochastic Processes/Classwork#№ 1.6]]
+1) [[Stochastic Processes & Time Series/Classwork#№ 1.6]]
 2) Below
 
 ![[Pasted image 20230912150256.png]]
