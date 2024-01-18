@@ -9,3 +9,23 @@
 ### Acoustic Model and Vocoder
 7) Акустическая модель (Tacotron 2) превращает юниты в спектрограмму (визуальное представление того, как частоты меняются со временем)
 8) Вокодер (HiFi-GAN) превращает спектрограмму в аудио
+
+## Обучение: 
+### Discrete Content Encoder
+100 clusters and estimate their means on a subset of 100 speakers from the LibriSpeech train-clean-100 split
+
+### Soft Content Encoder
+CPC-big and HuBERT-Base as backbones. We fine-tune each
+model (including the backbone) on LibriSpeech-960. We train for 25k steps using a learning rate of 2 × 10^{−5} (странно что лр не динамический)
+
+### Acoustic Model and Vocoder
+The acoustic model and vocoder are trained on LJSpeech. 
+
+downsample the dataset to 16 kHz and extract 128-band
+mel-spectrograms at a hop-length of 10 ms with a Hann window of 64 ms. train for 50k steps and select the checkpoint with the lowest validation loss.
+
+Hifi-GAN: ground-truth spectrograms for 1M steps and then fine-tune on predicted spectrograms for 500k steps.
+
+
+## Related:
+[[HuBERT]]
