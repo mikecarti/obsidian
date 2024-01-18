@@ -11,5 +11,5 @@ Taking [[Neural Network]], that was pretrained on some data. How to easily trans
 ### If we have more data (100.000+)
 
 ![[Pasted image 20231019135924.png]]
-- FIx model to the middle
+- Freeze model to the middle
 - Train other layers
