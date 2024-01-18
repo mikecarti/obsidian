@@ -60,6 +60,8 @@ $\alpha\alpha\alpha\dots\alpha$ - Типа гребень
 ### LASSO:
 Особенность: Lasso зануляет часть весов
 
+![[Oracle Property]]
+
 ## Note 1
 ![[Pasted image 20230929122859.png]]
 
@@ -85,3 +87,4 @@ $$\implies x_{ij}=\frac{{x_{ij}-\mu_{i}}}{s_{j}}$$
 [[Ridge and Lasso regularization is like a salt in cookery. Often makes model better.]]
 [[Linear Regression]]
 [[Over-fitting]]
+[[Lasso]]
