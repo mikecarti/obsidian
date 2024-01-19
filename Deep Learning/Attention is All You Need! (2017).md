@@ -1,3 +1,4 @@
+# Motivation
 - RNN is too long
 - Backwards pass goes through time
 - Transformer - NN for [[Seq2Seq]] based on [[Fully-connected (Linear) Layer|Fully-connected Neural Layers]]
@@ -15,5 +16,3 @@
 ![[Pasted image 20231130112342.png]]
 
 
-## High Level
-Transformer - is just encoder and decoder.

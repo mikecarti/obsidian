@@ -1,4 +1,7 @@
+[[MachineLearningGraph.png]]
+https://habr.com/en/articles/787568/
 
+# Problem Statement
 Space of objects $\mathbf{X}$
 
 Space of targets $\mathbf{Y}$ 

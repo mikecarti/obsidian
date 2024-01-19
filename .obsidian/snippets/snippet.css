@@ -8,6 +8,30 @@ img {
         margin-right auto !important;
 }
     
+img[alt*="w90"] {
+    width: 90%;
+}
+
+img[alt*="w80"] {
+    width: 80%;
+}
+
+img[alt*="w75"] {
+    width: 75%;
+}
+
+img[alt*="w70"] {
+    width: 70%;
+}
+
+img[alt*="w60"] {
+    width: 60%;
+}
+
+img[alt*="w50"] {
+    width: 50%;
+}
+
 .markdown-source-view.mod-cm6 .cm-content   {
         margin auto auto !important;
 }
@@ -23,4 +47,23 @@ img {
 
 .theme-dark .markdown-source-view img {
     opacity: 1;                   
+}
+
+.img-grid .markdown-preview-section {
+    display:flex;
+}
+.img-grid .markdown-preview-section > .internal-embed {
+    flex:1;
+    margin-left:-0.5rem;
+    padding:0 0.5rem 0.5rem 0.5rem;
+}
+.img-grid .markdown-preview-section > *:not(div) {
+    margin-block-start: 0rem;
+    margin-block-end: 1rem;
+}
+.img-grid .markdown-preview-section hr {
+    width:100%;
+}
+.img-grid .markdown-preview-section img:not([width]) {
+    width:100%;
 }
