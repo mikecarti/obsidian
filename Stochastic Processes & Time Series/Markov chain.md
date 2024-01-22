@@ -1,5 +1,5 @@
 A type of [[Markov Processes]]
-The simplest type of processes. Used in [[General Adversarial Network]]s for analyzing artifacts.
+The simplest type of processes. Used in [[Generative Adversarial Network (GAN)]]s for analyzing artifacts.
 
 ## Definition
 

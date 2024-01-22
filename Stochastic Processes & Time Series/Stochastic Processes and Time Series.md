@@ -20,4 +20,4 @@ That is a probability of coming from state $i$ to state $j$ , it does not accoun
 ### Optimal Stopping Time (Hardest question in Stochastics)
 given function $t \to t+1$ give estimation of probability that in fixed time that function will touch some boundary. 
 
-Important in [[Monte Carlo]], in [[General Adversarial Network]]s, etc.
+Important in [[Monte Carlo]], in [[Generative Adversarial Network (GAN)]]s, etc.
