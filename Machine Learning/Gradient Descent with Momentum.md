@@ -1,9 +1,12 @@
 ## Momentum (Метод инерции)
+
+### Problem
 As gradient step is orthogonal to level curves, it may be sub-optimal
 ![[Pasted image 20230929113027.png]]
 
 We see that along y axis they are oscillating (stupid movement), and on x axis, it moves straightforward.
 
+### Solution
 h - fading average of gradients from previous steps (затухающее среднее градиентов с прошлых шагов)
 $$
 \begin{align}

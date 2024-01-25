@@ -16,7 +16,7 @@ Making [[Stochastic Gradient Descent|SGD]] for $<w,x>$ from top to bottom for th
 Only on seventh step i will update $w_{5}$ and $\eta_{k}$ there is small.
 
 ### Adaptive Learning Rate (AdaGrad)
-Let us have its own $\eta_{k}$ for every object 
+Let us have its own $\eta_{k}$ for every feature 
 $$
 \begin{align}
 G_{0j}&= 0 \qquad \text{j - index of feature} , k \text{ - index of step}\\

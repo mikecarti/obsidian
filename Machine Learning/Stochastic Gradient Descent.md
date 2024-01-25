@@ -1,5 +1,5 @@
 ## Idea
-Take a subset of objects, not the whole sample on every step.
+Take a subset of objects, not the whole sample on every step. (One object - Stochastic, batch - Mini-Batch Gradient Descent)
 $$
 \nabla Q \approx \nabla q_{i}(w)
 $$

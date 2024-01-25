@@ -19,9 +19,8 @@
 # Classification
 #### Loss Functions
 - [[Cross Entropy Loss (Log Loss, Log-Likelihood Loss,Критерий информативности)|Cross Entropy Loss]]
+- [[Hinge-Loss]]
 #### Metrics
-
-
 - [[Accuracy]]
 - [[Confusion Matrix]]
 - [[Precision and Recall]]

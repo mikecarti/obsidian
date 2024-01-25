@@ -15,6 +15,7 @@ All words are fed at the same time during training.
 Positionally encoded input and output embeddings are then fed into Encoder and Decoder. 
 
 ## ![[Multi-Head-Attention]]
+![[Attention Mechanism]]
 
 
 Transformers use [[Self-Supervised Learning]].

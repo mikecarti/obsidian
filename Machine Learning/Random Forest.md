@@ -34,3 +34,7 @@ $b_{n}(x)$ is trained on $X_{n} \subset X$. Then every tree has objects that wer
 ### RF: Features Importance
 ([[Permutation Feature Importance]]) 
 (Can be used not only for Random Forest)
+
+
+## Related:
+[[Gradient Boosting]]

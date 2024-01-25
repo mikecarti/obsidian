@@ -207,8 +207,6 @@ $\mathbb{Y}=\{ -1,+1 \}$
 - CART: ...
 
 ## Connection between trees and [[Linear Regression|Linear Models]]
-
-
 #### Analytic Form
 $$
 \begin{align}

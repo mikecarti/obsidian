@@ -73,7 +73,7 @@ Gradient Boosting - [[Gradient Descent]] in space ensemble's prediction on train
 Difference with [[Gradient Descent]] is that we count anti-gradient, then we approximate this on training sample, in [[Gradient Descent]] we just adjust parameters of a model directly.
 
 ## Mysteries of GB (Control Work)
-1) Why you can't think?
+1) Why you can't do like that?
 $$
 \begin{align}
 b_{1}(x) - \text{some model} \\

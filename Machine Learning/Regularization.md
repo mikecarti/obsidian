@@ -1,4 +1,6 @@
-Regularization aims at **penalizing** the model for **over-complexity**.
+Regularization aims at **penalizing** the model for **over-complexity**. 
+
+Ridge and Lasso regularization is like a salt in cookery. Often makes model better.
 
 
 #### Famous experimental fact: 
@@ -84,7 +86,6 @@ $$\implies x_{ij}=\frac{{x_{ij}-\mu_{i}}}{s_{j}}$$
 
 
 ## Related:
-[[Ridge and Lasso regularization is like a salt in cookery. Often makes model better.]]
 [[Linear Regression]]
 [[Over-fitting]]
 [[Lasso]]

@@ -5,3 +5,8 @@ $$
 ### Important properties for ML
 - $\nabla Q(w)$ shows direction of fastest growth in w
 - $\nabla Q(w)$ is orthogonal to level curves
+
+## Related:
+- [[Gradient Learning Methods]]
+- [[Gradient Boosting]]
+- [[Neural Network]]
