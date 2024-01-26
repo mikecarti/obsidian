@@ -118,3 +118,99 @@ given $M > 0$:
 SVM gives better classification [[Metrics and Loss Functions|metrics]] values. (AUC-ROC, F-Score)
 
 [[Linear Classification]] tends to correctly estimate probabilities
+
+## Kernel SVM
+It turns out, that if we write [[Dual Function]] of [[SVM (Support Vector Machine)#Constrained Optimization Goal|Constrained Optimization Goal in SVM]], we get a nice form for [[Kernel Methods|kernels]]. Lets write out the [[Lagrangian]]
+
+$$
+\begin{align}
+&L(w,b,\xi,\lambda,\mu )=\frac{1}{2}\lvert\lvert w \rvert\rvert ^{2}+C\sum\xi_{i} -\sum_{i=1}^{l}\lambda_{i}(y_{i}(\left< w,x_{i} \right> +b)-1+\xi_{i}) - \sum_{i=1}^{l}\mu_{i}\xi_{i}  \\
+&\nabla_{w}L=w -\sum_{i=1}^{l}\lambda_{i}y_{i}x_{i} = 0 \implies w=\sum_{i=1}^{l}\lambda_{i}y_{i}x_{i} \quad \quad (1) \\
+&\nabla_{b}L=-\sum_{i=1}^{l}\lambda_{i}y_{i}=0 \\
+&\nabla_{\xi_{i}}L=C-\lambda_{i}-\mu_{i}=0\implies\lambda_{i}+\mu_{i}=C
+\end{align}
+$$
+
+By [[Complementary Slackness Theorem (KKT)]]
+$$
+\begin{align}
+
+\lambda_{i}(y_{i}(\left< w,x_{i} \right> +b)-1+\xi_{i})=0 &\implies \begin{cases}
+\lambda_{i}=0  \\
+y_{i}(\left< w,x_{i} \right> +b) = 1- \xi_{i}  
+\end{cases} \\
+\mu_{i}\xi_{i}=0 \quad  &\implies \begin{cases}
+\mu_{i}=0 \\
+\xi_{i}=0 \\
+\end{cases} \\
+\lambda_{i}\geq 0, \mu_{i}\geq &0
+\end{align}
+$$
+
+1) $\xi_{i}=0$, $\lambda_{i}=0$    -    peripheral objects (can be kicked out from training sample, and nothing will change)
+	 $\lambda$ = 0 means that it does not influence weights.
+	 ![[Pasted image 20240126151817.png]]
+1) $\xi_{i}=0$,   $0< \lambda_{i}\leq C$   (- опорные граничные)
+	$\lambda_{i}\neq 0$=> $y_{i}(\left< w,x_{i} \right>+ b)=1$
+	![[Pasted image 20240126151759.png]]
+
+3) $\xi_{i}=0$ => $\mu_{i}\geq 0$  => $\lambda_{i}=C$ (- опорные нарушители)![[Pasted image 20240126151747.png]]
+---------
+
+Substitute (1) in Lagrangian:
+$$
+\begin{align}
+L = \frac{1}{2}\left\lvert \left\lvert  \sum_{i=1}^{l}\lambda_{i}y_{i}x_{i}   \right\rvert \right\rvert^{2} - \sum_{i=1}^{l}\sum_{j=1}^{l}\lambda_{i}\lambda_{j}y_{i}y_{j}\left<  x_{i}x_{j}  \right> -  \\
+- \cancelto{ 0 }{ b\sum_{i=1}^{l}\lambda_{i}y_{i} }+\sum_{i=1}^{n}\lambda_{i}K+\cancelto{ 0 }{ \sum_{i=1}^{n}\xi_{i}(C-\lambda_{i}-\mu_{i}) }
+\end{align}
+$$
+No direct variables (прямых) => It is [[Lagrangian#Dual Function|Dual Function]]:
+
+### Dual Task for SVM
+$$
+\begin{cases}
+\sum_{i=1}^{l}\lambda_{i} - \frac{1}{2}\sum_{i=1}^{l}\sum_{i=j}^{l}\lambda_{i}\lambda _{j}y_{i}y_{j}\left< x_{i},x_{j} \right> \to \max_{\lambda_{i}} \\
+\sum_{i=1}^{l}\lambda_{i}y_{i}=0 \\
+0 \leq \lambda_{i} \leq C  \\
+\mu_{i}= C-\lambda_{i}
+\end{cases}
+
+$$
+
+If we find solutions $\lambda_{i}^{*}$ then
+$$w_{*}= \sum_{i=1}^{l}\lambda_{i}y_{i}x_{i}$$
+So we get a form, where features are not needed (needed only [[Dot (Scalar) Product]])
+
+### Kernel Trick (Final Form of Kernel SVM Optimization)
+$$
+\begin{align}
+&\left< x_{i},x_{j} \right> \to K(x_{i},x_{j} ) = \left< \phi(x_{i}), \phi(x_{j}) \right>  \\
+&\sum_{i=1}^{l}\lambda_{i} -\frac{1}{2}\sum_{i,j=1}^{l} \lambda_{i}\lambda_{j}y_{i}y_{j}K(x_{i},x_{j}) \to \max_{\lambda_{i}} \\
+&\sum\lambda_{i}y_{i}=0 \\
+&0 \leq \lambda_{i}\leq C
+\end{align}
+$$
+
+We are building a model in the space where $\phi(x)$ gets us. 
+
+### Problems
+- Have to store [[Gramm Matrix]] (O(n^2) )
+- Constrained Optimization
+- Double sum of objects
+
+### Model Structure
+$$
+\begin{align}
+a(x) = sign(\left< w,x \right> +b)=  \\
+=sign\left( \sum_{i=1}^{l}y_{i}\lambda_{i}\left< x_{i},x \right> +b \right) =  \\
+= sign\left( \sum_{i=1}^{l}\lambda_{i}y_{i}K(x_{i}, x) + b \right)
+\end{align} 
+$$
+#### How to find $b$?
+Take $x_{i}$:  $\xi_{i}=0, \lambda_{i}>0$  (опорный граничный)
+$$
+y_{i}(\left< w,x_{i} \right>+b)=1
+$$
+$$
+b=y_{i}-\left< w,x_{i} \right> =y_{i}-\sum0_{j=1}^{l}\lambda_{j}y_{j}\left< x_{i},x_{j} \right> 
+$$

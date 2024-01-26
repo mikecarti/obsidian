@@ -19,6 +19,23 @@ $$
 +Quality raises
 -Too much features (**hard to calculate**, overfitting)
 
+## In General:
+$$
+\begin{align}
+&\Big[\frac{1}{2} \lvert\lvert \Phi w-y \rvert\rvert ^{2}+\lambda \lvert\lvert w \rvert\rvert ^{2}\to \min_{} \Big] \xRightarrow[]{\Phi\to K=\Phi \Phi^{-1}} \begin{cases}
+\frac{1}{2} \lvert\lvert K\alpha - y\rvert\rvert^{2}+\frac{\lambda}{2}\alpha^{T}K\alpha  \to \min_{\alpha}  \\ 
+ a(x) = \sum_{i=1}^{n}\alpha_{i}\left< x,x_{i} \right> \\
+\alpha \text{ is some vector of new weights}
+\end{cases} \implies \\
+&\xRightarrow[\text{Kernel Trick}]{\left< x,z \right>\to K(x,z)=\left< \phi(x),\phi(z) \right> }  \begin{cases}
+K(x,z) \text{  - kernel} \quad  \\
+ K=\left( K(x_{i}, x_{j}) \right)_{i,j=1}^{l} \\
+ \frac{1}{2}\lvert\lvert K\alpha-y  \rvert\rvert^{2} + \frac{\lambda}{2}\alpha^{T}K\alpha\to \min_{} \\
+a(x)=\sum_{i=1}^{l} \alpha_{i}K(x,x_{i})
+\end{cases}
+\end{align}
+$$
+
 ## Theory
 ### Dual representation for [[Linear Regression]]
 $$
@@ -125,9 +142,6 @@ K(x,z) = \exp \left( -\frac{{\lvert\lvert x-z \rvert\rvert ^{2}}}{2\sigma^{2}} \
 $$
 apparently, $H$ - infinitely dimensional. but we can not even touch this dimensions. 
 
-
-
-
 ## [[K Nearest Neighbors (KNN)]]
 Kernel methods have smoothly decreasing weights from 1 to 0 with some radius going from target point. In contrary [[K Nearest Neighbors (KNN)]] have 0/1 weights.
 ### Radial Basis Function (RBF)
@@ -135,3 +149,9 @@ Kernel methods have smoothly decreasing weights from 1 to 0 with some radius goi
 Correlations tends to 0. 
 
 
+## Kernel Approximation
+Use kernels => Need [[Gramm Matrix]] $K_{\ell \times \ell}$ => Probably we will not have enough memory
+
+
+## Related:
+[[SVM (Support Vector Machine)##Kernel Svm]]

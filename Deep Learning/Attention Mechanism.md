@@ -1,4 +1,4 @@
-`Used in [[Transformers]] model.
+Used in [[Transformers]] model.
 
 ### Intuition
 > ”The animal didn't cross the street because it was too tired”

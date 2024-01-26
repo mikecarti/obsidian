@@ -1,3 +1,4 @@
+## Definition
 $$
 L(x,h,\nu) = f_{0}(x)+\sum\lambda_{i}f_{i}(x) + \sum\nu h_{i}(x) 
 $$
@@ -47,7 +48,7 @@ $$
 g(h_{*}, \nu_{*}) \leq f_{0}(x_{*})
 $$
 
-#### String Duality
+#### Strong Duality
 $$
 g(h_{*}, \nu_{*}) = f_{0}(x_{*})
 $$
