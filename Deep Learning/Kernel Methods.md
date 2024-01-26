@@ -150,7 +150,54 @@ Correlations tends to 0.
 
 
 ## Kernel Approximation
-Use kernels => Need [[Gramm Matrix]] $K_{\ell \times \ell}$ => Probably we will not have enough memory
+Use kernels => Need [[Gramm Matrix]] $K_{\ell \times \ell}$ => Probably we will not have enough memory. 
+
+Idea: $\phi(x)$ - don't know, even if know, too big to store on GPU... Then let us find 
+$$
+\tilde{\phi}: \mathbb{X}\to \tilde{H} \quad s.t. \quad  \left< \tilde{\phi}(x), \tilde{\phi}(x) \right> \approx K(x,z) \quad \forall x,z 
+$$
+That will be our low-rank approximation of a [[Kernel Methods#Gaussian Kernels|Gaussian Kernel]]. 
+
+### Random Fourier Features (Random Kitchen Sinks, RKS)
+We will be working only with kernels of form:
+$$
+K'(x,z)= K(x-z) \quad \quad \quad \text{Functions that depend on } x-z 
+$$
+![[Boxner Theorem]]
+
+$$
+\begin{align}
+\underbrace{ K(x-z) }_{ \text{real function} } = \int _{\mathbb{R}^{d}}p(w)e^{iw^{T}(x-z)} \, dw =  \\
+= \int _{\mathbb{R}^{d}}p(w)\cos w^{T}(x-z)dw \, + \cancelto{ 0 }{ i\int_{\mathbb{R}^{d}}p(w)\sin w^{T}(x-z)dw C } = \\
+ =\int _{\mathbb{R}^{d}} p(w)\cos w^{T}(x-z)\, dw = \{ w_{1},\dots w_{n}\sim p(w) \} \approx \\
+\approx \frac{1}{n}\sum_{i=1}^{n}\cos w_{j}^{T}(x-z) = \dots
+\end{align}
+$$
+Сильнее всего будут влиять те $\cos w^{T}(x-z)$, у которых большая вероятность $p(w)$ ([[Monte Carlo]] Approximation)
+
+$$
+\begin{align}
+\dots = \frac{1}{n}\sum_{j=1}^{n}\left( \cos(w_{j}^{T}x)\cos(w_{j}^{T}z) + \sin (w_{j}^{T}x)\sin(w_{j}^{T}t) \right)  \\
+\tilde{\phi}(x) = \frac{1}{\sqrt{ n }}\Big(\cos(w_{1}^{T}x), \dots \cos(w_{n}^{T}x), \sin(w_{1}^{T}x), \dots, \sin(w_{n}^{T}x)\Big) =  \\
+= \left< \tilde{\phi}(x), \tilde{\phi}(z) \right> 
+\end{align}
+$$
+So we got an approximation of a kernel with exact cos functions. 
+$$
+K(x,z) = \exp\Big(-\frac{{\lvert\lvert x-z \rvert\rvert^{2} }}{2\sigma^{2}}\Big) <=> p(w) = \mathcal{N}(0,\sigma^{2})
+$$
+X - training set
+$$
+\tilde{X} = \underbrace{ \begin{bmatrix}
+\tilde{\phi}(x) \\
+\dots \\
+\tilde{\phi}(x)
+\end{bmatrix} }_{ \begin{align}
+\text{new features } \\
+\text{approximating } \phi(x) \\
+\text{from } K(x,z) 
+\end{align} } \implies \text{Train Linear model } \left< w,\tilde{\phi}(x) \right> \text{ as usual}
+$$
 
 
 ## Related:
