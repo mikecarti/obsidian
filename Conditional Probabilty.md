@@ -4,5 +4,5 @@ $$
 
 ## Bayes' Theorem:
 $$
-P(A\mid B)=\frac{{P(B\mid A)P(A)}}{P(B)}
+P(A\mid B)=\frac{{P(B\;\mid A) \cdot P(A)}}{P(B)}
 $$
