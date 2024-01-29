@@ -131,7 +131,7 @@ K(x,z) =\left( \left< x,z \right> +R \right) ^{m} - \text{ polynomial kernel } R
 = \sum_{i=0}^{m}C_{m}^{i}R^{m-1} \left< x,z \right> ^{i} 
 \end{align}
 $$
-R - [[Regularization]] for [[Monomial|monomials]] of big degrees. For regularization take $R \gg 0$
+R - [[Regularization in ML]] for [[Monomial|monomials]] of big degrees. For regularization take $R \gg 0$
 
 
 ## Gaussian Kernels

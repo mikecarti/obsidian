@@ -1,3 +1,5 @@
+Randomly zeros out elements of the input tensor during training.
+
 $$
 \begin{align}
 &x \in \mathbb{R}^{B\times N} \qquad \text{ B - batch size. N - num of neurons in hidd. layer}  \\

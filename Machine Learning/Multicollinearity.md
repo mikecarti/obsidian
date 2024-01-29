@@ -9,7 +9,7 @@ In case if matrix is singular, then we may use
 
 ## Dealing with it
 - [[Principal Component Analysis (PCA)]]
-- [[Regularization]]
+- [[Regularization in ML]]
 - [[Auto-Encoders]]
 
 ## Does not violate [[Gauss Markov Theorem]]

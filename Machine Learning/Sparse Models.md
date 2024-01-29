@@ -4,7 +4,7 @@ Why should we nullify some weights?
 3)  $N \ll p$ ; $\ell \ll d$.    $N$ - кол-во наблюдений, $\ell$ - кол-во признаков
 
 ## Solution for linear models:
-[[Regularization#LASSO | L1 Regularization]]
+[[Regularization in ML#LASSO| L1 Regularization]]
 
 $$
 Q(w)+\lambda| | w| |_{1} \to \min_{w}

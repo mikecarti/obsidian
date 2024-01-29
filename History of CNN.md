@@ -19,7 +19,7 @@ Sub-Sampling - [[Pooling Layers#Max Pooling]]
 ![[Pasted image 20231012140549.png]]
 
 - Made of 2 parts, because model could not fit on one graphics card xDDD
-- [[RELU (Rectified Linear Unit)]], [[Augmentation in Deep Learning]], [[Dropout]]
+- [[RELU (Rectified Linear Unit)]], [[Data Augmentation]], [[Dropout]]
 - [[Gradient Descent with Momentum]]
 - 2 GPU (5-6 days)
 

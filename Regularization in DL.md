@@ -1,0 +1,5 @@
+
+![[Dropout]]
+
+
+# [[Weight Decay]]

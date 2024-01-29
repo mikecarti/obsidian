@@ -24,9 +24,9 @@ Bias = How good model performs on average (less = better)
 Variance = How much model performs differently based on different datasets (less = more stable)
 
 ## Bias
-The bigger [[Regularization]] $\implies$ The bigger [[Bias]], the worse model performs
+The bigger [[Regularization in ML]] $\implies$ The bigger [[Bias]], the worse model performs
 ## Variance
-The bigger [[Regularization]] $\implies$ The smaller [[Variance]], the better model generalizes
+The bigger [[Regularization in ML]] $\implies$ The smaller [[Variance]], the better model generalizes
 
 ## More theory:
 $$
