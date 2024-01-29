@@ -13,3 +13,15 @@ Taking [[Neural Network]], that was pretrained on some data. How to easily trans
 ![[Pasted image 20231019135924.png]]
 - Freeze model to the middle
 - Train other layers
+
+
+# PyTorch Transfer Learning
+```python
+import torch
+
+layer = nn.Linear(64,128)
+torch.save(layer, 'layer.pth')
+
+new_layer = torch.load('layer.pth')
+```
+
