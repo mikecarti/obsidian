@@ -10,7 +10,7 @@ $\beta$ - гипер-параметер
 В точках перехода проблемы с производной.
 ### Motivation
 Let us take the best from both worlds (MAE, MSE).
-While [[MSE]] is  [[Arithmetic Mean]]-[[Unbiasedness]] and [[MAE]] is [[Geometric Mean]]-[[Unbiasedness]], first one has disadvantage of being dominated by [[Outliers]]. So huber's loss is an unbiased estimator in both arithmetic and geometric-mean logics.
+While [[MSE Loss (L2 Loss)]] is  [[Arithmetic Mean]]-[[Unbiasedness]] and [[MAE]] is [[Geometric Mean]]-[[Unbiasedness]], first one has disadvantage of being dominated by [[Outliers]]. So huber's loss is an unbiased estimator in both arithmetic and geometric-mean logics.
 
 
 ![[Pasted image 20230915121057.png]]

@@ -1,13 +1,13 @@
 # Regression
 #### Loss Functions
-- [[MSE]]
+- [[MSE Loss (L2 Loss)]]
 - [[Huber's Loss]]
 - [[Log-Cosh]]
 - [[MSLE]]
 - [[Quantile Loss Function]]
 - [[Relative Loss Function]]
 #### Metrics
-- [[MSE]]
+- [[MSE Loss (L2 Loss)]]
 - [[RMSE]]
 - [[R^2]]
 - [[MAE]]

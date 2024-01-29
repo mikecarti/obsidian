@@ -1,7 +1,10 @@
+## Final Layer
+- [[Sigmoid]]
+- [[SoftMax]]
 
+## In-Between Layer
 - [[RELU (Rectified Linear Unit)]]
 - [[Leaky RELU]]
-- [[Sigmoid]]
 
 ## Importance
 

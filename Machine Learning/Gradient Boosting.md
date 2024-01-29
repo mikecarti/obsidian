@@ -5,7 +5,7 @@ Key ideas:
 - We calculate derivative of loss function for every observation from training data, then we minimize [[Ordinary Least Squares (OLS)|OLS]] for new sub-model and required shifts provided by derivatives.
 - If base models are too simple, quality of each base model would be bad, then it can ruin the ensemble.
 
-### Boosting for [[MSE]]
+### Boosting for [[MSE Loss (L2 Loss)]]
 $$
 \begin{align}
 &\frac{1}{l}\sum_{i=1}^{l}\left( a(x_{i})-y_{i} \right)^{2} \to \min_{a} \\

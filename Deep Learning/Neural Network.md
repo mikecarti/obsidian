@@ -12,7 +12,7 @@ $W_{i,j}=\text{ Weight from neuron } i^{[n-1]} \text{ to } j^{[n]}$
 $x_{1} , \dots , x_{m} = \text{inputs}$
 $b_{i}^{[n]}$ = [[Bias]] for i-th neuron on n-th layer
 $a_{i}^{[n]}=R(X)=R(x_{1} \cdot w_{1} + \dots + x_{m} \cdot w_{m}+b)$
-R = [[Activation  functions|Activation function]]
+R = [[Activation Functions|Activation function]]
 S = [[Sigmoid]] Function
 
 
