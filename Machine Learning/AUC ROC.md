@@ -13,7 +13,6 @@ TPR  = \frac{TP}{TP+FN} = \frac{TP}{\ell_{+}} = recall
 $$
 Перебираем все t, и для каждого оцениваем FRP и TRP.  Рисуем их на графике.
 
-
 ![[Pasted image 20231013121642.png|500]]
 
 ## Be careful

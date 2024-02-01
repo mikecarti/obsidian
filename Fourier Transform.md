@@ -1,3 +1,3 @@
 $$
-K(x)= \int _{\mathbb{R}^{d}}p(w)e^{iw^{T}(x)} \, dw
+{\displaystyle {\widehat {f}}(\xi )=\int _{-\infty }^{\infty }f(x)\ e^{-i2\pi \xi x}\,dx.}	
 $$
