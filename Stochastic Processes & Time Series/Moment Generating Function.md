@@ -30,4 +30,4 @@ $$
 M_{Y}(t) = \exp(at)M_{X}(bt)
 $$
 ## Example:
-- [[Stochastic Processes & Time Series/Classwork# 15.09 Lecture]]
+- [[Classwork (Stochastic Processes)# 15.09 Lecture]]
