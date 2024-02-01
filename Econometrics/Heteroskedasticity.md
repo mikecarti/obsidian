@@ -16,3 +16,6 @@ then to make variance constant:
 $$\frac{Var(\epsilon_{i})}{\sqrt{ f(\dots) }} = a$$
 
 
+## Tools to fight it
+-  vcovHAC / vcovHC
+- 
