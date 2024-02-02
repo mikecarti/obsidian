@@ -99,7 +99,7 @@ $$
 &\text{From statement 1:} \\
 &(*) \quad  \theta^{i+1}-\theta^{i}=P(\theta^{i}) \cdot \nabla_{\theta}\log p(X\mid \theta^{i}) \quad  \text{ - differentiate by }\theta^{i}  \\
 &M'(\theta^{i}) - I = p'(\theta^{i})\underbrace{ \nabla \log p(x\mid \theta^{i}) }_{ \approx 0, \;\text{when we close to local min. or plato} } + p(\theta^{i}) \nabla_{\theta}^{2}\log p(x\mid\theta^{i}) \\
-&\text{Assume we are there } \^ \\
+&\text{Assume we are there }  \\
 &M'(\theta^{i}) - I \approx P(\theta^{i}) \underbrace{ \nabla_{\theta}^{2}\log p(X\mid\theta) }_{ =S(\theta^{i}) \text{ - Hessian} } \\
 &P(\theta^{i}) = (I-M'(\theta^{i}))(-S(\theta^{i}))^{-1} \\
 &\text{If Eigenvalues of } M'(\theta') \text{ are close to 0}, \text{ then } \\
