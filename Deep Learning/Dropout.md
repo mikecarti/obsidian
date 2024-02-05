@@ -19,7 +19,7 @@ y = m \odot x \cdot  \frac{1}{1-p}
 $$
 Eval mode / Inference mode:
 $$
-y = x
+y = x 
 $$
 
 ## Related:
