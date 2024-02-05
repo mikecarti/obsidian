@@ -5,6 +5,7 @@
 ## In-Between Layer
 - [[RELU (Rectified Linear Unit)]]
 - [[Leaky RELU]]
+- [[Hyperbolic Functions]]
 
 ## Importance
 

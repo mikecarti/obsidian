@@ -21,8 +21,9 @@ $$
 с) 
 $$
 \begin{align}
-Cov(b_{t}, b_{t-k}) = Cov\Big(t^{2} + 6t + u_{t} - 4u_{t-1} - 4u_{t-2}; \quad  (t-k)^{2} + 6(t-k) + u_{(t-k)} - 4u_{t-k-1} - 4u_{t-k-2}\Big)= \\
-= 
+&Cov(b_{t}, b_{t-k}) = Cov\Big(t^{2} + 6t + u_{t} - 4u_{t-1} - 4u_{t-2}; \quad  (t-k)^{2} + 6(t-k) + u_{(t-k)} - 4u_{t-k-1} - 4u_{t-k-2}\Big)= \\
+&= Cov(u_{t} - 4u_{t-1}-4u_{t-2};\; u_{t-k} -4u_{t-k-1} - 4u_{t-k-2}) =  \\
+&= \cancelto{ 0 }{ Cov(u_{t}, u_{t-k}) } - \cancelto{ 0 }{ 4Cov(u_{t}, u_{t-k-1}) } - \dots +\cancelto{ 0 }{ 16Cov(u_{t-2}, u_{t-k-2}) } =  \\
+&= \text{By white noise def.} = 0
 \end{align}
-
 $$
