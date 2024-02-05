@@ -1,0 +1,3 @@
+- Use single observation to update weights 
+- Similar to [[Stochastic Gradient Descent]], but no reshuffle. 
+- Any size of sample is nice

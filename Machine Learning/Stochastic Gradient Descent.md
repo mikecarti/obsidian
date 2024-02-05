@@ -41,7 +41,7 @@ Notes:
 $$
 \nabla Q(w)\approx \frac{1}{t}\sum_{j=1}^{t}\nabla q_{ij}(w)
 $$
-2) SGD is good for [[on-line learning]]
+2) SGD is good for [[On-line learning]]
 When there is not enough storage to store the whole sample.
 When RAM can't comprehend such a large sample.
 ![[Pasted image 20230922122354.png]]
