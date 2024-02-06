@@ -1,7 +1,38 @@
 [[MachineLearningGraph.png]]
 https://habr.com/en/articles/787568/
 
-# Problem Statement
+# Basics
+## Models
+- [[Linear Regression]]
+- [[Logistic Regression]]
+- [[SVM (Support Vector Machine)]]
+- [[Decision Tree]]
+- [[Random Forest]]
+- [[Gradient Boosting]]
+- [[Gradient Descent]]
+- [[Neural Network]]
+- [[K Nearest Neighbors (KNN)]]
+- [[K-Means]], [[K-Means++]]  (Clusterization)
+- [[DBSCAN]]
+## Concepts
+- [[Regularization in ML]]
+- [[Bias-Variance Decomposition (BVD)]]
+- [[Metrics and Loss Functions]]
+- [[Hyperparameters]]
+- [[Over-fitting]]
+- [[Embeddings]]
+- [[Few Data (Small Datasets)]]
+
+![[Metrics and Loss Functions]]
+
+
+
+
+
+
+
+# About
+## Problem Statement
 Space of objects $\mathbf{X}$
 
 Space of targets $\mathbf{Y}$ 

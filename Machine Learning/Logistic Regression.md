@@ -120,7 +120,7 @@ $$
 \sum_{i=1}^{l}\left( -\left[ y_{i}=+1 \right] \log b(x_{i})-\left[ y_{i}=-1 \right] \log(1-b(x_{i})) \right) \to \min_{b}
 \end{align}
 $$
-That is [[Cross Entropy Loss (Log Loss)]]. And for it that claim is correct. 
+That is [[Cross Entropy Loss (Log Loss, Log-Likelihood Loss,Критерий информативности)]]. And for it that claim is correct. 
 In our case $b(x)=\sigma(\left< w,x \right>)$.
 
 
