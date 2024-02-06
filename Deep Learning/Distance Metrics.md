@@ -1,3 +1,6 @@
+![[Pasted image 20240206230642.png]]
+
+Щ
 ### Cosine Similarity
 ![[Pasted image 20230726132433.png | 500]]
 
