@@ -8,4 +8,4 @@ $$
 
 Modification on [[AdaGrad (Adaptive Gradient)]] with balancing coefficient $\alpha$ for exponential fade out (kind of similar to [[Gradient Descent with Momentum]]).
 
-
+RMSProp uses the second moment by with a decay rate to speed up from AdaGrad
