@@ -12,7 +12,7 @@ $$
 ## 1)  [[Linearity]]: the parameters we are estimating using the OLS method must be themselves linear.
 ## 2) Random: our data must have been randomly sampled from the population.
 ## 3) Non-[[Collinearity]]: the regressors being calculated aren’t perfectly correlated with each other.
-## 4) [[Exogeneity]]: the regressors aren’t correlated with the error term.
+## 4) [[Exogenous & Endogenous Variables]]: the regressors aren’t correlated with the error term.
 ## 5) Homoscedasticity: no matter what the values of our regressors might be, the error of the variance is constant.
 
 ## The Gauss-Markov Assumptions In Algebra
