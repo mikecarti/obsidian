@@ -22,8 +22,27 @@ $$
 $$
 \begin{align}
 &Cov(b_{t}, b_{t-k}) = Cov\Big(t^{2} + 6t + u_{t} - 4u_{t-1} - 4u_{t-2}; \quad  (t-k)^{2} + 6(t-k) + u_{(t-k)} - 4u_{t-k-1} - 4u_{t-k-2}\Big)= \\
-&= Cov(u_{t} - 4u_{t-1}-4u_{t-2};\; u_{t-k} -4u_{t-k-1} - 4u_{t-k-2}) =  \\
-&= \cancelto{ 0 }{ Cov(u_{t}, u_{t-k}) } - \cancelto{ 0 }{ 4Cov(u_{t}, u_{t-k-1}) } - \dots +\cancelto{ 0 }{ 16Cov(u_{t-2}, u_{t-k-2}) } =  \\
-&= \text{By white noise def.} = 0
+&1)\; k=0 \\
+& \quad Cov(b_{t},b_{t}) = 33\sigma^{2} \\
+&2)k=1 \\
+& \quad  Cov(b_{t},b_{t-1}) = Cov(t^{2} + 6t + u_{t} - 4u_{t-1} - 4u_{t-2};\; (t-1)^{2} + 6(t-1) + u_{(t-1)} - 4u_{t-2} - 4u_{t-3} )= \\
+&=Cov(-4u_{t-1}; \;u_{t-1}) + Cov(-4u_{t-2};\;4u_{t-2}) = -4\sigma -16\sigma =-20\sigma^{2}  \\
+&3) k =2 \\
+& \quad  Cov(b_{t}, b_{t-2}) = Cov(t^{2} + 6t + u_{t} - 4u_{t-1} - 4u_{t-2};\; (t-2)^{2} + 6(t-2) + u_{(t-2)} - 4u_{t-3} - 4u_{t-4} )= \\
+&=Cov(-4u_{t-2}; \; u_{t-2}) = -4\sigma^{2} \\
+&4) k \geq 3 \\
+& \quad Cov(b_{t, b_{t-k}}) = 0
+\end{align} 
+$$
+$$
+\begin{align}
+Corr(b_{t}, b_{t-k}) 
+=\begin{cases}
+1  & k=0 \\
+-\frac{20}{\sqrt{ 33 }}  & k=1 \\
+-\frac{4}{\sqrt{ 33 }} & k=2 \\ 
+0  & k\geq 3
+\end{cases}
 \end{align}
 $$
+
