@@ -1,6 +1,5 @@
 
 1. **Create Routers**: They allow you to group related routes together. You can create routers for different functional areas or resources within your [[API]].
-    
     ```python 
     app = FastAPI()
 	router = APIRouter()

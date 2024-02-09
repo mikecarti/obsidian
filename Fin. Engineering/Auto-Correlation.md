@@ -12,7 +12,7 @@ cov(\epsilon) = \Omega \neq \begin{bmatrix}
 \end{bmatrix} 
 $$
 Consequences: (of [[Heteroskedasticity]])
-$\hat{\beta}_{OLS}$ is not [[Efficiency|efficient]] but [[Unbiasedness|unbiased]] and [[Consistent Estimator|consistent]].
+$\hat{\beta}_{OLS}$ is not [[Efficient Estimator|efficient]] but [[Unbiasedness|unbiased]] and [[Consistent Estimator|consistent]].
 $\hat{V}_{OLS}(\hat{\beta}_{OLS})$ is not [[Consistent Estimator|consistent]]. 
 
 ## Sources:
