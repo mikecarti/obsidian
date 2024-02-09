@@ -88,14 +88,13 @@ d) Brah you kiddin? Im on latex how am gona drow dat xDDDD
 
 $$
 \begin{align}
-a_{t} = b_{t-1}  + u_{t}\\
-b_{t} = a_{t-1} +u_{t} \\ \\
-a_{t}  = a_{t-1} + 2u_{t} \\
-b_{t} = b_{t-1} + 2u_{t} \\ \\
-s_{t} = a_{t-1} + b_{t-1} + 2u_{t} =  b_{t-2} + b_{t-1} + 3u_{t} \\ \\
-
-E[a_{t}] = E[a_{t-1}] + 0 \\
-E[b_{t}] = E[b_{t-1}] + 0
+a_{t} = \cos t + u_{t} \\
+b_{t} = \sin t +  u_{t}  \\
+ \\
+s_{t} = \cos{t} + \sin{t} + 2u_{t} \\
+cov(s_{t}, s_{t+s})=  \\
+=Cov(\cos{t} + \sin{t} + 2u_{t}; \; \cos{(t+s}) + \sin{(t+s)} + 2u_{t+s})   \\
+= Cov(\cos t, \cos(t+s)) + Cov(\cos t, \sin(t+s))
 \end{align}
 $$
 
