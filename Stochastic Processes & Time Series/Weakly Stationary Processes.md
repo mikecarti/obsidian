@@ -1,7 +1,7 @@
 ## Definition
 1) $E[X]$ is constant
 2) $Var[X]$ is constant
-3) [[Auto-Covariance]] Stationarity
+3)  $cov(y_{t},y_{t+s}) = \delta(s)$- [[Auto-Covariance]] Stationarity
 
 ## Properties
 We can find:
