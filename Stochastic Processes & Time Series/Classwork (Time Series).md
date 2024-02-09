@@ -7,7 +7,7 @@ $$
 3) $Cov(y_{t},y_{t+s})$ - ?
 $s = 0$         $\gamma(0)\equiv var(y_{t})$
 $s = 1$         $\gamma(1) \equiv cov(y_{t},y_{t+1}) = \beta_{1}\sigma^{2}$
-$\gamma_{i}$ - [[Auto-Correlation Function]]
+$\gamma_{i}$ - [[Auto-Correlation Function (ACF)]]
 
 $\to$ MA1 is stationary
 

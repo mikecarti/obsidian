@@ -79,3 +79,23 @@ Cov(y_{t};y_{t-k}) = \begin{cases}
 \lim_{ n \to \infty } \sum_{i=k-1}^{n} 0.7^{(2i+1 )} 
 \end{align}
 $$
+c) E is constant, Var is constant, Cov($y_{t}, y_{t-k})$ does not depend on t, only on k. => It is weakly stationary.
+d) Brah you kiddin? Im on latex how am gona drow dat xDDDD
+
+
+![[Pasted image 20240209162331.png]]
+![[Weakly Stationary Processes#Definition]]
+
+$$
+\begin{align}
+a_{t} = b_{t-1}  + u_{t}\\
+b_{t} = a_{t-1} +u_{t} \\ \\
+a_{t}  = a_{t-1} + 2u_{t} \\
+b_{t} = b_{t-1} + 2u_{t} \\ \\
+s_{t} = a_{t-1} + b_{t-1} + 2u_{t} =  b_{t-2} + b_{t-1} + 3u_{t} \\ \\
+
+E[a_{t}] = E[a_{t-1}] + 0 \\
+E[b_{t}] = E[b_{t-1}] + 0
+\end{align}
+$$
+

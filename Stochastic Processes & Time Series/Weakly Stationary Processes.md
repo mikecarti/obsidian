@@ -1,6 +1,6 @@
 ## Definition
-1) $E[X]$ is constant
-2) $Var[X]$ is constant
+1) $E[y_{t}]$ is constant
+2) $Var[y_{t}]$ is constant
 3)  $cov(y_{t},y_{t+s}) = \delta(s)$- [[Auto-Covariance]] Stationarity
 
 ## Properties
