@@ -1,6 +1,8 @@
 # Motivation
 [[Mixture Model]] has too complex functions for gradient descent, but maybe the idea of several distributions belongs to other class of problems.
 
+![[Pasted image 20240209113832.png]]
+
 # Applications
 ![[Mixture Model#Another way for PDF]]
 
@@ -118,3 +120,5 @@ E-step:
 ![[Pasted image 20240202115331.png]]
 
 
+# Modifications of EM-algorithm
+- Stochastic EM Algorithm 
