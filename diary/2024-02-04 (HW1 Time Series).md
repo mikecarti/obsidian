@@ -94,7 +94,96 @@ b_{t} = \sin t +  u_{t}  \\
 s_{t} = \cos{t} + \sin{t} + 2u_{t} \\
 cov(s_{t}, s_{t+s})=  \\
 =Cov(\cos{t} + \sin{t} + 2u_{t}; \; \cos{(t+s}) + \sin{(t+s)} + 2u_{t+s})   \\
-= Cov(\cos t, \cos(t+s)) + Cov(\cos t, \sin(t+s))
+\text{As sum of periodic functions is not periodic, thus cov is dependent on t}
 \end{align}
 $$
 
+
+![[Pasted image 20240209211543.png]]
+
+$$
+\begin{align}
+Cov(y_{1},y_{2}) = 0 \implies Corr(y_{1},y_{2}) = 0
+\end{align}
+$$
+$$
+\begin{align}
+pCorr(y_{1},y_{2};y_{3}) 
+\end{align}
+$$
+![[(PACF) Partially Correlated Function]]
+
+$y_{1}^{*}= y_{1} - \alpha y_{3}$       s.t. $Cov(y_{1}^{*}, y_{3})=0$
+$$
+\begin{align}
+Cov(y_{1}^{}-\alpha y_{3}, y_{3}) =0 \\
+Cov(y_{1}, y_{3}) - \alpha Cov(y_{3},y_{3}) =0 \\
+\alpha = \frac{Cov(y_{1},y_{3})}{Var(y_{3})} = -\frac{1}{4} \\
+y_{1}^{*} = y_{1} +\frac{1}{4}y_{3} \\
+  \\
+Cov(y_{2}^{}-\alpha y_{3}, y_{3}) =0 \\
+Cov(y_{2}, y_{3}) - \alpha Cov(y_{3},y_{3}) =0 \\
+\alpha = \frac{Cov(y_{2},y_{3})}{Var(y_{3})} = \frac{1}{4} \\
+y_{2}^{*} = y_{2} -\frac{1}{4}y_{3} \\
+\end{align}
+$$
+$$
+\begin{align}
+Corr\left( y_{1}+\frac{1}{4}y_{3};\;y_{2}-\frac{1}{4}y_{3} \right) = \\
+= \frac{{Cov\left( y_{1}+\frac{1}{4}y_{3} ; \; y_{2}-\frac{1}{4}y_{3}\right)}}{\sqrt{ Var\left(  y_{1}+\frac{1}{4}y_{3}  \right) }\sqrt{ Var\left(  y_{2}-\frac{1}{4}y_{3} \right)  }} \\
+ Var\left(  y_{1}+\frac{1}{4}y_{3}  \right) = Var(y_{1}) + Var\left( \frac{1}{4}y_{3} \right) + 2Cov\left( y_{1}, \frac{1}{4}y_{3} \right)  \\
+ Var\left(  y_{1}+\frac{1}{4}y_{3}  \right) = Var(y_{1}) + \frac{1}{16}Var\left( y_{3} \right) + \frac{1}{2}Cov\left( y_{1}, y_{3} \right) =  \\
+= 16 + \frac{1}{4} -\frac{1}{2} =15.75 \\ \\
+ Var\left(  y_{2}-\frac{1}{4}y_{3} \right) =Var(y_{2}) + \frac{1}{16}Var\left( y_{3} \right) - \frac{1}{8}Cov\left( y_{2}, y_{3} \right)=   \\
+=4 + \frac{1}{4} -\frac{1}{8} = 4.125 \\ \\
+\end{align}
+$$
+$$
+\begin{align}
+&Cov\left( y_{1}+\frac{1}{4}y_{3};\;y_{2}-\frac{1}{4}y_{3} \right) = \frac{1}{8} Cov(4y_{1} + y_{3}; \; 4y_{2} -y_{3})= \\
+&= \frac{1}{8}(Cov(4y_{1},4y_{2}) + Cov(4y_{1}, -y_{3}) + Cov(y_{3}, 4y_{2})+ Cov(y_{3}, -y_{3})) = \\
+&=\frac{1}{8}\left( 0 + 4 + 4 -4 \right) = \frac{1}{2}  \\
+&pCorr = Corr\left( y_{1}+\frac{1}{4}y_{3};\;y_{2}-\frac{1}{4}y_{3} \right) \approx \frac{1}{2} / \left( 2,03  \cdot  3,96\right) \approx 0.622
+\end{align}
+$$
+
+![[Pasted image 20240209225002.png]]
+
+$$
+\begin{align}
+y_{t} = 5+u_{t}+u_{t-1}+u_{t-2}
+\end{align}
+$$
+a)
+$$
+\begin{align}
+&E(y_{t}) = 5+ 0 + 0 + 0= 5 \\
+&Var(y_{t}) = Var(5+u_{t}+u_{t-1}+u_{t-2}) = 3\sigma^{2} \\
+&Cov(y_{t}, y_{t+0}) = \sigma^{2} \\
+&Cov(y_{t}, y_{t-1}) = Cov(5+u_{t}+u_{t-1}+u_{t-2};\; 5+u_{t-1}+u_{t-2}+u_{t-3})= \\
+&=2\sigma^{2} \\
+&Cov(y_{t}, y_{t-2}) = \sigma^{2} \\
+&k \geq 3 \quad Cov(y_{t}, y_{t-k}) = 0 \\
+\implies &\text{Weakly Stationary} \\
+&\gamma(s) = \begin{cases}
+\sigma^{2} & s=0 \\
+2\sigma^{2} & s=1 \\
+\sigma^{2} & s = 2 \\
+0 & s \geq 3
+\end{cases}
+\end{align}
+$$
+
+b) ![[Auto-Correlation Function (ACF)]]
+$$
+\begin{align}
+\rho(s) = \begin{cases}
+1 & s = 0 \\
+2 & s = 1 \\
+1 & s = 2  \\
+0 & s \geq 3
+\end{cases}
+\end{align}
+$$
+
+c)

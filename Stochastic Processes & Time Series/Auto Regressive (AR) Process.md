@@ -1,3 +1,3 @@
 A [[Stationarity|stationary]] process which is [[Auto-Regression|Auto-Regressive]]. 
 
-[[(PACF) Partially Correlated Functions]] are cutting off.
+[[(PACF) Partially Correlated Function]] are cutting off.
