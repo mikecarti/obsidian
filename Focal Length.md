@@ -2,3 +2,6 @@ Focal length is a distance between "nodal point" (that is where light converges 
 
 
 ![[Pasted image 20240104163505.png]]
+
+Related:
+[[Camera Properties]]
