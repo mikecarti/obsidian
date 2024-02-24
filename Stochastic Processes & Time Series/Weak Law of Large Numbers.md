@@ -37,3 +37,6 @@ Var\left( \frac{1}{n}\sum_{i=1}^{n}x_{i} \right) &= \frac{1}{n^{2}}Var(X_{1}+\do
 \lim_{ n \to \infty } \mathbb{P}(|\bar{X}_{n}-\mu|>\epsilon) &\leq 0
 \end{align}
 $$
+
+## Related:
+[[Classic Law of Large Numbers]]
