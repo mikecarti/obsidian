@@ -1,11 +1,12 @@
 # Order of execution
-1) FROM
+1) FROM, JOIN
 2) WHERE
-3) SELECT
-4) GROUP BY
-5) HAVING
-6) ORDER BY
-7) LIMIT
+3) GROUP BY
+4) HAVING
+5) SELECT
+7) DISTINCT
+8) ORDER BY
+9) LIMIT
 
 # Order of writing
 ```SQL
