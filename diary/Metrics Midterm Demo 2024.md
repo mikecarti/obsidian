@@ -22,7 +22,8 @@ excluded (собираем переменные которых нет в это�
 Satisfied, then have to check the rank condition
 
 Rank condition:
-1: $$
+1: 
+$$
 \begin{align}
 \begin{matrix}
 i_{t} & r_{t} & g_{t} \\
@@ -67,8 +68,8 @@ $$
 &\mathcal{L} = \prod_{i=1}^{50} \frac{1}{\sqrt{ 2\pi }\sqrt{ \sigma_{s}^{2} }} e^{-1/2  \cdot  y_{i}^{2}/\sigma_{s}^{2}}  \cdot  \prod_{i=51}^{100} \frac{1}{\sqrt{ 2\pi }\sqrt{ \sigma_{w}^{2} }}e^{-1/2  \cdot  y_{i}^{2}/\sigma^{2}_{w}} \\
 &\ln \mathcal{L} = \sum_{i=1}^{50} \left( -\frac{1}{2}\ln_{2}\pi  -\frac{1}{2} \ln\sigma^{2}_{s} -\frac{\frac{1}{2}y_{i}^{2}}{\sigma^{2}_{s}}\right) + \sum_{i=51}^{100} \left( -\frac{1}{2} \ln 2\pi - \frac{1}{2}\ln \sigma_{w}^{2} - \frac{\frac{1}{2}y_{i}^{2}}{\sigma_{w}^{2}} \right) \to \max_{\sigma_{s}^{2}; \sigma^{2}_{w}}  \\
 &\frac{ \partial \ln \mathcal{L} }{ \partial \sigma^{2}_{s} } = -\frac{n}{2}  \cdot \frac{1}{\sigma^{2}_{s}} + \frac{1}{2}\sum_{i=1}^{50} \frac{y_{i}^{2}}{\sigma_{s}^{2^{2}}} =0  \\
-&\frac{ \partial \ln \mathcal{L} }{ \partial \sigma^{2}_{w} } = -\frac{n}{2}  \cdot \frac{1}{\sigma^{2}_{w}} + \frac{1}{2}\sum_{i=51}^{100} \frac{y_{i}^{2}}{\sigma_{w}^{2^{2}}} =0  \\  \\
-&\frac{ \partial^{2} \ln \mathcal{L} }{ (\partial \sigma_{s}^{2})^{2} }  = \frac{n}{2}  \cdot  \frac{1}{(\sigma_{s}^{2})^{2}} - \sum_{i=1}^{50} \frac{y_{i}^{2}}{(\sigma_{s}^{2})^{3}} \\
+&\frac{ \partial \ln \mathcal{L} }{ \partial \sigma^{2}_{w} } = -\frac{n}{2}  \cdot \frac{1}{\sigma^{2}_{w}} + \frac{1}{2}\sum_{i=51}^{100} \frac{y_{i}^{2}}{\sigma_{w}^{2^{2}}} =0  \\ \\
+&\frac{ \partial^{2} \ln \mathcal{L} }{ (\partial \sigma_{s}^{2})^{2} }  = \frac{n}{2}  \cdot  \frac{1}{(\sigma_{s}^{2})^{2}} - \sum_{i=1}^{50} \frac{y_{i}^{2}}{(\sigma_{s}^{2})^{3}}\\
 &\frac{ \partial^{2} \ln \mathcal{L} }{ \partial \sigma_{s}^{2}\sigma_{w}^{2} } = 0 = \frac{\partial \ln \mathcal{L} }{\partial \sigma_{s}^{2} \partial \sigma_{w}^{2}}  \\ \\
 
 &\text{Finally found point of constraints} \\
@@ -110,6 +111,10 @@ k_{1}  & 0 \\
 \end{align}
 $$
 $\hat{I}$ - [[Fischer Matrix of Information]]
+$$
+LM \sim \chi^{2}_{j} \quad  j - \text{degree of freedom}
+$$
+
 
 N3 
 ![[Pasted image 20240229154729.png]]
