@@ -1,0 +1,29 @@
+# Introduction
+...
+
+# Getting familiar with data
+- Order ID - ...
+- Order Date - ...
+- Ship Date - ...
+- Ship Mode - (First Class, Same Day, Second Class, Standard Class)
+- Customer ID - ...
+- Customer Name - ...
+- Segment - (Consumer, Corporate, Home Office). Home office - ministerial department of the Government. So we can also think about those as Consumer Segment, Business Segment and Government Segment.
+- City - Supposedly the city where the delivery is coming
+- State - The state where delivery is coming
+- Country - The country where delivery is coming
+- Postal Code - The Postal Code where delivery is coming
+- Market - Global region (Africa, APAC, Canada, EMEA, EU, LATAM, US)
+- Region - More local region than Market (for example North Asia, Oceania)
+- Product ID - ...
+- Category - (Furniture, Office Supplies, Technology)
+- Sub-Category - includes 17 sub-categories of sold products. Examples: Art, Phones, Storage, Bookcases...
+- Product Name - ...
+- Sales - Cost of an order
+- Quantity - Quantity of a product bought within an order
+- Discount - Discounts (0, 0.85)
+- Profit - Profit made from an order  (-6 599,978 to 8 399,976)
+- Shipping Cost - cost of the delivery (0,002 to 933,57)
+- Order Priority - (Low, Medium, High, Critical)
+
+![[Pasted image 20240229135404.png]]
