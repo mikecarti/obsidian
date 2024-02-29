@@ -15,10 +15,11 @@ Exogenous: $r_{t}; g_{t}; c_{t-1}$
 Order condition:
 M - number of equations
 
-excluded (собираем уравнения которых нет в этом уравнении, *omitted*)
+excluded (собираем переменные которых нет в этом уравнении, *omitted variables*)
 1: $i_{t};r_{t}; g_{t}$ > (M-1) = 2  - works
 2: $c_{t}; c_{t-1}; g_{t}$ > (M-1) = 2 - works
-3: all coefficients are known for 3rd equation, so we don't need to check
+3: all coefficients are known for 3rd equation (1, 1, 1), so we don't need to check
+Satisfied, then have to check the rank condition
 
 Rank condition:
 1: $$
@@ -39,6 +40,7 @@ c_{t} & c_{t-1} & g_{t} \\
 \end{matrix} \quad  rank=2 = M-1
 \end{align}
 $$
+Satisfied => It is possible to estimate the coefficients
 
 b) use [[2 Step Least Squares (2SLS)]] 
 
@@ -91,8 +93,9 @@ $$
 $$
 \begin{align}
  &\text{substitute values in our 2nd derivatives for point } \sigma^{2} = 6  \\
-&\text{and evaluate expected value we get points (we did not count them completely):} \\
-&\left\{ k_{1},k_{2},k_{3}  \right\} \\
+&\text{and evaluate expected value we get points (we did not count them fully):} \\
+&\left\{ k_{1},k_{2},k_{3}  \right\} \\ \\
+
 &\hat{I} = \begin{bmatrix}
 k_{1}  & 0 \\
 0  & k_{3}
@@ -103,7 +106,7 @@ k_{1}  & 0 \\
 \end{bmatrix} \begin{bmatrix}
 -\frac{200}{72} \\
 \frac{200}{72}
-\end{bmatrix}
+\end{bmatrix} \text{ - is our test statistic}
 \end{align}
 $$
 $\hat{I}$ - [[Fischer Matrix of Information]]
