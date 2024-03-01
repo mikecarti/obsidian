@@ -1,5 +1,5 @@
 # Motivation
-[[Mixture Model]] has too complex functions for gradient descent, but maybe the idea of several distributions belongs to other class of problems.
+[[Mixture Model]] has too complex functions for gradient descent, but maybe the idea of several distributions belongs to other class of problems. 
 
 ![[Pasted image 20240209113832.png]]
 
@@ -122,3 +122,7 @@ E-step:
 
 # Modifications of EM-algorithm
 - Stochastic EM Algorithm 
+
+
+## Related:
+EM-algorithm is modification of [[K-Means]]

@@ -8,7 +8,7 @@ from training class <-$a(x)$-> something new
 -  [[Non-Parametric Anomaly Detection]]
 - [[One-Class SVM (Anomaly)]]
 - [[Metric Methods]]
-- [[Random Projections#Isolation Forest (IF)]]
+- [[Random Projections (Isolation Forest)#Isolation Forest (IF)]]
 
 # Measure quality of anomaly detection
 ## Проверка на вшивость
