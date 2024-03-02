@@ -1,8 +1,9 @@
 ## Definition
 $$
-H(X):= -\sum_{x \, \in \,X} p(x) \cdot \log p(x) = -E\left[ \log p(x) \right] 
+H(X):= -\sum_{x \, \in \,X} p(x) \log q(x) = -E\left[ \log q(x) \right] 
 $$
-$p(x)$ - predicted value
+$p(x)$ - true distribution
+$q(x)$ - predicted distribution
 
 ### Binary Classification
 $$
