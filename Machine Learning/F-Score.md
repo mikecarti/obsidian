@@ -1,4 +1,5 @@
 ## F1 Score
+[[Precision and Recall]]
 $$
 F = \frac{{2 \cdot precision \cdot recall}}{precision+recall}
 $$
