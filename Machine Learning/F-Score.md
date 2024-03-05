@@ -10,3 +10,4 @@ $$
 F_{\beta} = \frac{{(1+\beta^{2}) (precision \cdot recall)}}{\beta^{2} \cdot precision+recall}
 $$
 ![[Pasted image 20231013120134.png]]
+
