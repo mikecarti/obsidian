@@ -1,3 +1,3 @@
 - [[Diffusion Model]]
 - [[Generative Adversarial Network (GAN)]]
-- [[Autoregressive Models]]
+- [[Auto-Regression]]

@@ -1,1 +1,0 @@
-Prints image pixel by pixel, coming to an image that you need

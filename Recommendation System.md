@@ -11,7 +11,7 @@
 - Competitive Advantage
 - Optimization of product range
 
-# Types of RecSys
+# Types of Rec-Sys
 ## Personality Level
 - Non personal (Common items for all)
 - Hybrid (recommendations for user groups)
