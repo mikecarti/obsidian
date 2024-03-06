@@ -4,6 +4,8 @@ Does not have anything common with [[Variance]].
 $X$ - random variable. 
 $\sigma(x) =$ the list of all events that can be stated in terms of $X$
 
+Cигма алгебра это совокупность всех исходов присущая определенному множеству.
+
 ## Definition for a sigma algebra gen. by $X$
 The *smallest* list that satisfies:
 1) $\forall t \in \mathbb{R}$    $\{ X \leq t \} \in \sigma(X)$  (we can compare $X$ with any real. num)
