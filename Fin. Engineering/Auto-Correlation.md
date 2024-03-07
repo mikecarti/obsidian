@@ -16,7 +16,7 @@ $\hat{\beta}_{OLS}$ is not [[Efficient Estimator|efficient]] but [[Unbiasedness|
 $\hat{V}_{OLS}(\hat{\beta}_{OLS})$ is not [[Consistent Estimator|consistent]]. 
 
 ## Sources:
-1) Time (can not be for a problem for [[Cross-Sectional Data]]. Only for [[Time Series]] data.)
+1) Time (can not be for a problem for [[Cross-Sectional Data]]. Only for [[Time Series Data]] data.)
 2) Spatial auto-correlation         
 
 ## Solutions

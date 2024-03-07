@@ -1,4 +1,5 @@
-Time series are tensors that have dimension of time.
+Observation on n variables ($n\geq 1$) over time. 
+(Time series are tensors that have dimension of time.)
 
 ## [[Auto-Regression]] Errors
 $$
@@ -12,3 +13,8 @@ $$
 &corr(\epsilon_{t};\epsilon_{t-1}) = \rho_{1}
 \end{align}
 $$
+
+# Related:
+[[Cross-Sectional Data]]
+[[Pooled Cross Sections]]
+[[Panel Data (Longitudinal)]]
