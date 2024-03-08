@@ -15,3 +15,4 @@
 
 
 Read until Chapter 16 (without 13, 14)
+1 chapter a day = finish on 21 march
