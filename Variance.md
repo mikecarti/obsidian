@@ -14,3 +14,9 @@ $$
 &Var(−Y)=Var(Y)
 \end{align}
 $$
+
+## Connection to [[Ordinary Least Squares (OLS)| TSS]]
+$$
+\sigma^{2}(Y) = \frac{TSS}{n-1} = \frac{\sum\limits_{i=1}^{n}(y_{i}- \bar{y}_{i})^{2}}{n-1}
+$$
+Is the sample Variance.

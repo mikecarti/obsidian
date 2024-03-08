@@ -1,0 +1,1 @@
+Showing an increase by a constant *percentage* for each added 1 to independent variable.

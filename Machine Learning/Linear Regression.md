@@ -64,12 +64,32 @@ $z$ - prediction
 
 $Q(a,X) = \frac{1}{l}\\sum_{i=1}^{l}L(y_{i}, a(x_{i}))$
 
+# Unobserved variables (Disturbance / Error term)
+In econometric sense, linear regression model can be viewed as:
+$$
+y = \beta_{0} + \beta_{1}x_{1} + \dots + \beta _{n}x_{n} + u
+$$
+Where $u$ is the disturbance term. 
+## Main Assumption of Disturbance
+$$
+E(u\mid x) = E(u \mid x_{1}, \dots, x_{n}) = E(u)
+$$
+That assumption implies: observed variables are independent of unobserved. 
+
+## Zero Mean Assumption of Disturbance
+$$
+E(u) = 0
+$$
+
+
+
 Related:
 1) [[Metrics and Loss Functions]]
 2) [[Multicollinearity]]
 3) [[Expected Probability Error (EPE)]]
 4) [[Ordinary Least Squares (OLS)]]
 5) [[Feature Discretization]]
+6) [[Simple Linear Regression]]
 
 
 
