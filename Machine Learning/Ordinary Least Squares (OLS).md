@@ -6,7 +6,7 @@ $$
 $$
 *Note*: Residuals are not errors. Errors are R.V. Residuals are just numbers. Do not confuse them. 
 
-# Total sum of squares
+# Total sum of squares (TSS)
 $$
 TSS = RSS + ESS
 $$
