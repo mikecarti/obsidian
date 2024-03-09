@@ -5,7 +5,7 @@ where $u_{i}, u_{j}$ are errors on objects $X_{i}, \;X_{j}$
 
 
 ## Related:
-[[Homoskedasticity]]
+[[Homoscedasticity]]
 
 
 ## More info

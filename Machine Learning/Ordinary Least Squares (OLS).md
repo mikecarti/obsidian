@@ -31,6 +31,23 @@ $\hat{u}_{i} = y_{i} - \hat{y}_{i}$
 if $\hat{u}_{i}$ > 0, model under-predicts
 if $\hat{u}_{i} <0$  model over-predicts
 
+## Assumptions of OLS 
+### Conditional Mean
+$$
+E(u\mid x) = 0
+$$
+
+### [[Homoscedasticity]]
+$$
+Var(u\mid x) = \sigma^{2}
+$$
+
+## Properties of OLS Estimators
+### Unbiasedness
+$$
+E(\hat{\beta}_{i}) = \beta_{i}
+$$
+
 
 # Related:
 [[R^2]]
