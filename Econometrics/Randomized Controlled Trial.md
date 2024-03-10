@@ -1,0 +1,1 @@
+Heavily uses random assignment (in which people get assigned to treatment and control groups purely by chance)
