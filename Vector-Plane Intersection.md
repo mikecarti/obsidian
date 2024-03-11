@@ -8,7 +8,7 @@ $$
 $$
 Where $\times$ is [[Cross Product]].
 
-Then distance from vector to plane is:
+Then distance from [[Origin (Coordinate Systems)]] to plane is:
 $$
 D = \nu  \cdot a_{1}
 $$
