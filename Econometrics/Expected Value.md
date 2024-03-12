@@ -8,7 +8,7 @@ $$
 \begin{align}
 &\mathbf{E}[aX] = a\mathbf{E}[X] \\
 &\mathbf{E}[X+Y] = \mathbf{E}[X] + \mathbf{E}[Y] \\
-&\mathbf{E}[XY] = \mathbf{E}[X]\mathbf{E}[Y] \quad \text{for independent } X, Y
+&\mathbf{E}[XY] = \mathbf{E}[X]\mathbf{E}[Y] \quad \text{for independent } X, Y \\
 \end{align}
 $$
 

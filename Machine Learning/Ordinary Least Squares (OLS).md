@@ -51,3 +51,5 @@ $$
 
 # Related:
 [[R^2]]
+[[Linear Regression]]
+[[Simple Linear Regression]]
