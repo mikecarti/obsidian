@@ -50,12 +50,4 @@ $$
 (3) As families start having more income, the possibility to save more increases, but not all families wish to save same cash sum, some want to spend lots, therefore variance rises
 
 ## №8
-$$
-\begin{align}
-y = \beta_{0} + \beta_{1}x + u \\ \\
-E(\hat{\beta}_{1}) = E\left( \frac{y}{x} \right) = E\left( \frac{{\sum\limits_{i=1}^{n}x_{i}y_{i}}}{\sum\limits_{i=1}^{n}x_{i}^{2}} \right)  \\
-\hat{\beta_{0}} = \bar{y} - \hat{\beta}_{1}\bar{x} \implies \beta_{1} = \frac{\bar{y} - \beta_{0}}{\bar{x}} \\
-E(\hat{\beta}_{1}) = E\left(  \frac{\bar{y} - \hat{\beta}_{0}}{\bar{x}}  \right) = E\left( \frac{\bar{y}}{\bar{x}} \right) - E\left( \frac{\hat{\beta}}{\bar{x}} \right) =  \\
-E\left( \frac{\bar{y}}{\bar{x}} \right) - \beta_{0} E\left( \frac{1}{\bar{x}} \right)
-\end{align}
-$$
+(1)
