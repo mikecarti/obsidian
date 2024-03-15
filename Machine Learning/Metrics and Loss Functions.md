@@ -37,3 +37,6 @@
 - [[Intercluster Distance (Внутрикластерное)]] 
 - [[Между-Кластерное (Between-Cluster) Distance]]
 - [[Dunn Index]]
+### [[Extrinsic Clustering Metrics]]
+
+
