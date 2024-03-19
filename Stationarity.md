@@ -1,4 +1,4 @@
-## Definition
+## Definition (Weak Stationarity)
 1) $E(y_{t}) = \mu$
 2) $Var(y_{t})=\sigma^{2}$
 3) $cov(y_{t}, y_{t+s})= \gamma(s)$
