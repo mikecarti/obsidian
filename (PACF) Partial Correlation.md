@@ -1,3 +1,5 @@
+Partial Corelation lets us fix some variables (giving us a correlation ceteris parabus)
+
 # Definition
 $$
 pCorr(X,Y;Z) = Corr(X^{*}, Y^{*})

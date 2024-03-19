@@ -5,6 +5,8 @@ $$
 
 ## Delta Increase
 Showing an increase by a constant *percentage* for each added 1 to independent variable.
+![[Pasted image 20240312154106.png]]
+
 
 ## Change of Units
 when change of units occurs, nothing happens to the slope. But the intercept shifts

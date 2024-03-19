@@ -111,7 +111,7 @@ $$
 pCorr(y_{1},y_{2};y_{3}) 
 \end{align}
 $$
-![[(PACF) Partially Correlated Function]]
+![[(PACF) Partial Correlation]]
 
 $y_{1}^{*}= y_{1} - \alpha y_{3}$       s.t. $Cov(y_{1}^{*}, y_{3})=0$
 $$
