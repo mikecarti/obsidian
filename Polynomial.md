@@ -1,0 +1,3 @@
+
+# Related
+[[Coprime Polynomial]]
