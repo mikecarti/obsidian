@@ -1,4 +1,7 @@
 
+Applicative prediction and Business Modeling![[Pasted image 20240321185312.png]]
+
+
 
 ## Data Science in Business
 ![[Pasted image 20240113133335.png]]
