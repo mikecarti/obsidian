@@ -1,3 +1,8 @@
+# In statistics
+![[Auto-Correlation Function (ACF)]]
+
+
+# In econometrics
 $$
 \exists i,j: \quad Cov(\epsilon_{i}, \epsilon_{j}) \neq 0
 $$
