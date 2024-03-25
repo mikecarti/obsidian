@@ -1,0 +1,1 @@
+**If someone is really concerned about less memory consumption and fast processing, they should consider using a GRU**. This is because a GRU can process data by consuming less memory and more quickly, and having less complex architecture is also a considerable point in the computation.
