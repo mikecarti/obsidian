@@ -1,3 +1,7 @@
+![[Pasted image 20240325164010.png]]
+
+
+
 ![[Pasted image 20231116131844.png]]
 
 $$
@@ -39,11 +43,15 @@ Where $y_{i}$ is the ground truth.
 ## Backprop
 ![[Pasted image 20231116134919.png]]
 
-## The BIG Problem of RNN
+## The BIG Problems of RNN
+### 1) 
 ![[Pasted image 20231130102754.png]]
 
 So [[Attention Mechanism]] may be the key to resolving this.
 ### As long ago weights are being lost, our weights and inference on long sequences is worse
+
+### 2) 
+[[Vanishing & Exploding Gradients]]
 
 Solution to this:
 [[LSTM (Long Short-Term Memory)]]

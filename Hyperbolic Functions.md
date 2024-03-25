@@ -15,3 +15,12 @@ $$
 $$
 
 ![[Pasted image 20231208022716.png|400x400]]
+
+### tanh
+$$
+\tanh(x) = \frac{{e^{x} - e^{-x}}}{e^{x}+ e^{-x}}
+$$
+![[Pasted image 20240325165538.png]]
+
+
+

@@ -1,3 +1,9 @@
+$$
+\sigma: \mathbb{R} \to \mathbb{I}
+$$
+Where $\mathbb{I}$ is the [[Unit Interval]] $\, \in \, [0,1]$
+
+
 ![[Pasted image 20230929173720.png]]
 
 $$
@@ -20,3 +26,5 @@ z_{i+1} &= y(u_{i}) \\
 $$
 
 
+## Related:
+[[Hyperbolic Tangent (tanh)]]

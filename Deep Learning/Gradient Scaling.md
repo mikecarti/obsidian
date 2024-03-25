@@ -3,7 +3,7 @@
 ## Why is it needed
 Common error in any [[Deep Learning]] model is that gradients are too small to be taken into account. ```float16``` tensors often ignore extremely small variations. 
 
-To prevent this, gradients are scaled by some factor to not be flushed to zero. Do not confuse with [[Vanishing Gradients]].
+To prevent this, gradients are scaled by some factor to not be flushed to zero. Do not confuse with [[Vanishing & Exploding Gradients]].
 
 
 ## Example

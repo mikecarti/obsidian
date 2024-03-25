@@ -1,1 +1,0 @@
-When our gradients become too small because weights are too small.
