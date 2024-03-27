@@ -25,3 +25,8 @@ $$
 y_{t} = \gamma_{k_{1}} \cdot y_{t-1} + \gamma _{k_{2}}y_{t-2} + \dots + \gamma_{kk}y_{t-k} + \zeta_{t}
 $$
 with $\zeta_{t}$ uncorrelated with $y_{t-1}, y_{t-2},\dots,y_{t-k}$
+
+# Auto-Correlation
+$$
+ \phi(s) = pcorr(y_{t}, y_{t-s};y_{t-s}, y_{t-2},  \dots,y_{t-s+1})
+$$
